@@ -1,3 +1,10 @@
+# GeneratedAdblock
+## Auto-commit at $date_var
+### $fulllist Full-Domains Count
+### $conservative Conservative-Domains Count
+### $ipcount IP Count
+### $separate Separated-List Count
+### Lists Used for Separate List Sections
  
 adserver.1.list generated from https://adaway.org/hosts.txt
  
@@ -103,9 +110,3 @@ adserver.51.list generated from https://zerodot1.gitlab.io/CoinBlockerLists/host
  
 adserver.52.list generated from http://winhelp2002.mvps.org/hosts.txt
  
-# GeneratedAdblock
-## Auto-commit at Fri 13 Mar 2020 02:00:03 PM EDT
-### 910112 Full-Domains Count
-### 493982 Conservative-Domains Count
-### 31562 IP Count
-### 1142378 Separated-List Count 
