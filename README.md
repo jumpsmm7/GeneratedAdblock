@@ -104,8 +104,8 @@ adserver.51.list generated from https://zerodot1.gitlab.io/CoinBlockerLists/host
 adserver.52.list generated from http://winhelp2002.mvps.org/hosts.txt
  
 # GeneratedAdblock
-## Auto-commit at Fri 13 Mar 2020 12:12:45 PM EDT
-### 909916 Full-Domains Count
-### 493852 Conservative-Domains Count
+## Auto-commit at Fri 13 Mar 2020 12:52:48 PM EDT
+### 909918 Full-Domains Count
+### 493854 Conservative-Domains Count
 ### 31562 IP Count
-### 1129159 Separated-List Count 
+### 1142201 Separated-List Count 
