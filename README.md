@@ -1,9 +1,9 @@
 # GeneratedAdblock
-## Auto-commit at Sun 15 Mar 2020 02:44:49 AM EDT
-### 911438 Full-Domains Count
-### 494919 Conservative-Domains Count
+## Auto-commit at Sun 15 Mar 2020 03:05:12 AM EDT
+### 911432 Full-Domains Count
+### 495072 Conservative-Domains Count
 ### 31736 IP Count
-### 1114406 Separated-List Count
+### 1111705 Separated-List Count
 ### Lists Used for Separate List Sections
  
 1.list generated from https://adaway.org/hosts.txt
@@ -92,21 +92,19 @@
  
 43.list generated from https://v.firebog.net/hosts/Prigent-Ads.txt
  
-44.list generated from https://v.firebog.net/hosts/Prigent-Malware.txt
+44.list generated from https://v.firebog.net/hosts/Prigent-Phishing.txt
  
-45.list generated from https://v.firebog.net/hosts/Prigent-Phishing.txt
+45.list generated from https://v.firebog.net/hosts/Shalla-mal.txt
  
-46.list generated from https://v.firebog.net/hosts/Shalla-mal.txt
+46.list generated from https://v.firebog.net/hosts/static/w3kbl.txt
  
-47.list generated from https://v.firebog.net/hosts/static/w3kbl.txt
+47.list generated from https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
  
-48.list generated from https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+48.list generated from https://www.malwaredomainlist.com/hostslist/hosts.txt
  
-49.list generated from https://www.malwaredomainlist.com/hostslist/hosts.txt
+49.list generated from http://sysctl.org/cameleon/hosts
  
-50.list generated from http://sysctl.org/cameleon/hosts
+50.list generated from https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
  
-51.list generated from https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
- 
-52.list generated from http://winhelp2002.mvps.org/hosts.txt
+51.list generated from http://winhelp2002.mvps.org/hosts.txt
  
