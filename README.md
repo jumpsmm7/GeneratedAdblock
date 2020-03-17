@@ -1,4 +1,10 @@
 # GeneratedAdblock
+## Auto-commit at Tue 17 Mar 2020 02:18:45 AM EDT
+### 912342 Full-Domains Count
+### 495658 Conservative-Domains Count
+### 31985 IP Count
+### 1083157 Separated-List Count
+# GeneratedAdblock
 ## Auto-commit at Tue 17 Mar 2020 01:44:20 AM EDT
 ### 912180 Full-Domains Count
 ### 495388 Conservative-Domains Count
