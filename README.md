@@ -1,21 +1,9 @@
 # GeneratedAdblock
-## Auto-commit at Tue 17 Mar 2020 02:52:59 AM EDT
-### 912343 Full-Domains Count
-### 495658 Conservative-Domains Count
+## Auto-commit at Tue 17 Mar 2020 03:10:29 AM EDT
+### 912379 Full-Domains Count
+### 495677 Conservative-Domains Count
 ### 31985 IP Count
-### 1083157 Separated-List Count
-# GeneratedAdblock
-## Auto-commit at Tue 17 Mar 2020 02:18:45 AM EDT
-### 912342 Full-Domains Count
-### 495658 Conservative-Domains Count
-### 31985 IP Count
-### 1083157 Separated-List Count
-# GeneratedAdblock
-## Auto-commit at Tue 17 Mar 2020 01:44:20 AM EDT
-### 912180 Full-Domains Count
-### 495388 Conservative-Domains Count
-### 31985 IP Count
-### 1083157 Separated-List Count
+### 1206762 Separated-List Count
 ### Lists Used for Separate List Sections
  
 1.list generated from https://adaway.org/hosts.txt
@@ -104,19 +92,17 @@
  
 43.list generated from https://v.firebog.net/hosts/Prigent-Ads.txt
  
-44.list generated from https://v.firebog.net/hosts/Prigent-Phishing.txt
+44.list generated from #https://v.firebog.net/hosts/Prigent-Phishing.txt
  
-45.list generated from https://v.firebog.net/hosts/Shalla-mal.txt
+45.list generated from #https://v.firebog.net/hosts/Prigent-Malware.txt
  
-46.list generated from https://v.firebog.net/hosts/static/w3kbl.txt
+46.list generated from https://v.firebog.net/hosts/Shalla-mal.txt
  
-47.list generated from https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+47.list generated from https://v.firebog.net/hosts/static/w3kbl.txt
  
-48.list generated from https://www.malwaredomainlist.com/hostslist/hosts.txt
+48.list generated from https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
  
-49.list generated from http://sysctl.org/cameleon/hosts
+49.list generated from https://www.malwaredomainlist.com/hostslist/hosts.txt
  
-50.list generated from https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
- 
-51.list generated from http://winhelp2002.mvps.org/hosts.txt
+50.list generated from http://sysctl.org/cameleon/hosts
  
