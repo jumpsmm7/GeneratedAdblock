@@ -338,11 +338,13 @@ local-zone: "analysing.email" always_nxdomain
 local-zone: "analytics.amakings.com" always_nxdomain
 local-zone: "analytics.bluemosh.com" always_nxdomain
 local-zone: "analytics.brave.com" always_nxdomain
+local-zone: "analytics.businessinsider.com" always_nxdomain
 local-zone: "analytics.ccs.mcafee.com" always_nxdomain
 local-zone: "analytics.cincopa.com" always_nxdomain
 local-zone: "analytics.cohesionapps.com" always_nxdomain
 local-zone: "analytics.convertlanguage.com" always_nxdomain
 local-zone: "analytics-egain.com" always_nxdomain
+local-zone: "analytics.eip.telegraph.co.uk" always_nxdomain
 local-zone: "analytics.faw.sky.com" always_nxdomain
 local-zone: "analytics.feeder.co" always_nxdomain
 local-zone: "analytics.ff.avast.com" always_nxdomain
@@ -372,6 +374,7 @@ local-zone: "analytics.mercadolivre.com.br" always_nxdomain
 local-zone: "analytics.mercadopago.com" always_nxdomain
 local-zone: "analytics.mlstatic.com" always_nxdomain
 local-zone: "analyticsmsp.com" always_nxdomain
+local-zone: "analyticspixel.microsoft.com" always_nxdomain
 local-zone: "analytics.plex.tv" always_nxdomain
 local-zone: "analytics.primorske.si" always_nxdomain
 local-zone: "analytics.query.yahoo.com" always_nxdomain
@@ -380,6 +383,7 @@ local-zone: "analytics.schoolwires.com" always_nxdomain
 local-zone: "analytics.slashdotmedia.com" always_nxdomain
 local-zone: "analytics.spotify.com" always_nxdomain
 local-zone: "analytics-static.ugc.bazaarvoice.com" always_nxdomain
+local-zone: "analytics.thetab.com" always_nxdomain
 local-zone: "analytics.trackerstatus.info" always_nxdomain
 local-zone: "analytics.tripwireinteractive.com" always_nxdomain
 local-zone: "analytics.twitter.com" always_nxdomain
@@ -594,6 +598,7 @@ local-zone: "byside.com" always_nxdomain
 local-zone: "bzgint.com" always_nxdomain
 local-zone: "c1exchange.com" always_nxdomain
 local-zone: "c3tag.com" always_nxdomain
+local-zone: "c3t-system-err.club" always_nxdomain
 local-zone: "cadreon.com" always_nxdomain
 local-zone: "c.afekv.com" always_nxdomain
 local-zone: "campaignmonitor.com" always_nxdomain
@@ -785,6 +790,7 @@ local-zone: "createsend.email" always_nxdomain
 local-zone: "createsend.gallery" always_nxdomain
 local-zone: "createsend.help" always_nxdomain
 local-zone: "createsend.link" always_nxdomain
+local-zone: "creativecdn.com" always_nxdomain
 local-zone: "creativelibrary.org" always_nxdomain
 local-zone: "creative-serving.com" always_nxdomain
 local-zone: "creatormail.co.uk" always_nxdomain
@@ -836,6 +842,7 @@ local-zone: "data.coremetrics.com" always_nxdomain
 local-zone: "datadrivensolution.com" always_nxdomain
 local-zone: "data-eroadvertising.com" always_nxdomain
 local-zone: "data.mistat.xiaomi.com" always_nxdomain
+local-zone: "datawrapper.de" always_nxdomain
 local-zone: "daxapi.com" always_nxdomain
 local-zone: "dbrtkwaa81.com" always_nxdomain
 local-zone: "dc-storm.com" always_nxdomain
@@ -1429,6 +1436,7 @@ local-zone: "localcreatesend.com" always_nxdomain
 local-zone: "local-finders.com" always_nxdomain
 local-zone: "localytics.com" always_nxdomain
 local-zone: "logger.foxitcloud.com" always_nxdomain
+local-zone: "logger.unsplash.com" always_nxdomain
 local-zone: "loggly.com" always_nxdomain
 local-zone: "loggly.net" always_nxdomain
 local-zone: "log.kmplayer.com" always_nxdomain
@@ -12360,7 +12368,6 @@ local-zone: "pixel.getshogun.com" always_nxdomain
 local-zone: "pixel.honestjohn.co.uk" always_nxdomain
 local-zone: "pixel.reddit.com" always_nxdomain
 local-zone: "pixel.redditmedia.com" always_nxdomain
-local-zone: "pixel.runative-syndicate.com" always_nxdomain
 local-zone: "pixel.spotify.com" always_nxdomain
 local-zone: "pixelsrvdmn.com" always_nxdomain
 local-zone: "pixel-static.spotify.com" always_nxdomain
@@ -12435,6 +12442,7 @@ local-zone: "pubmatic.com" always_nxdomain
 local-zone: "pubmine.com" always_nxdomain
 local-zone: "pubnation.com" always_nxdomain
 local-zone: "pubsqrd.com" always_nxdomain
+local-zone: "pubstack.io" always_nxdomain
 local-zone: "pubs.xl.pt" always_nxdomain
 local-zone: "pulsemgr.com" always_nxdomain
 local-zone: "pump.to" always_nxdomain
@@ -12591,10 +12599,12 @@ local-zone: "rtbx.info" always_nxdomain
 local-zone: "rtbx.mobi" always_nxdomain
 local-zone: "rtbx.org" always_nxdomain
 local-zone: "rtbx.us" always_nxdomain
+local-zone: "rtmark.net" always_nxdomain
 local-zone: "rts.mobula.sdk.duapps.com" always_nxdomain
 local-zone: "ru4.com" always_nxdomain
 local-zone: "rubiconproject.com" always_nxdomain
 local-zone: "runadtag.com" always_nxdomain
+local-zone: "runative-syndicate.com" always_nxdomain
 local-zone: "rundsp.com" always_nxdomain
 local-zone: "ruralstring.com" always_nxdomain
 local-zone: "s3network1.com" always_nxdomain
@@ -12855,7 +12865,9 @@ local-zone: "stat.alibaba.com" always_nxdomain
 local-zone: "statcounter.com" always_nxdomain
 local-zone: "static.ads-twitter.com" always_nxdomain
 local-zone: "stats2.jobs.bg" always_nxdomain
+local-zone: "stats.addsearch.com" always_nxdomain
 local-zone: "stats.bbc.co.uk" always_nxdomain
+local-zone: "stats.bbc.net.uk" always_nxdomain
 local-zone: "stats.ebay.com" always_nxdomain
 local-zone: "statsfe1.ws.microsoft.com" always_nxdomain
 local-zone: "statsfe2.ws.microsoft.com" always_nxdomain
@@ -12944,6 +12956,7 @@ local-zone: "tealiumiq.com" always_nxdomain
 local-zone: "technorail.com" always_nxdomain
 local-zone: "technorati.com" always_nxdomain
 local-zone: "technoratimedia.com" always_nxdomain
+local-zone: "telemetry.api.2kcoretech.online" always_nxdomain
 local-zone: "telemetry.api.swiftkey.com" always_nxdomain
 local-zone: "telemetry.battle.net" always_nxdomain
 local-zone: "telemetry.dropbox.com" always_nxdomain
@@ -13004,6 +13017,7 @@ local-zone: "track.cpa.iqoption.com" always_nxdomain
 local-zone: "trackedlink.net" always_nxdomain
 local-zone: "tracker2.itzmx.com" always_nxdomain
 local-zone: "tracker-api.my.com" always_nxdomain
+local-zone: "trackerrysrv.com" always_nxdomain
 local-zone: "track.flexlinkspro.com" always_nxdomain
 local-zone: "track.freecallinc.com" always_nxdomain
 local-zone: "track.ft.com" always_nxdomain
@@ -13060,6 +13074,7 @@ local-zone: "trafficstars.com" always_nxdomain
 local-zone: "trail-web.com" always_nxdomain
 local-zone: "trakingtraffic.com" always_nxdomain
 local-zone: "traktrafficflow.com" always_nxdomain
+local-zone: "trckrry.com" always_nxdomain
 local-zone: "treasuredata.com" always_nxdomain
 local-zone: "tremorhub.com" always_nxdomain
 local-zone: "tremorvideo.com" always_nxdomain
@@ -13067,6 +13082,7 @@ local-zone: "tribalfusion.com" always_nxdomain
 local-zone: "triggit.com" always_nxdomain
 local-zone: "trk.justanswer.com" always_nxdomain
 local-zone: "trkme.net" always_nxdomain
+local-zone: "trkn.us" always_nxdomain
 local-zone: "trk.pinterest.com" always_nxdomain
 local-zone: "tru.am" always_nxdomain
 local-zone: "truehits.in.th" always_nxdomain
@@ -13227,6 +13243,7 @@ local-zone: "webspectator.mobi" always_nxdomain
 local-zone: "webstat.channel4.com" always_nxdomain
 local-zone: "webstatsresearch.com" always_nxdomain
 local-zone: "webstatsresearch.net" always_nxdomain
+local-zone: "webtradehub.com" always_nxdomain
 local-zone: "webtraffic.se" always_nxdomain
 local-zone: "webtrekk-asia.net" always_nxdomain
 local-zone: "webtrekk.com" always_nxdomain
