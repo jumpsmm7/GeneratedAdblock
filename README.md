@@ -1,9 +1,9 @@
 # GeneratedAdblock
-## Auto-commit at Wed 29 Apr 2020 08:47:04 PM EDT
-### 972407 Full-Domains Count
-### 524571 Conservative-Domains Count
+## Auto-commit at Thu 30 Apr 2020 03:56:02 AM EDT
+### 973629 Full-Domains Count
+### 525698 Conservative-Domains Count
 ### 564 IP Count
-### 1565694 Separated-List Count
+### 3144362 Separated-List Count
 ### Lists Used for Separate List Sections
  
 1.list generated from https://adaway.org/hosts.txt
@@ -26,73 +26,83 @@
  
 10.list generated from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
  
-11.list generated from https://phishing.army/download/phishing_army_blocklist_extended.txt
+11.list generated from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext&useip=0.0.0.0
  
-12.list generated from https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+12.list generated from https://pgl.yoyo.org/as/serverlist.php?hostformat=nohtml
  
-13.list generated from https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+13.list generated from https://phishing.army/download/phishing_army_blocklist_extended.txt
  
-14.list generated from https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+14.list generated from https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
  
-15.list generated from https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
+15.list generated from https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
  
-16.list generated from https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
+16.list generated from https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
  
-17.list generated from https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
+17.list generated from https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
  
-18.list generated from https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
+18.list generated from https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
  
-19.list generated from https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
+19.list generated from https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
  
-20.list generated from https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+20.list generated from https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
  
-21.list generated from https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt
+21.list generated from https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
  
-22.list generated from https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts
+22.list generated from https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
  
-23.list generated from https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
+23.list generated from https://raw.githubusercontent.com/marktron/fakenews/master/fakenews
  
-24.list generated from https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
+24.list generated from https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt
  
-25.list generated from https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
+25.list generated from https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
  
-26.list generated from https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
+26.list generated from https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts
  
-27.list generated from https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+27.list generated from https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
  
-28.list generated from https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+28.list generated from https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
  
-29.list generated from https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+29.list generated from https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
  
-30.list generated from https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+30.list generated from https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
  
-31.list generated from https://someonewhocares.org/hosts/zero/hosts
+31.list generated from https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
  
-32.list generated from https://urlhaus.abuse.ch/downloads/hostfile/
+32.list generated from https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
  
-33.list generated from https://v.firebog.net/hosts/AdguardDNS.txt
+33.list generated from https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
  
-34.list generated from https://v.firebog.net/hosts/Easylist.txt
+34.list generated from https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
  
-35.list generated from https://v.firebog.net/hosts/Easyprivacy.txt
+35.list generated from https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
  
-36.list generated from https://v.firebog.net/hosts/Prigent-Ads.txt
+36.list generated from https://someonewhocares.org/hosts/zero/hosts
  
-37.list generated from https://v.firebog.net/hosts/Prigent-Phishing.txt
+37.list generated from https://urlhaus.abuse.ch/downloads/hostfile/
  
-38.list generated from https://v.firebog.net/hosts/Prigent-Malware.txt
+38.list generated from https://v.firebog.net/hosts/AdguardDNS.txt
  
-39.list generated from https://v.firebog.net/hosts/Shalla-mal.txt
+39.list generated from https://v.firebog.net/hosts/Easylist.txt
  
-40.list generated from https://v.firebog.net/hosts/static/w3kbl.txt
+40.list generated from https://v.firebog.net/hosts/Easyprivacy.txt
  
-41.list generated from https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+41.list generated from https://v.firebog.net/hosts/Prigent-Ads.txt
  
-42.list generated from https://www.malwaredomainlist.com/hostslist/hosts.txt
+42.list generated from https://v.firebog.net/hosts/Prigent-Malware.txt
  
-43.list generated from http://sysctl.org/cameleon/hosts
+43.list generated from https://v.firebog.net/hosts/Prigent-Phishing.txt
  
-44.list generated from https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
+44.list generated from https://v.firebog.net/hosts/Shalla-mal.txt
  
-45.list generated from http://winhelp2002.mvps.org/hosts.txt
+45.list generated from https://v.firebog.net/hosts/static/w3kbl.txt
+ 
+46.list generated from https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+ 
+47.list generated from https://www.malwaredomainlist.com/hostslist/hosts.txt
+ 
+48.list generated from http://sysctl.org/cameleon/hosts
+ 
+49.list generated from https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
+ 
+50.list generated from http://winhelp2002.mvps.org/hosts.txt
  
