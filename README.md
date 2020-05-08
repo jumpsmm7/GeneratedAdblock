@@ -1,9 +1,9 @@
 # GeneratedAdblock
-## Auto-commit at Thu 07 May 2020 01:37:45 AM EDT
-### 982821 Full-Domains Count
-### 530032 Conservative-Domains Count
-### 565 IP Count
-### 1589199 Separated-List Count
+## Auto-commit at Thu 07 May 2020 10:23:28 PM EDT
+### 990965 Full-Domains Count
+### 535590 Conservative-Domains Count
+### 568 IP Count
+### 1640787 Separated-List Count
 ### Lists Used for Separate List Sections
  
 1.list generated from https://adaway.org/hosts.txt
@@ -105,4 +105,6 @@
 49.list generated from https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
  
 50.list generated from http://winhelp2002.mvps.org/hosts.txt
+ 
+51.list generated from https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
  
