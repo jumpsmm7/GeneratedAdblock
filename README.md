@@ -1,9 +1,9 @@
 # GeneratedAdblock
-## Auto-commit at Mon 11 May 2020 01:20:49 AM EDT
-### 994654 Full-Domains Count
-### 536642 Conservative-Domains Count
+## Auto-commit at Tue 12 May 2020 01:18:16 AM EDT
+### 995358 Full-Domains Count
+### 537129 Conservative-Domains Count
 ### 572 IP Count
-### 1603682 Separated-List Count
+### 1641732 Separated-List Count
 ### Lists Used for Separate List Sections
  
 1.list generated from https://adaway.org/hosts.txt
