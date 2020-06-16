@@ -1,9 +1,9 @@
 # GeneratedAdblock
-## Auto-commit at Mon 15 Jun 2020 09:22:03 PM EDT
-### 2078379 Full-Domains Count
-### 1097063 Conservative-Domains Count
+## Auto-commit at Mon 15 Jun 2020 10:22:06 PM EDT
+### 2084771 Full-Domains Count
+### 1103011 Conservative-Domains Count
 ### 988 IP Count
-### 2296805 Separated-List Count
+### 2306082 Separated-List Count
 ### Lists Used for Separate List Sections
  
 1.list generated from https://adaway.org/hosts.txt
@@ -114,33 +114,37 @@
  
 54.list generated from https://v.firebog.net/hosts/AdguardDNS.txt
  
-55.list generated from https://v.firebog.net/hosts/BillStearns.txt
+55.list generated from https://v.firebog.net/hosts/Admiral.txt
  
-56.list generated from https://v.firebog.net/hosts/Easylist.txt
+56.list generated from https://v.firebog.net/hosts/BillStearns.txt
  
-57.list generated from https://v.firebog.net/hosts/Easyprivacy.txt
+57.list generated from https://v.firebog.net/hosts/Easylist.txt
  
-58.list generated from https://v.firebog.net/hosts/Prigent-Ads.txt
+58.list generated from https://v.firebog.net/hosts/Easyprivacy.txt
  
-59.list generated from https://v.firebog.net/hosts/Prigent-Malware.txt
+59.list generated from https://v.firebog.net/hosts/Prigent-Ads.txt
  
-60.list generated from https://v.firebog.net/hosts/Prigent-Phishing.txt
+60.list generated from https://v.firebog.net/hosts/Prigent-Crypto.txt
  
-61.list generated from https://v.firebog.net/hosts/Shalla-mal.txt
+61.list generated from https://v.firebog.net/hosts/Prigent-Malware.txt
  
-62.list generated from https://v.firebog.net/hosts/static/w3kbl.txt
+62.list generated from https://v.firebog.net/hosts/Prigent-Phishing.txt
  
-63.list generated from https://winhelp2002.mvps.org/hosts.txt
+63.list generated from https://v.firebog.net/hosts/Shalla-mal.txt
  
-64.list generated from https://www.dshield.org/feeds/suspiciousdomains_High.txt
+64.list generated from https://v.firebog.net/hosts/static/w3kbl.txt
  
-65.list generated from https://www.dshield.org/feeds/suspiciousdomains_Low.txt
+65.list generated from https://winhelp2002.mvps.org/hosts.txt
  
-66.list generated from https://www.dshield.org/feeds/suspiciousdomains_Medium.txt
+66.list generated from https://www.dshield.org/feeds/suspiciousdomains_High.txt
  
-67.list generated from https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+67.list generated from https://www.dshield.org/feeds/suspiciousdomains_Low.txt
  
-68.list generated from https://www.malwaredomainlist.com/hostslist/hosts.txt
+68.list generated from https://www.dshield.org/feeds/suspiciousdomains_Medium.txt
  
-69.list generated from https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
+69.list generated from https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+ 
+70.list generated from https://www.malwaredomainlist.com/hostslist/hosts.txt
+ 
+71.list generated from https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
  
