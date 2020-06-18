@@ -1,9 +1,9 @@
 # GeneratedAdblock
-## Auto-commit at Wed 17 Jun 2020 01:40:27 AM EDT
-### 1979096 Full-Domains Count
-### 1031780 Conservative-Domains Count
-### 985 IP Count
-### 2119471 Separated-List Count
+## Auto-commit at Thu 18 Jun 2020 01:27:24 AM EDT
+### 2094680 Full-Domains Count
+### 1106464 Conservative-Domains Count
+### 988 IP Count
+### 2104871 Separated-List Count
 ### Lists Used for Separate List Sections
  
 1.list generated from https://adaway.org/hosts.txt
@@ -26,7 +26,7 @@
  
 10.list generated from https://hosts.nfz.moe/basic/hosts
  
-11.list generated from https://hosts.oisd.nl
+11.list generated from https://hosts.oisd.nl/
  
 12.list generated from https://mirror1.malwaredomains.com/files/justdomains
  
