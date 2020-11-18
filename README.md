@@ -1,122 +1,138 @@
 # GeneratedAdblock
-## Auto-commit at Tue 17 Nov 2020 08:45:43 AM EST
-### 2275674 Full-Domains Count
-### 1096622 Conservative-Domains Count
-### 845 IP Count
-### 2241656 Separated-List Count
-### Lists Used for Separate List Sections
- 
-1.list generated from https://adaway.org/hosts.txt
- 
-2.list generated from https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
- 
-3.list generated from https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
- 
-4.list generated from https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
- 
-5.list generated from https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
- 
-6.list generated from https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
- 
-7.list generated from https://hosts.nfz.moe/basic/hosts
- 
-8.list generated from https://hosts.oisd.nl/
- 
-9.list generated from https://mirror1.malwaredomains.com/files/justdomains
- 
-10.list generated from https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
- 
-11.list generated from https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
- 
-12.list generated from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&amp;showintro=0&amp;mimetype=plaintext
- 
-13.list generated from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&amp;showintro=0&amp;mimetype=plaintext&amp;useip=0.0.0.0
- 
-14.list generated from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
- 
-15.list generated from https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext&useip=0.0.0.0
- 
-16.list generated from https://phishing.army/download/phishing_army_blocklist_extended.txt
- 
-17.list generated from https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
- 
-18.list generated from https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
- 
-19.list generated from https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
- 
-20.list generated from https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
- 
-21.list generated from https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
- 
-22.list generated from https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
- 
-23.list generated from https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
- 
-24.list generated from https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
- 
-25.list generated from https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
- 
-26.list generated from https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
- 
-27.list generated from https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
- 
-28.list generated from https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
- 
-29.list generated from https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
- 
-30.list generated from https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
- 
-31.list generated from https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
- 
-32.list generated from https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt
- 
-33.list generated from https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
- 
-34.list generated from https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
- 
-35.list generated from https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
- 
-36.list generated from https://raw.githubusercontent.com/vokins/yhosts/master/hosts
- 
-37.list generated from https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
- 
-38.list generated from https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
- 
-39.list generated from https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
- 
-40.list generated from https://someonewhocares.org/hosts/zero/hosts
- 
-41.list generated from https://ssl.bblck.me/blacklists/hosts-file.txt
- 
-42.list generated from https://urlhaus.abuse.ch/downloads/hostfile/
- 
-43.list generated from https://v.firebog.net/hosts/AdguardDNS.txt
- 
-44.list generated from https://v.firebog.net/hosts/Admiral.txt
- 
-45.list generated from https://v.firebog.net/hosts/Easylist.txt
- 
-46.list generated from https://v.firebog.net/hosts/Easyprivacy.txt
- 
-47.list generated from https://v.firebog.net/hosts/Prigent-Ads.txt
- 
-48.list generated from https://v.firebog.net/hosts/Prigent-Crypto.txt
- 
-49.list generated from https://v.firebog.net/hosts/Prigent-Malware.txt
- 
-50.list generated from https://v.firebog.net/hosts/Shalla-mal.txt
- 
-51.list generated from https://v.firebog.net/hosts/static/w3kbl.txt
- 
-52.list generated from https://winhelp2002.mvps.org/hosts.txt
- 
-53.list generated from https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
- 
-54.list generated from https://www.malwaredomainlist.com/hostslist/hosts.txt
- 
-55.list generated from http://sysctl.org/cameleon/hosts
- 
-56.list generated from https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
- 
-57.list generated from http://winhelp2002.mvps.org/hosts.txt
- 
+## Auto-commit at Tue 17 Nov 2020 10:19:41 PM EST
+### 1876227 Full-Domains Count
+### 806620 Conservative-Domains Count
+### 4237 IP Count
+### Lists Included in Creation of Hosted List
+https://adaway.org/hosts.txt
+https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+https://block.energized.pro/basic/formats/hosts.txt
+https://block.energized.pro/blu/formats/hosts.txt
+https://block.energized.pro/bluGo/formats/hosts.txt
+https://block.energized.pro/extensions/ips/formats/list.txt
+https://block.energized.pro/extensions/porn-lite/formats/hosts-ipv6.txt
+https://block.energized.pro/extensions/regional/formats/hosts-ipv6.txt
+https://block.energized.pro/extensions/social/formats/hosts-ipv6.txt
+https://block.energized.pro/extensions/xtreme/formats/hosts-ipv6.txt
+https://block.energized.pro/porn/formats/hosts.txt
+https://block.energized.pro/spark/formats/hosts.txt
+https://block.energized.pro/ultimate/formats/hosts.txt
+https://block.energized.pro/unified/formats/hosts.txt
+https://dbl.oisd.nl/
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt
+https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt
+https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
+https://hosts.nfz.moe/basic/hosts
+https://hosts.oisd.nl/
+https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt
+https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
+https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt
+https://managedsentinel.com/downloads/covid19_domains.txt
+https://mirror1.malwaredomains.com/files/justdomains
+https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
+https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&amp;showintro=0&amp;mimetype=plaintext
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&amp;showintro=0&amp;mimetype=plaintext&amp;useip=0.0.0.0
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext&useip=0.0.0.0
+https://phishing.army/download/phishing_army_blocklist_extended.txt
+https://phishing.army/download/phishing_army_blocklist.txt
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+https://raw.githubusercontent.com/BlackJack8/MinerBlocklist/master/Hosts.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/abuse.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/crypto.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/fraud.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/gambling.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/piracy.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/porn.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/ransomware.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/redirect.txt
+https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.txt
+https://raw.githubusercontent.com/bogachenko/filterlist/master/filterlist.txt
+https://raw.githubusercontent.com/BreakingTheNews/BreakingTheNews.github.io/master/hosts
+https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
+https://raw.githubusercontent.com/cpeterso/clickbait-blocklist/master/clickbait-blocklist.txt
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+https://raw.githubusercontent.com/CyanideBrother/anti-pr0n/master/hosts
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/BreakingTheNews.txt
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Chad-Mayfield-Porn-Blocklist-Heavy.txt
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TeslaCrypt-Ransomware-C2-Domain-Blocklist.txt
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Yhonay-AntiPopAds.txt
+https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/unwanted-iranian.txt
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
+https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
+https://raw.githubusercontent.com/hectorm/hmirror/master/data/eth-phishing-detect/list.txt
+https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt
+https://raw.githubusercontent.com/justdomains/blocklists/master/lists/adguarddns-justdomains.txt
+https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
+https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
+https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt
+https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/gambling/domains
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt
+https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
+https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
+https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts 
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+https://raw.githubusercontent.com/UnbendableStraw/samsungnosnooping/master/README.md
+https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
+https://raw.githubusercontent.com/yhonay/antipopads/master/hosts
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://someonewhocares.org/hosts/zero/hosts
+https://ssl.bblck.me/blacklists/hosts-file.txt
+https://urlhaus.abuse.ch/downloads/hostfile/
+https://urlhaus.abuse.ch/downloads/hostfile/ 
+https://v.firebog.net/hosts/AdguardDNS.txt
+https://v.firebog.net/hosts/Admiral.txt
+https://v.firebog.net/hosts/Easylist.txt
+https://v.firebog.net/hosts/Easyprivacy.txt
+https://v.firebog.net/hosts/neohostsbasic.txt
+https://v.firebog.net/hosts/Prigent-Ads.txt
+https://v.firebog.net/hosts/Prigent-Crypto.txt
+https://v.firebog.net/hosts/Prigent-Malware.txt
+https://v.firebog.net/hosts/Shalla-mal.txt
+https://v.firebog.net/hosts/static/w3kbl.txt
+https://winhelp2002.mvps.org/hosts.txt
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+https://www.hostsfile.org/Downloads/hosts.txt
+https://www.malwaredomainlist.com/hostslist/hosts.txt
+http://sysctl.org/cameleon/hosts
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
+https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt
+https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
+http://winhelp2002.mvps.org/hosts.txt
