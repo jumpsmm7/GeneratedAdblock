@@ -1,10 +1,10 @@
 # GeneratedAdblock
-## Auto-commit at $date_var
-### $fulllist Full-Domains Count
-### $conservative Conservative-Domains Count
-### $ipcount IP Count
+## Auto-commit at Fri 20 Nov 2020 12:44:01 AM EST
+### 2124004 Full-Domains Count
+### 1049111 Conservative-Domains Count
+### 835 IP Count
 ### Lists Included in Creation of Hosted List
- 
+
 https://adaway.org/hosts.txt
 
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
