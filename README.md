@@ -1,7 +1,7 @@
 # GeneratedAdblock
-## Auto-commit at Thu 10 Dec 2020 02:46:37 AM EST
-### 2316267 Full-Domains Count
-###  Conservative-Domains Count
+## Auto-commit at Fri 11 Dec 2020 01:38:26 AM EST
+### 2317622 Full-Domains Count
+### 1105425 Conservative-Domains Count
 ### 836 IP Count
 ### Lists Included in Creation of Hosted List
 
