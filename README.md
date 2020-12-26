@@ -1,15 +1,13 @@
 # GeneratedAdblock
-## Auto-commit at Fri 25 Dec 2020 01:39:14 AM EST
-### 2369816 Full-Domains Count
-### 1119265 Conservative-Domains Count
+## Auto-commit at Sat 26 Dec 2020 01:25:10 AM EST
+### 2372218 Full-Domains Count
+### 1119797 Conservative-Domains Count
 ### 836 IP Count
 ### Lists Included in Creation of Hosted List
 
 https://adaway.org/hosts.txt
 
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
-
-https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/blob/master/TOP_EU_US_Ads_Trackers_HOST
 
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 
@@ -120,4 +118,6 @@ http://sysctl.org/cameleon/hosts
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 
 http://winhelp2002.mvps.org/hosts.txt
+
+https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_HOST
 
