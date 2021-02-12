@@ -1,8 +1,8 @@
 # GeneratedAdblock
-## Auto-commit at Thu 11 Feb 2021 01:30:30 AM EST
-### 3684418 Full-Domains Count
-### 1900546 Conservative-Domains Count
-### 870 IP Count
+## Auto-commit at Thu 11 Feb 2021 11:27:55 PM EST
+### 3759934 Full-Domains Count
+### 1908479 Conservative-Domains Count
+### 873 IP Count
 ### Lists Included in Creation of Hosted List
 
 https://adaway.org/hosts.txt
@@ -59,6 +59,8 @@ https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 
+https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_HOST
+
 https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
 
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
@@ -67,6 +69,8 @@ https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracki
 
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
 
+https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
+
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt
 
 https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
@@ -74,6 +78,8 @@ https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt
 
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 
@@ -118,6 +124,4 @@ http://sysctl.org/cameleon/hosts
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 
 http://winhelp2002.mvps.org/hosts.txt
-
-https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_HOST
 
