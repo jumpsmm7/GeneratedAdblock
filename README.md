@@ -1,7 +1,7 @@
 # GeneratedAdblock
-## Auto-commit at Sat 10 Apr 2021 01:32:35 AM EDT
-### 5098524 Full-Domains Count
-### 2563555 Conservative-Domains Count
+## Auto-commit at Sat 10 Apr 2021 02:24:57 AM EDT
+### 5098612 Full-Domains Count
+### 2563592 Conservative-Domains Count
 ### 893 IP Count
 ### Lists Included in Creation of Hosted List
 
@@ -80,6 +80,8 @@ https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
 https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt
+
+https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 
