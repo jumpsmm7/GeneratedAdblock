@@ -1,8 +1,8 @@
 # GeneratedAdblock
-## Auto-commit at Thu 15 Apr 2021 01:34:37 AM EDT
-### 5131792 Full-Domains Count
-### 2571986 Conservative-Domains Count
-### 893 IP Count
+## Auto-commit at Thu 15 Apr 2021 09:37:00 PM EDT
+### 5147851 Full-Domains Count
+### 2625759 Conservative-Domains Count
+### 894 IP Count
 ### Lists Included in Creation of Hosted List
 
 https://adaway.org/hosts.txt
@@ -126,4 +126,6 @@ http://sysctl.org/cameleon/hosts
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 
 http://winhelp2002.mvps.org/hosts.txt
+
+https://block.energized.pro/ultimate/formats/domains.txt
 
