@@ -1,13 +1,15 @@
 # GeneratedAdblock
-## Auto-commit at Sun May 23 17:49:07 EDT 2021
-### 5343630 Full-Domains Count
-### 2726696 Conservative-Domains Count
+## Auto-commit at Sun 23 May 2021 06:52:16 PM EDT
+### 5346477 Full-Domains Count
+### 2727806 Conservative-Domains Count
 ### 903 IP Count
 ### Lists Included in Creation of Hosted List
 
 https://adaway.org/hosts.txt
 
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+
+https://block.energized.pro/ultimate/formats/domains.txt
 
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 
@@ -126,6 +128,4 @@ http://sysctl.org/cameleon/hosts
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 
 http://winhelp2002.mvps.org/hosts.txt
-
-https://block.energized.pro/ultimate/formats/domains.txt
 
