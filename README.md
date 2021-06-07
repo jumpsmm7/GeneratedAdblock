@@ -1,7 +1,7 @@
 # GeneratedAdblock
-## Auto-commit at Sat 05 Jun 2021 01:39:54 AM EDT
-### 5448027 Full-Domains Count
-### 2765985 Conservative-Domains Count
+## Auto-commit at Mon 07 Jun 2021 02:50:56 AM EDT
+### 5730655 Full-Domains Count
+### 2888098 Conservative-Domains Count
 ### 3784 IP Count
 ### Lists Included in Creation of Hosted List
 
