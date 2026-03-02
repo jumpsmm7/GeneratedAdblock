@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2602280523 ; Serial Number
+ 2603020827 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -11,14 +11,14 @@ $ORIGIN nobypass.rpz.
 
 003153.xyz CNAME .
 *.003153.xyz CNAME .
-012proxy.ga CNAME .
-*.012proxy.ga CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
 *.123000123.xyz CNAME .
 123-24.eport.gr CNAME .
 *.123-24.eport.gr CNAME .
+12vpx.com CNAME .
+*.12vpx.com CNAME .
 1a.ns.ozer.im CNAME .
 *.1a.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
@@ -45,12 +45,12 @@ $ORIGIN nobypass.rpz.
 *.3jjxxl.tech CNAME .
 3x.nz CNAME .
 *.3x.nz CNAME .
+4eu.online CNAME .
+*.4eu.online CNAME .
 4everproxy.com CNAME .
 *.4everproxy.com CNAME .
 5g.o0o.re CNAME .
 *.5g.o0o.re CNAME .
-64.cloudflare-dns.com CNAME .
-*.64.cloudflare-dns.com CNAME .
 8888.google CNAME .
 *.8888.google CNAME .
 99proxy.com CNAME .
@@ -81,8 +81,6 @@ adblockersite.com CNAME .
 *.adblockersite.com CNAME .
 adblock.indianets.net CNAME .
 *.adblock.indianets.net CNAME .
-adblock.krctech.dev CNAME .
-*.adblock.krctech.dev CNAME .
 adblock.leenit.kr CNAME .
 *.adblock.leenit.kr CNAME .
 adblock.mydns.network CNAME .
@@ -599,8 +597,6 @@ de-fra-w-p-1.nashkan.net CNAME .
 *.de-fra-w-p-1.nashkan.net CNAME .
 de-fsn-w-p-1.nashkan.net CNAME .
 *.de-fsn-w-p-1.nashkan.net CNAME .
-deic-12vpx.com CNAME .
-*.deic-12vpx.com CNAME .
 deic-lgb.anycast.censurfridns.dk CNAME .
 *.deic-lgb.anycast.censurfridns.dk CNAME .
 deic-lgb.anycast.uncensoreddns.org CNAME .
@@ -619,6 +615,8 @@ digi77.com CNAME .
 *.digi77.com CNAME .
 d.niaox.com CNAME .
 *.d.niaox.com CNAME .
+dns012proxy.ga CNAME .
+*.dns012proxy.ga CNAME .
 dns01.flm9.net CNAME .
 *.dns01.flm9.net CNAME .
 dns0.eu CNAME .
@@ -703,8 +701,6 @@ dns3.dns-ga.de CNAME .
 *.dns3.dns-ga.de CNAME .
 dns.3wv.de CNAME .
 *.dns.3wv.de CNAME .
-dns4eu.online CNAME .
-*.dns4eu.online CNAME .
 dns4me.net CNAME .
 *.dns4me.net CNAME .
 dns.4-the.win CNAME .
@@ -1187,12 +1183,12 @@ dns.joey01245.nl CNAME .
 *.dns.joey01245.nl CNAME .
 dns.jstockley.com CNAME .
 *.dns.jstockley.com CNAME .
-dns.judee.su CNAME .
-*.dns.judee.su CNAME .
 dns.jundev.org CNAME .
 *.dns.jundev.org CNAME .
-dns.justinnetworkingsolutions.com CNAME .
-*.dns.justinnetworkingsolutions.com CNAME .
+dns.jupitrdns.com CNAME .
+*.dns.jupitrdns.com CNAME .
+dns.justdarknet.to CNAME .
+*.dns.justdarknet.to CNAME .
 dns.k3nny.fr CNAME .
 *.dns.k3nny.fr CNAME .
 dns.kamilszczepanski.com CNAME .
@@ -1273,12 +1269,12 @@ dns.maitrekuc.fr CNAME .
 *.dns.maitrekuc.fr CNAME .
 dns-malwaresec.nordthreatprotection.com CNAME .
 *.dns-malwaresec.nordthreatprotection.com CNAME .
+dns.maolaohei.xyz CNAME .
+*.dns.maolaohei.xyz CNAME .
 dns.marasov.id CNAME .
 *.dns.marasov.id CNAME .
 dns.marbledfennec.net CNAME .
 *.dns.marbledfennec.net CNAME .
-dnsmask.icloud.com CNAME .
-*.dnsmask.icloud.com CNAME .
 dns.mateo.ovh CNAME .
 *.dns.mateo.ovh CNAME .
 dns.mathewakhil.online CNAME .
@@ -1369,8 +1365,6 @@ dns-nosec.quad9.net CNAME .
 *.dns-nosec.quad9.net CNAME .
 dns.novali.date CNAME .
 *.dns.novali.date CNAME .
-dns.novg.net CNAME .
-*.dns.novg.net CNAME .
 dns.npe.bz CNAME .
 *.dns.npe.bz CNAME .
 dns.nullgate.net CNAME .
@@ -1529,6 +1523,8 @@ dns.skrep.in CNAME .
 *.dns.skrep.in CNAME .
 dns.slinkyman.net CNAME .
 *.dns.slinkyman.net CNAME .
+dns.smartguard.io CNAME .
+*.dns.smartguard.io CNAME .
 dns.soldier.terumi.club CNAME .
 *.dns.soldier.terumi.club CNAME .
 dns.spil.co.id CNAME .
@@ -1625,6 +1621,8 @@ dns.vinnyp.xyz CNAME .
 *.dns.vinnyp.xyz CNAME .
 dns.vinokurov.tk CNAME .
 *.dns.vinokurov.tk CNAME .
+dns.vip-kingstore.xyz CNAME .
+*.dns.vip-kingstore.xyz CNAME .
 dns.vmath.my.id CNAME .
 *.dns.vmath.my.id CNAME .
 dnsvps.familiamv.net CNAME .
@@ -1633,6 +1631,8 @@ dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
+dnswarden.com CNAME .
+*.dnswarden.com CNAME .
 dns.wargan.io CNAME .
 *.dns.wargan.io CNAME .
 dns.warpnine.de CNAME .
@@ -2111,8 +2111,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.dnswarden.com CNAME .
-*.ecs-doh.dnswarden.com CNAME .
+ecs-doh.dee.su CNAME .
+*.ecs-doh.dee.su CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2129,8 +2129,6 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
-epicbrowser.com CNAME .
-*.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
 *.eropa.dnscepat.id CNAME .
 esel.stusta.mhn.de CNAME .
@@ -2315,8 +2313,8 @@ gb-cov-w-f-1.nashkan.net CNAME .
 *.gb-cov-w-f-1.nashkan.net CNAME .
 gb-cov-w-p-1.nashkan.net CNAME .
 *.gb-cov-w-p-1.nashkan.net CNAME .
-gb-lon-w-f-1.nashkan.ndarknet.to CNAME .
-*.gb-lon-w-f-1.nashkan.ndarknet.to CNAME .
+gb-lon-wepicbrowser.com CNAME .
+*.gb-lon-wepicbrowser.com CNAME .
 gb-lon-w-p-1.nashkan.net CNAME .
 *.gb-lon-w-p-1.nashkan.net CNAME .
 gb-lon-w-p-2.nashkan.net CNAME .
@@ -2505,6 +2503,8 @@ ines.zfn.uni-bremen.de CNAME .
 *.ines.zfn.uni-bremen.de CNAME .
 ininja.org CNAME .
 *.ininja.org CNAME .
+innetworkingsolutions.com CNAME .
+*.innetworkingsolutions.com CNAME .
 inpssh.online CNAME .
 *.inpssh.online CNAME .
 instantunblock.com CNAME .
@@ -2615,8 +2615,6 @@ kproxysite.com CNAME .
 *.kproxysite.com CNAME .
 kr1.ooroot.com CNAME .
 *.kr1.ooroot.com CNAME .
-kr2.ooroot.com CNAME .
-*.kr2.ooroot.com CNAME .
 kracon.anycast.censurfridns.dk CNAME .
 *.kracon.anycast.censurfridns.dk CNAME .
 kracon.anycast.uncensoreddns.org CNAME .
@@ -2905,6 +2903,8 @@ odvr.nic.cz CNAME .
 *.odvr.nic.cz CNAME .
 okado.online CNAME .
 *.okado.online CNAME .
+ole1.hoerli.net CNAME .
+*.ole1.hoerli.net CNAME .
 omr01.dnscry.pt CNAME .
 *.omr01.dnscry.pt CNAME .
 one.one.one.one CNAME .
@@ -2961,8 +2961,6 @@ ord01.dnscry.pt CNAME .
 *.ord01.dnscry.pt CNAME .
 ordns.he.net CNAME .
 *.ordns.he.net CNAME .
-ore.anycast.censurfridns.dk CNAME .
-*.ore.anycast.censurfridns.dk CNAME .
 ore-dns.bitdefender.net CNAME .
 *.ore-dns.bitdefender.net CNAME .
 o.rsaikat.com CNAME .
@@ -3007,8 +3005,8 @@ phl01.dnscry.pt CNAME .
 *.phl01.dnscry.pt CNAME .
 phx01.dnscry.pt CNAME .
 *.phx01.dnscry.pt CNAME .
-pihole1.hoerli.net CNAME .
-*.pihole1.hoerli.net CNAME .
+pihmask.icloud.com CNAME .
+*.pihmask.icloud.com CNAME .
 pihole2.hoerli.net CNAME .
 *.pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -3021,8 +3019,6 @@ pihole.datamatter.co.za CNAME .
 *.pihole.datamatter.co.za CNAME .
 pinkproxy.xyz CNAME .
 *.pinkproxy.xyz CNAME .
-pitrdns.com CNAME .
-*.pitrdns.com CNAME .
 pixelprivacy.com CNAME .
 *.pixelprivacy.com CNAME .
 pkproxy.info CNAME .
@@ -3431,8 +3427,6 @@ sg01.dns4me.net CNAME .
 *.sg01.dns4me.net CNAME .
 sg1.dnswarden.com CNAME .
 *.sg1.dnswarden.com CNAME .
-sg2.ooroot.com CNAME .
-*.sg2.ooroot.com CNAME .
 sg-dns1.bancuh.com CNAME .
 *.sg-dns1.bancuh.com CNAME .
 sg.gridns.xyz CNAME .
