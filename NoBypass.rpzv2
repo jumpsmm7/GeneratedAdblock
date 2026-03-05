@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2603050525 ; Serial Number
+ 2603051725 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -9,10 +9,10 @@ $ORIGIN nobypass.rpz.
  )
  NS localhost
 
-003153.xyz A 0.0.0.0
-*.003153.xyz A 0.0.0.0
-003153.xyz AAAA ::
-*.003153.xyz AAAA ::
+012proxy.ga A 0.0.0.0
+*.012proxy.ga A 0.0.0.0
+012proxy.ga AAAA ::
+*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -753,10 +753,6 @@ biying.flymlc.com A 0.0.0.0
 *.biying.flymlc.com A 0.0.0.0
 biying.flymlc.com AAAA ::
 *.biying.flymlc.com AAAA ::
-blackhole.myon.lu A 0.0.0.0
-*.blackhole.myon.lu A 0.0.0.0
-blackhole.myon.lu AAAA ::
-*.blackhole.myon.lu AAAA ::
 blackvpn.com A 0.0.0.0
 *.blackvpn.com A 0.0.0.0
 blackvpn.com AAAA ::
@@ -1097,10 +1093,6 @@ cubedns.com A 0.0.0.0
 *.cubedns.com A 0.0.0.0
 cubedns.com AAAA ::
 *.cubedns.com AAAA ::
-cube.neubsi.at A 0.0.0.0
-*.cube.neubsi.at A 0.0.0.0
-cube.neubsi.at AAAA ::
-*.cube.neubsi.at AAAA ::
 cvt01.dnscry.pt A 0.0.0.0
 *.cvt01.dnscry.pt A 0.0.0.0
 cvt01.dnscry.pt AAAA ::
@@ -1125,14 +1117,14 @@ dandelionsprout.asuscomm.com A 0.0.0.0
 *.dandelionsprout.asuscomm.com A 0.0.0.0
 dandelionsprout.asuscomm.com AAAA ::
 *.dandelionsprout.asuscomm.com AAAA ::
-d.apemlegit.my.id A 0.0.0.0
-*.d.apemlegit.my.id A 0.0.0.0
-d.apemlegit.my.id AAAA ::
-*.d.apemlegit.my.id AAAA ::
 darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1185,10 +1177,6 @@ de-fsn-w-p-1.nashkan.net A 0.0.0.0
 *.de-fsn-w-p-1.nashkan.net A 0.0.0.0
 de-fsn-w-p-1.nashkan.net AAAA ::
 *.de-fsn-w-p-1.nashkan.net AAAA ::
-deic-012proxy.ga A 0.0.0.0
-*.deic-012proxy.ga A 0.0.0.0
-deic-012proxy.ga AAAA ::
-*.deic-012proxy.ga AAAA ::
 deic-lgb.anycast.censurfridns.dk A 0.0.0.0
 *.deic-lgb.anycast.censurfridns.dk A 0.0.0.0
 deic-lgb.anycast.censurfridns.dk AAAA ::
@@ -1201,6 +1189,10 @@ deic-ore.anycast.censurfridns.dk A 0.0.0.0
 *.deic-ore.anycast.censurfridns.dk A 0.0.0.0
 deic-ore.anycast.censurfridns.dk AAAA ::
 *.deic-ore.anycast.censurfridns.dk AAAA ::
+deic-ore.anycast.uncensdnswarden.com A 0.0.0.0
+*.deic-ore.anycast.uncensdnswarden.com A 0.0.0.0
+deic-ore.anycast.uncensdnswarden.com AAAA ::
+*.deic-ore.anycast.uncensdnswarden.com AAAA ::
 deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 deic-ore.anycast.uncensoreddns.org AAAA ::
@@ -1989,10 +1981,6 @@ dns.dremaxx.de A 0.0.0.0
 *.dns.dremaxx.de A 0.0.0.0
 dns.dremaxx.de AAAA ::
 *.dns.dremaxx.de AAAA ::
-dns.dyn1.de A 0.0.0.0
-*.dns.dyn1.de A 0.0.0.0
-dns.dyn1.de AAAA ::
-*.dns.dyn1.de AAAA ::
 dns.dynx.pro A 0.0.0.0
 *.dns.dynx.pro A 0.0.0.0
 dns.dynx.pro AAAA ::
@@ -2309,10 +2297,6 @@ dns.iki.my.id A 0.0.0.0
 *.dns.iki.my.id A 0.0.0.0
 dns.iki.my.id AAAA ::
 *.dns.iki.my.id AAAA ::
-dns.imaicool.com A 0.0.0.0
-*.dns.imaicool.com A 0.0.0.0
-dns.imaicool.com AAAA ::
-*.dns.imaicool.com AAAA ::
 dns.imchristian.de A 0.0.0.0
 *.dns.imchristian.de A 0.0.0.0
 dns.imchristian.de AAAA ::
@@ -2365,10 +2349,10 @@ dns.jundev.org A 0.0.0.0
 *.dns.jundev.org A 0.0.0.0
 dns.jundev.org AAAA ::
 *.dns.jundev.org AAAA ::
-dns.jupdarknet.to A 0.0.0.0
-*.dns.jupdarknet.to A 0.0.0.0
-dns.jupdarknet.to AAAA ::
-*.dns.jupdarknet.to AAAA ::
+dns.jupitrdns.com A 0.0.0.0
+*.dns.jupitrdns.com A 0.0.0.0
+dns.jupitrdns.com AAAA ::
+*.dns.jupitrdns.com AAAA ::
 dns.justinnetworkingsolutions.com A 0.0.0.0
 *.dns.justinnetworkingsolutions.com A 0.0.0.0
 dns.justinnetworkingsolutions.com AAAA ::
@@ -2645,10 +2629,6 @@ dns.muxinghe.cn A 0.0.0.0
 *.dns.muxinghe.cn A 0.0.0.0
 dns.muxinghe.cn AAAA ::
 *.dns.muxinghe.cn AAAA ::
-dns.mzjtechnology.com A 0.0.0.0
-*.dns.mzjtechnology.com A 0.0.0.0
-dns.mzjtechnology.com AAAA ::
-*.dns.mzjtechnology.com AAAA ::
 dns.mzrme.cn A 0.0.0.0
 *.dns.mzrme.cn A 0.0.0.0
 dns.mzrme.cn AAAA ::
@@ -2685,10 +2665,6 @@ dns.netvpn.net A 0.0.0.0
 *.dns.netvpn.net A 0.0.0.0
 dns.netvpn.net AAAA ::
 *.dns.netvpn.net AAAA ::
-dns.neubsi.at A 0.0.0.0
-*.dns.neubsi.at A 0.0.0.0
-dns.neubsi.at AAAA ::
-*.dns.neubsi.at AAAA ::
 dns.neutopia.org A 0.0.0.0
 *.dns.neutopia.org A 0.0.0.0
 dns.neutopia.org AAAA ::
@@ -3269,10 +3245,6 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
-dnswarden.com A 0.0.0.0
-*.dnswarden.com A 0.0.0.0
-dnswarden.com AAAA ::
-*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -3373,10 +3345,6 @@ doh-02.spectrum.com A 0.0.0.0
 *.doh-02.spectrum.com A 0.0.0.0
 doh-02.spectrum.com AAAA ::
 *.doh-02.spectrum.com AAAA ::
-doh.18bit.cn A 0.0.0.0
-*.doh.18bit.cn A 0.0.0.0
-doh.18bit.cn AAAA ::
-*.doh.18bit.cn AAAA ::
 doh1.b-cdn.net A 0.0.0.0
 *.doh1.b-cdn.net A 0.0.0.0
 doh1.b-cdn.net AAAA ::
@@ -4229,10 +4197,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.dee.su A 0.0.0.0
-*.ecs-doh.dee.su A 0.0.0.0
-ecs-doh.dee.su AAAA ::
-*.ecs-doh.dee.su AAAA ::
+ecs-doh.003153.xyz A 0.0.0.0
+*.ecs-doh.003153.xyz A 0.0.0.0
+ecs-doh.003153.xyz AAAA ::
+*.ecs-doh.003153.xyz AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4645,10 +4613,10 @@ gb-lon-w-p-1.nashkan.net A 0.0.0.0
 *.gb-lon-w-p-1.nashkan.net A 0.0.0.0
 gb-lon-w-p-1.nashkan.net AAAA ::
 *.gb-lon-w-p-1.nashkan.net AAAA ::
-gb-lon-w-p-2.nashkan.net A 0.0.0.0
-*.gb-lon-w-p-2.nashkan.net A 0.0.0.0
-gb-lon-w-p-2.nashkan.net AAAA ::
-*.gb-lon-w-p-2.nashkan.net AAAA ::
+gb-lon-w-p-2dee.su A 0.0.0.0
+*.gb-lon-w-p-2dee.su A 0.0.0.0
+gb-lon-w-p-2dee.su AAAA ::
+*.gb-lon-w-p-2dee.su AAAA ::
 gclouddns.com A 0.0.0.0
 *.gclouddns.com A 0.0.0.0
 gclouddns.com AAAA ::
@@ -4933,10 +4901,6 @@ hoxx.com A 0.0.0.0
 *.hoxx.com A 0.0.0.0
 hoxx.com AAAA ::
 *.hoxx.com AAAA ::
-hshh.org A 0.0.0.0
-*.hshh.org A 0.0.0.0
-hshh.org AAAA ::
-*.hshh.org AAAA ::
 httpdns.meituan.com A 0.0.0.0
 *.httpdns.meituan.com A 0.0.0.0
 httpdns.meituan.com AAAA ::
@@ -5069,10 +5033,6 @@ itopvpn.com A 0.0.0.0
 *.itopvpn.com A 0.0.0.0
 itopvpn.com AAAA ::
 *.itopvpn.com AAAA ::
-itrdns.com A 0.0.0.0
-*.itrdns.com A 0.0.0.0
-itrdns.com AAAA ::
-*.itrdns.com AAAA ::
 ivacy.com A 0.0.0.0
 *.ivacy.com A 0.0.0.0
 ivacy.com AAAA ::
@@ -5209,10 +5169,6 @@ kids.ns.nwps.fi A 0.0.0.0
 *.kids.ns.nwps.fi A 0.0.0.0
 kids.ns.nwps.fi AAAA ::
 *.kids.ns.nwps.fi AAAA ::
-kilabit.info A 0.0.0.0
-*.kilabit.info A 0.0.0.0
-kilabit.info AAAA ::
-*.kilabit.info AAAA ::
 kiri.nonexiste.net A 0.0.0.0
 *.kiri.nonexiste.net A 0.0.0.0
 kiri.nonexiste.net AAAA ::
@@ -5929,10 +5885,10 @@ ordns.he.net A 0.0.0.0
 *.ordns.he.net A 0.0.0.0
 ordns.he.net AAAA ::
 *.ordns.he.net AAAA ::
-ore.anycast.censurfridns.dk A 0.0.0.0
-*.ore.anycast.censurfridns.dk A 0.0.0.0
-ore.anycast.censurfridns.dk AAAA ::
-*.ore.anycast.censurfridns.dk AAAA ::
+oreddns.org A 0.0.0.0
+*.oreddns.org A 0.0.0.0
+oreddns.org AAAA ::
+*.oreddns.org AAAA ::
 ore-dns.bitdefender.net A 0.0.0.0
 *.ore-dns.bitdefender.net A 0.0.0.0
 ore-dns.bitdefender.net AAAA ::
@@ -5985,10 +5941,6 @@ pashagame456.com A 0.0.0.0
 *.pashagame456.com A 0.0.0.0
 pashagame456.com AAAA ::
 *.pashagame456.com AAAA ::
-pates.services.sfr.fr.casepp.sfr.fr A 0.0.0.0
-*.pates.services.sfr.fr.casepp.sfr.fr A 0.0.0.0
-pates.services.sfr.fr.casepp.sfr.fr AAAA ::
-*.pates.services.sfr.fr.casepp.sfr.fr AAAA ::
 paulo.nom.za A 0.0.0.0
 *.paulo.nom.za A 0.0.0.0
 paulo.nom.za AAAA ::
@@ -6541,14 +6493,6 @@ res-acst1.absolight.net A 0.0.0.0
 *.res-acst1.absolight.net A 0.0.0.0
 res-acst1.absolight.net AAAA ::
 *.res-acst1.absolight.net AAAA ::
-res-acst2.absolight.net A 0.0.0.0
-*.res-acst2.absolight.net A 0.0.0.0
-res-acst2.absolight.net AAAA ::
-*.res-acst2.absolight.net AAAA ::
-res-acst3.absolight.net A 0.0.0.0
-*.res-acst3.absolight.net A 0.0.0.0
-res-acst3.absolight.net AAAA ::
-*.res-acst3.absolight.net AAAA ::
 resolv1.trash.net A 0.0.0.0
 *.resolv1.trash.net A 0.0.0.0
 resolv1.trash.net AAAA ::
@@ -6865,6 +6809,10 @@ sg1.dnswarden.com A 0.0.0.0
 *.sg1.dnswarden.com A 0.0.0.0
 sg1.dnswarden.com AAAA ::
 *.sg1.dnswarden.com AAAA ::
+sg2.ooroot.com A 0.0.0.0
+*.sg2.ooroot.com A 0.0.0.0
+sg2.ooroot.com AAAA ::
+*.sg2.ooroot.com AAAA ::
 sg-dns1.bancuh.com A 0.0.0.0
 *.sg-dns1.bancuh.com A 0.0.0.0
 sg-dns1.bancuh.com AAAA ::
@@ -7277,10 +7225,6 @@ tri-dns.net A 0.0.0.0
 *.tri-dns.net A 0.0.0.0
 tri-dns.net AAAA ::
 *.tri-dns.net AAAA ::
-truta.org A 0.0.0.0
-*.truta.org A 0.0.0.0
-truta.org AAAA ::
-*.truta.org AAAA ::
 tsm01.dnscry.pt A 0.0.0.0
 *.tsm01.dnscry.pt A 0.0.0.0
 tsm01.dnscry.pt AAAA ::
