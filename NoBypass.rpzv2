@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2603051725 ; Serial Number
+ 2603060525 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -9,10 +9,10 @@ $ORIGIN nobypass.rpz.
  )
  NS localhost
 
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
+003153.xyz A 0.0.0.0
+*.003153.xyz A 0.0.0.0
+003153.xyz AAAA ::
+*.003153.xyz AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -25,10 +25,6 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
-12vpx.com A 0.0.0.0
-*.12vpx.com A 0.0.0.0
-12vpx.com AAAA ::
-*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -269,10 +265,6 @@ adguard.ender.fr A 0.0.0.0
 *.adguard.ender.fr A 0.0.0.0
 adguard.ender.fr AAAA ::
 *.adguard.ender.fr AAAA ::
-adguard.gambini.org A 0.0.0.0
-*.adguard.gambini.org A 0.0.0.0
-adguard.gambini.org AAAA ::
-*.adguard.gambini.org AAAA ::
 adguard.gbrossi.com.br A 0.0.0.0
 *.adguard.gbrossi.com.br A 0.0.0.0
 adguard.gbrossi.com.br AAAA ::
@@ -1093,6 +1085,10 @@ cubedns.com A 0.0.0.0
 *.cubedns.com A 0.0.0.0
 cubedns.com AAAA ::
 *.cubedns.com AAAA ::
+cube.neubsi.at A 0.0.0.0
+*.cube.neubsi.at A 0.0.0.0
+cube.neubsi.at AAAA ::
+*.cube.neubsi.at AAAA ::
 cvt01.dnscry.pt A 0.0.0.0
 *.cvt01.dnscry.pt A 0.0.0.0
 cvt01.dnscry.pt AAAA ::
@@ -1117,6 +1113,10 @@ dandelionsprout.asuscomm.com A 0.0.0.0
 *.dandelionsprout.asuscomm.com A 0.0.0.0
 dandelionsprout.asuscomm.com AAAA ::
 *.dandelionsprout.asuscomm.com AAAA ::
+d.apemlegit.my.id A 0.0.0.0
+*.d.apemlegit.my.id A 0.0.0.0
+d.apemlegit.my.id AAAA ::
+*.d.apemlegit.my.id AAAA ::
 darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
@@ -1153,6 +1153,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1185,14 +1189,14 @@ deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 deic-lgb.anycast.uncensoreddns.org AAAA ::
 *.deic-lgb.anycast.uncensoreddns.org AAAA ::
+deic-ore.a12vpx.com A 0.0.0.0
+*.deic-ore.a12vpx.com A 0.0.0.0
+deic-ore.a12vpx.com AAAA ::
+*.deic-ore.a12vpx.com AAAA ::
 deic-ore.anycast.censurfridns.dk A 0.0.0.0
 *.deic-ore.anycast.censurfridns.dk A 0.0.0.0
 deic-ore.anycast.censurfridns.dk AAAA ::
 *.deic-ore.anycast.censurfridns.dk AAAA ::
-deic-ore.anycast.uncensdnswarden.com A 0.0.0.0
-*.deic-ore.anycast.uncensdnswarden.com A 0.0.0.0
-deic-ore.anycast.uncensdnswarden.com AAAA ::
-*.deic-ore.anycast.uncensdnswarden.com AAAA ::
 deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 deic-ore.anycast.uncensoreddns.org AAAA ::
@@ -1981,6 +1985,10 @@ dns.dremaxx.de A 0.0.0.0
 *.dns.dremaxx.de A 0.0.0.0
 dns.dremaxx.de AAAA ::
 *.dns.dremaxx.de AAAA ::
+dns.dyn1.de A 0.0.0.0
+*.dns.dyn1.de A 0.0.0.0
+dns.dyn1.de AAAA ::
+*.dns.dyn1.de AAAA ::
 dns.dynx.pro A 0.0.0.0
 *.dns.dynx.pro A 0.0.0.0
 dns.dynx.pro AAAA ::
@@ -2005,6 +2013,10 @@ dns.edison42.dev A 0.0.0.0
 *.dns.edison42.dev A 0.0.0.0
 dns.edison42.dev AAAA ::
 *.dns.edison42.dev AAAA ::
+dns.efficientdocuments.com A 0.0.0.0
+*.dns.efficientdocuments.com A 0.0.0.0
+dns.efficientdocuments.com AAAA ::
+*.dns.efficientdocuments.com AAAA ::
 dns.elemental.software A 0.0.0.0
 *.dns.elemental.software A 0.0.0.0
 dns.elemental.software AAAA ::
@@ -2297,6 +2309,10 @@ dns.iki.my.id A 0.0.0.0
 *.dns.iki.my.id A 0.0.0.0
 dns.iki.my.id AAAA ::
 *.dns.iki.my.id AAAA ::
+dns.imaicool.com A 0.0.0.0
+*.dns.imaicool.com A 0.0.0.0
+dns.imaicool.com AAAA ::
+*.dns.imaicool.com AAAA ::
 dns.imchristian.de A 0.0.0.0
 *.dns.imchristian.de A 0.0.0.0
 dns.imchristian.de AAAA ::
@@ -2465,10 +2481,6 @@ dns.lermer.nl A 0.0.0.0
 *.dns.lermer.nl A 0.0.0.0
 dns.lermer.nl AAAA ::
 *.dns.lermer.nl AAAA ::
-dns.levonet.sk A 0.0.0.0
-*.dns.levonet.sk A 0.0.0.0
-dns.levonet.sk AAAA ::
-*.dns.levonet.sk AAAA ::
 dns.lgprk.com A 0.0.0.0
 *.dns.lgprk.com A 0.0.0.0
 dns.lgprk.com AAAA ::
@@ -2629,6 +2641,10 @@ dns.muxinghe.cn A 0.0.0.0
 *.dns.muxinghe.cn A 0.0.0.0
 dns.muxinghe.cn AAAA ::
 *.dns.muxinghe.cn AAAA ::
+dns.mzjtechnology.com A 0.0.0.0
+*.dns.mzjtechnology.com A 0.0.0.0
+dns.mzjtechnology.com AAAA ::
+*.dns.mzjtechnology.com AAAA ::
 dns.mzrme.cn A 0.0.0.0
 *.dns.mzrme.cn A 0.0.0.0
 dns.mzrme.cn AAAA ::
@@ -2665,6 +2681,10 @@ dns.netvpn.net A 0.0.0.0
 *.dns.netvpn.net A 0.0.0.0
 dns.netvpn.net AAAA ::
 *.dns.netvpn.net AAAA ::
+dns.neubsi.at A 0.0.0.0
+*.dns.neubsi.at A 0.0.0.0
+dns.neubsi.at AAAA ::
+*.dns.neubsi.at AAAA ::
 dns.neutopia.org A 0.0.0.0
 *.dns.neutopia.org A 0.0.0.0
 dns.neutopia.org AAAA ::
@@ -3029,10 +3049,6 @@ dns.slinkyman.net A 0.0.0.0
 *.dns.slinkyman.net A 0.0.0.0
 dns.slinkyman.net AAAA ::
 *.dns.slinkyman.net AAAA ::
-dns.smartguard.io A 0.0.0.0
-*.dns.smartguard.io A 0.0.0.0
-dns.smartguard.io AAAA ::
-*.dns.smartguard.io AAAA ::
 dns.soldier.terumi.club A 0.0.0.0
 *.dns.soldier.terumi.club A 0.0.0.0
 dns.soldier.terumi.club AAAA ::
@@ -3345,6 +3361,10 @@ doh-02.spectrum.com A 0.0.0.0
 *.doh-02.spectrum.com A 0.0.0.0
 doh-02.spectrum.com AAAA ::
 *.doh-02.spectrum.com AAAA ::
+doh.18bit.cn A 0.0.0.0
+*.doh.18bit.cn A 0.0.0.0
+doh.18bit.cn AAAA ::
+*.doh.18bit.cn AAAA ::
 doh1.b-cdn.net A 0.0.0.0
 *.doh1.b-cdn.net A 0.0.0.0
 doh1.b-cdn.net AAAA ::
@@ -4197,10 +4217,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.003153.xyz A 0.0.0.0
-*.ecs-doh.003153.xyz A 0.0.0.0
-ecs-doh.003153.xyz AAAA ::
-*.ecs-doh.003153.xyz AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4597,14 +4617,14 @@ gateway.fomichev.cloud A 0.0.0.0
 *.gateway.fomichev.cloud A 0.0.0.0
 gateway.fomichev.cloud AAAA ::
 *.gateway.fomichev.cloud AAAA ::
+gb012proxy.ga A 0.0.0.0
+*.gb012proxy.ga A 0.0.0.0
+gb012proxy.ga AAAA ::
+*.gb012proxy.ga AAAA ::
 gb-cov-w-f-1.nashkan.net A 0.0.0.0
 *.gb-cov-w-f-1.nashkan.net A 0.0.0.0
 gb-cov-w-f-1.nashkan.net AAAA ::
 *.gb-cov-w-f-1.nashkan.net AAAA ::
-gb-cov-w-p-1.nashkan.net A 0.0.0.0
-*.gb-cov-w-p-1.nashkan.net A 0.0.0.0
-gb-cov-w-p-1.nashkan.net AAAA ::
-*.gb-cov-w-p-1.nashkan.net AAAA ::
 gb-lon-w-f-1.nashkan.net A 0.0.0.0
 *.gb-lon-w-f-1.nashkan.net A 0.0.0.0
 gb-lon-w-f-1.nashkan.net AAAA ::
@@ -4613,10 +4633,10 @@ gb-lon-w-p-1.nashkan.net A 0.0.0.0
 *.gb-lon-w-p-1.nashkan.net A 0.0.0.0
 gb-lon-w-p-1.nashkan.net AAAA ::
 *.gb-lon-w-p-1.nashkan.net AAAA ::
-gb-lon-w-p-2dee.su A 0.0.0.0
-*.gb-lon-w-p-2dee.su A 0.0.0.0
-gb-lon-w-p-2dee.su AAAA ::
-*.gb-lon-w-p-2dee.su AAAA ::
+gb-lon-w-p-2.nashkan.net A 0.0.0.0
+*.gb-lon-w-p-2.nashkan.net A 0.0.0.0
+gb-lon-w-p-2.nashkan.net AAAA ::
+*.gb-lon-w-p-2.nashkan.net AAAA ::
 gclouddns.com A 0.0.0.0
 *.gclouddns.com A 0.0.0.0
 gclouddns.com AAAA ::
@@ -4901,6 +4921,10 @@ hoxx.com A 0.0.0.0
 *.hoxx.com A 0.0.0.0
 hoxx.com AAAA ::
 *.hoxx.com AAAA ::
+hshh.org A 0.0.0.0
+*.hshh.org A 0.0.0.0
+hshh.org AAAA ::
+*.hshh.org AAAA ::
 httpdns.meituan.com A 0.0.0.0
 *.httpdns.meituan.com A 0.0.0.0
 httpdns.meituan.com AAAA ::
@@ -5169,6 +5193,10 @@ kids.ns.nwps.fi A 0.0.0.0
 *.kids.ns.nwps.fi A 0.0.0.0
 kids.ns.nwps.fi AAAA ::
 *.kids.ns.nwps.fi AAAA ::
+kilabit.info A 0.0.0.0
+*.kilabit.info A 0.0.0.0
+kilabit.info AAAA ::
+*.kilabit.info AAAA ::
 kiri.nonexiste.net A 0.0.0.0
 *.kiri.nonexiste.net A 0.0.0.0
 kiri.nonexiste.net AAAA ::
@@ -5745,6 +5773,10 @@ nyc01.dnscry.pt A 0.0.0.0
 *.nyc01.dnscry.pt A 0.0.0.0
 nyc01.dnscry.pt AAAA ::
 *.nyc01.dnscry.pt AAAA ::
+nycast.uncensoreddns.org A 0.0.0.0
+*.nycast.uncensoreddns.org A 0.0.0.0
+nycast.uncensoreddns.org AAAA ::
+*.nycast.uncensoreddns.org AAAA ::
 ny.teradns.org A 0.0.0.0
 *.ny.teradns.org A 0.0.0.0
 ny.teradns.org AAAA ::
@@ -5769,6 +5801,10 @@ odvr.nic.cz A 0.0.0.0
 *.odvr.nic.cz A 0.0.0.0
 odvr.nic.cz AAAA ::
 *.odvr.nic.cz AAAA ::
+oerli.net A 0.0.0.0
+*.oerli.net A 0.0.0.0
+oerli.net AAAA ::
+*.oerli.net AAAA ::
 okado.online A 0.0.0.0
 *.okado.online A 0.0.0.0
 okado.online AAAA ::
@@ -5885,10 +5921,6 @@ ordns.he.net A 0.0.0.0
 *.ordns.he.net A 0.0.0.0
 ordns.he.net AAAA ::
 *.ordns.he.net AAAA ::
-oreddns.org A 0.0.0.0
-*.oreddns.org A 0.0.0.0
-oreddns.org AAAA ::
-*.oreddns.org AAAA ::
 ore-dns.bitdefender.net A 0.0.0.0
 *.ore-dns.bitdefender.net A 0.0.0.0
 ore-dns.bitdefender.net AAAA ::
@@ -5973,10 +6005,6 @@ phx01.dnscry.pt A 0.0.0.0
 *.phx01.dnscry.pt A 0.0.0.0
 phx01.dnscry.pt AAAA ::
 *.phx01.dnscry.pt AAAA ::
-pihole1.hoerli.net A 0.0.0.0
-*.pihole1.hoerli.net A 0.0.0.0
-pihole1.hoerli.net AAAA ::
-*.pihole1.hoerli.net AAAA ::
 pihole2.hoerli.net A 0.0.0.0
 *.pihole2.hoerli.net A 0.0.0.0
 pihole2.hoerli.net AAAA ::
@@ -6493,6 +6521,14 @@ res-acst1.absolight.net A 0.0.0.0
 *.res-acst1.absolight.net A 0.0.0.0
 res-acst1.absolight.net AAAA ::
 *.res-acst1.absolight.net AAAA ::
+res-acst2.absolight.net A 0.0.0.0
+*.res-acst2.absolight.net A 0.0.0.0
+res-acst2.absolight.net AAAA ::
+*.res-acst2.absolight.net AAAA ::
+res-acst3.absolight.net A 0.0.0.0
+*.res-acst3.absolight.net A 0.0.0.0
+res-acst3.absolight.net AAAA ::
+*.res-acst3.absolight.net AAAA ::
 resolv1.trash.net A 0.0.0.0
 *.resolv1.trash.net A 0.0.0.0
 resolv1.trash.net AAAA ::
@@ -6809,10 +6845,6 @@ sg1.dnswarden.com A 0.0.0.0
 *.sg1.dnswarden.com A 0.0.0.0
 sg1.dnswarden.com AAAA ::
 *.sg1.dnswarden.com AAAA ::
-sg2.ooroot.com A 0.0.0.0
-*.sg2.ooroot.com A 0.0.0.0
-sg2.ooroot.com AAAA ::
-*.sg2.ooroot.com AAAA ::
 sg-dns1.bancuh.com A 0.0.0.0
 *.sg-dns1.bancuh.com A 0.0.0.0
 sg-dns1.bancuh.com AAAA ::
@@ -7757,10 +7789,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.com A 0.0.0.0
-*.whoisping.com A 0.0.0.0
-whoisping.com AAAA ::
-*.whoisping.com AAAA ::
+whoisping.com-cov-w-p-1.nashkan.net A 0.0.0.0
+*.whoisping.com-cov-w-p-1.nashkan.net A 0.0.0.0
+whoisping.com-cov-w-p-1.nashkan.net AAAA ::
+*.whoisping.com-cov-w-p-1.nashkan.net AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
