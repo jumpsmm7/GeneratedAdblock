@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2603061725 ; Serial Number
+ 2603070522 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -553,8 +553,6 @@ crypto.sx CNAME .
 *.crypto.sx CNAME .
 cubedns.com CNAME .
 *.cubedns.com CNAME .
-cube.neubsi.at CNAME .
-*.cube.neubsi.at CNAME .
 cvt01.dnscry.pt CNAME .
 *.cvt01.dnscry.pt CNAME .
 cyberghostvpn.com CNAME .
@@ -573,6 +571,8 @@ darkness.is.my.waifu.cz CNAME .
 *.darkness.is.my.waifu.cz CNAME .
 darknet.to CNAME .
 *.darknet.to CNAME .
+dart.kpsn.org CNAME .
+*.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
 *.darya.persiannit.net CNAME .
 d.bod.lol CNAME .
@@ -599,6 +599,8 @@ de-fra-w-p-1.nashkan.net CNAME .
 *.de-fra-w-p-1.nashkan.net CNAME .
 de-fsn-w-p-1.nashkan.net CNAME .
 *.de-fsn-w-p-1.nashkan.net CNAME .
+deic-firefox.dns.nextdns.io CNAME .
+*.deic-firefox.dns.nextdns.io CNAME .
 deic-lgb.anycast.censurfridns.dk CNAME .
 *.deic-lgb.anycast.censurfridns.dk CNAME .
 deic-lgb.anycast.uncensoreddns.org CNAME .
@@ -607,8 +609,6 @@ deic-ore.anycast.censurfridns.dk CNAME .
 *.deic-ore.anycast.censurfridns.dk CNAME .
 deic-ore.anycast.uncensoreddns.org CNAME .
 *.deic-ore.anycast.uncensoreddns.org CNAME .
-deic-ore.anycast.uncensoreddns.ormask.icloud.com CNAME .
-*.deic-ore.anycast.uncensoreddns.ormask.icloud.com CNAME .
 den01.dnscry.pt CNAME .
 *.den01.dnscry.pt CNAME .
 de.teradns.org CNAME .
@@ -1015,8 +1015,6 @@ dns.edgy.network CNAME .
 *.dns.edgy.network CNAME .
 dns.edison42.dev CNAME .
 *.dns.edison42.dev CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 dns.elemental.software CNAME .
 *.dns.elemental.software CNAME .
 dns.eliv.kr CNAME .
@@ -1193,8 +1191,8 @@ dns.jundev.org CNAME .
 *.dns.jundev.org CNAME .
 dns.jupitrdns.com CNAME .
 *.dns.jupitrdns.com CNAME .
-dns.justinnetworkingsolufirefox.dns.nextdns.io CNAME .
-*.dns.justinnetworkingsolufirefox.dns.nextdns.io CNAME .
+dns.justinnetworkingsolutions.com CNAME .
+*.dns.justinnetworkingsolutions.com CNAME .
 dns.k3nny.fr CNAME .
 *.dns.k3nny.fr CNAME .
 dns.kamilszczepanski.com CNAME .
@@ -1349,8 +1347,6 @@ dns.netraptor.com.au CNAME .
 *.dns.netraptor.com.au CNAME .
 dns.netvpn.net CNAME .
 *.dns.netvpn.net CNAME .
-dns.neubsi.at CNAME .
-*.dns.neubsi.at CNAME .
 dns.neutopia.org CNAME .
 *.dns.neutopia.org CNAME .
 dns.nextdns.io CNAME .
@@ -2621,8 +2617,6 @@ kproxysite.com CNAME .
 *.kproxysite.com CNAME .
 kr1.ooroot.com CNAME .
 *.kr1.ooroot.com CNAME .
-kr2.ooroot.com CNAME .
-*.kr2.ooroot.com CNAME .
 kracon.anycast.censurfridns.dk CNAME .
 *.kracon.anycast.censurfridns.dk CNAME .
 kracon.anycast.uncensoreddns.org CNAME .
@@ -2631,6 +2625,8 @@ kronos.plan9-dns.com CNAME .
 *.kronos.plan9-dns.com CNAME .
 kr-sel.doh.sb CNAME .
 *.kr-sel.doh.sb CNAME .
+krtekvpn.duckdns.org CNAME .
+*.krtekvpn.duckdns.org CNAME .
 kx-97795-tr.xyz CNAME .
 *.kx-97795-tr.xyz CNAME .
 kz-pav-w-p-1.nashkan.net CNAME .
@@ -2881,8 +2877,6 @@ ns.nwps.fi CNAME .
 *.ns.nwps.fi CNAME .
 ns.ral9005.org CNAME .
 *.ns.ral9005.org CNAME .
-ns.trcnet.fi CNAME .
-*.ns.trcnet.fi CNAME .
 ntwrkh.pro CNAME .
 *.ntwrkh.pro CNAME .
 nue01.dnscry.pt CNAME .
@@ -2965,6 +2959,8 @@ ord01.dnscry.pt CNAME .
 *.ord01.dnscry.pt CNAME .
 ordns.he.net CNAME .
 *.ordns.he.net CNAME .
+ore.anycast.uncensoreddns.org CNAME .
+*.ore.anycast.uncensoreddns.org CNAME .
 ore-dns.bitdefender.net CNAME .
 *.ore-dns.bitdefender.net CNAME .
 o.rsaikat.com CNAME .
@@ -2991,8 +2987,6 @@ parrotsec.org CNAME .
 *.parrotsec.org CNAME .
 pashagame456.com CNAME .
 *.pashagame456.com CNAME .
-pates.services.sfr.fr.casepp.sfr.fr CNAME .
-*.pates.services.sfr.fr.casepp.sfr.fr CNAME .
 paulo.nom.za CNAME .
 *.paulo.nom.za CNAME .
 pdns.faelix.net CNAME .
@@ -3277,6 +3271,8 @@ resolv3.trash.net CNAME .
 *.resolv3.trash.net CNAME .
 resolve2.r9x.cc CNAME .
 *.resolve2.r9x.cc CNAME .
+resolver1.absolight.net CNAME .
+*.resolver1.absolight.net CNAME .
 resolver1-fs.opendns.com CNAME .
 *.resolver1-fs.opendns.com CNAME .
 resolver1.ipv6-sandbox.opendns.com CNAME .
@@ -3291,8 +3287,6 @@ resolver2.ipv6-sandbox.opendns.com CNAME .
 *.resolver2.ipv6-sandbox.opendns.com CNAME .
 resolver2.opendns.com CNAME .
 *.resolver2.opendns.com CNAME .
-resolver3.absolight.net CNAME .
-*.resolver3.absolight.net CNAME .
 resolver4.dns.openinternet.io CNAME .
 *.resolver4.dns.openinternet.io CNAME .
 resolver-eu.haringstad.com CNAME .
@@ -3585,8 +3579,6 @@ timedns.net CNAME .
 *.timedns.net CNAME .
 timmes.nl CNAME .
 *.timmes.nl CNAME .
-tions.com CNAME .
-*.tions.com CNAME .
 tj.jamesxue.xyz CNAME .
 *.tj.jamesxue.xyz CNAME .
 tk31z.com CNAME .
