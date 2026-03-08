@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2603080525 ; Serial Number
+ 2603081625 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -29,10 +29,6 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
-12vpx.com A 0.0.0.0
-*.12vpx.com A 0.0.0.0
-12vpx.com AAAA ::
-*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -757,6 +753,10 @@ biying.flymlc.com A 0.0.0.0
 *.biying.flymlc.com A 0.0.0.0
 biying.flymlc.com AAAA ::
 *.biying.flymlc.com AAAA ::
+blackhole.myon.lu A 0.0.0.0
+*.blackhole.myon.lu A 0.0.0.0
+blackhole.myon.lu AAAA ::
+*.blackhole.myon.lu AAAA ::
 blackvpn.com A 0.0.0.0
 *.blackvpn.com A 0.0.0.0
 blackvpn.com AAAA ::
@@ -1097,10 +1097,6 @@ cubedns.com A 0.0.0.0
 *.cubedns.com A 0.0.0.0
 cubedns.com AAAA ::
 *.cubedns.com AAAA ::
-cube.neubsi.at A 0.0.0.0
-*.cube.neubsi.at A 0.0.0.0
-cube.neubsi.at AAAA ::
-*.cube.neubsi.at AAAA ::
 cvt01.dnscry.pt A 0.0.0.0
 *.cvt01.dnscry.pt A 0.0.0.0
 cvt01.dnscry.pt AAAA ::
@@ -1125,6 +1121,10 @@ dandelionsprout.asuscomm.com A 0.0.0.0
 *.dandelionsprout.asuscomm.com A 0.0.0.0
 dandelionsprout.asuscomm.com AAAA ::
 *.dandelionsprout.asuscomm.com AAAA ::
+d.apemlegit.my.id A 0.0.0.0
+*.d.apemlegit.my.id A 0.0.0.0
+d.apemlegit.my.id AAAA ::
+*.d.apemlegit.my.id AAAA ::
 darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
@@ -1161,6 +1161,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1201,10 +1205,6 @@ deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 deic-ore.anycast.uncensoreddns.org AAAA ::
 *.deic-ore.anycast.uncensoreddns.org AAAA ::
-deic-oredee.su A 0.0.0.0
-*.deic-oredee.su A 0.0.0.0
-deic-oredee.su AAAA ::
-*.deic-oredee.su AAAA ::
 den01.dnscry.pt A 0.0.0.0
 *.den01.dnscry.pt A 0.0.0.0
 den01.dnscry.pt AAAA ::
@@ -1369,14 +1369,10 @@ dns2.nextdns.io A 0.0.0.0
 *.dns2.nextdns.io A 0.0.0.0
 dns2.nextdns.io AAAA ::
 *.dns2.nextdns.io AAAA ::
-dns2.nextepicbrowser.com A 0.0.0.0
-*.dns2.nextepicbrowser.com A 0.0.0.0
-dns2.nextepicbrowser.com AAAA ::
-*.dns2.nextepicbrowser.com AAAA ::
-dns2.nordvpn.com A 0.0.0.0
-*.dns2.nordvpn.com A 0.0.0.0
-dns2.nordvpn.com AAAA ::
-*.dns2.nordvpn.com AAAA ::
+dns2.nordvpn.co12vpx.com A 0.0.0.0
+*.dns2.nordvpn.co12vpx.com A 0.0.0.0
+dns2.nordvpn.co12vpx.com AAAA ::
+*.dns2.nordvpn.co12vpx.com AAAA ::
 dns2.saferbfc.org A 0.0.0.0
 *.dns2.saferbfc.org A 0.0.0.0
 dns2.saferbfc.org AAAA ::
@@ -1821,10 +1817,6 @@ dns.controld.com A 0.0.0.0
 *.dns.controld.com A 0.0.0.0
 dns.controld.com AAAA ::
 *.dns.controld.com AAAA ::
-dns.cooluc.com A 0.0.0.0
-*.dns.cooluc.com A 0.0.0.0
-dns.cooluc.com AAAA ::
-*.dns.cooluc.com AAAA ::
 dns.cryptomize.com A 0.0.0.0
 *.dns.cryptomize.com A 0.0.0.0
 dns.cryptomize.com AAAA ::
@@ -1937,10 +1929,6 @@ dns.digitalsize.net A 0.0.0.0
 *.dns.digitalsize.net A 0.0.0.0
 dns.digitalsize.net AAAA ::
 *.dns.digitalsize.net AAAA ::
-dns.dk A 0.0.0.0
-*.dns.dk A 0.0.0.0
-dns.dk AAAA ::
-*.dns.dk AAAA ::
 dns.dns-53.com A 0.0.0.0
 *.dns.dns-53.com A 0.0.0.0
 dns.dns-53.com AAAA ::
@@ -2025,10 +2013,6 @@ dns.edison42.dev A 0.0.0.0
 *.dns.edison42.dev A 0.0.0.0
 dns.edison42.dev AAAA ::
 *.dns.edison42.dev AAAA ::
-dns.efficientdocuments.com A 0.0.0.0
-*.dns.efficientdocuments.com A 0.0.0.0
-dns.efficientdocuments.com AAAA ::
-*.dns.efficientdocuments.com AAAA ::
 dns.elemental.software A 0.0.0.0
 *.dns.elemental.software A 0.0.0.0
 dns.elemental.software AAAA ::
@@ -2101,6 +2085,10 @@ dns.filipccz.eu A 0.0.0.0
 *.dns.filipccz.eu A 0.0.0.0
 dns.filipccz.eu AAAA ::
 *.dns.filipccz.eu AAAA ::
+dns.fizz.studio A 0.0.0.0
+*.dns.fizz.studio A 0.0.0.0
+dns.fizz.studio AAAA ::
+*.dns.fizz.studio AAAA ::
 dns.flatuslifir.is A 0.0.0.0
 *.dns.flatuslifir.is A 0.0.0.0
 dns.flatuslifir.is AAAA ::
@@ -2321,10 +2309,6 @@ dns.iki.my.id A 0.0.0.0
 *.dns.iki.my.id A 0.0.0.0
 dns.iki.my.id AAAA ::
 *.dns.iki.my.id AAAA ::
-dns.imaicool.com A 0.0.0.0
-*.dns.imaicool.com A 0.0.0.0
-dns.imaicool.com AAAA ::
-*.dns.imaicool.com AAAA ::
 dns.imchristian.de A 0.0.0.0
 *.dns.imchristian.de A 0.0.0.0
 dns.imchristian.de AAAA ::
@@ -2341,10 +2325,6 @@ dns.internal.hosmatic.com A 0.0.0.0
 *.dns.internal.hosmatic.com A 0.0.0.0
 dns.internal.hosmatic.com AAAA ::
 *.dns.internal.hosmatic.com AAAA ::
-dns.io A 0.0.0.0
-*.dns.io A 0.0.0.0
-dns.io AAAA ::
-*.dns.io AAAA ::
 dns.is0mino.com A 0.0.0.0
 *.dns.is0mino.com A 0.0.0.0
 dns.is0mino.com AAAA ::
@@ -2385,10 +2365,10 @@ dns.jupitrdns.com A 0.0.0.0
 *.dns.jupitrdns.com A 0.0.0.0
 dns.jupitrdns.com AAAA ::
 *.dns.jupitrdns.com AAAA ::
-dns.justinnetworkingsolutions.com A 0.0.0.0
-*.dns.justinnetworkingsolutions.com A 0.0.0.0
-dns.justinnetworkingsolutions.com AAAA ::
-*.dns.justinnetworkingsolutions.com AAAA ::
+dns.justinnetworking1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.dns.justinnetworking1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+dns.justinnetworking1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.dns.justinnetworking1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns.k3nny.fr A 0.0.0.0
 *.dns.k3nny.fr A 0.0.0.0
 dns.k3nny.fr AAAA ::
@@ -4273,6 +4253,10 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
+epicbrowser.com A 0.0.0.0
+*.epicbrowser.com A 0.0.0.0
+epicbrowser.com AAAA ::
+*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4629,10 +4613,10 @@ galileo.math.unipd.it A 0.0.0.0
 *.galileo.math.unipd.it A 0.0.0.0
 galileo.math.unipd.it AAAA ::
 *.galileo.math.unipd.it AAAA ::
-gateway.fofirefox.dns.nextdns.io A 0.0.0.0
-*.gateway.fofirefox.dns.nextdns.io A 0.0.0.0
-gateway.fofirefox.dns.nextdns.io AAAA ::
-*.gateway.fofirefox.dns.nextdns.io AAAA ::
+gateway.fomichev.cloud A 0.0.0.0
+*.gateway.fomichev.cloud A 0.0.0.0
+gateway.fomichev.cloud AAAA ::
+*.gateway.fomichev.cloud AAAA ::
 gb-cov-w-f-1.nashkan.net A 0.0.0.0
 *.gb-cov-w-f-1.nashkan.net A 0.0.0.0
 gb-cov-w-f-1.nashkan.net AAAA ::
@@ -4937,10 +4921,6 @@ hoxx.com A 0.0.0.0
 *.hoxx.com A 0.0.0.0
 hoxx.com AAAA ::
 *.hoxx.com AAAA ::
-hshh.org A 0.0.0.0
-*.hshh.org A 0.0.0.0
-hshh.org AAAA ::
-*.hshh.org AAAA ::
 httpdns.meituan.com A 0.0.0.0
 *.httpdns.meituan.com A 0.0.0.0
 httpdns.meituan.com AAAA ::
@@ -5465,10 +5445,6 @@ mickedi.isgood.host A 0.0.0.0
 *.mickedi.isgood.host A 0.0.0.0
 mickedi.isgood.host AAAA ::
 *.mickedi.isgood.host AAAA ::
-mikezhang.xyz A 0.0.0.0
-*.mikezhang.xyz A 0.0.0.0
-mikezhang.xyz AAAA ::
-*.mikezhang.xyz AAAA ::
 mil01.dnscry.pt A 0.0.0.0
 *.mil01.dnscry.pt A 0.0.0.0
 mil01.dnscry.pt AAAA ::
@@ -5753,6 +5729,10 @@ ns.ral9005.org A 0.0.0.0
 *.ns.ral9005.org A 0.0.0.0
 ns.ral9005.org AAAA ::
 *.ns.ral9005.org AAAA ::
+ns.trcnet.fi A 0.0.0.0
+*.ns.trcnet.fi A 0.0.0.0
+ns.trcnet.fi AAAA ::
+*.ns.trcnet.fi AAAA ::
 ntwrkh.pro A 0.0.0.0
 *.ntwrkh.pro A 0.0.0.0
 ntwrkh.pro AAAA ::
@@ -6525,6 +6505,10 @@ res-acst1.absolight.net A 0.0.0.0
 *.res-acst1.absolight.net A 0.0.0.0
 res-acst1.absolight.net AAAA ::
 *.res-acst1.absolight.net AAAA ::
+res-acst2.absolight.net A 0.0.0.0
+*.res-acst2.absolight.net A 0.0.0.0
+res-acst2.absolight.net AAAA ::
+*.res-acst2.absolight.net AAAA ::
 res-acst3.absolight.net A 0.0.0.0
 *.res-acst3.absolight.net A 0.0.0.0
 res-acst3.absolight.net AAAA ::
@@ -6949,6 +6933,10 @@ sof01.dnscry.pt A 0.0.0.0
 *.sof01.dnscry.pt A 0.0.0.0
 sof01.dnscry.pt AAAA ::
 *.sof01.dnscry.pt AAAA ::
+solutions.com A 0.0.0.0
+*.solutions.com A 0.0.0.0
+solutions.com AAAA ::
+*.solutions.com AAAA ::
 spacedns.org A 0.0.0.0
 *.spacedns.org A 0.0.0.0
 spacedns.org AAAA ::
@@ -7465,10 +7453,6 @@ unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
 *.unicast.censurfridns.dk AAAA ::
-unicast.censurfrimichev.cloud A 0.0.0.0
-*.unicast.censurfrimichev.cloud A 0.0.0.0
-unicast.censurfrimichev.cloud AAAA ::
-*.unicast.censurfrimichev.cloud AAAA ::
 unicast.uncensoreddns.org A 0.0.0.0
 *.unicast.uncensoreddns.org A 0.0.0.0
 unicast.uncensoreddns.org AAAA ::
