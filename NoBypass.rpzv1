@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2603081625 ; Serial Number
+ 2603090425 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -9,8 +9,6 @@ $ORIGIN nobypass.rpz.
  )
  NS localhost
 
-003153.xyz CNAME .
-*.003153.xyz CNAME .
 012proxy.ga CNAME .
 *.012proxy.ga CNAME .
 0ms.dev CNAME .
@@ -19,6 +17,8 @@ $ORIGIN nobypass.rpz.
 *.123000123.xyz CNAME .
 123-24.eport.gr CNAME .
 *.123-24.eport.gr CNAME .
+12vpx.com CNAME .
+*.12vpx.com CNAME .
 1a.ns.ozer.im CNAME .
 *.1a.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
@@ -129,8 +129,6 @@ adguard.dantynes.cyou CNAME .
 *.adguard.dantynes.cyou CNAME .
 adguard.dekonix.ru CNAME .
 *.adguard.dekonix.ru CNAME .
-adguard.depieri.net CNAME .
-*.adguard.depieri.net CNAME .
 adguard-dns.com CNAME .
 *.adguard-dns.com CNAME .
 adguard.easez.net CNAME .
@@ -569,8 +567,6 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 darkness.is.my.waifu.cz CNAME .
 *.darkness.is.my.waifu.cz CNAME .
-darknet.to CNAME .
-*.darknet.to CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
@@ -603,6 +599,8 @@ deic-lgb.anycast.censurfridns.dk CNAME .
 *.deic-lgb.anycast.censurfridns.dk CNAME .
 deic-lgb.anycast.uncensoreddns.org CNAME .
 *.deic-lgb.anycast.uncensoreddns.org CNAME .
+deic-ordarknet.to CNAME .
+*.deic-ordarknet.to CNAME .
 deic-ore.anycast.censurfridns.dk CNAME .
 *.deic-ore.anycast.censurfridns.dk CNAME .
 deic-ore.anycast.uncensoreddns.org CNAME .
@@ -689,8 +687,8 @@ dns2.klcd.eu CNAME .
 *.dns2.klcd.eu CNAME .
 dns2.nextdns.io CNAME .
 *.dns2.nextdns.io CNAME .
-dns2.nordvpn.co12vpx.com CNAME .
-*.dns2.nordvpn.co12vpx.com CNAME .
+dns2.nordvpn.com CNAME .
+*.dns2.nordvpn.com CNAME .
 dns2.saferbfc.org CNAME .
 *.dns2.saferbfc.org CNAME .
 dns-2.wil.cloud CNAME .
@@ -969,6 +967,8 @@ dns.digitale-gesellschaft.ch CNAME .
 *.dns.digitale-gesellschaft.ch CNAME .
 dns.digitalsize.net CNAME .
 *.dns.digitalsize.net CNAME .
+dns.dk CNAME .
+*.dns.dk CNAME .
 dns.dns-53.com CNAME .
 *.dns.dns-53.com CNAME .
 dns.dns-53.uk CNAME .
@@ -1011,6 +1011,8 @@ dns.edgy.network CNAME .
 *.dns.edgy.network CNAME .
 dns.edison42.dev CNAME .
 *.dns.edison42.dev CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 dns.elemental.software CNAME .
 *.dns.elemental.software CNAME .
 dns.eliv.kr CNAME .
@@ -1159,6 +1161,8 @@ dns.ikataruto.com CNAME .
 *.dns.ikataruto.com CNAME .
 dns.iki.my.id CNAME .
 *.dns.iki.my.id CNAME .
+dns.imaicool.com CNAME .
+*.dns.imaicool.com CNAME .
 dns.imchristian.de CNAME .
 *.dns.imchristian.de CNAME .
 dns.immanuelschaffer.de CNAME .
@@ -1185,10 +1189,10 @@ dns.jstockley.com CNAME .
 *.dns.jstockley.com CNAME .
 dns.jundev.org CNAME .
 *.dns.jundev.org CNAME .
-dns.jupitrdns.com CNAME .
-*.dns.jupitrdns.com CNAME .
-dns.justinnetworking1dot1dot1dot1.cloudflare-dns.com CNAME .
-*.dns.justinnetworking1dot1dot1dot1.cloudflare-dns.com CNAME .
+dns.jupitrdns.firefox.dns.nextdns.io CNAME .
+*.dns.jupitrdns.firefox.dns.nextdns.io CNAME .
+dns.justinnetworkingsolutions.com CNAME .
+*.dns.justinnetworkingsolutions.com CNAME .
 dns.k3nny.fr CNAME .
 *.dns.k3nny.fr CNAME .
 dns.kamilszczepanski.com CNAME .
@@ -1343,8 +1347,6 @@ dns.netraptor.com.au CNAME .
 *.dns.netraptor.com.au CNAME .
 dns.netvpn.net CNAME .
 *.dns.netvpn.net CNAME .
-dns.neubsi.at CNAME .
-*.dns.neubsi.at CNAME .
 dns.neutopia.org CNAME .
 *.dns.neutopia.org CNAME .
 dns.nextdns.io CNAME .
@@ -1499,8 +1501,6 @@ dnsse.alekberg.net CNAME .
 *.dnsse.alekberg.net CNAME .
 dns.sec511.com CNAME .
 *.dns.sec511.com CNAME .
-dns.seia.io CNAME .
-*.dns.seia.io CNAME .
 dns.sellan.fr CNAME .
 *.dns.sellan.fr CNAME .
 dns.sev.monster CNAME .
@@ -2107,14 +2107,16 @@ dzhot.us CNAME .
 *.dzhot.us CNAME .
 ea-dns.rubyfish.cn CNAME .
 *.ea-dns.rubyfish.cn CNAME .
+e.anycast.uncensoreddns.org CNAME .
+*.e.anycast.uncensoreddns.org CNAME .
 earthvpn.com CNAME .
 *.earthvpn.com CNAME .
 easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.dnswarden.com CNAME .
-*.ecs-doh.dnswarden.com CNAME .
+ecs-doh.003153.xyz CNAME .
+*.ecs-doh.003153.xyz CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2433,8 +2435,6 @@ himedns.com CNAME .
 *.himedns.com CNAME .
 hitian.me CNAME .
 *.hitian.me CNAME .
-hk2.ooroot.com CNAME .
-*.hk2.ooroot.com CNAME .
 hkg01.dnscry.pt CNAME .
 *.hkg01.dnscry.pt CNAME .
 hkg02.dnscry.pt CNAME .
@@ -2465,6 +2465,8 @@ hotspotshield.com CNAME .
 *.hotspotshield.com CNAME .
 hoxx.com CNAME .
 *.hoxx.com CNAME .
+hshh.org CNAME .
+*.hshh.org CNAME .
 httpdns.meituan.com CNAME .
 *.httpdns.meituan.com CNAME .
 httpdns-push.heytapmobile.com CNAME .
@@ -2563,6 +2565,8 @@ jp01.dns4me.net CNAME .
 *.jp01.dns4me.net CNAME .
 jp1.f7b6h9.tk CNAME .
 *.jp1.f7b6h9.tk CNAME .
+jp2.ooroot.com CNAME .
+*.jp2.ooroot.com CNAME .
 jp-dns1.bancuh.com CNAME .
 *.jp-dns1.bancuh.com CNAME .
 jpdns.cola16.app CNAME .
@@ -2609,8 +2613,8 @@ kproxy.com CNAME .
 *.kproxy.com CNAME .
 kproxysite.com CNAME .
 *.kproxysite.com CNAME .
-kr2.ooroot.com CNAME .
-*.kr2.ooroot.com CNAME .
+kr1.ooroot.com CNAME .
+*.kr1.ooroot.com CNAME .
 kracon.anycast.censurfridns.dk CNAME .
 *.kracon.anycast.censurfridns.dk CNAME .
 kracon.anycast.uncensoreddns.org CNAME .
@@ -2727,6 +2731,8 @@ mia01.dnscry.pt CNAME .
 *.mia01.dnscry.pt CNAME .
 mickedi.isgood.host CNAME .
 *.mickedi.isgood.host CNAME .
+mikezhang.xyz CNAME .
+*.mikezhang.xyz CNAME .
 mil01.dnscry.pt CNAME .
 *.mil01.dnscry.pt CNAME .
 miniprox.com CNAME .
@@ -3257,10 +3263,6 @@ renardbleu.dev CNAME .
 *.renardbleu.dev CNAME .
 res-acst1.absolight.net CNAME .
 *.res-acst1.absolight.net CNAME .
-res-acst2.absolight.net CNAME .
-*.res-acst2.absolight.net CNAME .
-res-acst3.absolight.net CNAME .
-*.res-acst3.absolight.net CNAME .
 resolv1.trash.net CNAME .
 *.resolv1.trash.net CNAME .
 resolv2.trash.net CNAME .
@@ -3269,8 +3271,6 @@ resolv3.trash.net CNAME .
 *.resolv3.trash.net CNAME .
 resolve2.r9x.cc CNAME .
 *.resolve2.r9x.cc CNAME .
-resolver1.absolight.net CNAME .
-*.resolver1.absolight.net CNAME .
 resolver1-fs.opendns.com CNAME .
 *.resolver1-fs.opendns.com CNAME .
 resolver1.ipv6-sandbox.opendns.com CNAME .
@@ -3371,8 +3371,6 @@ sdns.233py.com CNAME .
 *.sdns.233py.com CNAME .
 sea01.dnscry.pt CNAME .
 *.sea01.dnscry.pt CNAME .
-secondary.dns.seia.io CNAME .
-*.secondary.dns.seia.io CNAME .
 secondary.dns.yandex.ru CNAME .
 *.secondary.dns.yandex.ru CNAME .
 secondary.family.dns.yandex.ru CNAME .
@@ -3419,8 +3417,6 @@ sg01.dns4me.net CNAME .
 *.sg01.dns4me.net CNAME .
 sg1.dnswarden.com CNAME .
 *.sg1.dnswarden.com CNAME .
-sg2.ooroot.com CNAME .
-*.sg2.ooroot.com CNAME .
 sg-dns1.bancuh.com CNAME .
 *.sg-dns1.bancuh.com CNAME .
 sg.gridns.xyz CNAME .
@@ -3471,8 +3467,6 @@ socks-proxy.net CNAME .
 *.socks-proxy.net CNAME .
 sof01.dnscry.pt CNAME .
 *.sof01.dnscry.pt CNAME .
-solutions.com CNAME .
-*.solutions.com CNAME .
 spacedns.org CNAME .
 *.spacedns.org CNAME .
 spacevpn.io CNAME .
@@ -3629,6 +3623,8 @@ trickbyte.com CNAME .
 *.trickbyte.com CNAME .
 tri-dns.net CNAME .
 *.tri-dns.net CNAME .
+truta.org CNAME .
+*.truta.org CNAME .
 tsm01.dnscry.pt CNAME .
 *.tsm01.dnscry.pt CNAME .
 ttag.dns.nomu.pw CNAME .
@@ -3641,8 +3637,6 @@ tubeunblock.net CNAME .
 *.tubeunblock.net CNAME .
 tujenasnaszato.xyz CNAME .
 *.tujenasnaszato.xyz CNAME .
-tungdnsne.duckdns.org CNAME .
-*.tungdnsne.duckdns.org CNAME .
 tunnelbear.com CNAME .
 *.tunnelbear.com CNAME .
 turbohide.org CNAME .
@@ -3731,6 +3725,8 @@ unfiltered.joindns4.eu CNAME .
 *.unfiltered.joindns4.eu CNAME .
 unicast.censurfridns.dk CNAME .
 *.unicast.censurfridns.dk CNAME .
+unicast.censurfridnswarden.com CNAME .
+*.unicast.censurfridnswarden.com CNAME .
 unicast.uncensoreddns.org CNAME .
 *.unicast.uncensoreddns.org CNAME .
 united-arab-emirates.privacy-dns.pw CNAME .

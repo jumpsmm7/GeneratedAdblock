@@ -1,9 +1,9 @@
 server:
-local-zone: "003153.xyz" always_null
 local-zone: "012proxy.ga" always_null
 local-zone: "0ms.dev" always_null
 local-zone: "123000123.xyz" always_null
 local-zone: "123-24.eport.gr" always_null
+local-zone: "12vpx.com" always_null
 local-zone: "1a.ns.ozer.im" always_null
 local-zone: "1.dns.noridev.moe" always_null
 local-zone: "1dot1dot1dot1.cloudflare-dns.com" always_null
@@ -59,7 +59,6 @@ local-zone: "adguard.bonis.de" always_null
 local-zone: "adguard.bonsirven.eu" always_null
 local-zone: "adguard.dantynes.cyou" always_null
 local-zone: "adguard.dekonix.ru" always_null
-local-zone: "adguard.depieri.net" always_null
 local-zone: "adguard-dns.com" always_null
 local-zone: "adguard.easez.net" always_null
 local-zone: "adguard.ef67daisuki.club" always_null
@@ -279,7 +278,6 @@ local-zone: "d.adguard-dns.com" always_null
 local-zone: "dandelionsprout.asuscomm.com" always_null
 local-zone: "d.apemlegit.my.id" always_null
 local-zone: "darkness.is.my.waifu.cz" always_null
-local-zone: "darknet.to" always_null
 local-zone: "dart.kpsn.org" always_null
 local-zone: "darya.persiannit.net" always_null
 local-zone: "d.bod.lol" always_null
@@ -296,6 +294,7 @@ local-zone: "de-fra-w-p-1.nashkan.net" always_null
 local-zone: "de-fsn-w-p-1.nashkan.net" always_null
 local-zone: "deic-lgb.anycast.censurfridns.dk" always_null
 local-zone: "deic-lgb.anycast.uncensoreddns.org" always_null
+local-zone: "deic-ordarknet.to" always_null
 local-zone: "deic-ore.anycast.censurfridns.dk" always_null
 local-zone: "deic-ore.anycast.uncensoreddns.org" always_null
 local-zone: "den01.dnscry.pt" always_null
@@ -339,7 +338,7 @@ local-zone: "dns2.guidocioni.it" always_null
 local-zone: "dns2.in-berlin.de" always_null
 local-zone: "dns2.klcd.eu" always_null
 local-zone: "dns2.nextdns.io" always_null
-local-zone: "dns2.nordvpn.co12vpx.com" always_null
+local-zone: "dns2.nordvpn.com" always_null
 local-zone: "dns2.saferbfc.org" always_null
 local-zone: "dns-2.wil.cloud" always_null
 local-zone: "dns.354688.xyz" always_null
@@ -479,6 +478,7 @@ local-zone: "dns.dgea.fr" always_null
 local-zone: "dns.diarbagus.id" always_null
 local-zone: "dns.digitale-gesellschaft.ch" always_null
 local-zone: "dns.digitalsize.net" always_null
+local-zone: "dns.dk" always_null
 local-zone: "dns.dns-53.com" always_null
 local-zone: "dns.dns-53.uk" always_null
 local-zone: "dns.dns-53.us" always_null
@@ -500,6 +500,7 @@ local-zone: "dns.eddi.net" always_null
 local-zone: "dns.edgeburnmedia.com" always_null
 local-zone: "dns.edgy.network" always_null
 local-zone: "dns.edison42.dev" always_null
+local-zone: "dns.efficientdocuments.com" always_null
 local-zone: "dns.elemental.software" always_null
 local-zone: "dns.eliv.kr" always_null
 local-zone: "dnsenc.com" always_null
@@ -574,6 +575,7 @@ local-zone: "dns.iamninja.ru" always_null
 local-zone: "dns.ihaveacloud.com" always_null
 local-zone: "dns.ikataruto.com" always_null
 local-zone: "dns.iki.my.id" always_null
+local-zone: "dns.imaicool.com" always_null
 local-zone: "dns.imchristian.de" always_null
 local-zone: "dns.immanuelschaffer.de" always_null
 local-zone: "dns.inforlogia.com" always_null
@@ -587,8 +589,8 @@ local-zone: "dns.jiyi.eu" always_null
 local-zone: "dns.joey01245.nl" always_null
 local-zone: "dns.jstockley.com" always_null
 local-zone: "dns.jundev.org" always_null
-local-zone: "dns.jupitrdns.com" always_null
-local-zone: "dns.justinnetworking1dot1dot1dot1.cloudflare-dns.com" always_null
+local-zone: "dns.jupitrdns.firefox.dns.nextdns.io" always_null
+local-zone: "dns.justinnetworkingsolutions.com" always_null
 local-zone: "dns.k3nny.fr" always_null
 local-zone: "dns.kamilszczepanski.com" always_null
 local-zone: "dns.kapite.in" always_null
@@ -666,7 +668,6 @@ local-zone: "dns.neeb.it" always_null
 local-zone: "dns.neilzone.co.uk" always_null
 local-zone: "dns.netraptor.com.au" always_null
 local-zone: "dns.netvpn.net" always_null
-local-zone: "dns.neubsi.at" always_null
 local-zone: "dns.neutopia.org" always_null
 local-zone: "dns.nextdns.io" always_null
 local-zone: "dns.nguyendn.com" always_null
@@ -744,7 +745,6 @@ local-zone: "dns.scott-smith.us" always_null
 local-zone: "dns.scuola.org" always_null
 local-zone: "dnsse.alekberg.net" always_null
 local-zone: "dns.sec511.com" always_null
-local-zone: "dns.seia.io" always_null
 local-zone: "dns.sellan.fr" always_null
 local-zone: "dns.sev.monster" always_null
 local-zone: "dns.shareworx.net" always_null
@@ -1048,10 +1048,11 @@ local-zone: "dukun.de" always_null
 local-zone: "dus01.dnscry.pt" always_null
 local-zone: "dzhot.us" always_null
 local-zone: "ea-dns.rubyfish.cn" always_null
+local-zone: "e.anycast.uncensoreddns.org" always_null
 local-zone: "earthvpn.com" always_null
 local-zone: "easyhandshake.com" always_null
 local-zone: "echoe1yidzu4ioo5.myfritz.net" always_null
-local-zone: "ecs-doh.dnswarden.com" always_null
+local-zone: "ecs-doh.003153.xyz" always_null
 local-zone: "ecxs.asia" always_null
 local-zone: "edgy-dns.com" always_null
 local-zone: "edns.233py.com" always_null
@@ -1211,7 +1212,6 @@ local-zone: "hidingyour.info" always_null
 local-zone: "hiload.in" always_null
 local-zone: "himedns.com" always_null
 local-zone: "hitian.me" always_null
-local-zone: "hk2.ooroot.com" always_null
 local-zone: "hkg01.dnscry.pt" always_null
 local-zone: "hkg02.dnscry.pt" always_null
 local-zone: "hk-hkg.doh.sb" always_null
@@ -1227,6 +1227,7 @@ local-zone: "hostdare.qtxd.net" always_null
 local-zone: "hotbot.com" always_null
 local-zone: "hotspotshield.com" always_null
 local-zone: "hoxx.com" always_null
+local-zone: "hshh.org" always_null
 local-zone: "httpdns.meituan.com" always_null
 local-zone: "httpdns-push.heytapmobile.com" always_null
 local-zone: "httpdns-sc.aliyuncs.com" always_null
@@ -1276,6 +1277,7 @@ local-zone: "jnb01.dnscry.pt" always_null
 local-zone: "johneldenring.lol" always_null
 local-zone: "jp01.dns4me.net" always_null
 local-zone: "jp1.f7b6h9.tk" always_null
+local-zone: "jp2.ooroot.com" always_null
 local-zone: "jp-dns1.bancuh.com" always_null
 local-zone: "jpdns.cola16.app" always_null
 local-zone: "jp.gridns.xyz" always_null
@@ -1299,7 +1301,7 @@ local-zone: "kiv01.dnscry.pt" always_null
 local-zone: "ko-18948-tr.xyz" always_null
 local-zone: "kproxy.com" always_null
 local-zone: "kproxysite.com" always_null
-local-zone: "kr2.ooroot.com" always_null
+local-zone: "kr1.ooroot.com" always_null
 local-zone: "kracon.anycast.censurfridns.dk" always_null
 local-zone: "kracon.anycast.uncensoreddns.org" always_null
 local-zone: "kronos.plan9-dns.com" always_null
@@ -1358,6 +1360,7 @@ local-zone: "mendozasdelivery.com" always_null
 local-zone: "metproxy.com" always_null
 local-zone: "mia01.dnscry.pt" always_null
 local-zone: "mickedi.isgood.host" always_null
+local-zone: "mikezhang.xyz" always_null
 local-zone: "mil01.dnscry.pt" always_null
 local-zone: "miniprox.com" always_null
 local-zone: "miniprox.info" always_null
@@ -1623,13 +1626,10 @@ local-zone: "rdu01.dnscry.pt" always_null
 local-zone: "regiopolis.cloud" always_null
 local-zone: "renardbleu.dev" always_null
 local-zone: "res-acst1.absolight.net" always_null
-local-zone: "res-acst2.absolight.net" always_null
-local-zone: "res-acst3.absolight.net" always_null
 local-zone: "resolv1.trash.net" always_null
 local-zone: "resolv2.trash.net" always_null
 local-zone: "resolv3.trash.net" always_null
 local-zone: "resolve2.r9x.cc" always_null
-local-zone: "resolver1.absolight.net" always_null
 local-zone: "resolver1-fs.opendns.com" always_null
 local-zone: "resolver1.ipv6-sandbox.opendns.com" always_null
 local-zone: "resolver1.opendns.com" always_null
@@ -1680,7 +1680,6 @@ local-zone: "sbdns.co.in" always_null
 local-zone: "sdns22.gkonuralp.com" always_null
 local-zone: "sdns.233py.com" always_null
 local-zone: "sea01.dnscry.pt" always_null
-local-zone: "secondary.dns.seia.io" always_null
 local-zone: "secondary.dns.yandex.ru" always_null
 local-zone: "secondary.family.dns.yandex.ru" always_null
 local-zone: "secondary.safe.dns.yandex.ru" always_null
@@ -1704,7 +1703,6 @@ local-zone: "serverfriend.altervista.org" always_null
 local-zone: "setupvpn.com" always_null
 local-zone: "sg01.dns4me.net" always_null
 local-zone: "sg1.dnswarden.com" always_null
-local-zone: "sg2.ooroot.com" always_null
 local-zone: "sg-dns1.bancuh.com" always_null
 local-zone: "sg.gridns.xyz" always_null
 local-zone: "sgn01.dnscry.pt" always_null
@@ -1730,7 +1728,6 @@ local-zone: "sm2.doh.pub" always_null
 local-zone: "smartdnsproxy.com" always_null
 local-zone: "socks-proxy.net" always_null
 local-zone: "sof01.dnscry.pt" always_null
-local-zone: "solutions.com" always_null
 local-zone: "spacedns.org" always_null
 local-zone: "spacevpn.io" always_null
 local-zone: "spanproxy.com" always_null
@@ -1809,13 +1806,13 @@ local-zone: "trf01.dnscry.pt" always_null
 local-zone: "tributh.net" always_null
 local-zone: "trickbyte.com" always_null
 local-zone: "tri-dns.net" always_null
+local-zone: "truta.org" always_null
 local-zone: "tsm01.dnscry.pt" always_null
 local-zone: "ttag.dns.nomu.pw" always_null
 local-zone: "tuandns.duckdns.org" always_null
 local-zone: "tubeunblock.me" always_null
 local-zone: "tubeunblock.net" always_null
 local-zone: "tujenasnaszato.xyz" always_null
-local-zone: "tungdnsne.duckdns.org" always_null
 local-zone: "tunnelbear.com" always_null
 local-zone: "turbohide.org" always_null
 local-zone: "turbovpn.com" always_null
@@ -1860,6 +1857,7 @@ local-zone: "undofilters.com" always_null
 local-zone: "unfiltered.adguard-dns.com" always_null
 local-zone: "unfiltered.joindns4.eu" always_null
 local-zone: "unicast.censurfridns.dk" always_null
+local-zone: "unicast.censurfridnswarden.com" always_null
 local-zone: "unicast.uncensoreddns.org" always_null
 local-zone: "united-arab-emirates.privacy-dns.pw" always_null
 local-zone: "urban-vpn.com" always_null
