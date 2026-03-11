@@ -4,6 +4,7 @@ local-zone: "012proxy.ga" always_nxdomain
 local-zone: "0ms.dev" always_nxdomain
 local-zone: "123000123.xyz" always_nxdomain
 local-zone: "123-24.eport.gr" always_nxdomain
+local-zone: "12vpx.com" always_nxdomain
 local-zone: "1a.ns.ozer.im" always_nxdomain
 local-zone: "1.dns.noridev.moe" always_nxdomain
 local-zone: "1dot1dot1dot1.cloudflare-dns.com" always_nxdomain
@@ -185,6 +186,7 @@ local-zone: "bestwon203.com" always_nxdomain
 local-zone: "betternet.co" always_nxdomain
 local-zone: "b.family.ns.dnslify.com" always_nxdomain
 local-zone: "biying.flymlc.com" always_nxdomain
+local-zone: "blackhole.myon.lu" always_nxdomain
 local-zone: "blackvpn.com" always_nxdomain
 local-zone: "bl.eq.md" always_nxdomain
 local-zone: "blewpass.com" always_nxdomain
@@ -271,7 +273,6 @@ local-zone: "cryptohippie.com" always_nxdomain
 local-zone: "cryptostorm.is" always_nxdomain
 local-zone: "crypto.sx" always_nxdomain
 local-zone: "cubedns.com" always_nxdomain
-local-zone: "cube.neubsi.at" always_nxdomain
 local-zone: "cvt01.dnscry.pt" always_nxdomain
 local-zone: "cyberghostvpn.com" always_nxdomain
 local-zone: "cynntex.fun" always_nxdomain
@@ -296,7 +297,7 @@ local-zone: "de-fra.doh.sb" always_nxdomain
 local-zone: "de-fra-w-p-1.nashkan.net" always_nxdomain
 local-zone: "de-fsn-w-p-1.nashkan.net" always_nxdomain
 local-zone: "deic-lgb.anycast.censurfridns.dk" always_nxdomain
-local-zone: "deic-lgb.anycast.uncensoreddns.or12vpx.com" always_nxdomain
+local-zone: "deic-lgb.anycast.uncensoreddns1dot1dot1dot1.cloudflare-dns.com" always_nxdomain
 local-zone: "deic-lgb.anycast.uncensoreddns.org" always_nxdomain
 local-zone: "deic-ore.anycast.censurfridns.dk" always_nxdomain
 local-zone: "deic-ore.anycast.uncensoreddns.org" always_nxdomain
@@ -337,7 +338,7 @@ local-zone: "dns2.developer.li" always_nxdomain
 local-zone: "dns2.digitale-gesellschaft.ch" always_nxdomain
 local-zone: "dns2.dnscrypt.ca" always_nxdomain
 local-zone: "dns2.dns-ga.de" always_nxdomain
-local-zone: "dns2.guidocioni.it" always_nxdomain
+local-zone: "dns2.guidocioni.itfirefox.dns.nextdns.io" always_nxdomain
 local-zone: "dns2.in-berlin.de" always_nxdomain
 local-zone: "dns2.klcd.eu" always_nxdomain
 local-zone: "dns2.nextdns.io" always_nxdomain
@@ -521,8 +522,6 @@ local-zone: "dns.farshidhakimy.de" always_nxdomain
 local-zone: "dns.fehlsprache.de" always_nxdomain
 local-zone: "dns.ffnw.de" always_nxdomain
 local-zone: "dns.filipccz.eu" always_nxdomain
-local-zone: "dns.firefox.dns.nextdns.io" always_nxdomain
-local-zone: "dns.fizz.studio" always_nxdomain
 local-zone: "dns.flatuslifir.is" always_nxdomain
 local-zone: "dns.flightspace.net" always_nxdomain
 local-zone: "dns.floriantinney.de" always_nxdomain
@@ -578,6 +577,7 @@ local-zone: "dns.iamninja.ru" always_nxdomain
 local-zone: "dns.ihaveacloud.com" always_nxdomain
 local-zone: "dns.ikataruto.com" always_nxdomain
 local-zone: "dns.iki.my.id" always_nxdomain
+local-zone: "dns.imaicool.com" always_nxdomain
 local-zone: "dns.imchristian.de" always_nxdomain
 local-zone: "dns.immanuelschaffer.de" always_nxdomain
 local-zone: "dns.inforlogia.com" always_nxdomain
@@ -590,6 +590,7 @@ local-zone: "dns.jinwoo.dev" always_nxdomain
 local-zone: "dns.jiyi.eu" always_nxdomain
 local-zone: "dns.joey01245.nl" always_nxdomain
 local-zone: "dns.jstockley.com" always_nxdomain
+local-zone: "dns.jundev.org" always_nxdomain
 local-zone: "dns.jupitrdns.com" always_nxdomain
 local-zone: "dns.justinnetworkingsolutions.com" always_nxdomain
 local-zone: "dns.k3nny.fr" always_nxdomain
@@ -1289,7 +1290,6 @@ local-zone: "jp-nrt.doh.sb" always_nxdomain
 local-zone: "jp.tiarap.org" always_nxdomain
 local-zone: "jp.tiar.app" always_nxdomain
 local-zone: "jp-tyo-w-p-1.nashkan.net" always_nxdomain
-local-zone: "jundev.org" always_nxdomain
 local-zone: "jurre-home.duckdns.org" always_nxdomain
 local-zone: "justhost.bedro.cloud" always_nxdomain
 local-zone: "justproxy.co.uk" always_nxdomain
@@ -1492,6 +1492,7 @@ local-zone: "par01.dnscry.pt" always_nxdomain
 local-zone: "paranoia.mydns.network" always_nxdomain
 local-zone: "parrotsec.org" always_nxdomain
 local-zone: "pashagame456.com" always_nxdomain
+local-zone: "pates.services.sfr.fr.casepp.sfr.fr" always_nxdomain
 local-zone: "paulo.nom.za" always_nxdomain
 local-zone: "pdns.faelix.net" always_nxdomain
 local-zone: "pdns.itxe.net" always_nxdomain
@@ -1630,6 +1631,7 @@ local-zone: "rdu01.dnscry.pt" always_nxdomain
 local-zone: "regiopolis.cloud" always_nxdomain
 local-zone: "renardbleu.dev" always_nxdomain
 local-zone: "res-acst1.absolight.net" always_nxdomain
+local-zone: "res-acst2.absolight.net" always_nxdomain
 local-zone: "res-acst3.absolight.net" always_nxdomain
 local-zone: "resolv1.trash.net" always_nxdomain
 local-zone: "resolv2.trash.net" always_nxdomain
@@ -1813,7 +1815,6 @@ local-zone: "trf01.dnscry.pt" always_nxdomain
 local-zone: "tributh.net" always_nxdomain
 local-zone: "trickbyte.com" always_nxdomain
 local-zone: "tri-dns.net" always_nxdomain
-local-zone: "truta.org" always_nxdomain
 local-zone: "tsm01.dnscry.pt" always_nxdomain
 local-zone: "ttag.dns.nomu.pw" always_nxdomain
 local-zone: "tuandns.duckdns.org" always_nxdomain
