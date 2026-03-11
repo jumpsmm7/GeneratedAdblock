@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2603101625 ; Serial Number
+ 2603110423 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,6 +13,10 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
+012proxy.ga A 0.0.0.0
+*.012proxy.ga A 0.0.0.0
+012proxy.ga AAAA ::
+*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -25,10 +29,6 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
-12vpx.com A 0.0.0.0
-*.12vpx.com A 0.0.0.0
-12vpx.com AAAA ::
-*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -753,10 +753,6 @@ biying.flymlc.com A 0.0.0.0
 *.biying.flymlc.com A 0.0.0.0
 biying.flymlc.com AAAA ::
 *.biying.flymlc.com AAAA ::
-blackhole.myon.lu A 0.0.0.0
-*.blackhole.myon.lu A 0.0.0.0
-blackhole.myon.lu AAAA ::
-*.blackhole.myon.lu AAAA ::
 blackvpn.com A 0.0.0.0
 *.blackvpn.com A 0.0.0.0
 blackvpn.com AAAA ::
@@ -997,6 +993,10 @@ clearvpn.com A 0.0.0.0
 *.clearvpn.com A 0.0.0.0
 clearvpn.com AAAA ::
 *.clearvpn.com AAAA ::
+clearweb.woodbridge.club A 0.0.0.0
+*.clearweb.woodbridge.club A 0.0.0.0
+clearweb.woodbridge.club AAAA ::
+*.clearweb.woodbridge.club AAAA ::
 clientdns3.softcom.net A 0.0.0.0
 *.clientdns3.softcom.net A 0.0.0.0
 clientdns3.softcom.net AAAA ::
@@ -1193,14 +1193,14 @@ de-fsn-w-p-1.nashkan.net A 0.0.0.0
 *.de-fsn-w-p-1.nashkan.net A 0.0.0.0
 de-fsn-w-p-1.nashkan.net AAAA ::
 *.de-fsn-w-p-1.nashkan.net AAAA ::
-deic-012proxy.ga A 0.0.0.0
-*.deic-012proxy.ga A 0.0.0.0
-deic-012proxy.ga AAAA ::
-*.deic-012proxy.ga AAAA ::
 deic-lgb.anycast.censurfridns.dk A 0.0.0.0
 *.deic-lgb.anycast.censurfridns.dk A 0.0.0.0
 deic-lgb.anycast.censurfridns.dk AAAA ::
 *.deic-lgb.anycast.censurfridns.dk AAAA ::
+deic-lgb.anycast.uncensoreddns.or12vpx.com A 0.0.0.0
+*.deic-lgb.anycast.uncensoreddns.or12vpx.com A 0.0.0.0
+deic-lgb.anycast.uncensoreddns.or12vpx.com AAAA ::
+*.deic-lgb.anycast.uncensoreddns.or12vpx.com AAAA ::
 deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 deic-lgb.anycast.uncensoreddns.org AAAA ::
@@ -1377,10 +1377,10 @@ dns2.nextdns.io A 0.0.0.0
 *.dns2.nextdns.io A 0.0.0.0
 dns2.nextdns.io AAAA ::
 *.dns2.nextdns.io AAAA ::
-dns2.nordvpnmask.icloud.com A 0.0.0.0
-*.dns2.nordvpnmask.icloud.com A 0.0.0.0
-dns2.nordvpnmask.icloud.com AAAA ::
-*.dns2.nordvpnmask.icloud.com AAAA ::
+dns2.nordvpn.com A 0.0.0.0
+*.dns2.nordvpn.com A 0.0.0.0
+dns2.nordvpn.com AAAA ::
+*.dns2.nordvpn.com AAAA ::
 dns2.saferbfc.org A 0.0.0.0
 *.dns2.saferbfc.org A 0.0.0.0
 dns2.saferbfc.org AAAA ::
@@ -2021,6 +2021,10 @@ dns.edison42.dev A 0.0.0.0
 *.dns.edison42.dev A 0.0.0.0
 dns.edison42.dev AAAA ::
 *.dns.edison42.dev AAAA ::
+dns.efficientdocuments.com A 0.0.0.0
+*.dns.efficientdocuments.com A 0.0.0.0
+dns.efficientdocuments.com AAAA ::
+*.dns.efficientdocuments.com AAAA ::
 dns.elemental.software A 0.0.0.0
 *.dns.elemental.software A 0.0.0.0
 dns.elemental.software AAAA ::
@@ -2093,6 +2097,10 @@ dns.filipccz.eu A 0.0.0.0
 *.dns.filipccz.eu A 0.0.0.0
 dns.filipccz.eu AAAA ::
 *.dns.filipccz.eu AAAA ::
+dns.firefox.dns.nextdns.io A 0.0.0.0
+*.dns.firefox.dns.nextdns.io A 0.0.0.0
+dns.firefox.dns.nextdns.io AAAA ::
+*.dns.firefox.dns.nextdns.io AAAA ::
 dns.fizz.studio A 0.0.0.0
 *.dns.fizz.studio A 0.0.0.0
 dns.fizz.studio AAAA ::
@@ -2365,10 +2373,6 @@ dns.jstockley.com A 0.0.0.0
 *.dns.jstockley.com A 0.0.0.0
 dns.jstockley.com AAAA ::
 *.dns.jstockley.com AAAA ::
-dns.jundev.org A 0.0.0.0
-*.dns.jundev.org A 0.0.0.0
-dns.jundev.org AAAA ::
-*.dns.jundev.org AAAA ::
 dns.jupitrdns.com A 0.0.0.0
 *.dns.jupitrdns.com A 0.0.0.0
 dns.jupitrdns.com AAAA ::
@@ -2649,6 +2653,10 @@ dns.muxinghe.cn A 0.0.0.0
 *.dns.muxinghe.cn A 0.0.0.0
 dns.muxinghe.cn AAAA ::
 *.dns.muxinghe.cn AAAA ::
+dns.mzjtechnology.com A 0.0.0.0
+*.dns.mzjtechnology.com A 0.0.0.0
+dns.mzjtechnology.com AAAA ::
+*.dns.mzjtechnology.com AAAA ::
 dns.mzrme.cn A 0.0.0.0
 *.dns.mzrme.cn A 0.0.0.0
 dns.mzrme.cn AAAA ::
@@ -4621,10 +4629,10 @@ gateway.fomichev.cloud A 0.0.0.0
 *.gateway.fomichev.cloud A 0.0.0.0
 gateway.fomichev.cloud AAAA ::
 *.gateway.fomichev.cloud AAAA ::
-gb-covfirefox.dns.nextdns.io A 0.0.0.0
-*.gb-covfirefox.dns.nextdns.io A 0.0.0.0
-gb-covfirefox.dns.nextdns.io AAAA ::
-*.gb-covfirefox.dns.nextdns.io AAAA ::
+gb-cov-w-f-1.nashkan.net A 0.0.0.0
+*.gb-cov-w-f-1.nashkan.net A 0.0.0.0
+gb-cov-w-f-1.nashkan.net AAAA ::
+*.gb-cov-w-f-1.nashkan.net AAAA ::
 gb-cov-w-p-1.nashkan.net A 0.0.0.0
 *.gb-cov-w-p-1.nashkan.net A 0.0.0.0
 gb-cov-w-p-1.nashkan.net AAAA ::
@@ -5161,6 +5169,14 @@ jp-tyo-w-p-1.nashkan.net A 0.0.0.0
 *.jp-tyo-w-p-1.nashkan.net A 0.0.0.0
 jp-tyo-w-p-1.nashkan.net AAAA ::
 *.jp-tyo-w-p-1.nashkan.net AAAA ::
+jundev.org A 0.0.0.0
+*.jundev.org A 0.0.0.0
+jundev.org AAAA ::
+*.jundev.org AAAA ::
+jurre-home.duckdns.org A 0.0.0.0
+*.jurre-home.duckdns.org A 0.0.0.0
+jurre-home.duckdns.org AAAA ::
+*.jurre-home.duckdns.org AAAA ::
 justhost.bedro.cloud A 0.0.0.0
 *.justhost.bedro.cloud A 0.0.0.0
 justhost.bedro.cloud AAAA ::
@@ -5913,10 +5929,6 @@ ordns.he.net A 0.0.0.0
 *.ordns.he.net A 0.0.0.0
 ordns.he.net AAAA ::
 *.ordns.he.net AAAA ::
-ore.anycast.censurfridns.dk A 0.0.0.0
-*.ore.anycast.censurfridns.dk A 0.0.0.0
-ore.anycast.censurfridns.dk AAAA ::
-*.ore.anycast.censurfridns.dk AAAA ::
 ore-dns.bitdefender.net A 0.0.0.0
 *.ore-dns.bitdefender.net A 0.0.0.0
 ore-dns.bitdefender.net AAAA ::
@@ -6517,10 +6529,10 @@ renardbleu.dev A 0.0.0.0
 *.renardbleu.dev A 0.0.0.0
 renardbleu.dev AAAA ::
 *.renardbleu.dev AAAA ::
-res-acst2.absolight.net A 0.0.0.0
-*.res-acst2.absolight.net A 0.0.0.0
-res-acst2.absolight.net AAAA ::
-*.res-acst2.absolight.net AAAA ::
+res-acst1.absolight.net A 0.0.0.0
+*.res-acst1.absolight.net A 0.0.0.0
+res-acst1.absolight.net AAAA ::
+*.res-acst1.absolight.net AAAA ::
 res-acst3.absolight.net A 0.0.0.0
 *.res-acst3.absolight.net A 0.0.0.0
 res-acst3.absolight.net AAAA ::
@@ -6541,6 +6553,10 @@ resolve2.r9x.cc A 0.0.0.0
 *.resolve2.r9x.cc A 0.0.0.0
 resolve2.r9x.cc AAAA ::
 *.resolve2.r9x.cc AAAA ::
+resolver1.absolight.net A 0.0.0.0
+*.resolver1.absolight.net A 0.0.0.0
+resolver1.absolight.net AAAA ::
+*.resolver1.absolight.net AAAA ::
 resolver1-fs.opendns.com A 0.0.0.0
 *.resolver1-fs.opendns.com A 0.0.0.0
 resolver1-fs.opendns.com AAAA ::
@@ -7249,6 +7265,10 @@ tri-dns.net A 0.0.0.0
 *.tri-dns.net A 0.0.0.0
 tri-dns.net AAAA ::
 *.tri-dns.net AAAA ::
+truta.org A 0.0.0.0
+*.truta.org A 0.0.0.0
+truta.org AAAA ::
+*.truta.org AAAA ::
 tsm01.dnscry.pt A 0.0.0.0
 *.tsm01.dnscry.pt A 0.0.0.0
 tsm01.dnscry.pt AAAA ::
