@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2603190420 ; Serial Number
+ 2603191620 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -11,6 +11,8 @@ $ORIGIN nobypass.rpz.
 
 003153.xyz CNAME .
 *.003153.xyz CNAME .
+012proxy.ga CNAME .
+*.012proxy.ga CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
@@ -79,6 +81,8 @@ adblockersite.com CNAME .
 *.adblockersite.com CNAME .
 adblock.indianets.net CNAME .
 *.adblock.indianets.net CNAME .
+adblock.krctech.dev CNAME .
+*.adblock.krctech.dev CNAME .
 adblock.leenit.kr CNAME .
 *.adblock.leenit.kr CNAME .
 adblock.mydns.network CNAME .
@@ -379,6 +383,8 @@ b.family.ns.dnslify.com CNAME .
 *.b.family.ns.dnslify.com CNAME .
 biying.flymlc.com CNAME .
 *.biying.flymlc.com CNAME .
+blackhole.myon.lu CNAME .
+*.blackhole.myon.lu CNAME .
 blackvpn.com CNAME .
 *.blackvpn.com CNAME .
 bl.eq.md CNAME .
@@ -603,8 +609,6 @@ deic-lgb.anycast.censurfridns.dk CNAME .
 *.deic-lgb.anycast.censurfridns.dk CNAME .
 deic-lgb.anycast.uncensoreddns.org CNAME .
 *.deic-lgb.anycast.uncensoreddns.org CNAME .
-deic-ore.anycast.c012proxy.ga CNAME .
-*.deic-ore.anycast.c012proxy.ga CNAME .
 deic-ore.anycast.censurfridns.dk CNAME .
 *.deic-ore.anycast.censurfridns.dk CNAME .
 deic-ore.anycast.uncensoreddns.org CNAME .
@@ -613,8 +617,6 @@ den01.dnscry.pt CNAME .
 *.den01.dnscry.pt CNAME .
 de.teradns.org CNAME .
 *.de.teradns.org CNAME .
-dev.org CNAME .
-*.dev.org CNAME .
 dfw02.dnscry.pt CNAME .
 *.dfw02.dnscry.pt CNAME .
 digi77.com CNAME .
@@ -1053,8 +1055,6 @@ dns.ffnw.de CNAME .
 *.dns.ffnw.de CNAME .
 dns.filipccz.eu CNAME .
 *.dns.filipccz.eu CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.flatuslifir.is CNAME .
 *.dns.flatuslifir.is CNAME .
 dns.flightspace.net CNAME .
@@ -1165,8 +1165,6 @@ dns.ikataruto.com CNAME .
 *.dns.ikataruto.com CNAME .
 dns.iki.my.id CNAME .
 *.dns.iki.my.id CNAME .
-dns.imaicool.com CNAME .
-*.dns.imaicool.com CNAME .
 dns.imchristian.de CNAME .
 *.dns.imchristian.de CNAME .
 dns.immanuelschaffer.de CNAME .
@@ -1191,8 +1189,8 @@ dns.joey01245.nl CNAME .
 *.dns.joey01245.nl CNAME .
 dns.jstockley.com CNAME .
 *.dns.jstockley.com CNAME .
-dns.junmask.icloud.com CNAME .
-*.dns.junmask.icloud.com CNAME .
+dns.jundev.org CNAME .
+*.dns.jundev.org CNAME .
 dns.jupitrdns.com CNAME .
 *.dns.jupitrdns.com CNAME .
 dns.justinnetworkingsolutions.com CNAME .
@@ -1535,6 +1533,8 @@ dns.skrep.in CNAME .
 *.dns.skrep.in CNAME .
 dns.slinkyman.net CNAME .
 *.dns.slinkyman.net CNAME .
+dns.smartguard.io CNAME .
+*.dns.smartguard.io CNAME .
 dns.soldier.terumi.club CNAME .
 *.dns.soldier.terumi.club CNAME .
 dns.spil.co.id CNAME .
@@ -2137,8 +2137,6 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
-ensurfridns.dk CNAME .
-*.ensurfridns.dk CNAME .
 epicbrowser.com CNAME .
 *.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
@@ -2993,8 +2991,6 @@ parrotsec.org CNAME .
 *.parrotsec.org CNAME .
 pashagame456.com CNAME .
 *.pashagame456.com CNAME .
-pates.services.sfr.fr.casepp.sfr.fr CNAME .
-*.pates.services.sfr.fr.casepp.sfr.fr CNAME .
 paulo.nom.za CNAME .
 *.paulo.nom.za CNAME .
 pdns.faelix.net CNAME .
@@ -3005,6 +3001,8 @@ pdx01.dnscry.pt CNAME .
 *.pdx01.dnscry.pt CNAME .
 per.adfilter.net CNAME .
 *.per.adfilter.net CNAME .
+performance.gosami.xyz CNAME .
+*.performance.gosami.xyz CNAME .
 phl01.dnscry.pt CNAME .
 *.phl01.dnscry.pt CNAME .
 phx01.dnscry.pt CNAME .

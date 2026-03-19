@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2603190420 ; Serial Number
+ 2603191620 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,6 +13,10 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
+012proxy.ga A 0.0.0.0
+*.012proxy.ga A 0.0.0.0
+012proxy.ga AAAA ::
+*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -149,6 +153,10 @@ adblock.indianets.net A 0.0.0.0
 *.adblock.indianets.net A 0.0.0.0
 adblock.indianets.net AAAA ::
 *.adblock.indianets.net AAAA ::
+adblock.krctech.dev A 0.0.0.0
+*.adblock.krctech.dev A 0.0.0.0
+adblock.krctech.dev AAAA ::
+*.adblock.krctech.dev AAAA ::
 adblock.leenit.kr A 0.0.0.0
 *.adblock.leenit.kr A 0.0.0.0
 adblock.leenit.kr AAAA ::
@@ -749,6 +757,10 @@ biying.flymlc.com A 0.0.0.0
 *.biying.flymlc.com A 0.0.0.0
 biying.flymlc.com AAAA ::
 *.biying.flymlc.com AAAA ::
+blackhole.myon.lu A 0.0.0.0
+*.blackhole.myon.lu A 0.0.0.0
+blackhole.myon.lu AAAA ::
+*.blackhole.myon.lu AAAA ::
 blackvpn.com A 0.0.0.0
 *.blackvpn.com A 0.0.0.0
 blackvpn.com AAAA ::
@@ -1197,10 +1209,6 @@ deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 deic-lgb.anycast.uncensoreddns.org AAAA ::
 *.deic-lgb.anycast.uncensoreddns.org AAAA ::
-deic-ore.anycast.c012proxy.ga A 0.0.0.0
-*.deic-ore.anycast.c012proxy.ga A 0.0.0.0
-deic-ore.anycast.c012proxy.ga AAAA ::
-*.deic-ore.anycast.c012proxy.ga AAAA ::
 deic-ore.anycast.censurfridns.dk A 0.0.0.0
 *.deic-ore.anycast.censurfridns.dk A 0.0.0.0
 deic-ore.anycast.censurfridns.dk AAAA ::
@@ -1217,10 +1225,6 @@ de.teradns.org A 0.0.0.0
 *.de.teradns.org A 0.0.0.0
 de.teradns.org AAAA ::
 *.de.teradns.org AAAA ::
-dev.org A 0.0.0.0
-*.dev.org A 0.0.0.0
-dev.org AAAA ::
-*.dev.org AAAA ::
 dfw02.dnscry.pt A 0.0.0.0
 *.dfw02.dnscry.pt A 0.0.0.0
 dfw02.dnscry.pt AAAA ::
@@ -2097,10 +2101,6 @@ dns.filipccz.eu A 0.0.0.0
 *.dns.filipccz.eu A 0.0.0.0
 dns.filipccz.eu AAAA ::
 *.dns.filipccz.eu AAAA ::
-dns.fizz.studio A 0.0.0.0
-*.dns.fizz.studio A 0.0.0.0
-dns.fizz.studio AAAA ::
-*.dns.fizz.studio AAAA ::
 dns.flatuslifir.is A 0.0.0.0
 *.dns.flatuslifir.is A 0.0.0.0
 dns.flatuslifir.is AAAA ::
@@ -2321,10 +2321,6 @@ dns.iki.my.id A 0.0.0.0
 *.dns.iki.my.id A 0.0.0.0
 dns.iki.my.id AAAA ::
 *.dns.iki.my.id AAAA ::
-dns.imaicool.com A 0.0.0.0
-*.dns.imaicool.com A 0.0.0.0
-dns.imaicool.com AAAA ::
-*.dns.imaicool.com AAAA ::
 dns.imchristian.de A 0.0.0.0
 *.dns.imchristian.de A 0.0.0.0
 dns.imchristian.de AAAA ::
@@ -2373,10 +2369,10 @@ dns.jstockley.com A 0.0.0.0
 *.dns.jstockley.com A 0.0.0.0
 dns.jstockley.com AAAA ::
 *.dns.jstockley.com AAAA ::
-dns.junmask.icloud.com A 0.0.0.0
-*.dns.junmask.icloud.com A 0.0.0.0
-dns.junmask.icloud.com AAAA ::
-*.dns.junmask.icloud.com AAAA ::
+dns.jundev.org A 0.0.0.0
+*.dns.jundev.org A 0.0.0.0
+dns.jundev.org AAAA ::
+*.dns.jundev.org AAAA ::
 dns.jupitrdns.com A 0.0.0.0
 *.dns.jupitrdns.com A 0.0.0.0
 dns.jupitrdns.com AAAA ::
@@ -3061,6 +3057,10 @@ dns.slinkyman.net A 0.0.0.0
 *.dns.slinkyman.net A 0.0.0.0
 dns.slinkyman.net AAAA ::
 *.dns.slinkyman.net AAAA ::
+dns.smartguard.io A 0.0.0.0
+*.dns.smartguard.io A 0.0.0.0
+dns.smartguard.io AAAA ::
+*.dns.smartguard.io AAAA ::
 dns.soldier.terumi.club A 0.0.0.0
 *.dns.soldier.terumi.club A 0.0.0.0
 dns.soldier.terumi.club AAAA ::
@@ -4265,10 +4265,6 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
-ensurfridns.dk A 0.0.0.0
-*.ensurfridns.dk A 0.0.0.0
-ensurfridns.dk AAAA ::
-*.ensurfridns.dk AAAA ::
 epicbrowser.com A 0.0.0.0
 *.epicbrowser.com A 0.0.0.0
 epicbrowser.com AAAA ::
@@ -5977,10 +5973,6 @@ pashagame456.com A 0.0.0.0
 *.pashagame456.com A 0.0.0.0
 pashagame456.com AAAA ::
 *.pashagame456.com AAAA ::
-pates.services.sfr.fr.casepp.sfr.fr A 0.0.0.0
-*.pates.services.sfr.fr.casepp.sfr.fr A 0.0.0.0
-pates.services.sfr.fr.casepp.sfr.fr AAAA ::
-*.pates.services.sfr.fr.casepp.sfr.fr AAAA ::
 paulo.nom.za A 0.0.0.0
 *.paulo.nom.za A 0.0.0.0
 paulo.nom.za AAAA ::
@@ -6001,6 +5993,10 @@ per.adfilter.net A 0.0.0.0
 *.per.adfilter.net A 0.0.0.0
 per.adfilter.net AAAA ::
 *.per.adfilter.net AAAA ::
+performance.gosami.xyz A 0.0.0.0
+*.performance.gosami.xyz A 0.0.0.0
+performance.gosami.xyz AAAA ::
+*.performance.gosami.xyz AAAA ::
 phl01.dnscry.pt A 0.0.0.0
 *.phl01.dnscry.pt A 0.0.0.0
 phl01.dnscry.pt AAAA ::
