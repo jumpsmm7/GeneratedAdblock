@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2603250421 ; Serial Number
+ 2603251624 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -1169,6 +1169,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1193,10 +1197,6 @@ de-fsn-w-p-1.nashkan.net A 0.0.0.0
 *.de-fsn-w-p-1.nashkan.net A 0.0.0.0
 de-fsn-w-p-1.nashkan.net AAAA ::
 *.de-fsn-w-p-1.nashkan.net AAAA ::
-deic-lgb.anycasdee.su A 0.0.0.0
-*.deic-lgb.anycasdee.su A 0.0.0.0
-deic-lgb.anycasdee.su AAAA ::
-*.deic-lgb.anycasdee.su AAAA ::
 deic-lgb.anycast.censurfridns.dk A 0.0.0.0
 *.deic-lgb.anycast.censurfridns.dk A 0.0.0.0
 deic-lgb.anycast.censurfridns.dk AAAA ::
@@ -1277,10 +1277,6 @@ dns1.dnscrypt.ca A 0.0.0.0
 *.dns1.dnscrypt.ca A 0.0.0.0
 dns1.dnscrypt.ca AAAA ::
 *.dns1.dnscrypt.ca AAAA ::
-dns.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.dns.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-dns.1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.dns.1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns1.in-berlin.de A 0.0.0.0
 *.dns1.in-berlin.de A 0.0.0.0
 dns1.in-berlin.de AAAA ::
@@ -1345,14 +1341,14 @@ dns2.cbio.top A 0.0.0.0
 *.dns2.cbio.top A 0.0.0.0
 dns2.cbio.top AAAA ::
 *.dns2.cbio.top AAAA ::
+dns2.depicbrowser.com A 0.0.0.0
+*.dns2.depicbrowser.com A 0.0.0.0
+dns2.depicbrowser.com AAAA ::
+*.dns2.depicbrowser.com AAAA ::
 dns2.developer.li A 0.0.0.0
 *.dns2.developer.li A 0.0.0.0
 dns2.developer.li AAAA ::
 *.dns2.developer.li AAAA ::
-dns2.digitale-gesell12vpx.com A 0.0.0.0
-*.dns2.digitale-gesell12vpx.com A 0.0.0.0
-dns2.digitale-gesell12vpx.com AAAA ::
-*.dns2.digitale-gesell12vpx.com AAAA ::
 dns2.digitale-gesellschaft.ch A 0.0.0.0
 *.dns2.digitale-gesellschaft.ch A 0.0.0.0
 dns2.digitale-gesellschaft.ch AAAA ::
@@ -1933,6 +1929,10 @@ dns.digitalsize.net A 0.0.0.0
 *.dns.digitalsize.net A 0.0.0.0
 dns.digitalsize.net AAAA ::
 *.dns.digitalsize.net AAAA ::
+dns.dk A 0.0.0.0
+*.dns.dk A 0.0.0.0
+dns.dk AAAA ::
+*.dns.dk AAAA ::
 dns.dns-53.com A 0.0.0.0
 *.dns.dns-53.com A 0.0.0.0
 dns.dns-53.com AAAA ::
@@ -1961,6 +1961,10 @@ dns.dnsoverhttps.net A 0.0.0.0
 *.dns.dnsoverhttps.net A 0.0.0.0
 dns.dnsoverhttps.net AAAA ::
 *.dns.dnsoverhttps.net AAAA ::
+dns.dnssilo.top A 0.0.0.0
+*.dns.dnssilo.top A 0.0.0.0
+dns.dnssilo.top AAAA ::
+*.dns.dnssilo.top AAAA ::
 dns.dnswarden.com A 0.0.0.0
 *.dns.dnswarden.com A 0.0.0.0
 dns.dnswarden.com AAAA ::
@@ -2317,6 +2321,10 @@ dns.iki.my.id A 0.0.0.0
 *.dns.iki.my.id A 0.0.0.0
 dns.iki.my.id AAAA ::
 *.dns.iki.my.id AAAA ::
+dns.imaicool.com A 0.0.0.0
+*.dns.imaicool.com A 0.0.0.0
+dns.imaicool.com AAAA ::
+*.dns.imaicool.com AAAA ::
 dns.imchristian.de A 0.0.0.0
 *.dns.imchristian.de A 0.0.0.0
 dns.imchristian.de AAAA ::
@@ -2361,6 +2369,10 @@ dns.joey01245.nl A 0.0.0.0
 *.dns.joey01245.nl A 0.0.0.0
 dns.joey01245.nl AAAA ::
 *.dns.joey01245.nl AAAA ::
+dns.jstockley.com A 0.0.0.0
+*.dns.jstockley.com A 0.0.0.0
+dns.jstockley.com AAAA ::
+*.dns.jstockley.com AAAA ::
 dns.jundev.org A 0.0.0.0
 *.dns.jundev.org A 0.0.0.0
 dns.jundev.org AAAA ::
@@ -3033,10 +3045,6 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
-dns.simplylinux.ch A 0.0.0.0
-*.dns.simplylinux.ch A 0.0.0.0
-dns.simplylinux.ch AAAA ::
-*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -4265,10 +4273,6 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
-epicbrowser.com A 0.0.0.0
-*.epicbrowser.com A 0.0.0.0
-epicbrowser.com AAAA ::
-*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4613,14 +4617,14 @@ frog.dns.qwer.pw A 0.0.0.0
 *.frog.dns.qwer.pw A 0.0.0.0
 frog.dns.qwer.pw AAAA ::
 *.frog.dns.qwer.pw AAAA ::
-fuchur.pentament.de A 0.0.0.0
-*.fuchur.pentament.de A 0.0.0.0
-fuchur.pentament.de AAAA ::
-*.fuchur.pentament.de AAAA ::
-fwgw.oranfirefox.dns.nextdns.io A 0.0.0.0
-*.fwgw.oranfirefox.dns.nextdns.io A 0.0.0.0
-fwgw.oranfirefox.dns.nextdns.io AAAA ::
-*.fwgw.oranfirefox.dns.nextdns.io AAAA ::
+fuchur.pentamen12vpx.com A 0.0.0.0
+*.fuchur.pentamen12vpx.com A 0.0.0.0
+fuchur.pentamen12vpx.com AAAA ::
+*.fuchur.pentamen12vpx.com AAAA ::
+fwgw.orangepipc.mywire.org A 0.0.0.0
+*.fwgw.orangepipc.mywire.org A 0.0.0.0
+fwgw.orangepipc.mywire.org AAAA ::
+*.fwgw.orangepipc.mywire.org AAAA ::
 galileo.math.unipd.it A 0.0.0.0
 *.galileo.math.unipd.it A 0.0.0.0
 galileo.math.unipd.it AAAA ::
@@ -4989,6 +4993,10 @@ ie01.dns4me.net A 0.0.0.0
 *.ie01.dns4me.net A 0.0.0.0
 ie01.dns4me.net AAAA ::
 *.ie01.dns4me.net AAAA ::
+igitale-gesellschaft.ch A 0.0.0.0
+*.igitale-gesellschaft.ch A 0.0.0.0
+igitale-gesellschaft.ch AAAA ::
+*.igitale-gesellschaft.ch AAAA ::
 ihctw.synology.me A 0.0.0.0
 *.ihctw.synology.me A 0.0.0.0
 ihctw.synology.me AAAA ::
@@ -5169,10 +5177,6 @@ jp-tyo-w-p-1.nashkan.net A 0.0.0.0
 *.jp-tyo-w-p-1.nashkan.net A 0.0.0.0
 jp-tyo-w-p-1.nashkan.net AAAA ::
 *.jp-tyo-w-p-1.nashkan.net AAAA ::
-jstockley.com A 0.0.0.0
-*.jstockley.com A 0.0.0.0
-jstockley.com AAAA ::
-*.jstockley.com AAAA ::
 jurre-home.duckdns.org A 0.0.0.0
 *.jurre-home.duckdns.org A 0.0.0.0
 jurre-home.duckdns.org AAAA ::
@@ -5989,14 +5993,14 @@ pdns.itxe.net A 0.0.0.0
 *.pdns.itxe.net A 0.0.0.0
 pdns.itxe.net AAAA ::
 *.pdns.itxe.net AAAA ::
-pdx01.dnscry.pt A 0.0.0.0
-*.pdx01.dnscry.pt A 0.0.0.0
-pdx01.dnscry.pt AAAA ::
-*.pdx01.dnscry.pt AAAA ::
-per.adfildns.dk A 0.0.0.0
-*.per.adfildns.dk A 0.0.0.0
-per.adfildns.dk AAAA ::
-*.per.adfildns.dk AAAA ::
+pdx01.dnscrfirefox.dns.nextdns.io A 0.0.0.0
+*.pdx01.dnscrfirefox.dns.nextdns.io A 0.0.0.0
+pdx01.dnscrfirefox.dns.nextdns.io AAAA ::
+*.pdx01.dnscrfirefox.dns.nextdns.io AAAA ::
+per.adfilter.net A 0.0.0.0
+*.per.adfilter.net A 0.0.0.0
+per.adfilter.net AAAA ::
+*.per.adfilter.net AAAA ::
 performance.gosami.xyz A 0.0.0.0
 *.performance.gosami.xyz A 0.0.0.0
 performance.gosami.xyz AAAA ::
@@ -6741,10 +6745,6 @@ sbdns.co.in A 0.0.0.0
 *.sbdns.co.in A 0.0.0.0
 sbdns.co.in AAAA ::
 *.sbdns.co.in AAAA ::
-schaft.ch A 0.0.0.0
-*.schaft.ch A 0.0.0.0
-schaft.ch AAAA ::
-*.schaft.ch AAAA ::
 sdns22.gkonuralp.com A 0.0.0.0
 *.sdns22.gkonuralp.com A 0.0.0.0
 sdns22.gkonuralp.com AAAA ::
@@ -7121,6 +7121,10 @@ tbs01.dnscry.pt A 0.0.0.0
 *.tbs01.dnscry.pt A 0.0.0.0
 tbs01.dnscry.pt AAAA ::
 *.tbs01.dnscry.pt AAAA ::
+t.de A 0.0.0.0
+*.t.de A 0.0.0.0
+t.de AAAA ::
+*.t.de AAAA ::
 tecdrive.site A 0.0.0.0
 *.tecdrive.site A 0.0.0.0
 tecdrive.site AAAA ::
@@ -7129,10 +7133,6 @@ tenta.com A 0.0.0.0
 *.tenta.com A 0.0.0.0
 tenta.com AAAA ::
 *.tenta.com AAAA ::
-ter.net A 0.0.0.0
-*.ter.net A 0.0.0.0
-ter.net AAAA ::
-*.ter.net AAAA ::
 testaghome.meshkov.info A 0.0.0.0
 *.testaghome.meshkov.info A 0.0.0.0
 testaghome.meshkov.info AAAA ::
@@ -7297,10 +7297,6 @@ tujenasnaszato.xyz A 0.0.0.0
 *.tujenasnaszato.xyz A 0.0.0.0
 tujenasnaszato.xyz AAAA ::
 *.tujenasnaszato.xyz AAAA ::
-t.uncensoreddns.org A 0.0.0.0
-*.t.uncensoreddns.org A 0.0.0.0
-t.uncensoreddns.org AAAA ::
-*.t.uncensoreddns.org AAAA ::
 tungdnsne.duckdns.org A 0.0.0.0
 *.tungdnsne.duckdns.org A 0.0.0.0
 tungdnsne.duckdns.org AAAA ::
@@ -7325,6 +7321,10 @@ tuxlervpn.com A 0.0.0.0
 *.tuxlervpn.com A 0.0.0.0
 tuxlervpn.com AAAA ::
 *.tuxlervpn.com AAAA ::
+tx.teradns.org A 0.0.0.0
+*.tx.teradns.org A 0.0.0.0
+tx.teradns.org AAAA ::
+*.tx.teradns.org AAAA ::
 tyo01.dnscry.pt A 0.0.0.0
 *.tyo01.dnscry.pt A 0.0.0.0
 tyo01.dnscry.pt AAAA ::
@@ -7353,6 +7353,10 @@ uk-lon.doh.sb A 0.0.0.0
 *.uk-lon.doh.sb A 0.0.0.0
 uk-lon.doh.sb AAAA ::
 *.uk-lon.doh.sb AAAA ::
+uk.teradns.org A 0.0.0.0
+*.uk.teradns.org A 0.0.0.0
+uk.teradns.org AAAA ::
+*.uk.teradns.org AAAA ::
 ultimateproxy.net A 0.0.0.0
 *.ultimateproxy.net A 0.0.0.0
 ultimateproxy.net AAAA ::
@@ -7481,10 +7485,10 @@ unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
 *.unicast.censurfridns.dk AAAA ::
-unicast.censurfrigepipc.mywire.org A 0.0.0.0
-*.unicast.censurfrigepipc.mywire.org A 0.0.0.0
-unicast.censurfrigepipc.mywire.org AAAA ::
-*.unicast.censurfrigepipc.mywire.org AAAA ::
+unicast.censurfrimask.icloud.com A 0.0.0.0
+*.unicast.censurfrimask.icloud.com A 0.0.0.0
+unicast.censurfrimask.icloud.com AAAA ::
+*.unicast.censurfrimask.icloud.com AAAA ::
 unicast.uncensoreddns.org A 0.0.0.0
 *.unicast.uncensoreddns.org A 0.0.0.0
 unicast.uncensoreddns.org AAAA ::
@@ -7973,6 +7977,10 @@ yovbak.com A 0.0.0.0
 *.yovbak.com A 0.0.0.0
 yovbak.com AAAA ::
 *.yovbak.com AAAA ::
+y.pt A 0.0.0.0
+*.y.pt A 0.0.0.0
+y.pt AAAA ::
+*.y.pt AAAA ::
 yul01.dnscry.pt A 0.0.0.0
 *.yul01.dnscry.pt A 0.0.0.0
 yul01.dnscry.pt AAAA ::
