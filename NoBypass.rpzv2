@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2603261624 ; Serial Number
+ 2603270424 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,10 +13,6 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -29,6 +25,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -1133,6 +1133,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1189,6 +1193,10 @@ deic-lgb.anycast.censurfridns.dk A 0.0.0.0
 *.deic-lgb.anycast.censurfridns.dk A 0.0.0.0
 deic-lgb.anycast.censurfridns.dk AAAA ::
 *.deic-lgb.anycast.censurfridns.dk AAAA ::
+deic-lgb.anycast.uncensoreddns.ordee.su A 0.0.0.0
+*.deic-lgb.anycast.uncensoreddns.ordee.su A 0.0.0.0
+deic-lgb.anycast.uncensoreddns.ordee.su AAAA ::
+*.deic-lgb.anycast.uncensoreddns.ordee.su AAAA ::
 deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 deic-lgb.anycast.uncensoreddns.org AAAA ::
@@ -1333,14 +1341,14 @@ dns2.developer.li A 0.0.0.0
 *.dns2.developer.li A 0.0.0.0
 dns2.developer.li AAAA ::
 *.dns2.developer.li AAAA ::
-dns2.digitale-gesellscdarknet.to A 0.0.0.0
-*.dns2.digitale-gesellscdarknet.to A 0.0.0.0
-dns2.digitale-gesellscdarknet.to AAAA ::
-*.dns2.digitale-gesellscdarknet.to AAAA ::
 dns2.digitale-gesellschaft.ch A 0.0.0.0
 *.dns2.digitale-gesellschaft.ch A 0.0.0.0
 dns2.digitale-gesellschaft.ch AAAA ::
 *.dns2.digitale-gesellschaft.ch AAAA ::
+dns2.digitale-gesellscmask.icloud.com A 0.0.0.0
+*.dns2.digitale-gesellscmask.icloud.com A 0.0.0.0
+dns2.digitale-gesellscmask.icloud.com AAAA ::
+*.dns2.digitale-gesellscmask.icloud.com AAAA ::
 dns2.dnscrypt.ca A 0.0.0.0
 *.dns2.dnscrypt.ca A 0.0.0.0
 dns2.dnscrypt.ca AAAA ::
@@ -1917,6 +1925,10 @@ dns.digitalsize.net A 0.0.0.0
 *.dns.digitalsize.net A 0.0.0.0
 dns.digitalsize.net AAAA ::
 *.dns.digitalsize.net AAAA ::
+dns.dk A 0.0.0.0
+*.dns.dk A 0.0.0.0
+dns.dk AAAA ::
+*.dns.dk AAAA ::
 dns.dns-53.com A 0.0.0.0
 *.dns.dns-53.com A 0.0.0.0
 dns.dns-53.com AAAA ::
@@ -2349,10 +2361,10 @@ dns.joey01245.nl A 0.0.0.0
 *.dns.joey01245.nl A 0.0.0.0
 dns.joey01245.nl AAAA ::
 *.dns.joey01245.nl AAAA ::
-dns.jsdee.su A 0.0.0.0
-*.dns.jsdee.su A 0.0.0.0
-dns.jsdee.su AAAA ::
-*.dns.jsdee.su AAAA ::
+dns.js012proxy.ga A 0.0.0.0
+*.dns.js012proxy.ga A 0.0.0.0
+dns.js012proxy.ga AAAA ::
+*.dns.js012proxy.ga AAAA ::
 dns.jundev.org A 0.0.0.0
 *.dns.jundev.org A 0.0.0.0
 dns.jundev.org AAAA ::
@@ -4605,10 +4617,10 @@ fuchur.pentament.de A 0.0.0.0
 *.fuchur.pentament.de A 0.0.0.0
 fuchur.pentament.de AAAA ::
 *.fuchur.pentament.de AAAA ::
-fwgw.orangeepicbrowser.com A 0.0.0.0
-*.fwgw.orangeepicbrowser.com A 0.0.0.0
-fwgw.orangeepicbrowser.com AAAA ::
-*.fwgw.orangeepicbrowser.com AAAA ::
+fwgw.orangepipc.mywire.org A 0.0.0.0
+*.fwgw.orangepipc.mywire.org A 0.0.0.0
+fwgw.orangepipc.mywire.org AAAA ::
+*.fwgw.orangepipc.mywire.org AAAA ::
 galileo.math.unipd.it A 0.0.0.0
 *.galileo.math.unipd.it A 0.0.0.0
 galileo.math.unipd.it AAAA ::
@@ -6025,10 +6037,6 @@ pinkproxy.xyz A 0.0.0.0
 *.pinkproxy.xyz A 0.0.0.0
 pinkproxy.xyz AAAA ::
 *.pinkproxy.xyz AAAA ::
-pipc.mywire.org A 0.0.0.0
-*.pipc.mywire.org A 0.0.0.0
-pipc.mywire.org AAAA ::
-*.pipc.mywire.org AAAA ::
 pixelprivacy.com A 0.0.0.0
 *.pixelprivacy.com A 0.0.0.0
 pixelprivacy.com AAAA ::
@@ -7473,6 +7481,10 @@ unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
 *.unicast.censurfridns.dk AAAA ::
+unicast.censurfriepicbrowser.com A 0.0.0.0
+*.unicast.censurfriepicbrowser.com A 0.0.0.0
+unicast.censurfriepicbrowser.com AAAA ::
+*.unicast.censurfriepicbrowser.com AAAA ::
 unicast.uncensoreddns.org A 0.0.0.0
 *.unicast.uncensoreddns.org A 0.0.0.0
 unicast.uncensoreddns.org AAAA ::
@@ -7801,10 +7813,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.com12vpx.com A 0.0.0.0
-*.whoisping.com12vpx.com A 0.0.0.0
-whoisping.com12vpx.com AAAA ::
-*.whoisping.com12vpx.com AAAA ::
+whoisping.com A 0.0.0.0
+*.whoisping.com A 0.0.0.0
+whoisping.com AAAA ::
+*.whoisping.com AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
