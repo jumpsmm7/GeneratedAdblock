@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2603281620 ; Serial Number
+ 2603290421 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,10 +13,6 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -229,10 +225,6 @@ adguard.alu.dog A 0.0.0.0
 *.adguard.alu.dog A 0.0.0.0
 adguard.alu.dog AAAA ::
 *.adguard.alu.dog AAAA ::
-adguard.avdkishore.dev A 0.0.0.0
-*.adguard.avdkishore.dev A 0.0.0.0
-adguard.avdkishore.dev AAAA ::
-*.adguard.avdkishore.dev AAAA ::
 adguard.bitteeinbyte.de A 0.0.0.0
 *.adguard.bitteeinbyte.de A 0.0.0.0
 adguard.bitteeinbyte.de AAAA ::
@@ -397,10 +389,6 @@ adguard.zachitect.com A 0.0.0.0
 *.adguard.zachitect.com A 0.0.0.0
 adguard.zachitect.com AAAA ::
 *.adguard.zachitect.com AAAA ::
-adg.yybyy.wiki A 0.0.0.0
-*.adg.yybyy.wiki A 0.0.0.0
-adg.yybyy.wiki AAAA ::
-*.adg.yybyy.wiki AAAA ::
 ad.huyct.net A 0.0.0.0
 *.ad.huyct.net A 0.0.0.0
 ad.huyct.net AAAA ::
@@ -745,6 +733,10 @@ b.family.ns.dnslify.com A 0.0.0.0
 *.b.family.ns.dnslify.com A 0.0.0.0
 b.family.ns.dnslify.com AAAA ::
 *.b.family.ns.dnslify.com AAAA ::
+bfc.org A 0.0.0.0
+*.bfc.org A 0.0.0.0
+bfc.org AAAA ::
+*.bfc.org AAAA ::
 biying.flymlc.com A 0.0.0.0
 *.biying.flymlc.com A 0.0.0.0
 biying.flymlc.com AAAA ::
@@ -1161,6 +1153,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1361,10 +1357,10 @@ dns2.nordvpn.com A 0.0.0.0
 *.dns2.nordvpn.com A 0.0.0.0
 dns2.nordvpn.com AAAA ::
 *.dns2.nordvpn.com AAAA ::
-dns2.saferbfc.org A 0.0.0.0
-*.dns2.saferbfc.org A 0.0.0.0
-dns2.saferbfc.org AAAA ::
-*.dns2.saferbfc.org AAAA ::
+dns2.saferdarknet.to A 0.0.0.0
+*.dns2.saferdarknet.to A 0.0.0.0
+dns2.saferdarknet.to AAAA ::
+*.dns2.saferdarknet.to AAAA ::
 dns-2.wil.cloud A 0.0.0.0
 *.dns-2.wil.cloud A 0.0.0.0
 dns-2.wil.cloud AAAA ::
@@ -2109,14 +2105,14 @@ dnsforge.de A 0.0.0.0
 *.dnsforge.de A 0.0.0.0
 dnsforge.de AAAA ::
 *.dnsforge.de AAAA ::
+dns.foximao.cn A 0.0.0.0
+*.dns.foximao.cn A 0.0.0.0
+dns.foximao.cn AAAA ::
+*.dns.foximao.cn AAAA ::
 dns.foxyfy.net A 0.0.0.0
 *.dns.foxyfy.net A 0.0.0.0
 dns.foxyfy.net AAAA ::
 *.dns.foxyfy.net AAAA ::
-dns-free.link A 0.0.0.0
-*.dns-free.link A 0.0.0.0
-dns-free.link AAAA ::
-*.dns-free.link AAAA ::
 dns.freopc.fr A 0.0.0.0
 *.dns.freopc.fr A 0.0.0.0
 dns.freopc.fr AAAA ::
@@ -2173,10 +2169,6 @@ dns.glf.wtf A 0.0.0.0
 *.dns.glf.wtf A 0.0.0.0
 dns.glf.wtf AAAA ::
 *.dns.glf.wtf AAAA ::
-dns.glorydns.com A 0.0.0.0
-*.dns.glorydns.com A 0.0.0.0
-dns.glorydns.com AAAA ::
-*.dns.glorydns.com AAAA ::
 dns.gnb09.id A 0.0.0.0
 *.dns.gnb09.id A 0.0.0.0
 dns.gnb09.id AAAA ::
@@ -2349,10 +2341,10 @@ dns.joey01245.nl A 0.0.0.0
 *.dns.joey01245.nl A 0.0.0.0
 dns.joey01245.nl AAAA ::
 *.dns.joey01245.nl AAAA ::
-dns.jstockldee.su A 0.0.0.0
-*.dns.jstockldee.su A 0.0.0.0
-dns.jstockldee.su AAAA ::
-*.dns.jstockldee.su AAAA ::
+dns.jstockley.com A 0.0.0.0
+*.dns.jstockley.com A 0.0.0.0
+dns.jstockley.com AAAA ::
+*.dns.jstockley.com AAAA ::
 dns.jundev.org A 0.0.0.0
 *.dns.jundev.org A 0.0.0.0
 dns.jundev.org AAAA ::
@@ -2361,10 +2353,10 @@ dns.jupitrdns.com A 0.0.0.0
 *.dns.jupitrdns.com A 0.0.0.0
 dns.jupitrdns.com AAAA ::
 *.dns.jupitrdns.com AAAA ::
-dns.justinnetworkingsolutions.com A 0.0.0.0
-*.dns.justinnetworkingsolutions.com A 0.0.0.0
-dns.justinnetworkingsolutions.com AAAA ::
-*.dns.justinnetworkingsolutions.com AAAA ::
+dns.justinnetw1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.dns.justinnetw1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+dns.justinnetw1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.dns.justinnetw1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns.k3nny.fr A 0.0.0.0
 *.dns.k3nny.fr A 0.0.0.0
 dns.k3nny.fr AAAA ::
@@ -3261,10 +3253,6 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
-dnswarden.com A 0.0.0.0
-*.dnswarden.com A 0.0.0.0
-dnswarden.com AAAA ::
-*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4217,10 +4205,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.darknet.to A 0.0.0.0
-*.ecs-doh.darknet.to A 0.0.0.0
-ecs-doh.darknet.to AAAA ::
-*.ecs-doh.darknet.to AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4301,10 +4289,6 @@ extended.dns.mullvad.net A 0.0.0.0
 *.extended.dns.mullvad.net A 0.0.0.0
 extended.dns.mullvad.net AAAA ::
 *.extended.dns.mullvad.net AAAA ::
-ey.com A 0.0.0.0
-*.ey.com A 0.0.0.0
-ey.com AAAA ::
-*.ey.com AAAA ::
 eyg01.dnscry.pt A 0.0.0.0
 *.eyg01.dnscry.pt A 0.0.0.0
 eyg01.dnscry.pt AAAA ::
@@ -4617,18 +4601,18 @@ gateway.fomichev.cloud A 0.0.0.0
 *.gateway.fomichev.cloud A 0.0.0.0
 gateway.fomichev.cloud AAAA ::
 *.gateway.fomichev.cloud AAAA ::
-gb-cov-w-f-1.nas1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.gb-cov-w-f-1.nas1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-gb-cov-w-f-1.nas1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.gb-cov-w-f-1.nas1dot1dot1dot1.cloudflare-dns.com AAAA ::
+gb-cov-w-f-1.nashkan.net A 0.0.0.0
+*.gb-cov-w-f-1.nashkan.net A 0.0.0.0
+gb-cov-w-f-1.nashkan.net AAAA ::
+*.gb-cov-w-f-1.nashkan.net AAAA ::
 gb-cov-w-p-1.nashkan.net A 0.0.0.0
 *.gb-cov-w-p-1.nashkan.net A 0.0.0.0
 gb-cov-w-p-1.nashkan.net AAAA ::
 *.gb-cov-w-p-1.nashkan.net AAAA ::
-gb-lon-w-f-1.nashkan.net A 0.0.0.0
-*.gb-lon-w-f-1.nashkan.net A 0.0.0.0
-gb-lon-w-f-1.nashkan.net AAAA ::
-*.gb-lon-w-f-1.nashkan.net AAAA ::
+gb-lon-w-f-1.nashkan012proxy.ga A 0.0.0.0
+*.gb-lon-w-f-1.nashkan012proxy.ga A 0.0.0.0
+gb-lon-w-f-1.nashkan012proxy.ga AAAA ::
+*.gb-lon-w-f-1.nashkan012proxy.ga AAAA ::
 gb-lon-w-p-1.nashkan.net A 0.0.0.0
 *.gb-lon-w-p-1.nashkan.net A 0.0.0.0
 gb-lon-w-p-1.nashkan.net AAAA ::
@@ -5909,6 +5893,10 @@ ore-dns.bitdefender.net A 0.0.0.0
 *.ore-dns.bitdefender.net A 0.0.0.0
 ore-dns.bitdefender.net AAAA ::
 *.ore-dns.bitdefender.net AAAA ::
+orkingsolutions.com A 0.0.0.0
+*.orkingsolutions.com A 0.0.0.0
+orkingsolutions.com AAAA ::
+*.orkingsolutions.com AAAA ::
 o.rsaikat.com A 0.0.0.0
 *.o.rsaikat.com A 0.0.0.0
 o.rsaikat.com AAAA ::
@@ -6009,10 +5997,10 @@ pihole4.hoerli.net A 0.0.0.0
 *.pihole4.hoerli.net A 0.0.0.0
 pihole4.hoerli.net AAAA ::
 *.pihole4.hoerli.net AAAA ::
-pihole.aws.ketan A 0.0.0.0
-*.pihole.aws.ketan A 0.0.0.0
-pihole.aws.ketan AAAA ::
-*.pihole.aws.ketan AAAA ::
+pihole.aws.ketan.dev A 0.0.0.0
+*.pihole.aws.ketan.dev A 0.0.0.0
+pihole.aws.ketan.dev AAAA ::
+*.pihole.aws.ketan.dev AAAA ::
 pihole.datamatter.co.za A 0.0.0.0
 *.pihole.datamatter.co.za A 0.0.0.0
 pihole.datamatter.co.za AAAA ::
@@ -6461,10 +6449,6 @@ quickproxy.co.uk A 0.0.0.0
 *.quickproxy.co.uk A 0.0.0.0
 quickproxy.co.uk AAAA ::
 *.quickproxy.co.uk AAAA ::
-quic.lol A 0.0.0.0
-*.quic.lol A 0.0.0.0
-quic.lol AAAA ::
-*.quic.lol AAAA ::
 r1bnc.com A 0.0.0.0
 *.r1bnc.com A 0.0.0.0
 r1bnc.com AAAA ::
@@ -7709,10 +7693,6 @@ vpnoverview.com A 0.0.0.0
 *.vpnoverview.com A 0.0.0.0
 vpnoverview.com AAAA ::
 *.vpnoverview.com AAAA ::
-vpn.technicule.info A 0.0.0.0
-*.vpn.technicule.info A 0.0.0.0
-vpn.technicule.info AAAA ::
-*.vpn.technicule.info AAAA ::
 vpnunlimitedapp.com A 0.0.0.0
 *.vpnunlimitedapp.com A 0.0.0.0
 vpnunlimitedapp.com AAAA ::
@@ -7785,10 +7765,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.comhkan.net A 0.0.0.0
-*.whoisping.comhkan.net A 0.0.0.0
-whoisping.comhkan.net AAAA ::
-*.whoisping.comhkan.net AAAA ::
+whoisping.com A 0.0.0.0
+*.whoisping.com A 0.0.0.0
+whoisping.com AAAA ::
+*.whoisping.com AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
