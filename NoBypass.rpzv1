@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2604071622 ; Serial Number
+ 2604080422 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -19,8 +19,6 @@ $ORIGIN nobypass.rpz.
 *.123000123.xyz CNAME .
 123-24.eport.gr CNAME .
 *.123-24.eport.gr CNAME .
-12vpx.com CNAME .
-*.12vpx.com CNAME .
 1a.ns.ozer.im CNAME .
 *.1a.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
@@ -683,8 +681,10 @@ dns2.digitale-gesellschaft.ch CNAME .
 *.dns2.digitale-gesellschaft.ch CNAME .
 dns2.dnscrypt.ca CNAME .
 *.dns2.dnscrypt.ca CNAME .
-dns2.in-berlin.de CNAME .
-*.dns2.in-berlin.de CNAME .
+dns2.guidocioni.it CNAME .
+*.dns2.guidocioni.it CNAME .
+dns2.in12vpx.com CNAME .
+*.dns2.in12vpx.com CNAME .
 dns2.klcd.eu CNAME .
 *.dns2.klcd.eu CNAME .
 dns2.nextdns.io CNAME .
@@ -1049,8 +1049,6 @@ dns.ffnw.de CNAME .
 *.dns.ffnw.de CNAME .
 dns.filipccz.eu CNAME .
 *.dns.filipccz.eu CNAME .
-dnsfirefox.dns.nextdns.io CNAME .
-*.dnsfirefox.dns.nextdns.io CNAME .
 dns.fizz.studio CNAME .
 *.dns.fizz.studio CNAME .
 dns.flatuslifir.is CNAME .
@@ -1185,8 +1183,8 @@ dns.jiyi.eu CNAME .
 *.dns.jiyi.eu CNAME .
 dns.joey01245.nl CNAME .
 *.dns.joey01245.nl CNAME .
-dns.jstockle1dot1dot1dot1.cloudflare-dns.com CNAME .
-*.dns.jstockle1dot1dot1dot1.cloudflare-dns.com CNAME .
+dns.jstocklednswarden.com CNAME .
+*.dns.jstocklednswarden.com CNAME .
 dns.jundev.org CNAME .
 *.dns.jundev.org CNAME .
 dns.jupitrdns.com CNAME .
@@ -1285,8 +1283,6 @@ dns.marbledfennec.net CNAME .
 *.dns.marbledfennec.net CNAME .
 dns.mateo.ovh CNAME .
 *.dns.mateo.ovh CNAME .
-dns.mathewakhil.online CNAME .
-*.dns.mathewakhil.online CNAME .
 dns.maybe.icu CNAME .
 *.dns.maybe.icu CNAME .
 dns.mayx.eu.org CNAME .
@@ -1393,8 +1389,6 @@ dns.olpploiopkuyhiopsfrt.info CNAME .
 *.dns.olpploiopkuyhiopsfrt.info CNAME .
 dns.opendns.com CNAME .
 *.dns.opendns.com CNAME .
-dns.org CNAME .
-*.dns.org CNAME .
 dns.oszx.co CNAME .
 *.dns.oszx.co CNAME .
 dnsotls.lab.nic.cl CNAME .
@@ -2121,8 +2115,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.dnswarden.com CNAME .
-*.ecs-doh.dnswarden.com CNAME .
+ecs-doh.dns.org CNAME .
+*.ecs-doh.dns.org CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2317,10 +2311,10 @@ fuchur.pentament.de CNAME .
 *.fuchur.pentament.de CNAME .
 fwgw.orangepipc.mywire.org CNAME .
 *.fwgw.orangepipc.mywire.org CNAME .
-galileo.madns.dk CNAME .
-*.galileo.madns.dk CNAME .
-gateway.fomichev.cloud CNAME .
-*.gateway.fomichev.cloud CNAME .
+galileo.math.unipd.it CNAME .
+*.galileo.math.unipd.it CNAME .
+gateway.fomfirefox.dns.nextdns.io CNAME .
+*.gateway.fomfirefox.dns.nextdns.io CNAME .
 gb-cov-w-f-1.nashkan.net CNAME .
 *.gb-cov-w-f-1.nashkan.net CNAME .
 gb-cov-w-p-1.nashkan.net CNAME .
@@ -2495,6 +2489,8 @@ ibksturm.synology.me CNAME .
 *.ibksturm.synology.me CNAME .
 ibuki.cgnat.net CNAME .
 *.ibuki.cgnat.net CNAME .
+ichev.cloud CNAME .
+*.ichev.cloud CNAME .
 idcloak.com CNAME .
 *.idcloak.com CNAME .
 idolproxy.com CNAME .
@@ -3571,8 +3567,6 @@ thebestvpn.com CNAME .
 *.thebestvpn.com CNAME .
 theclickcheck.com CNAME .
 *.theclickcheck.com CNAME .
-th.unipd.it CNAME .
-*.th.unipd.it CNAME .
 tiafun.com CNAME .
 *.tiafun.com CNAME .
 tienpham.id.vn CNAME .
@@ -3739,8 +3733,6 @@ unfiltered.adguard-dns.com CNAME .
 *.unfiltered.adguard-dns.com CNAME .
 unfiltered.joindns4.eu CNAME .
 *.unfiltered.joindns4.eu CNAME .
-unicast.censurfri2.guidocioni.it CNAME .
-*.unicast.censurfri2.guidocioni.it CNAME .
 unicast.censurfridns.dk CNAME .
 *.unicast.censurfridns.dk CNAME .
 unicast.uncensoreddns.org CNAME .
