@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2604090422 ; Serial Number
+ 2604091622 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -9,6 +9,14 @@ $ORIGIN nobypass.rpz.
  )
  NS localhost
 
+003153.xyz A 0.0.0.0
+*.003153.xyz A 0.0.0.0
+003153.xyz AAAA ::
+*.003153.xyz AAAA ::
+012proxy.ga A 0.0.0.0
+*.012proxy.ga A 0.0.0.0
+012proxy.ga AAAA ::
+*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -21,6 +29,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -1129,10 +1141,6 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1161,6 +1169,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1193,10 +1205,10 @@ deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 deic-lgb.anycast.uncensoreddns.org AAAA ::
 *.deic-lgb.anycast.uncensoreddns.org AAAA ::
-deic-lgb.anycast.uncensoreddnswarden.com A 0.0.0.0
-*.deic-lgb.anycast.uncensoreddnswarden.com A 0.0.0.0
-deic-lgb.anycast.uncensoreddnswarden.com AAAA ::
-*.deic-lgb.anycast.uncensoreddnswarden.com AAAA ::
+deic-lgb.anycast.uncensoredepicbrowser.com A 0.0.0.0
+*.deic-lgb.anycast.uncensoredepicbrowser.com A 0.0.0.0
+deic-lgb.anycast.uncensoredepicbrowser.com AAAA ::
+*.deic-lgb.anycast.uncensoredepicbrowser.com AAAA ::
 deic-ore.anycast.censurfridns.dk A 0.0.0.0
 *.deic-ore.anycast.censurfridns.dk A 0.0.0.0
 deic-ore.anycast.censurfridns.dk AAAA ::
@@ -1337,14 +1349,14 @@ dns2.developer.li A 0.0.0.0
 *.dns2.developer.li A 0.0.0.0
 dns2.developer.li AAAA ::
 *.dns2.developer.li AAAA ::
-dns2.digitale-12vpx.com A 0.0.0.0
-*.dns2.digitale-12vpx.com A 0.0.0.0
-dns2.digitale-12vpx.com AAAA ::
-*.dns2.digitale-12vpx.com AAAA ::
 dns2.digitale-gesellschaft.ch A 0.0.0.0
 *.dns2.digitale-gesellschaft.ch A 0.0.0.0
 dns2.digitale-gesellschaft.ch AAAA ::
 *.dns2.digitale-gesellschaft.ch AAAA ::
+dns2.digitale-mask.icloud.com A 0.0.0.0
+*.dns2.digitale-mask.icloud.com A 0.0.0.0
+dns2.digitale-mask.icloud.com AAAA ::
+*.dns2.digitale-mask.icloud.com AAAA ::
 dns2.dnscrypt.ca A 0.0.0.0
 *.dns2.dnscrypt.ca A 0.0.0.0
 dns2.dnscrypt.ca AAAA ::
@@ -2353,10 +2365,10 @@ dns.joey01245.nl A 0.0.0.0
 *.dns.joey01245.nl A 0.0.0.0
 dns.joey01245.nl AAAA ::
 *.dns.joey01245.nl AAAA ::
-dns.jstockledee.su A 0.0.0.0
-*.dns.jstockledee.su A 0.0.0.0
-dns.jstockledee.su AAAA ::
-*.dns.jstockledee.su AAAA ::
+dns.jstockley.com A 0.0.0.0
+*.dns.jstockley.com A 0.0.0.0
+dns.jstockley.com AAAA ::
+*.dns.jstockley.com AAAA ::
 dns.jundev.org A 0.0.0.0
 *.dns.jundev.org A 0.0.0.0
 dns.jundev.org AAAA ::
@@ -4233,10 +4245,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.003153.xyz A 0.0.0.0
-*.ecs-doh.003153.xyz A 0.0.0.0
-ecs-doh.003153.xyz AAAA ::
-*.ecs-doh.003153.xyz AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4269,10 +4281,6 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
-epicbrowser.com A 0.0.0.0
-*.epicbrowser.com A 0.0.0.0
-epicbrowser.com AAAA ::
-*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4621,10 +4629,10 @@ fuchur.pentament.de A 0.0.0.0
 *.fuchur.pentament.de A 0.0.0.0
 fuchur.pentament.de AAAA ::
 *.fuchur.pentament.de AAAA ::
-fwg012proxy.ga A 0.0.0.0
-*.fwg012proxy.ga A 0.0.0.0
-fwg012proxy.ga AAAA ::
-*.fwg012proxy.ga AAAA ::
+fwgdarknet.to A 0.0.0.0
+*.fwgdarknet.to A 0.0.0.0
+fwgdarknet.to AAAA ::
+*.fwgdarknet.to AAAA ::
 galileo.math.unipd.it A 0.0.0.0
 *.galileo.math.unipd.it A 0.0.0.0
 galileo.math.unipd.it AAAA ::
@@ -5089,10 +5097,6 @@ ivpn.net A 0.0.0.0
 *.ivpn.net A 0.0.0.0
 ivpn.net AAAA ::
 *.ivpn.net AAAA ::
-i.xyz A 0.0.0.0
-*.i.xyz A 0.0.0.0
-i.xyz AAAA ::
-*.i.xyz AAAA ::
 jabber-germany.de A 0.0.0.0
 *.jabber-germany.de A 0.0.0.0
 jabber-germany.de AAAA ::
@@ -5997,10 +6001,10 @@ per.adfilter.net A 0.0.0.0
 *.per.adfilter.net A 0.0.0.0
 per.adfilter.net AAAA ::
 *.per.adfilter.net AAAA ::
-performance.gosamfirefox.dns.nextdns.io A 0.0.0.0
-*.performance.gosamfirefox.dns.nextdns.io A 0.0.0.0
-performance.gosamfirefox.dns.nextdns.io AAAA ::
-*.performance.gosamfirefox.dns.nextdns.io AAAA ::
+performance.gosami.xyz A 0.0.0.0
+*.performance.gosami.xyz A 0.0.0.0
+performance.gosami.xyz AAAA ::
+*.performance.gosami.xyz AAAA ::
 phl01.dnscry.pt A 0.0.0.0
 *.phl01.dnscry.pt A 0.0.0.0
 phl01.dnscry.pt AAAA ::
@@ -7805,10 +7809,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.com A 0.0.0.0
-*.whoisping.com A 0.0.0.0
-whoisping.com AAAA ::
-*.whoisping.com AAAA ::
+whoisping.com1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.whoisping.com1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+whoisping.com1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.whoisping.com1dot1dot1dot1.cloudflare-dns.com AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
@@ -7933,10 +7937,6 @@ ychen.gq A 0.0.0.0
 *.ychen.gq A 0.0.0.0
 ychen.gq AAAA ::
 *.ychen.gq AAAA ::
-y.com A 0.0.0.0
-*.y.com A 0.0.0.0
-y.com AAAA ::
-*.y.com AAAA ::
 yellowproxy.net A 0.0.0.0
 *.yellowproxy.net A 0.0.0.0
 yellowproxy.net AAAA ::
