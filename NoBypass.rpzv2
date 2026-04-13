@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2604121624 ; Serial Number
+ 2604130424 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,10 +13,6 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -29,10 +25,6 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
-12vpx.com A 0.0.0.0
-*.12vpx.com A 0.0.0.0
-12vpx.com AAAA ::
-*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -1141,6 +1133,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1205,14 +1201,14 @@ deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 deic-lgb.anycast.uncensoreddns.org AAAA ::
 *.deic-lgb.anycast.uncensoreddns.org AAAA ::
+deic-ore.anycast.012proxy.ga A 0.0.0.0
+*.deic-ore.anycast.012proxy.ga A 0.0.0.0
+deic-ore.anycast.012proxy.ga AAAA ::
+*.deic-ore.anycast.012proxy.ga AAAA ::
 deic-ore.anycast.censurfridns.dk A 0.0.0.0
 *.deic-ore.anycast.censurfridns.dk A 0.0.0.0
 deic-ore.anycast.censurfridns.dk AAAA ::
 *.deic-ore.anycast.censurfridns.dk AAAA ::
-deic-ore.anycast.mask.icloud.com A 0.0.0.0
-*.deic-ore.anycast.mask.icloud.com A 0.0.0.0
-deic-ore.anycast.mask.icloud.com AAAA ::
-*.deic-ore.anycast.mask.icloud.com AAAA ::
 deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 deic-ore.anycast.uncensoreddns.org AAAA ::
@@ -1261,6 +1257,10 @@ dns12.quad9.net A 0.0.0.0
 *.dns12.quad9.net A 0.0.0.0
 dns12.quad9.net AAAA ::
 *.dns12.quad9.net AAAA ::
+dns.12vpx.com A 0.0.0.0
+*.dns.12vpx.com A 0.0.0.0
+dns.12vpx.com AAAA ::
+*.dns.12vpx.com AAAA ::
 dns.13evl.com A 0.0.0.0
 *.dns.13evl.com A 0.0.0.0
 dns.13evl.com AAAA ::
@@ -2369,10 +2369,6 @@ dns.jundev.org A 0.0.0.0
 *.dns.jundev.org A 0.0.0.0
 dns.jundev.org AAAA ::
 *.dns.jundev.org AAAA ::
-dns.jupitrdns.com A 0.0.0.0
-*.dns.jupitrdns.com A 0.0.0.0
-dns.jupitrdns.com AAAA ::
-*.dns.jupitrdns.com AAAA ::
 dns.justinnetworkingsolutions.com A 0.0.0.0
 *.dns.justinnetworkingsolutions.com A 0.0.0.0
 dns.justinnetworkingsolutions.com AAAA ::
@@ -3041,6 +3037,10 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
+dns.simplylinux.ch A 0.0.0.0
+*.dns.simplylinux.ch A 0.0.0.0
+dns.simplylinux.ch AAAA ::
+*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -3277,10 +3277,6 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
-dnswarden.com A 0.0.0.0
-*.dnswarden.com A 0.0.0.0
-dnswarden.com AAAA ::
-*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -3533,10 +3529,6 @@ doh.chi.ahadns.net A 0.0.0.0
 *.doh.chi.ahadns.net A 0.0.0.0
 doh.chi.ahadns.net AAAA ::
 *.doh.chi.ahadns.net AAAA ::
-doh.cippapp.com A 0.0.0.0
-*.doh.cippapp.com A 0.0.0.0
-doh.cippapp.com AAAA ::
-*.doh.cippapp.com AAAA ::
 doh.cleanbrowsing.org A 0.0.0.0
 *.doh.cleanbrowsing.org A 0.0.0.0
 doh.cleanbrowsing.org AAAA ::
@@ -3713,10 +3705,6 @@ doh-jp.blahdns.com A 0.0.0.0
 *.doh-jp.blahdns.com A 0.0.0.0
 doh-jp.blahdns.com AAAA ::
 *.doh-jp.blahdns.com AAAA ::
-doh.kekew.info A 0.0.0.0
-*.doh.kekew.info A 0.0.0.0
-doh.kekew.info AAAA ::
-*.doh.kekew.info AAAA ::
 doh.kel.pe A 0.0.0.0
 *.doh.kel.pe A 0.0.0.0
 doh.kel.pe AAAA ::
@@ -4237,10 +4225,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.darknet.to A 0.0.0.0
-*.ecs-doh.darknet.to A 0.0.0.0
-ecs-doh.darknet.to AAAA ::
-*.ecs-doh.darknet.to AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4629,10 +4617,10 @@ fwgw.orangepipc.mywire.org A 0.0.0.0
 *.fwgw.orangepipc.mywire.org A 0.0.0.0
 fwgw.orangepipc.mywire.org AAAA ::
 *.fwgw.orangepipc.mywire.org AAAA ::
-galileo.math.unipd.ifirefox.dns.nextdns.io A 0.0.0.0
-*.galileo.math.unipd.ifirefox.dns.nextdns.io A 0.0.0.0
-galileo.math.unipd.ifirefox.dns.nextdns.io AAAA ::
-*.galileo.math.unipd.ifirefox.dns.nextdns.io AAAA ::
+galileo.math.unipd.it A 0.0.0.0
+*.galileo.math.unipd.it A 0.0.0.0
+galileo.math.unipd.it AAAA ::
+*.galileo.math.unipd.it AAAA ::
 gateway.fomichev.cloud A 0.0.0.0
 *.gateway.fomichev.cloud A 0.0.0.0
 gateway.fomichev.cloud AAAA ::
@@ -4901,6 +4889,10 @@ hola.org A 0.0.0.0
 *.hola.org A 0.0.0.0
 hola.org AAAA ::
 *.hola.org AAAA ::
+hole.aws.ketan.dev A 0.0.0.0
+*.hole.aws.ketan.dev A 0.0.0.0
+hole.aws.ketan.dev AAAA ::
+*.hole.aws.ketan.dev AAAA ::
 hole.elbschloss.xyz A 0.0.0.0
 *.hole.elbschloss.xyz A 0.0.0.0
 hole.elbschloss.xyz AAAA ::
@@ -5181,6 +5173,10 @@ jp-tyo-w-p-1.nashkan.net A 0.0.0.0
 *.jp-tyo-w-p-1.nashkan.net A 0.0.0.0
 jp-tyo-w-p-1.nashkan.net AAAA ::
 *.jp-tyo-w-p-1.nashkan.net AAAA ::
+jupitrdns.com A 0.0.0.0
+*.jupitrdns.com A 0.0.0.0
+jupitrdns.com AAAA ::
+*.jupitrdns.com AAAA ::
 jurre-home.duckdns.org A 0.0.0.0
 *.jurre-home.duckdns.org A 0.0.0.0
 jurre-home.duckdns.org AAAA ::
@@ -6009,6 +6005,10 @@ phx01.dnscry.pt A 0.0.0.0
 *.phx01.dnscry.pt A 0.0.0.0
 phx01.dnscry.pt AAAA ::
 *.phx01.dnscry.pt AAAA ::
+pifirefox.dns.nextdns.io A 0.0.0.0
+*.pifirefox.dns.nextdns.io A 0.0.0.0
+pifirefox.dns.nextdns.io AAAA ::
+*.pifirefox.dns.nextdns.io AAAA ::
 pihole1.hoerli.net A 0.0.0.0
 *.pihole1.hoerli.net A 0.0.0.0
 pihole1.hoerli.net AAAA ::
@@ -6025,10 +6025,6 @@ pihole4.hoerli.net A 0.0.0.0
 *.pihole4.hoerli.net A 0.0.0.0
 pihole4.hoerli.net AAAA ::
 *.pihole4.hoerli.net AAAA ::
-pihole.aws.ketan.dev A 0.0.0.0
-*.pihole.aws.ketan.dev A 0.0.0.0
-pihole.aws.ketan.dev AAAA ::
-*.pihole.aws.ketan.dev AAAA ::
 pihole.datamatter.co.za A 0.0.0.0
 *.pihole.datamatter.co.za A 0.0.0.0
 pihole.datamatter.co.za AAAA ::
