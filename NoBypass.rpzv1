@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2604140424 ; Serial Number
+ 2604141624 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -11,6 +11,8 @@ $ORIGIN nobypass.rpz.
 
 003153.xyz CNAME .
 *.003153.xyz CNAME .
+012proxy.ga CNAME .
+*.012proxy.ga CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
@@ -589,8 +591,6 @@ de-dus.doh.sb CNAME .
 *.de-dus.doh.sb CNAME .
 deep-henchman-excuse.cfd CNAME .
 *.deep-henchman-excuse.cfd CNAME .
-dee.su CNAME .
-*.dee.su CNAME .
 de-f1.foxyfy.net CNAME .
 *.de-f1.foxyfy.net CNAME .
 defencevpn.com CNAME .
@@ -609,8 +609,8 @@ deic-lgb.anycast.uncensoreddns.org CNAME .
 *.deic-lgb.anycast.uncensoreddns.org CNAME .
 deic-ore.anycast.censurfridns.dk CNAME .
 *.deic-ore.anycast.censurfridns.dk CNAME .
-deic-ore.anycast.mask.icloud.com CNAME .
-*.deic-ore.anycast.mask.icloud.com CNAME .
+deic-ore.anycast.dee.su CNAME .
+*.deic-ore.anycast.dee.su CNAME .
 deic-ore.anycast.uncensoreddns.org CNAME .
 *.deic-ore.anycast.uncensoreddns.org CNAME .
 den01.dnscry.pt CNAME .
@@ -679,8 +679,6 @@ dns2.cbio.top CNAME .
 *.dns2.cbio.top CNAME .
 dns2.developer.li CNAME .
 *.dns2.developer.li CNAME .
-dns2.digitale-gesellschafepicbrowser.com CNAME .
-*.dns2.digitale-gesellschafepicbrowser.com CNAME .
 dns2.digitale-gesellschaft.ch CNAME .
 *.dns2.digitale-gesellschaft.ch CNAME .
 dns2.dnscrypt.ca CNAME .
@@ -969,8 +967,6 @@ dns.digitale-gesellschaft.ch CNAME .
 *.dns.digitale-gesellschaft.ch CNAME .
 dns.digitalsize.net CNAME .
 *.dns.digitalsize.net CNAME .
-dns.dk CNAME .
-*.dns.dk CNAME .
 dns.dns-53.com CNAME .
 *.dns.dns-53.com CNAME .
 dns.dns-53.uk CNAME .
@@ -1025,6 +1021,8 @@ dnsenc.com CNAME .
 *.dnsenc.com CNAME .
 dns.engineer.web.id CNAME .
 *.dns.engineer.web.id CNAME .
+dns.epicbrowser.com CNAME .
+*.dns.epicbrowser.com CNAME .
 dnses.alekberg.net CNAME .
 *.dnses.alekberg.net CNAME .
 dns.eu-frankfurt-1.oraclecloud.com CNAME .
@@ -1055,8 +1053,6 @@ dns.ffnw.de CNAME .
 *.dns.ffnw.de CNAME .
 dns.filipccz.eu CNAME .
 *.dns.filipccz.eu CNAME .
-dns.firefox.dns.nextdns.io CNAME .
-*.dns.firefox.dns.nextdns.io CNAME .
 dns.fizz.studio CNAME .
 *.dns.fizz.studio CNAME .
 dns.flatuslifir.is CNAME .
@@ -1643,8 +1639,6 @@ dns.vip-kingstore.xyz CNAME .
 *.dns.vip-kingstore.xyz CNAME .
 dns.vmath.my.id CNAME .
 *.dns.vmath.my.id CNAME .
-dns.vod11.xyz CNAME .
-*.dns.vod11.xyz CNAME .
 dnsvps.familiamv.net CNAME .
 *.dnsvps.familiamv.net CNAME .
 dns.w3ctag.org CNAME .
@@ -2871,6 +2865,8 @@ ns3.wuyouss.com CNAME .
 *.ns3.wuyouss.com CNAME .
 ns4.opennameserver.org CNAME .
 *.ns4.opennameserver.org CNAME .
+nscry.pt CNAME .
+*.nscry.pt CNAME .
 nsc.torgues.net CNAME .
 *.nsc.torgues.net CNAME .
 ns.data.haus CNAME .
@@ -3005,12 +3001,14 @@ pdns.itxe.net CNAME .
 *.pdns.itxe.net CNAME .
 pdx01.dnscry.pt CNAME .
 *.pdx01.dnscry.pt CNAME .
+pepetio.xyz CNAME .
+*.pepetio.xyz CNAME .
 per.adfilter.net CNAME .
 *.per.adfilter.net CNAME .
 performance.gosami.xyz CNAME .
 *.performance.gosami.xyz CNAME .
-phl01.dnscry.pt CNAME .
-*.phl01.dnscry.pt CNAME .
+phl01.dfirefox.dns.nextdns.io CNAME .
+*.phl01.dfirefox.dns.nextdns.io CNAME .
 phx01.dnscry.pt CNAME .
 *.phx01.dnscry.pt CNAME .
 pihole1.hoerli.net CNAME .
@@ -3567,8 +3565,6 @@ takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
 tbs01.dnscry.pt CNAME .
 *.tbs01.dnscry.pt CNAME .
-t.ch CNAME .
-*.t.ch CNAME .
 tecdrive.site CNAME .
 *.tecdrive.site CNAME .
 tenta.com CNAME .
@@ -3747,8 +3743,6 @@ unfiltered.adguard-dns.com CNAME .
 *.unfiltered.adguard-dns.com CNAME .
 unfiltered.joindns4.eu CNAME .
 *.unfiltered.joindns4.eu CNAME .
-unicast.censurfri012proxy.ga CNAME .
-*.unicast.censurfri012proxy.ga CNAME .
 unicast.censurfridns.dk CNAME .
 *.unicast.censurfridns.dk CNAME .
 unicast.uncensoreddns.org CNAME .
@@ -3915,8 +3909,8 @@ webunblocker.xyz CNAME .
 *.webunblocker.xyz CNAME .
 whoer.net CNAME .
 *.whoer.net CNAME .
-whoisping.com CNAME .
-*.whoisping.com CNAME .
+whoisping.commask.icloud.com CNAME .
+*.whoisping.commask.icloud.com CNAME .
 whonix.org CNAME .
 *.whonix.org CNAME .
 wikimedia-dns.org CNAME .
