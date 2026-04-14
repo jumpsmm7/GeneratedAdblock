@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2604131624 ; Serial Number
+ 2604140424 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,10 +13,6 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -29,6 +25,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -1169,6 +1169,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1205,10 +1209,10 @@ deic-ore.anycast.censurfridns.dk A 0.0.0.0
 *.deic-ore.anycast.censurfridns.dk A 0.0.0.0
 deic-ore.anycast.censurfridns.dk AAAA ::
 *.deic-ore.anycast.censurfridns.dk AAAA ::
-deic-ore.anycast.dee.su A 0.0.0.0
-*.deic-ore.anycast.dee.su A 0.0.0.0
-deic-ore.anycast.dee.su AAAA ::
-*.deic-ore.anycast.dee.su AAAA ::
+deic-ore.anycast.mask.icloud.com A 0.0.0.0
+*.deic-ore.anycast.mask.icloud.com A 0.0.0.0
+deic-ore.anycast.mask.icloud.com AAAA ::
+*.deic-ore.anycast.mask.icloud.com AAAA ::
 deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 deic-ore.anycast.uncensoreddns.org AAAA ::
@@ -1257,10 +1261,6 @@ dns12.quad9.net A 0.0.0.0
 *.dns12.quad9.net A 0.0.0.0
 dns12.quad9.net AAAA ::
 *.dns12.quad9.net AAAA ::
-dns.12vpx.com A 0.0.0.0
-*.dns.12vpx.com A 0.0.0.0
-dns.12vpx.com AAAA ::
-*.dns.12vpx.com AAAA ::
 dns.13evl.com A 0.0.0.0
 *.dns.13evl.com A 0.0.0.0
 dns.13evl.com AAAA ::
@@ -1349,6 +1349,10 @@ dns2.developer.li A 0.0.0.0
 *.dns2.developer.li A 0.0.0.0
 dns2.developer.li AAAA ::
 *.dns2.developer.li AAAA ::
+dns2.digitale-gesellschafepicbrowser.com A 0.0.0.0
+*.dns2.digitale-gesellschafepicbrowser.com A 0.0.0.0
+dns2.digitale-gesellschafepicbrowser.com AAAA ::
+*.dns2.digitale-gesellschafepicbrowser.com AAAA ::
 dns2.digitale-gesellschaft.ch A 0.0.0.0
 *.dns2.digitale-gesellschaft.ch A 0.0.0.0
 dns2.digitale-gesellschaft.ch AAAA ::
@@ -1357,10 +1361,10 @@ dns2.dnscrypt.ca A 0.0.0.0
 *.dns2.dnscrypt.ca A 0.0.0.0
 dns2.dnscrypt.ca AAAA ::
 *.dns2.dnscrypt.ca AAAA ::
-dns2.guidepicbrowser.com A 0.0.0.0
-*.dns2.guidepicbrowser.com A 0.0.0.0
-dns2.guidepicbrowser.com AAAA ::
-*.dns2.guidepicbrowser.com AAAA ::
+dns2.guidocioni.it A 0.0.0.0
+*.dns2.guidocioni.it A 0.0.0.0
+dns2.guidocioni.it AAAA ::
+*.dns2.guidocioni.it AAAA ::
 dns2.in-berlin.de A 0.0.0.0
 *.dns2.in-berlin.de A 0.0.0.0
 dns2.in-berlin.de AAAA ::
@@ -1925,6 +1929,10 @@ dns.digitalsize.net A 0.0.0.0
 *.dns.digitalsize.net A 0.0.0.0
 dns.digitalsize.net AAAA ::
 *.dns.digitalsize.net AAAA ::
+dns.dk A 0.0.0.0
+*.dns.dk A 0.0.0.0
+dns.dk AAAA ::
+*.dns.dk AAAA ::
 dns.dns-53.com A 0.0.0.0
 *.dns.dns-53.com A 0.0.0.0
 dns.dns-53.com AAAA ::
@@ -2093,6 +2101,10 @@ dns.filipccz.eu A 0.0.0.0
 *.dns.filipccz.eu A 0.0.0.0
 dns.filipccz.eu AAAA ::
 *.dns.filipccz.eu AAAA ::
+dns.firefox.dns.nextdns.io A 0.0.0.0
+*.dns.firefox.dns.nextdns.io A 0.0.0.0
+dns.firefox.dns.nextdns.io AAAA ::
+*.dns.firefox.dns.nextdns.io AAAA ::
 dns.fizz.studio A 0.0.0.0
 *.dns.fizz.studio A 0.0.0.0
 dns.fizz.studio AAAA ::
@@ -3265,6 +3277,10 @@ dns.vmath.my.id A 0.0.0.0
 *.dns.vmath.my.id A 0.0.0.0
 dns.vmath.my.id AAAA ::
 *.dns.vmath.my.id AAAA ::
+dns.vod11.xyz A 0.0.0.0
+*.dns.vod11.xyz A 0.0.0.0
+dns.vod11.xyz AAAA ::
+*.dns.vod11.xyz AAAA ::
 dnsvps.familiamv.net A 0.0.0.0
 *.dnsvps.familiamv.net A 0.0.0.0
 dnsvps.familiamv.net AAAA ::
@@ -3901,10 +3917,6 @@ doh.sidnlabs.nl A 0.0.0.0
 *.doh.sidnlabs.nl A 0.0.0.0
 doh.sidnlabs.nl AAAA ::
 *.doh.sidnlabs.nl AAAA ::
-doh.sublime9.xyz A 0.0.0.0
-*.doh.sublime9.xyz A 0.0.0.0
-doh.sublime9.xyz AAAA ::
-*.doh.sublime9.xyz AAAA ::
 doh.suche.org A 0.0.0.0
 *.doh.suche.org A 0.0.0.0
 doh.suche.org AAAA ::
@@ -5793,10 +5805,6 @@ o1.lt A 0.0.0.0
 *.o1.lt A 0.0.0.0
 o1.lt AAAA ::
 *.o1.lt AAAA ::
-ocioni.it A 0.0.0.0
-*.ocioni.it A 0.0.0.0
-ocioni.it AAAA ::
-*.ocioni.it AAAA ::
 odoh.cloudflare-dns.com A 0.0.0.0
 *.odoh.cloudflare-dns.com A 0.0.0.0
 odoh.cloudflare-dns.com AAAA ::
@@ -7117,6 +7125,10 @@ tbs01.dnscry.pt A 0.0.0.0
 *.tbs01.dnscry.pt A 0.0.0.0
 tbs01.dnscry.pt AAAA ::
 *.tbs01.dnscry.pt AAAA ::
+t.ch A 0.0.0.0
+*.t.ch A 0.0.0.0
+t.ch AAAA ::
+*.t.ch AAAA ::
 tecdrive.site A 0.0.0.0
 *.tecdrive.site A 0.0.0.0
 tecdrive.site AAAA ::
@@ -7473,6 +7485,10 @@ unfiltered.joindns4.eu A 0.0.0.0
 *.unfiltered.joindns4.eu A 0.0.0.0
 unfiltered.joindns4.eu AAAA ::
 *.unfiltered.joindns4.eu AAAA ::
+unicast.censurfri012proxy.ga A 0.0.0.0
+*.unicast.censurfri012proxy.ga A 0.0.0.0
+unicast.censurfri012proxy.ga AAAA ::
+*.unicast.censurfri012proxy.ga AAAA ::
 unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::

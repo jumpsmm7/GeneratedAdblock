@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2604131624 ; Serial Number
+ 2604140424 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -11,14 +11,14 @@ $ORIGIN nobypass.rpz.
 
 003153.xyz CNAME .
 *.003153.xyz CNAME .
-012proxy.ga CNAME .
-*.012proxy.ga CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
 *.123000123.xyz CNAME .
 123-24.eport.gr CNAME .
 *.123-24.eport.gr CNAME .
+12vpx.com CNAME .
+*.12vpx.com CNAME .
 1a.ns.ozer.im CNAME .
 *.1a.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
@@ -589,6 +589,8 @@ de-dus.doh.sb CNAME .
 *.de-dus.doh.sb CNAME .
 deep-henchman-excuse.cfd CNAME .
 *.deep-henchman-excuse.cfd CNAME .
+dee.su CNAME .
+*.dee.su CNAME .
 de-f1.foxyfy.net CNAME .
 *.de-f1.foxyfy.net CNAME .
 defencevpn.com CNAME .
@@ -607,8 +609,8 @@ deic-lgb.anycast.uncensoreddns.org CNAME .
 *.deic-lgb.anycast.uncensoreddns.org CNAME .
 deic-ore.anycast.censurfridns.dk CNAME .
 *.deic-ore.anycast.censurfridns.dk CNAME .
-deic-ore.anycast.dee.su CNAME .
-*.deic-ore.anycast.dee.su CNAME .
+deic-ore.anycast.mask.icloud.com CNAME .
+*.deic-ore.anycast.mask.icloud.com CNAME .
 deic-ore.anycast.uncensoreddns.org CNAME .
 *.deic-ore.anycast.uncensoreddns.org CNAME .
 den01.dnscry.pt CNAME .
@@ -633,8 +635,6 @@ dns11.quad9.net CNAME .
 *.dns11.quad9.net CNAME .
 dns12.quad9.net CNAME .
 *.dns12.quad9.net CNAME .
-dns.12vpx.com CNAME .
-*.dns.12vpx.com CNAME .
 dns.13evl.com CNAME .
 *.dns.13evl.com CNAME .
 dns13.quad9.net CNAME .
@@ -679,12 +679,14 @@ dns2.cbio.top CNAME .
 *.dns2.cbio.top CNAME .
 dns2.developer.li CNAME .
 *.dns2.developer.li CNAME .
+dns2.digitale-gesellschafepicbrowser.com CNAME .
+*.dns2.digitale-gesellschafepicbrowser.com CNAME .
 dns2.digitale-gesellschaft.ch CNAME .
 *.dns2.digitale-gesellschaft.ch CNAME .
 dns2.dnscrypt.ca CNAME .
 *.dns2.dnscrypt.ca CNAME .
-dns2.guidepicbrowser.com CNAME .
-*.dns2.guidepicbrowser.com CNAME .
+dns2.guidocioni.it CNAME .
+*.dns2.guidocioni.it CNAME .
 dns2.in-berlin.de CNAME .
 *.dns2.in-berlin.de CNAME .
 dns2.klcd.eu CNAME .
@@ -967,6 +969,8 @@ dns.digitale-gesellschaft.ch CNAME .
 *.dns.digitale-gesellschaft.ch CNAME .
 dns.digitalsize.net CNAME .
 *.dns.digitalsize.net CNAME .
+dns.dk CNAME .
+*.dns.dk CNAME .
 dns.dns-53.com CNAME .
 *.dns.dns-53.com CNAME .
 dns.dns-53.uk CNAME .
@@ -1051,6 +1055,8 @@ dns.ffnw.de CNAME .
 *.dns.ffnw.de CNAME .
 dns.filipccz.eu CNAME .
 *.dns.filipccz.eu CNAME .
+dns.firefox.dns.nextdns.io CNAME .
+*.dns.firefox.dns.nextdns.io CNAME .
 dns.fizz.studio CNAME .
 *.dns.fizz.studio CNAME .
 dns.flatuslifir.is CNAME .
@@ -1637,6 +1643,8 @@ dns.vip-kingstore.xyz CNAME .
 *.dns.vip-kingstore.xyz CNAME .
 dns.vmath.my.id CNAME .
 *.dns.vmath.my.id CNAME .
+dns.vod11.xyz CNAME .
+*.dns.vod11.xyz CNAME .
 dnsvps.familiamv.net CNAME .
 *.dnsvps.familiamv.net CNAME .
 dns.w3ctag.org CNAME .
@@ -1955,8 +1963,6 @@ doh-sg.blahdns.com CNAME .
 *.doh-sg.blahdns.com CNAME .
 doh.sidnlabs.nl CNAME .
 *.doh.sidnlabs.nl CNAME .
-doh.sublime9.xyz CNAME .
-*.doh.sublime9.xyz CNAME .
 doh.suche.org CNAME .
 *.doh.suche.org CNAME .
 doh.sunoaki.net CNAME .
@@ -2901,8 +2907,6 @@ nz01.dns4me.net CNAME .
 *.nz01.dns4me.net CNAME .
 o1.lt CNAME .
 *.o1.lt CNAME .
-ocioni.it CNAME .
-*.ocioni.it CNAME .
 odoh.cloudflare-dns.com CNAME .
 *.odoh.cloudflare-dns.com CNAME .
 odoh.crypto.sx CNAME .
@@ -3563,6 +3567,8 @@ takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
 tbs01.dnscry.pt CNAME .
 *.tbs01.dnscry.pt CNAME .
+t.ch CNAME .
+*.t.ch CNAME .
 tecdrive.site CNAME .
 *.tecdrive.site CNAME .
 tenta.com CNAME .
@@ -3741,6 +3747,8 @@ unfiltered.adguard-dns.com CNAME .
 *.unfiltered.adguard-dns.com CNAME .
 unfiltered.joindns4.eu CNAME .
 *.unfiltered.joindns4.eu CNAME .
+unicast.censurfri012proxy.ga CNAME .
+*.unicast.censurfri012proxy.ga CNAME .
 unicast.censurfridns.dk CNAME .
 *.unicast.censurfridns.dk CNAME .
 unicast.uncensoreddns.org CNAME .
