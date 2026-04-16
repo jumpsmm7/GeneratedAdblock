@@ -1,5 +1,7 @@
 0.0.0.0 003153.xyz
 :: 003153.xyz
+0.0.0.0 012proxy.ga
+:: 012proxy.ga
 0.0.0.0 0ms.dev
 :: 0ms.dev
 0.0.0.0 123000123.xyz
@@ -68,6 +70,8 @@
 :: adblockersite.com
 0.0.0.0 adblock.indianets.net
 :: adblock.indianets.net
+0.0.0.0 adblock.krctech.dev
+:: adblock.krctech.dev
 0.0.0.0 adblock.leenit.kr
 :: adblock.leenit.kr
 0.0.0.0 adblock.mydns.network
@@ -124,8 +128,6 @@
 :: adguard.ef67daisuki.club
 0.0.0.0 adguard.ender.fr
 :: adguard.ender.fr
-0.0.0.0 adguard.gambini.org
-:: adguard.gambini.org
 0.0.0.0 adguard.gbrossi.com.br
 :: adguard.gbrossi.com.br
 0.0.0.0 adguard.haneulo.com
@@ -188,8 +190,6 @@
 :: adguard.wirimij.nl
 0.0.0.0 adguard.zachitect.com
 :: adguard.zachitect.com
-0.0.0.0 adg.yybyy.wiki
-:: adg.yybyy.wiki
 0.0.0.0 ad.huyct.net
 :: ad.huyct.net
 0.0.0.0 ad.justincounts.com
@@ -594,6 +594,8 @@
 :: deic-lgb.anycast.uncensoreddns.org
 0.0.0.0 deic-ore.anycast.censurfridns.dk
 :: deic-ore.anycast.censurfridns.dk
+0.0.0.0 deic-ore.anycast.un1dot1dot1dot1.cloudflare-dns.com
+:: deic-ore.anycast.un1dot1dot1dot1.cloudflare-dns.com
 0.0.0.0 deic-ore.anycast.uncensoreddns.org
 :: deic-ore.anycast.uncensoreddns.org
 0.0.0.0 den01.dnscry.pt
@@ -884,8 +886,6 @@
 :: dns.coderoria.com
 0.0.0.0 dns.colorfreedom.org
 :: dns.colorfreedom.org
-0.0.0.0 dns.com
-:: dns.com
 0.0.0.0 dns.comeonjames.club
 :: dns.comeonjames.club
 0.0.0.0 dns.comff.net
@@ -1176,10 +1176,10 @@
 :: dns.jstockley.com
 0.0.0.0 dns.jundev.org
 :: dns.jundev.org
-0.0.0.0 dns.jupitr012proxy.ga
-:: dns.jupitr012proxy.ga
-0.0.0.0 dns.justinnetworkingsolutions.com
-:: dns.justinnetworkingsolutions.com
+0.0.0.0 dns.jupitrdns.com
+:: dns.jupitrdns.com
+0.0.0.0 dns.jusdns.dk
+:: dns.jusdns.dk
 0.0.0.0 dns.k3nny.fr
 :: dns.k3nny.fr
 0.0.0.0 dns.kamilszczepanski.com
@@ -1512,8 +1512,6 @@
 :: dns.silen.org
 0.0.0.0 dns.silentlybren.com
 :: dns.silentlybren.com
-0.0.0.0 dns.simplylinux.ch
-:: dns.simplylinux.ch
 0.0.0.0 dns.sindominio.net
 :: dns.sindominio.net
 0.0.0.0 dns.sitdns.com
@@ -2582,8 +2580,6 @@
 :: jp.tiar.app
 0.0.0.0 jp-tyo-w-p-1.nashkan.net
 :: jp-tyo-w-p-1.nashkan.net
-0.0.0.0 jurre-home.duckdns.org
-:: jurre-home.duckdns.org
 0.0.0.0 justhost.bedro.cloud
 :: justhost.bedro.cloud
 0.0.0.0 justproxy.co.uk
@@ -2622,8 +2618,6 @@
 :: kronos.plan9-dns.com
 0.0.0.0 kr-sel.doh.sb
 :: kr-sel.doh.sb
-0.0.0.0 krtekvpn.duckdns.org
-:: krtekvpn.duckdns.org
 0.0.0.0 kx-97795-tr.xyz
 :: kx-97795-tr.xyz
 0.0.0.0 kz-pav-w-p-1.nashkan.net
@@ -3208,8 +3202,6 @@
 :: public.dns.iij.jp
 0.0.0.0 public.ns.nwps.fi
 :: public.ns.nwps.fi
-0.0.0.0 punono.duckdns.org
-:: punono.duckdns.org
 0.0.0.0 puredns.org
 :: puredns.org
 0.0.0.0 purevpn.com
@@ -3576,6 +3568,8 @@
 :: timedns.net
 0.0.0.0 timmes.nl
 :: timmes.nl
+0.0.0.0 tinnetworkingsolutions.com
+:: tinnetworkingsolutions.com
 0.0.0.0 tj.jamesxue.xyz
 :: tj.jamesxue.xyz
 0.0.0.0 tk31z.com
@@ -3630,16 +3624,12 @@
 :: tsm01.dnscry.pt
 0.0.0.0 ttag.dns.nomu.pw
 :: ttag.dns.nomu.pw
-0.0.0.0 tuandns.duckdns.org
-:: tuandns.duckdns.org
 0.0.0.0 tubeunblock.me
 :: tubeunblock.me
 0.0.0.0 tubeunblock.net
 :: tubeunblock.net
 0.0.0.0 tujenasnaszato.xyz
 :: tujenasnaszato.xyz
-0.0.0.0 tungdnsne.duckdns.org
-:: tungdnsne.duckdns.org
 0.0.0.0 tunnelbear.com
 :: tunnelbear.com
 0.0.0.0 turbohide.org
@@ -3730,6 +3720,8 @@
 :: unfiltered.adguard-dns.com
 0.0.0.0 unfiltered.joindns4.eu
 :: unfiltered.joindns4.eu
+0.0.0.0 unicast.censurfricensoreddns.org
+:: unicast.censurfricensoreddns.org
 0.0.0.0 unicast.censurfridns.dk
 :: unicast.censurfridns.dk
 0.0.0.0 unicast.uncensoreddns.org
