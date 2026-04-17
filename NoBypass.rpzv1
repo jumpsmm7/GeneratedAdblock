@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2604170424 ; Serial Number
+ 2604171624 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -203,6 +203,8 @@ adguard.wirimij.nl CNAME .
 *.adguard.wirimij.nl CNAME .
 adguard.zachitect.com CNAME .
 *.adguard.zachitect.com CNAME .
+adg.yybyy.wiki CNAME .
+*.adg.yybyy.wiki CNAME .
 ad.huyct.net CNAME .
 *.ad.huyct.net CNAME .
 ad.justincounts.com CNAME .
@@ -237,6 +239,8 @@ africadns2.liquidtelecom.net CNAME .
 *.africadns2.liquidtelecom.net CNAME .
 ag.apollohct.com CNAME .
 *.ag.apollohct.com CNAME .
+ag.brianlee.fun CNAME .
+*.ag.brianlee.fun CNAME .
 ag.ff0x.ca CNAME .
 *.ag.ff0x.ca CNAME .
 agh.dshubham.xyz CNAME .
@@ -963,8 +967,6 @@ dns.digitale-gesellschaft.ch CNAME .
 *.dns.digitale-gesellschaft.ch CNAME .
 dns.digitalsize.net CNAME .
 *.dns.digitalsize.net CNAME .
-dns.dk CNAME .
-*.dns.dk CNAME .
 dns.dns-53.com CNAME .
 *.dns.dns-53.com CNAME .
 dns.dns-53.uk CNAME .
@@ -1169,6 +1171,8 @@ dns.immanuelschaffer.de CNAME .
 *.dns.immanuelschaffer.de CNAME .
 dns.inforlogia.com CNAME .
 *.dns.inforlogia.com CNAME .
+dns.infosec.xyz CNAME .
+*.dns.infosec.xyz CNAME .
 dns.internal.hosmatic.com CNAME .
 *.dns.internal.hosmatic.com CNAME .
 dns.is0mino.com CNAME .
@@ -2141,6 +2145,8 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
+epicbrowser.com CNAME .
+*.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
 *.eropa.dnscepat.id CNAME .
 esel.stusta.mhn.de CNAME .
@@ -3397,6 +3403,8 @@ secure.avastdns.com CNAME .
 *.secure.avastdns.com CNAME .
 secure-dns.pleumkungz.com CNAME .
 *.secure-dns.pleumkungz.com CNAME .
+securedns.vendorvista.xyz CNAME .
+*.securedns.vendorvista.xyz CNAME .
 secure.hafnova.com CNAME .
 *.secure.hafnova.com CNAME .
 securenet.mhsystems.net CNAME .
@@ -3741,8 +3749,6 @@ unfiltered.joindns4.eu CNAME .
 *.unfiltered.joindns4.eu CNAME .
 unicast.censurfridns.dk CNAME .
 *.unicast.censurfridns.dk CNAME .
-unicast.censurfriepicbrowser.com CNAME .
-*.unicast.censurfriepicbrowser.com CNAME .
 unicast.uncensoreddns.org CNAME .
 *.unicast.uncensoreddns.org CNAME .
 united-arab-emirates.privacy-dns.pw CNAME .
