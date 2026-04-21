@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2604201623 ; Serial Number
+ 2604210423 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -533,6 +533,10 @@ allunblocked.com A 0.0.0.0
 *.allunblocked.com A 0.0.0.0
 allunblocked.com AAAA ::
 *.allunblocked.com AAAA ::
+alpha-dns.quad9.net A 0.0.0.0
+*.alpha-dns.quad9.net A 0.0.0.0
+alpha-dns.quad9.net AAAA ::
+*.alpha-dns.quad9.net AAAA ::
 americaproxy.info A 0.0.0.0
 *.americaproxy.info A 0.0.0.0
 americaproxy.info AAAA ::
@@ -945,10 +949,6 @@ celo.net A 0.0.0.0
 *.celo.net A 0.0.0.0
 celo.net AAAA ::
 *.celo.net AAAA ::
-censurfridns.dk A 0.0.0.0
-*.censurfridns.dk A 0.0.0.0
-censurfridns.dk AAAA ::
-*.censurfridns.dk AAAA ::
 cfdjb.org A 0.0.0.0
 *.cfdjb.org A 0.0.0.0
 cfdjb.org AAAA ::
@@ -1137,6 +1137,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1165,6 +1169,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1193,6 +1201,10 @@ deic-lgb.anycast.censurfridns.dk A 0.0.0.0
 *.deic-lgb.anycast.censurfridns.dk A 0.0.0.0
 deic-lgb.anycast.censurfridns.dk AAAA ::
 *.deic-lgb.anycast.censurfridns.dk AAAA ::
+deic-lgb.anycast.uncensoreddns.o12vpx.com A 0.0.0.0
+*.deic-lgb.anycast.uncensoreddns.o12vpx.com A 0.0.0.0
+deic-lgb.anycast.uncensoreddns.o12vpx.com AAAA ::
+*.deic-lgb.anycast.uncensoreddns.o12vpx.com AAAA ::
 deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 deic-lgb.anycast.uncensoreddns.org AAAA ::
@@ -1201,10 +1213,6 @@ deic-ore.anycast.censurfridns.dk A 0.0.0.0
 *.deic-ore.anycast.censurfridns.dk A 0.0.0.0
 deic-ore.anycast.censurfridns.dk AAAA ::
 *.deic-ore.anycast.censurfridns.dk AAAA ::
-deic-ore.anycast.dee.su A 0.0.0.0
-*.deic-ore.anycast.dee.su A 0.0.0.0
-deic-ore.anycast.dee.su AAAA ::
-*.deic-ore.anycast.dee.su AAAA ::
 deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 deic-ore.anycast.uncensoreddns.org AAAA ::
@@ -1341,10 +1349,6 @@ dns2.developer.li A 0.0.0.0
 *.dns2.developer.li A 0.0.0.0
 dns2.developer.li AAAA ::
 *.dns2.developer.li AAAA ::
-dns2.digitale-ges12vpx.com A 0.0.0.0
-*.dns2.digitale-ges12vpx.com A 0.0.0.0
-dns2.digitale-ges12vpx.com AAAA ::
-*.dns2.digitale-ges12vpx.com AAAA ::
 dns2.digitale-gesellschaft.ch A 0.0.0.0
 *.dns2.digitale-gesellschaft.ch A 0.0.0.0
 dns2.digitale-gesellschaft.ch AAAA ::
@@ -1469,6 +1473,10 @@ dns.adguard-dns.com A 0.0.0.0
 *.dns.adguard-dns.com A 0.0.0.0
 dns.adguard-dns.com AAAA ::
 *.dns.adguard-dns.com AAAA ::
+dns.adnull.com A 0.0.0.0
+*.dns.adnull.com A 0.0.0.0
+dns.adnull.com AAAA ::
+*.dns.adnull.com AAAA ::
 dns.akbxr.com A 0.0.0.0
 *.dns.akbxr.com A 0.0.0.0
 dns.akbxr.com AAAA ::
@@ -2033,6 +2041,14 @@ dns.engineer.web.id A 0.0.0.0
 *.dns.engineer.web.id A 0.0.0.0
 dns.engineer.web.id AAAA ::
 *.dns.engineer.web.id AAAA ::
+dns.envs.net A 0.0.0.0
+*.dns.envs.net A 0.0.0.0
+dns.envs.net AAAA ::
+*.dns.envs.net AAAA ::
+dnsepicbrowser.com A 0.0.0.0
+*.dnsepicbrowser.com A 0.0.0.0
+dnsepicbrowser.com AAAA ::
+*.dnsepicbrowser.com AAAA ::
 dnses.alekberg.net A 0.0.0.0
 *.dnses.alekberg.net A 0.0.0.0
 dnses.alekberg.net AAAA ::
@@ -2353,10 +2369,6 @@ dns.jichi.io A 0.0.0.0
 *.dns.jichi.io A 0.0.0.0
 dns.jichi.io AAAA ::
 *.dns.jichi.io AAAA ::
-dns.jinwoo.dev A 0.0.0.0
-*.dns.jinwoo.dev A 0.0.0.0
-dns.jinwoo.dev AAAA ::
-*.dns.jinwoo.dev AAAA ::
 dns.jiyi.eu A 0.0.0.0
 *.dns.jiyi.eu A 0.0.0.0
 dns.jiyi.eu AAAA ::
@@ -2365,10 +2377,10 @@ dns.joey01245.nl A 0.0.0.0
 *.dns.joey01245.nl A 0.0.0.0
 dns.joey01245.nl AAAA ::
 *.dns.joey01245.nl AAAA ::
-dns.jstdarknet.to A 0.0.0.0
-*.dns.jstdarknet.to A 0.0.0.0
-dns.jstdarknet.to AAAA ::
-*.dns.jstdarknet.to AAAA ::
+dns.jstockley.com A 0.0.0.0
+*.dns.jstockley.com A 0.0.0.0
+dns.jstockley.com AAAA ::
+*.dns.jstockley.com AAAA ::
 dns.jundev.org A 0.0.0.0
 *.dns.jundev.org A 0.0.0.0
 dns.jundev.org AAAA ::
@@ -2869,6 +2881,10 @@ dns.porteii.com A 0.0.0.0
 *.dns.porteii.com A 0.0.0.0
 dns.porteii.com AAAA ::
 *.dns.porteii.com AAAA ::
+dns.practicallyunhackable.com A 0.0.0.0
+*.dns.practicallyunhackable.com A 0.0.0.0
+dns.practicallyunhackable.com AAAA ::
+*.dns.practicallyunhackable.com AAAA ::
 dns-privacy.puregeni.us A 0.0.0.0
 *.dns-privacy.puregeni.us A 0.0.0.0
 dns-privacy.puregeni.us AAAA ::
@@ -4265,10 +4281,6 @@ eliatofani.ovh A 0.0.0.0
 *.eliatofani.ovh A 0.0.0.0
 eliatofani.ovh AAAA ::
 *.eliatofani.ovh AAAA ::
-ellschaft.ch A 0.0.0.0
-*.ellschaft.ch A 0.0.0.0
-ellschaft.ch AAAA ::
-*.ellschaft.ch AAAA ::
 emby.rasp.tv A 0.0.0.0
 *.emby.rasp.tv A 0.0.0.0
 emby.rasp.tv AAAA ::
@@ -4281,10 +4293,6 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
-epicbrowser.com A 0.0.0.0
-*.epicbrowser.com A 0.0.0.0
-epicbrowser.com AAAA ::
-*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -5369,10 +5377,6 @@ lopana.com A 0.0.0.0
 *.lopana.com A 0.0.0.0
 lopana.com AAAA ::
 *.lopana.com AAAA ::
-lter.net A 0.0.0.0
-*.lter.net A 0.0.0.0
-lter.net AAAA ::
-*.lter.net AAAA ::
 lukscasino-479-tr.xyz A 0.0.0.0
 *.lukscasino-479-tr.xyz A 0.0.0.0
 lukscasino-479-tr.xyz AAAA ::
@@ -5809,10 +5813,6 @@ o1.lt A 0.0.0.0
 *.o1.lt A 0.0.0.0
 o1.lt AAAA ::
 *.o1.lt AAAA ::
-ockley.com A 0.0.0.0
-*.ockley.com A 0.0.0.0
-ockley.com AAAA ::
-*.ockley.com AAAA ::
 odoh.cloudflare-dns.com A 0.0.0.0
 *.odoh.cloudflare-dns.com A 0.0.0.0
 odoh.cloudflare-dns.com AAAA ::
@@ -6013,10 +6013,10 @@ pepetio.xyz A 0.0.0.0
 *.pepetio.xyz A 0.0.0.0
 pepetio.xyz AAAA ::
 *.pepetio.xyz AAAA ::
-per.adfimask.icloud.com A 0.0.0.0
-*.per.adfimask.icloud.com A 0.0.0.0
-per.adfimask.icloud.com AAAA ::
-*.per.adfimask.icloud.com AAAA ::
+per.adfilter.net A 0.0.0.0
+*.per.adfilter.net A 0.0.0.0
+per.adfilter.net AAAA ::
+*.per.adfilter.net AAAA ::
 performance.gosami.xyz A 0.0.0.0
 *.performance.gosami.xyz A 0.0.0.0
 performance.gosami.xyz AAAA ::
@@ -6905,6 +6905,10 @@ shield.afixer.app A 0.0.0.0
 *.shield.afixer.app A 0.0.0.0
 shield.afixer.app AAAA ::
 *.shield.afixer.app AAAA ::
+shitblocker.com A 0.0.0.0
+*.shitblocker.com A 0.0.0.0
+shitblocker.com AAAA ::
+*.shitblocker.com AAAA ::
 sin02.dnscry.pt A 0.0.0.0
 *.sin02.dnscry.pt A 0.0.0.0
 sin02.dnscry.pt AAAA ::
@@ -7621,6 +7625,10 @@ uw-dns.rubyfish.cn A 0.0.0.0
 *.uw-dns.rubyfish.cn A 0.0.0.0
 uw-dns.rubyfish.cn AAAA ::
 *.uw-dns.rubyfish.cn AAAA ::
+v0dka.ru A 0.0.0.0
+*.v0dka.ru A 0.0.0.0
+v0dka.ru AAAA ::
+*.v0dka.ru AAAA ::
 v2.xx3210766.live A 0.0.0.0
 *.v2.xx3210766.live A 0.0.0.0
 v2.xx3210766.live AAAA ::
