@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2604210423 ; Serial Number
+ 2604211623 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,10 +13,6 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -1117,6 +1113,10 @@ cynntex.fun A 0.0.0.0
 *.cynntex.fun A 0.0.0.0
 cynntex.fun AAAA ::
 *.cynntex.fun AAAA ::
+d12vpx.com A 0.0.0.0
+*.d12vpx.com A 0.0.0.0
+d12vpx.com AAAA ::
+*.d12vpx.com AAAA ::
 d2.shabi.icu A 0.0.0.0
 *.d2.shabi.icu A 0.0.0.0
 d2.shabi.icu AAAA ::
@@ -1137,10 +1137,6 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1201,10 +1197,10 @@ deic-lgb.anycast.censurfridns.dk A 0.0.0.0
 *.deic-lgb.anycast.censurfridns.dk A 0.0.0.0
 deic-lgb.anycast.censurfridns.dk AAAA ::
 *.deic-lgb.anycast.censurfridns.dk AAAA ::
-deic-lgb.anycast.uncensoreddns.o12vpx.com A 0.0.0.0
-*.deic-lgb.anycast.uncensoreddns.o12vpx.com A 0.0.0.0
-deic-lgb.anycast.uncensoreddns.o12vpx.com AAAA ::
-*.deic-lgb.anycast.uncensoreddns.o12vpx.com AAAA ::
+deic-lgb.anycast.uncensoreddns.odarknet.to A 0.0.0.0
+*.deic-lgb.anycast.uncensoreddns.odarknet.to A 0.0.0.0
+deic-lgb.anycast.uncensoreddns.odarknet.to AAAA ::
+*.deic-lgb.anycast.uncensoreddns.odarknet.to AAAA ::
 deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 deic-lgb.anycast.uncensoreddns.org AAAA ::
@@ -1237,6 +1233,10 @@ d.niaox.com A 0.0.0.0
 *.d.niaox.com A 0.0.0.0
 d.niaox.com AAAA ::
 *.d.niaox.com AAAA ::
+dns012proxy.ga A 0.0.0.0
+*.dns012proxy.ga A 0.0.0.0
+dns012proxy.ga AAAA ::
+*.dns012proxy.ga AAAA ::
 dns01.flm9.net A 0.0.0.0
 *.dns01.flm9.net A 0.0.0.0
 dns01.flm9.net AAAA ::
@@ -2045,10 +2045,6 @@ dns.envs.net A 0.0.0.0
 *.dns.envs.net A 0.0.0.0
 dns.envs.net AAAA ::
 *.dns.envs.net AAAA ::
-dnsepicbrowser.com A 0.0.0.0
-*.dnsepicbrowser.com A 0.0.0.0
-dnsepicbrowser.com AAAA ::
-*.dnsepicbrowser.com AAAA ::
 dnses.alekberg.net A 0.0.0.0
 *.dnses.alekberg.net A 0.0.0.0
 dnses.alekberg.net AAAA ::
@@ -4293,6 +4289,10 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
+epicbrowser.com A 0.0.0.0
+*.epicbrowser.com A 0.0.0.0
+epicbrowser.com AAAA ::
+*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -5665,6 +5665,10 @@ ns0.fdn.fr A 0.0.0.0
 *.ns0.fdn.fr A 0.0.0.0
 ns0.fdn.fr AAAA ::
 *.ns0.fdn.fr AAAA ::
+ns11.quad9.net A 0.0.0.0
+*.ns11.quad9.net A 0.0.0.0
+ns11.quad9.net AAAA ::
+*.ns11.quad9.net AAAA ::
 ns1.dnsprivacy.at A 0.0.0.0
 *.ns1.dnsprivacy.at A 0.0.0.0
 ns1.dnsprivacy.at AAAA ::
