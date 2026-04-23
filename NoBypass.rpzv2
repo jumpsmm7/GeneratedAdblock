@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2604230423 ; Serial Number
+ 2604231640 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,10 +13,6 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -1141,10 +1137,6 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1173,6 +1165,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1201,10 +1197,6 @@ deic-lgb.anycast.censurfridns.dk A 0.0.0.0
 *.deic-lgb.anycast.censurfridns.dk A 0.0.0.0
 deic-lgb.anycast.censurfridns.dk AAAA ::
 *.deic-lgb.anycast.censurfridns.dk AAAA ::
-deic-lgb.anycast.uncensoreddns.odee.su A 0.0.0.0
-*.deic-lgb.anycast.uncensoreddns.odee.su A 0.0.0.0
-deic-lgb.anycast.uncensoreddns.odee.su AAAA ::
-*.deic-lgb.anycast.uncensoreddns.odee.su AAAA ::
 deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 deic-lgb.anycast.uncensoreddns.org AAAA ::
@@ -1253,6 +1245,10 @@ dns10.quad9.net A 0.0.0.0
 *.dns10.quad9.net A 0.0.0.0
 dns10.quad9.net AAAA ::
 *.dns10.quad9.net AAAA ::
+dns11.quad9.n012proxy.ga A 0.0.0.0
+*.dns11.quad9.n012proxy.ga A 0.0.0.0
+dns11.quad9.n012proxy.ga AAAA ::
+*.dns11.quad9.n012proxy.ga AAAA ::
 dns11.quad9.net A 0.0.0.0
 *.dns11.quad9.net A 0.0.0.0
 dns11.quad9.net AAAA ::
@@ -4265,10 +4261,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.mask.icloud.com A 0.0.0.0
-*.ecs-doh.mask.icloud.com A 0.0.0.0
-ecs-doh.mask.icloud.com AAAA ::
-*.ecs-doh.mask.icloud.com AAAA ::
+ecs-doh.darknet.to A 0.0.0.0
+*.ecs-doh.darknet.to A 0.0.0.0
+ecs-doh.darknet.to AAAA ::
+*.ecs-doh.darknet.to AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -5985,6 +5981,10 @@ par01.dnscry.pt A 0.0.0.0
 *.par01.dnscry.pt A 0.0.0.0
 par01.dnscry.pt AAAA ::
 *.par01.dnscry.pt AAAA ::
+paradise-human.shop A 0.0.0.0
+*.paradise-human.shop A 0.0.0.0
+paradise-human.shop AAAA ::
+*.paradise-human.shop AAAA ::
 paranoia.mydns.network A 0.0.0.0
 *.paranoia.mydns.network A 0.0.0.0
 paranoia.mydns.network AAAA ::
@@ -6005,6 +6005,10 @@ paulo.nom.za A 0.0.0.0
 *.paulo.nom.za A 0.0.0.0
 paulo.nom.za AAAA ::
 *.paulo.nom.za AAAA ::
+pdns.faelix.ndns.dk A 0.0.0.0
+*.pdns.faelix.ndns.dk A 0.0.0.0
+pdns.faelix.ndns.dk AAAA ::
+*.pdns.faelix.ndns.dk AAAA ::
 pdns.faelix.net A 0.0.0.0
 *.pdns.faelix.net A 0.0.0.0
 pdns.faelix.net AAAA ::
@@ -7509,6 +7513,10 @@ unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
 *.unicast.censurfridns.dk AAAA ::
+unicast.censurfriet A 0.0.0.0
+*.unicast.censurfriet A 0.0.0.0
+unicast.censurfriet AAAA ::
+*.unicast.censurfriet AAAA ::
 unicast.uncensoreddns.org A 0.0.0.0
 *.unicast.uncensoreddns.org A 0.0.0.0
 unicast.uncensoreddns.org AAAA ::
