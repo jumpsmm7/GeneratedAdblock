@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2604221624 ; Serial Number
+ 2604230423 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -1141,6 +1141,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1153,10 +1157,6 @@ d.bod.lol A 0.0.0.0
 *.d.bod.lol A 0.0.0.0
 d.bod.lol AAAA ::
 *.d.bod.lol AAAA ::
-ddarknet.to A 0.0.0.0
-*.ddarknet.to A 0.0.0.0
-ddarknet.to AAAA ::
-*.ddarknet.to AAAA ::
 de01.dns4me.net A 0.0.0.0
 *.de01.dns4me.net A 0.0.0.0
 de01.dns4me.net AAAA ::
@@ -1201,6 +1201,10 @@ deic-lgb.anycast.censurfridns.dk A 0.0.0.0
 *.deic-lgb.anycast.censurfridns.dk A 0.0.0.0
 deic-lgb.anycast.censurfridns.dk AAAA ::
 *.deic-lgb.anycast.censurfridns.dk AAAA ::
+deic-lgb.anycast.uncensoreddns.odee.su A 0.0.0.0
+*.deic-lgb.anycast.uncensoreddns.odee.su A 0.0.0.0
+deic-lgb.anycast.uncensoreddns.odee.su AAAA ::
+*.deic-lgb.anycast.uncensoreddns.odee.su AAAA ::
 deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 deic-lgb.anycast.uncensoreddns.org AAAA ::
@@ -1901,10 +1905,6 @@ dns.decloudus.com A 0.0.0.0
 *.dns.decloudus.com A 0.0.0.0
 dns.decloudus.com AAAA ::
 *.dns.decloudus.com AAAA ::
-dnsdee.su A 0.0.0.0
-*.dnsdee.su A 0.0.0.0
-dnsdee.su AAAA ::
-*.dnsdee.su AAAA ::
 dns.dekedin.me A 0.0.0.0
 *.dns.dekedin.me A 0.0.0.0
 dns.dekedin.me AAAA ::
@@ -2201,6 +2201,10 @@ dns.glf.wtf A 0.0.0.0
 *.dns.glf.wtf A 0.0.0.0
 dns.glf.wtf AAAA ::
 *.dns.glf.wtf AAAA ::
+dns.glorydns.com A 0.0.0.0
+*.dns.glorydns.com A 0.0.0.0
+dns.glorydns.com AAAA ::
+*.dns.glorydns.com AAAA ::
 dns.gnb09.id A 0.0.0.0
 *.dns.gnb09.id A 0.0.0.0
 dns.gnb09.id AAAA ::
@@ -2365,6 +2369,10 @@ dns.jichi.io A 0.0.0.0
 *.dns.jichi.io A 0.0.0.0
 dns.jichi.io AAAA ::
 *.dns.jichi.io AAAA ::
+dns.jinwoo.dev A 0.0.0.0
+*.dns.jinwoo.dev A 0.0.0.0
+dns.jinwoo.dev AAAA ::
+*.dns.jinwoo.dev AAAA ::
 dns.jiyi.eu A 0.0.0.0
 *.dns.jiyi.eu A 0.0.0.0
 dns.jiyi.eu AAAA ::
@@ -3297,6 +3305,10 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
+dnswarden.com A 0.0.0.0
+*.dnswarden.com A 0.0.0.0
+dnswarden.com AAAA ::
+*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4253,10 +4265,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.dnswarden.com A 0.0.0.0
-*.ecs-doh.dnswarden.com A 0.0.0.0
-ecs-doh.dnswarden.com AAAA ::
-*.ecs-doh.dnswarden.com AAAA ::
+ecs-doh.mask.icloud.com A 0.0.0.0
+*.ecs-doh.mask.icloud.com A 0.0.0.0
+ecs-doh.mask.icloud.com AAAA ::
+*.ecs-doh.mask.icloud.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4545,10 +4557,6 @@ freedns.controld.com A 0.0.0.0
 *.freedns.controld.com A 0.0.0.0
 freedns.controld.com AAAA ::
 *.freedns.controld.com AAAA ::
-freednsdns.dk A 0.0.0.0
-*.freednsdns.dk A 0.0.0.0
-freednsdns.dk AAAA ::
-*.freednsdns.dk AAAA ::
 freedom.cx A 0.0.0.0
 *.freedom.cx A 0.0.0.0
 freedom.cx AAAA ::
@@ -7501,10 +7509,6 @@ unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
 *.unicast.censurfridns.dk AAAA ::
-unicast.censurfrins11.quad9.net A 0.0.0.0
-*.unicast.censurfrins11.quad9.net A 0.0.0.0
-unicast.censurfrins11.quad9.net AAAA ::
-*.unicast.censurfrins11.quad9.net AAAA ::
 unicast.uncensoreddns.org A 0.0.0.0
 *.unicast.uncensoreddns.org A 0.0.0.0
 unicast.uncensoreddns.org AAAA ::

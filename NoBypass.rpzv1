@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2604221624 ; Serial Number
+ 2604230423 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -575,14 +575,14 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 darkness.is.my.waifu.cz CNAME .
 *.darkness.is.my.waifu.cz CNAME .
+darknet.to CNAME .
+*.darknet.to CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
 *.darya.persiannit.net CNAME .
 d.bod.lol CNAME .
 *.d.bod.lol CNAME .
-ddarknet.to CNAME .
-*.ddarknet.to CNAME .
 de01.dns4me.net CNAME .
 *.de01.dns4me.net CNAME .
 de.dns.privex.io CNAME .
@@ -605,6 +605,8 @@ de-fsn-w-p-1.nashkan.net CNAME .
 *.de-fsn-w-p-1.nashkan.net CNAME .
 deic-lgb.anycast.censurfridns.dk CNAME .
 *.deic-lgb.anycast.censurfridns.dk CNAME .
+deic-lgb.anycast.uncensoreddns.odee.su CNAME .
+*.deic-lgb.anycast.uncensoreddns.odee.su CNAME .
 deic-lgb.anycast.uncensoreddns.org CNAME .
 *.deic-lgb.anycast.uncensoreddns.org CNAME .
 deic-ore.anycast.censurfridns.dk CNAME .
@@ -955,8 +957,6 @@ dns.decky.eu CNAME .
 *.dns.decky.eu CNAME .
 dns.decloudus.com CNAME .
 *.dns.decloudus.com CNAME .
-dnsdee.su CNAME .
-*.dnsdee.su CNAME .
 dns.dekedin.me CNAME .
 *.dns.dekedin.me CNAME .
 dns.developer.li CNAME .
@@ -1105,6 +1105,8 @@ dns.girino.org CNAME .
 *.dns.girino.org CNAME .
 dns.glf.wtf CNAME .
 *.dns.glf.wtf CNAME .
+dns.glorydns.com CNAME .
+*.dns.glorydns.com CNAME .
 dns.gnb09.id CNAME .
 *.dns.gnb09.id CNAME .
 dns.goldplate.org CNAME .
@@ -1187,6 +1189,8 @@ dns.jhangy.us CNAME .
 *.dns.jhangy.us CNAME .
 dns.jichi.io CNAME .
 *.dns.jichi.io CNAME .
+dns.jinwoo.dev CNAME .
+*.dns.jinwoo.dev CNAME .
 dns.jiyi.eu CNAME .
 *.dns.jiyi.eu CNAME .
 dns.joey01245.nl CNAME .
@@ -1653,6 +1657,8 @@ dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
+dnswarden.com CNAME .
+*.dnswarden.com CNAME .
 dns.wargan.io CNAME .
 *.dns.wargan.io CNAME .
 dns.warpnine.de CNAME .
@@ -2131,8 +2137,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.dnswarden.com CNAME .
-*.ecs-doh.dnswarden.com CNAME .
+ecs-doh.mask.icloud.com CNAME .
+*.ecs-doh.mask.icloud.com CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2277,8 +2283,6 @@ free.bravedns.com CNAME .
 *.free.bravedns.com CNAME .
 freedns.controld.com CNAME .
 *.freedns.controld.com CNAME .
-freednsdns.dk CNAME .
-*.freednsdns.dk CNAME .
 freedom.cx CNAME .
 *.freedom.cx CNAME .
 freedom.mydns.network CNAME .
@@ -3755,8 +3759,6 @@ unfiltered.joindns4.eu CNAME .
 *.unfiltered.joindns4.eu CNAME .
 unicast.censurfridns.dk CNAME .
 *.unicast.censurfridns.dk CNAME .
-unicast.censurfrins11.quad9.net CNAME .
-*.unicast.censurfrins11.quad9.net CNAME .
 unicast.uncensoreddns.org CNAME .
 *.unicast.uncensoreddns.org CNAME .
 united-arab-emirates.privacy-dns.pw CNAME .
