@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2604250427 ; Serial Number
+ 2604251626 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -29,10 +29,6 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
-12vpx.com A 0.0.0.0
-*.12vpx.com A 0.0.0.0
-12vpx.com AAAA ::
-*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -1133,10 +1129,6 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1249,14 +1241,14 @@ dns11.quad9.net A 0.0.0.0
 *.dns11.quad9.net A 0.0.0.0
 dns11.quad9.net AAAA ::
 *.dns11.quad9.net AAAA ::
-dns12.quad9.n1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.dns12.quad9.n1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-dns12.quad9.n1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.dns12.quad9.n1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns12.quad9.net A 0.0.0.0
 *.dns12.quad9.net A 0.0.0.0
 dns12.quad9.net AAAA ::
 *.dns12.quad9.net AAAA ::
+dns.12vpx.com A 0.0.0.0
+*.dns.12vpx.com A 0.0.0.0
+dns.12vpx.com AAAA ::
+*.dns.12vpx.com AAAA ::
 dns.13evl.com A 0.0.0.0
 *.dns.13evl.com A 0.0.0.0
 dns.13evl.com AAAA ::
@@ -2569,10 +2561,6 @@ dns.marbledfennec.net A 0.0.0.0
 *.dns.marbledfennec.net A 0.0.0.0
 dns.marbledfennec.net AAAA ::
 *.dns.marbledfennec.net AAAA ::
-dns.mask.icloud.com A 0.0.0.0
-*.dns.mask.icloud.com A 0.0.0.0
-dns.mask.icloud.com AAAA ::
-*.dns.mask.icloud.com AAAA ::
 dns.mateo.ovh A 0.0.0.0
 *.dns.mateo.ovh A 0.0.0.0
 dns.mateo.ovh AAAA ::
@@ -4261,10 +4249,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.firefox.dns.nextdns.io A 0.0.0.0
-*.ecs-doh.firefox.dns.nextdns.io A 0.0.0.0
-ecs-doh.firefox.dns.nextdns.io AAAA ::
-*.ecs-doh.firefox.dns.nextdns.io AAAA ::
+ecs-doh.darknet.to A 0.0.0.0
+*.ecs-doh.darknet.to A 0.0.0.0
+ecs-doh.darknet.to AAAA ::
+*.ecs-doh.darknet.to AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -5985,10 +5973,6 @@ par01.dnscry.pt A 0.0.0.0
 *.par01.dnscry.pt A 0.0.0.0
 par01.dnscry.pt AAAA ::
 *.par01.dnscry.pt AAAA ::
-paradise-human.shop A 0.0.0.0
-*.paradise-human.shop A 0.0.0.0
-paradise-human.shop AAAA ::
-*.paradise-human.shop AAAA ::
 paranoia.mydns.network A 0.0.0.0
 *.paranoia.mydns.network A 0.0.0.0
 paranoia.mydns.network AAAA ::
@@ -7849,10 +7833,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.com A 0.0.0.0
-*.whoisping.com A 0.0.0.0
-whoisping.com AAAA ::
-*.whoisping.com AAAA ::
+whoisping.comfirefox.dns.nextdns.io A 0.0.0.0
+*.whoisping.comfirefox.dns.nextdns.io A 0.0.0.0
+whoisping.comfirefox.dns.nextdns.io AAAA ::
+*.whoisping.comfirefox.dns.nextdns.io AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
