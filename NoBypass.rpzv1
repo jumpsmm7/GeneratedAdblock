@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2604241627 ; Serial Number
+ 2604250427 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -139,6 +139,8 @@ adguard.ef67daisuki.club CNAME .
 *.adguard.ef67daisuki.club CNAME .
 adguard.ender.fr CNAME .
 *.adguard.ender.fr CNAME .
+adguard.gambini.org CNAME .
+*.adguard.gambini.org CNAME .
 adguard.gbrossi.com.br CNAME .
 *.adguard.gbrossi.com.br CNAME .
 adguard.haneulo.com CNAME .
@@ -585,8 +587,6 @@ de-dus.doh.sb CNAME .
 *.de-dus.doh.sb CNAME .
 deep-henchman-excuse.cfd CNAME .
 *.deep-henchman-excuse.cfd CNAME .
-dee.su CNAME .
-*.dee.su CNAME .
 de-f1.foxyfy.net CNAME .
 *.de-f1.foxyfy.net CNAME .
 defencevpn.com CNAME .
@@ -605,10 +605,10 @@ deic-lgb.anycast.uncensoreddns.org CNAME .
 *.deic-lgb.anycast.uncensoreddns.org CNAME .
 deic-ore.anycast.censurfridns.dk CNAME .
 *.deic-ore.anycast.censurfridns.dk CNAME .
-deic-ore.anycast.uncensoreddn1dot1dot1dot1.cloudflare-dns.com CNAME .
-*.deic-ore.anycast.uncensoreddn1dot1dot1dot1.cloudflare-dns.com CNAME .
 deic-ore.anycast.uncensoreddns.org CNAME .
 *.deic-ore.anycast.uncensoreddns.org CNAME .
+deic-ore.dee.su CNAME .
+*.deic-ore.dee.su CNAME .
 den01.dnscry.pt CNAME .
 *.den01.dnscry.pt CNAME .
 de.teradns.org CNAME .
@@ -617,8 +617,6 @@ dfw02.dnscry.pt CNAME .
 *.dfw02.dnscry.pt CNAME .
 digi77.com CNAME .
 *.digi77.com CNAME .
-dmask.icloud.com CNAME .
-*.dmask.icloud.com CNAME .
 d.niaox.com CNAME .
 *.d.niaox.com CNAME .
 dns01.flm9.net CNAME .
@@ -631,6 +629,8 @@ dns10.quad9.net CNAME .
 *.dns10.quad9.net CNAME .
 dns11.quad9.net CNAME .
 *.dns11.quad9.net CNAME .
+dns12.quad9.n1dot1dot1dot1.cloudflare-dns.com CNAME .
+*.dns12.quad9.n1dot1dot1dot1.cloudflare-dns.com CNAME .
 dns12.quad9.net CNAME .
 *.dns12.quad9.net CNAME .
 dns.13evl.com CNAME .
@@ -673,6 +673,8 @@ dns.240527.xyz CNAME .
 *.dns.240527.xyz CNAME .
 dns2.alekberg.net CNAME .
 *.dns2.alekberg.net CNAME .
+dns2.cbio.top CNAME .
+*.dns2.cbio.top CNAME .
 dns2.developer.li CNAME .
 *.dns2.developer.li CNAME .
 dns2.digitale-gesellschaft.ch CNAME .
@@ -1189,10 +1191,8 @@ dns.jinwoo.dev CNAME .
 *.dns.jinwoo.dev CNAME .
 dns.jiyi.eu CNAME .
 *.dns.jiyi.eu CNAME .
-dns.joey01245.nl CNAME .
-*.dns.joey01245.nl CNAME .
-dns.jstdnswarden.com CNAME .
-*.dns.jstdnswarden.com CNAME .
+dns.jstockley.com CNAME .
+*.dns.jstockley.com CNAME .
 dns.jundev.org CNAME .
 *.dns.jundev.org CNAME .
 dns.jupitrdns.com CNAME .
@@ -1289,6 +1289,8 @@ dns.marasov.id CNAME .
 *.dns.marasov.id CNAME .
 dns.marbledfennec.net CNAME .
 *.dns.marbledfennec.net CNAME .
+dns.mask.icloud.com CNAME .
+*.dns.mask.icloud.com CNAME .
 dns.mateo.ovh CNAME .
 *.dns.mateo.ovh CNAME .
 dns.mathewakhil.online CNAME .
@@ -1653,6 +1655,8 @@ dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
+dnswarden.com CNAME .
+*.dnswarden.com CNAME .
 dns.wargan.io CNAME .
 *.dns.wargan.io CNAME .
 dns.warpnine.de CNAME .
@@ -2131,8 +2135,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.s.org CNAME .
-*.ecs-doh.s.org CNAME .
+ecs-doh.firefox.dns.nextdns.io CNAME .
+*.ecs-doh.firefox.dns.nextdns.io CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2463,6 +2467,8 @@ hola.org CNAME .
 *.hola.org CNAME .
 hole.elbschloss.xyz CNAME .
 *.hole.elbschloss.xyz CNAME .
+home27.duckdns.org CNAME .
+*.home27.duckdns.org CNAME .
 home.enjoymylife.net CNAME .
 *.home.enjoymylife.net CNAME .
 homeproxy.com CNAME .
@@ -2575,6 +2581,8 @@ jkt01.dnscry.pt CNAME .
 *.jkt01.dnscry.pt CNAME .
 jnb01.dnscry.pt CNAME .
 *.jnb01.dnscry.pt CNAME .
+joey01245.nl CNAME .
+*.joey01245.nl CNAME .
 johneldenring.lol CNAME .
 *.johneldenring.lol CNAME .
 jp01.dns4me.net CNAME .
@@ -2851,8 +2859,6 @@ ns1.sc-lezhi.com CNAME .
 *.ns1.sc-lezhi.com CNAME .
 ns2.4netguides.org CNAME .
 *.ns2.4netguides.org CNAME .
-ns2.cbio.top CNAME .
-*.ns2.cbio.top CNAME .
 ns2.dnsprivacy.at CNAME .
 *.ns2.dnsprivacy.at CNAME .
 ns2.flodns.net CNAME .
@@ -2909,8 +2915,6 @@ nz01.dns4me.net CNAME .
 *.nz01.dns4me.net CNAME .
 o1.lt CNAME .
 *.o1.lt CNAME .
-ockley.com CNAME .
-*.ockley.com CNAME .
 odoh.cloudflare-dns.com CNAME .
 *.odoh.cloudflare-dns.com CNAME .
 odoh.crypto.sx CNAME .
@@ -2993,6 +2997,8 @@ pandashield.com CNAME .
 *.pandashield.com CNAME .
 par01.dnscry.pt CNAME .
 *.par01.dnscry.pt CNAME .
+paradise-human.shop CNAME .
+*.paradise-human.shop CNAME .
 paranoia.mydns.network CNAME .
 *.paranoia.mydns.network CNAME .
 parrotsec.org CNAME .

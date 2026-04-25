@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2604241627 ; Serial Number
+ 2604250427 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -269,6 +269,10 @@ adguard.ender.fr A 0.0.0.0
 *.adguard.ender.fr A 0.0.0.0
 adguard.ender.fr AAAA ::
 *.adguard.ender.fr AAAA ::
+adguard.gambini.org A 0.0.0.0
+*.adguard.gambini.org A 0.0.0.0
+adguard.gambini.org AAAA ::
+*.adguard.gambini.org AAAA ::
 adguard.gbrossi.com.br A 0.0.0.0
 *.adguard.gbrossi.com.br A 0.0.0.0
 adguard.gbrossi.com.br AAAA ::
@@ -1161,10 +1165,6 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
-dee.su A 0.0.0.0
-*.dee.su A 0.0.0.0
-dee.su AAAA ::
-*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1201,14 +1201,14 @@ deic-ore.anycast.censurfridns.dk A 0.0.0.0
 *.deic-ore.anycast.censurfridns.dk A 0.0.0.0
 deic-ore.anycast.censurfridns.dk AAAA ::
 *.deic-ore.anycast.censurfridns.dk AAAA ::
-deic-ore.anycast.uncensoreddn1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.deic-ore.anycast.uncensoreddn1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-deic-ore.anycast.uncensoreddn1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.deic-ore.anycast.uncensoreddn1dot1dot1dot1.cloudflare-dns.com AAAA ::
 deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 deic-ore.anycast.uncensoreddns.org AAAA ::
 *.deic-ore.anycast.uncensoreddns.org AAAA ::
+deic-ore.dee.su A 0.0.0.0
+*.deic-ore.dee.su A 0.0.0.0
+deic-ore.dee.su AAAA ::
+*.deic-ore.dee.su AAAA ::
 den01.dnscry.pt A 0.0.0.0
 *.den01.dnscry.pt A 0.0.0.0
 den01.dnscry.pt AAAA ::
@@ -1225,10 +1225,6 @@ digi77.com A 0.0.0.0
 *.digi77.com A 0.0.0.0
 digi77.com AAAA ::
 *.digi77.com AAAA ::
-dmask.icloud.com A 0.0.0.0
-*.dmask.icloud.com A 0.0.0.0
-dmask.icloud.com AAAA ::
-*.dmask.icloud.com AAAA ::
 d.niaox.com A 0.0.0.0
 *.d.niaox.com A 0.0.0.0
 d.niaox.com AAAA ::
@@ -1253,6 +1249,10 @@ dns11.quad9.net A 0.0.0.0
 *.dns11.quad9.net A 0.0.0.0
 dns11.quad9.net AAAA ::
 *.dns11.quad9.net AAAA ::
+dns12.quad9.n1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.dns12.quad9.n1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+dns12.quad9.n1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.dns12.quad9.n1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns12.quad9.net A 0.0.0.0
 *.dns12.quad9.net A 0.0.0.0
 dns12.quad9.net AAAA ::
@@ -1337,6 +1337,10 @@ dns2.alekberg.net A 0.0.0.0
 *.dns2.alekberg.net A 0.0.0.0
 dns2.alekberg.net AAAA ::
 *.dns2.alekberg.net AAAA ::
+dns2.cbio.top A 0.0.0.0
+*.dns2.cbio.top A 0.0.0.0
+dns2.cbio.top AAAA ::
+*.dns2.cbio.top AAAA ::
 dns2.developer.li A 0.0.0.0
 *.dns2.developer.li A 0.0.0.0
 dns2.developer.li AAAA ::
@@ -2369,14 +2373,10 @@ dns.jiyi.eu A 0.0.0.0
 *.dns.jiyi.eu A 0.0.0.0
 dns.jiyi.eu AAAA ::
 *.dns.jiyi.eu AAAA ::
-dns.joey01245.nl A 0.0.0.0
-*.dns.joey01245.nl A 0.0.0.0
-dns.joey01245.nl AAAA ::
-*.dns.joey01245.nl AAAA ::
-dns.jstdnswarden.com A 0.0.0.0
-*.dns.jstdnswarden.com A 0.0.0.0
-dns.jstdnswarden.com AAAA ::
-*.dns.jstdnswarden.com AAAA ::
+dns.jstockley.com A 0.0.0.0
+*.dns.jstockley.com A 0.0.0.0
+dns.jstockley.com AAAA ::
+*.dns.jstockley.com AAAA ::
 dns.jundev.org A 0.0.0.0
 *.dns.jundev.org A 0.0.0.0
 dns.jundev.org AAAA ::
@@ -2569,6 +2569,10 @@ dns.marbledfennec.net A 0.0.0.0
 *.dns.marbledfennec.net A 0.0.0.0
 dns.marbledfennec.net AAAA ::
 *.dns.marbledfennec.net AAAA ::
+dns.mask.icloud.com A 0.0.0.0
+*.dns.mask.icloud.com A 0.0.0.0
+dns.mask.icloud.com AAAA ::
+*.dns.mask.icloud.com AAAA ::
 dns.mateo.ovh A 0.0.0.0
 *.dns.mateo.ovh A 0.0.0.0
 dns.mateo.ovh AAAA ::
@@ -3297,6 +3301,10 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
+dnswarden.com A 0.0.0.0
+*.dnswarden.com A 0.0.0.0
+dnswarden.com AAAA ::
+*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4253,10 +4261,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.s.org A 0.0.0.0
-*.ecs-doh.s.org A 0.0.0.0
-ecs-doh.s.org AAAA ::
-*.ecs-doh.s.org AAAA ::
+ecs-doh.firefox.dns.nextdns.io A 0.0.0.0
+*.ecs-doh.firefox.dns.nextdns.io A 0.0.0.0
+ecs-doh.firefox.dns.nextdns.io AAAA ::
+*.ecs-doh.firefox.dns.nextdns.io AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4917,6 +4925,10 @@ hole.elbschloss.xyz A 0.0.0.0
 *.hole.elbschloss.xyz A 0.0.0.0
 hole.elbschloss.xyz AAAA ::
 *.hole.elbschloss.xyz AAAA ::
+home27.duckdns.org A 0.0.0.0
+*.home27.duckdns.org A 0.0.0.0
+home27.duckdns.org AAAA ::
+*.home27.duckdns.org AAAA ::
 home.enjoymylife.net A 0.0.0.0
 *.home.enjoymylife.net A 0.0.0.0
 home.enjoymylife.net AAAA ::
@@ -5141,6 +5153,10 @@ jnb01.dnscry.pt A 0.0.0.0
 *.jnb01.dnscry.pt A 0.0.0.0
 jnb01.dnscry.pt AAAA ::
 *.jnb01.dnscry.pt AAAA ::
+joey01245.nl A 0.0.0.0
+*.joey01245.nl A 0.0.0.0
+joey01245.nl AAAA ::
+*.joey01245.nl AAAA ::
 johneldenring.lol A 0.0.0.0
 *.johneldenring.lol A 0.0.0.0
 johneldenring.lol AAAA ::
@@ -5693,10 +5709,6 @@ ns2.4netguides.org A 0.0.0.0
 *.ns2.4netguides.org A 0.0.0.0
 ns2.4netguides.org AAAA ::
 *.ns2.4netguides.org AAAA ::
-ns2.cbio.top A 0.0.0.0
-*.ns2.cbio.top A 0.0.0.0
-ns2.cbio.top AAAA ::
-*.ns2.cbio.top AAAA ::
 ns2.dnsprivacy.at A 0.0.0.0
 *.ns2.dnsprivacy.at A 0.0.0.0
 ns2.dnsprivacy.at AAAA ::
@@ -5809,10 +5821,6 @@ o1.lt A 0.0.0.0
 *.o1.lt A 0.0.0.0
 o1.lt AAAA ::
 *.o1.lt AAAA ::
-ockley.com A 0.0.0.0
-*.ockley.com A 0.0.0.0
-ockley.com AAAA ::
-*.ockley.com AAAA ::
 odoh.cloudflare-dns.com A 0.0.0.0
 *.odoh.cloudflare-dns.com A 0.0.0.0
 odoh.cloudflare-dns.com AAAA ::
@@ -5977,6 +5985,10 @@ par01.dnscry.pt A 0.0.0.0
 *.par01.dnscry.pt A 0.0.0.0
 par01.dnscry.pt AAAA ::
 *.par01.dnscry.pt AAAA ::
+paradise-human.shop A 0.0.0.0
+*.paradise-human.shop A 0.0.0.0
+paradise-human.shop AAAA ::
+*.paradise-human.shop AAAA ::
 paranoia.mydns.network A 0.0.0.0
 *.paranoia.mydns.network A 0.0.0.0
 paranoia.mydns.network AAAA ::
