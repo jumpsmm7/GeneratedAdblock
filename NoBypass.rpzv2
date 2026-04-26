@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2604251626 ; Serial Number
+ 2604260424 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -117,6 +117,10 @@ acevpn.com A 0.0.0.0
 *.acevpn.com A 0.0.0.0
 acevpn.com AAAA ::
 *.acevpn.com AAAA ::
+ad.anym0re.ru A 0.0.0.0
+*.ad.anym0re.ru A 0.0.0.0
+ad.anym0re.ru AAAA ::
+*.ad.anym0re.ru AAAA ::
 ada.openbld.net A 0.0.0.0
 *.ada.openbld.net A 0.0.0.0
 ada.openbld.net AAAA ::
@@ -1129,6 +1133,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1157,6 +1165,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1189,6 +1201,10 @@ deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 deic-lgb.anycast.uncensoreddns.org AAAA ::
 *.deic-lgb.anycast.uncensoreddns.org AAAA ::
+deic-ore.anycast.censurfridn12vpx.com A 0.0.0.0
+*.deic-ore.anycast.censurfridn12vpx.com A 0.0.0.0
+deic-ore.anycast.censurfridn12vpx.com AAAA ::
+*.deic-ore.anycast.censurfridn12vpx.com AAAA ::
 deic-ore.anycast.censurfridns.dk A 0.0.0.0
 *.deic-ore.anycast.censurfridns.dk A 0.0.0.0
 deic-ore.anycast.censurfridns.dk AAAA ::
@@ -1197,10 +1213,6 @@ deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 deic-ore.anycast.uncensoreddns.org AAAA ::
 *.deic-ore.anycast.uncensoreddns.org AAAA ::
-deic-ore.dee.su A 0.0.0.0
-*.deic-ore.dee.su A 0.0.0.0
-deic-ore.dee.su AAAA ::
-*.deic-ore.dee.su AAAA ::
 den01.dnscry.pt A 0.0.0.0
 *.den01.dnscry.pt A 0.0.0.0
 den01.dnscry.pt AAAA ::
@@ -1241,14 +1253,14 @@ dns11.quad9.net A 0.0.0.0
 *.dns11.quad9.net A 0.0.0.0
 dns11.quad9.net AAAA ::
 *.dns11.quad9.net AAAA ::
+dns11.quad9.netmask.icloud.com A 0.0.0.0
+*.dns11.quad9.netmask.icloud.com A 0.0.0.0
+dns11.quad9.netmask.icloud.com AAAA ::
+*.dns11.quad9.netmask.icloud.com AAAA ::
 dns12.quad9.net A 0.0.0.0
 *.dns12.quad9.net A 0.0.0.0
 dns12.quad9.net AAAA ::
 *.dns12.quad9.net AAAA ::
-dns.12vpx.com A 0.0.0.0
-*.dns.12vpx.com A 0.0.0.0
-dns.12vpx.com AAAA ::
-*.dns.12vpx.com AAAA ::
 dns.13evl.com A 0.0.0.0
 *.dns.13evl.com A 0.0.0.0
 dns.13evl.com AAAA ::
@@ -1921,6 +1933,10 @@ dns.digitalsize.net A 0.0.0.0
 *.dns.digitalsize.net A 0.0.0.0
 dns.digitalsize.net AAAA ::
 *.dns.digitalsize.net AAAA ::
+dns.dk A 0.0.0.0
+*.dns.dk A 0.0.0.0
+dns.dk AAAA ::
+*.dns.dk AAAA ::
 dns.dns-53.com A 0.0.0.0
 *.dns.dns-53.com A 0.0.0.0
 dns.dns-53.com AAAA ::
@@ -2365,6 +2381,10 @@ dns.jiyi.eu A 0.0.0.0
 *.dns.jiyi.eu A 0.0.0.0
 dns.jiyi.eu AAAA ::
 *.dns.jiyi.eu AAAA ::
+dns.joey01245.nl A 0.0.0.0
+*.dns.joey01245.nl A 0.0.0.0
+dns.joey01245.nl AAAA ::
+*.dns.joey01245.nl AAAA ::
 dns.jstockley.com A 0.0.0.0
 *.dns.jstockley.com A 0.0.0.0
 dns.jstockley.com AAAA ::
@@ -3289,10 +3309,6 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
-dnswarden.com A 0.0.0.0
-*.dnswarden.com A 0.0.0.0
-dnswarden.com AAAA ::
-*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4249,10 +4265,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.darknet.to A 0.0.0.0
-*.ecs-doh.darknet.to A 0.0.0.0
-ecs-doh.darknet.to AAAA ::
-*.ecs-doh.darknet.to AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -5141,10 +5157,6 @@ jnb01.dnscry.pt A 0.0.0.0
 *.jnb01.dnscry.pt A 0.0.0.0
 jnb01.dnscry.pt AAAA ::
 *.jnb01.dnscry.pt AAAA ::
-joey01245.nl A 0.0.0.0
-*.joey01245.nl A 0.0.0.0
-joey01245.nl AAAA ::
-*.joey01245.nl AAAA ::
 johneldenring.lol A 0.0.0.0
 *.johneldenring.lol A 0.0.0.0
 johneldenring.lol AAAA ::
@@ -6757,6 +6769,10 @@ sbdns.co.in A 0.0.0.0
 *.sbdns.co.in A 0.0.0.0
 sbdns.co.in AAAA ::
 *.sbdns.co.in AAAA ::
+s.dk A 0.0.0.0
+*.s.dk A 0.0.0.0
+s.dk AAAA ::
+*.s.dk AAAA ::
 sdns22.gkonuralp.com A 0.0.0.0
 *.sdns22.gkonuralp.com A 0.0.0.0
 sdns22.gkonuralp.com AAAA ::
@@ -7493,6 +7509,10 @@ unfiltered.joindns4.eu A 0.0.0.0
 *.unfiltered.joindns4.eu A 0.0.0.0
 unfiltered.joindns4.eu AAAA ::
 *.unfiltered.joindns4.eu AAAA ::
+unicast.censurfri A 0.0.0.0
+*.unicast.censurfri A 0.0.0.0
+unicast.censurfri AAAA ::
+*.unicast.censurfri AAAA ::
 unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
@@ -7833,10 +7853,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.comfirefox.dns.nextdns.io A 0.0.0.0
-*.whoisping.comfirefox.dns.nextdns.io A 0.0.0.0
-whoisping.comfirefox.dns.nextdns.io AAAA ::
-*.whoisping.comfirefox.dns.nextdns.io AAAA ::
+whoisping.com A 0.0.0.0
+*.whoisping.com A 0.0.0.0
+whoisping.com AAAA ::
+*.whoisping.com AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
