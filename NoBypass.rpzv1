@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2604260424 ; Serial Number
+ 2604261623 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -19,6 +19,8 @@ $ORIGIN nobypass.rpz.
 *.123000123.xyz CNAME .
 123-24.eport.gr CNAME .
 *.123-24.eport.gr CNAME .
+12vpx.com CNAME .
+*.12vpx.com CNAME .
 1a.ns.ozer.im CNAME .
 *.1a.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
@@ -63,8 +65,6 @@ aceproxy.com CNAME .
 *.aceproxy.com CNAME .
 acevpn.com CNAME .
 *.acevpn.com CNAME .
-ad.anym0re.ru CNAME .
-*.ad.anym0re.ru CNAME .
 ada.openbld.net CNAME .
 *.ada.openbld.net CNAME .
 adb.aadityakushwaha.com CNAME .
@@ -587,8 +587,6 @@ de-dus.doh.sb CNAME .
 *.de-dus.doh.sb CNAME .
 deep-henchman-excuse.cfd CNAME .
 *.deep-henchman-excuse.cfd CNAME .
-dee.su CNAME .
-*.dee.su CNAME .
 de-f1.foxyfy.net CNAME .
 *.de-f1.foxyfy.net CNAME .
 defencevpn.com CNAME .
@@ -605,12 +603,12 @@ deic-lgb.anycast.censurfridns.dk CNAME .
 *.deic-lgb.anycast.censurfridns.dk CNAME .
 deic-lgb.anycast.uncensoreddns.org CNAME .
 *.deic-lgb.anycast.uncensoreddns.org CNAME .
-deic-ore.anycast.censurfridn12vpx.com CNAME .
-*.deic-ore.anycast.censurfridn12vpx.com CNAME .
 deic-ore.anycast.censurfridns.dk CNAME .
 *.deic-ore.anycast.censurfridns.dk CNAME .
 deic-ore.anycast.uncensoreddns.org CNAME .
 *.deic-ore.anycast.uncensoreddns.org CNAME .
+deic-ore.dee.su CNAME .
+*.deic-ore.dee.su CNAME .
 den01.dnscry.pt CNAME .
 *.den01.dnscry.pt CNAME .
 de.teradns.org CNAME .
@@ -631,8 +629,8 @@ dns10.quad9.net CNAME .
 *.dns10.quad9.net CNAME .
 dns11.quad9.net CNAME .
 *.dns11.quad9.net CNAME .
-dns11.quad9.netmask.icloud.com CNAME .
-*.dns11.quad9.netmask.icloud.com CNAME .
+dns12.quad9.nepicbrowser.com CNAME .
+*.dns12.quad9.nepicbrowser.com CNAME .
 dns12.quad9.net CNAME .
 *.dns12.quad9.net CNAME .
 dns.13evl.com CNAME .
@@ -971,8 +969,6 @@ dns.digitale-gesellschaft.ch CNAME .
 *.dns.digitale-gesellschaft.ch CNAME .
 dns.digitalsize.net CNAME .
 *.dns.digitalsize.net CNAME .
-dns.dk CNAME .
-*.dns.dk CNAME .
 dns.dns-53.com CNAME .
 *.dns.dns-53.com CNAME .
 dns.dns-53.uk CNAME .
@@ -1195,8 +1191,6 @@ dns.jinwoo.dev CNAME .
 *.dns.jinwoo.dev CNAME .
 dns.jiyi.eu CNAME .
 *.dns.jiyi.eu CNAME .
-dns.joey01245.nl CNAME .
-*.dns.joey01245.nl CNAME .
 dns.jstockley.com CNAME .
 *.dns.jstockley.com CNAME .
 dns.jundev.org CNAME .
@@ -1295,6 +1289,8 @@ dns.marasov.id CNAME .
 *.dns.marasov.id CNAME .
 dns.marbledfennec.net CNAME .
 *.dns.marbledfennec.net CNAME .
+dns.mask.icloud.com CNAME .
+*.dns.mask.icloud.com CNAME .
 dns.mateo.ovh CNAME .
 *.dns.mateo.ovh CNAME .
 dns.mathewakhil.online CNAME .
@@ -2155,8 +2151,6 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
-epicbrowser.com CNAME .
-*.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
 *.eropa.dnscepat.id CNAME .
 esel.stusta.mhn.de CNAME .
@@ -2165,6 +2159,8 @@ es-ma.foxyfy.net CNAME .
 *.es-ma.foxyfy.net CNAME .
 eth.link CNAME .
 *.eth.link CNAME .
+etio.xyz CNAME .
+*.etio.xyz CNAME .
 eu1.dns.lavate.ch CNAME .
 *.eu1.dns.lavate.ch CNAME .
 eu.tri-dns.net CNAME .
@@ -2583,6 +2579,8 @@ jkt01.dnscry.pt CNAME .
 *.jkt01.dnscry.pt CNAME .
 jnb01.dnscry.pt CNAME .
 *.jnb01.dnscry.pt CNAME .
+joey01245.nl CNAME .
+*.joey01245.nl CNAME .
 johneldenring.lol CNAME .
 *.johneldenring.lol CNAME .
 jp01.dns4me.net CNAME .
@@ -3013,8 +3011,8 @@ pdns.itxe.net CNAME .
 *.pdns.itxe.net CNAME .
 pdx01.dnscry.pt CNAME .
 *.pdx01.dnscry.pt CNAME .
-pepetio.xyz CNAME .
-*.pepetio.xyz CNAME .
+pepfirefox.dns.nextdns.io CNAME .
+*.pepfirefox.dns.nextdns.io CNAME .
 per.adfilter.net CNAME .
 *.per.adfilter.net CNAME .
 performance.gosami.xyz CNAME .
@@ -3389,8 +3387,6 @@ saoudiproxy.info CNAME .
 *.saoudiproxy.info CNAME .
 sbdns.co.in CNAME .
 *.sbdns.co.in CNAME .
-s.dk CNAME .
-*.s.dk CNAME .
 sdns22.gkonuralp.com CNAME .
 *.sdns22.gkonuralp.com CNAME .
 sdns.233py.com CNAME .
@@ -3759,8 +3755,6 @@ unfiltered.adguard-dns.com CNAME .
 *.unfiltered.adguard-dns.com CNAME .
 unfiltered.joindns4.eu CNAME .
 *.unfiltered.joindns4.eu CNAME .
-unicast.censurfri CNAME .
-*.unicast.censurfri CNAME .
 unicast.censurfridns.dk CNAME .
 *.unicast.censurfridns.dk CNAME .
 unicast.uncensoreddns.org CNAME .
