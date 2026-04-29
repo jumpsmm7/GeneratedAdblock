@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2604290424 ; Serial Number
+ 2604291627 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -1113,6 +1113,10 @@ d2.shabi.icu A 0.0.0.0
 *.d2.shabi.icu A 0.0.0.0
 d2.shabi.icu AAAA ::
 *.d2.shabi.icu AAAA ::
+d9.net A 0.0.0.0
+*.d9.net A 0.0.0.0
+d9.net AAAA ::
+*.d9.net AAAA ::
 d.adguard-dns.com A 0.0.0.0
 *.d.adguard-dns.com A 0.0.0.0
 d.adguard-dns.com AAAA ::
@@ -1161,10 +1165,6 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
-dee.su A 0.0.0.0
-*.dee.su A 0.0.0.0
-dee.su AAAA ::
-*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1197,10 +1197,6 @@ deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 deic-lgb.anycast.uncensoreddns.org AAAA ::
 *.deic-lgb.anycast.uncensoreddns.org AAAA ::
-deic-ore.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.deic-ore.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-deic-ore.1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.deic-ore.1dot1dot1dot1.cloudflare-dns.com AAAA ::
 deic-ore.anycast.censurfridns.dk A 0.0.0.0
 *.deic-ore.anycast.censurfridns.dk A 0.0.0.0
 deic-ore.anycast.censurfridns.dk AAAA ::
@@ -1209,6 +1205,10 @@ deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 deic-ore.anycast.uncensoreddns.org AAAA ::
 *.deic-ore.anycast.uncensoreddns.org AAAA ::
+deic-ore.dee.su A 0.0.0.0
+*.deic-ore.dee.su A 0.0.0.0
+deic-ore.dee.su AAAA ::
+*.deic-ore.dee.su AAAA ::
 den01.dnscry.pt A 0.0.0.0
 *.den01.dnscry.pt A 0.0.0.0
 den01.dnscry.pt AAAA ::
@@ -1253,14 +1253,14 @@ dns12.quad9.net A 0.0.0.0
 *.dns12.quad9.net A 0.0.0.0
 dns12.quad9.net AAAA ::
 *.dns12.quad9.net AAAA ::
+dns12.quamask.icloud.com A 0.0.0.0
+*.dns12.quamask.icloud.com A 0.0.0.0
+dns12.quamask.icloud.com AAAA ::
+*.dns12.quamask.icloud.com AAAA ::
 dns.13evl.com A 0.0.0.0
 *.dns.13evl.com A 0.0.0.0
 dns.13evl.com AAAA ::
 *.dns.13evl.com AAAA ::
-dns13.quad9.firefox.dns.nextdns.io A 0.0.0.0
-*.dns13.quad9.firefox.dns.nextdns.io A 0.0.0.0
-dns13.quad9.firefox.dns.nextdns.io AAAA ::
-*.dns13.quad9.firefox.dns.nextdns.io AAAA ::
 dns13.quad9.net A 0.0.0.0
 *.dns13.quad9.net A 0.0.0.0
 dns13.quad9.net AAAA ::
@@ -3061,6 +3061,10 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
+dns.simplylinux.ch A 0.0.0.0
+*.dns.simplylinux.ch A 0.0.0.0
+dns.simplylinux.ch AAAA ::
+*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -3297,10 +3301,6 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
-dnswarden.com A 0.0.0.0
-*.dnswarden.com A 0.0.0.0
-dnswarden.com AAAA ::
-*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4257,10 +4257,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.epicbrowser.com A 0.0.0.0
-*.ecs-doh.epicbrowser.com A 0.0.0.0
-ecs-doh.epicbrowser.com AAAA ::
-*.ecs-doh.epicbrowser.com AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4293,6 +4293,10 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
+epicbrowser.com A 0.0.0.0
+*.epicbrowser.com A 0.0.0.0
+epicbrowser.com AAAA ::
+*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4777,10 +4781,6 @@ guardster.com A 0.0.0.0
 *.guardster.com A 0.0.0.0
 guardster.com AAAA ::
 *.guardster.com AAAA ::
-gustamadh.dynv6.net A 0.0.0.0
-*.gustamadh.dynv6.net A 0.0.0.0
-gustamadh.dynv6.net AAAA ::
-*.gustamadh.dynv6.net AAAA ::
 gva01.dnscry.pt A 0.0.0.0
 *.gva01.dnscry.pt A 0.0.0.0
 gva01.dnscry.pt AAAA ::
