@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2604281628 ; Serial Number
+ 2604290424 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -19,8 +19,6 @@ $ORIGIN nobypass.rpz.
 *.123000123.xyz CNAME .
 123-24.eport.gr CNAME .
 *.123-24.eport.gr CNAME .
-12vpx.com CNAME .
-*.12vpx.com CNAME .
 1a.ns.ozer.im CNAME .
 *.1a.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
@@ -571,6 +569,8 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 darkness.is.my.waifu.cz CNAME .
 *.darkness.is.my.waifu.cz CNAME .
+darknet.to CNAME .
+*.darknet.to CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
@@ -603,12 +603,12 @@ deic-lgb.anycast.censurfridns.dk CNAME .
 *.deic-lgb.anycast.censurfridns.dk CNAME .
 deic-lgb.anycast.uncensoreddns.org CNAME .
 *.deic-lgb.anycast.uncensoreddns.org CNAME .
+deic-ore.1dot1dot1dot1.cloudflare-dns.com CNAME .
+*.deic-ore.1dot1dot1dot1.cloudflare-dns.com CNAME .
 deic-ore.anycast.censurfridns.dk CNAME .
 *.deic-ore.anycast.censurfridns.dk CNAME .
 deic-ore.anycast.uncensoreddns.org CNAME .
 *.deic-ore.anycast.uncensoreddns.org CNAME .
-deic-ore.darknet.to CNAME .
-*.deic-ore.darknet.to CNAME .
 den01.dnscry.pt CNAME .
 *.den01.dnscry.pt CNAME .
 de.teradns.org CNAME .
@@ -633,6 +633,8 @@ dns12.quad9.net CNAME .
 *.dns12.quad9.net CNAME .
 dns.13evl.com CNAME .
 *.dns.13evl.com CNAME .
+dns13.quad9.firefox.dns.nextdns.io CNAME .
+*.dns13.quad9.firefox.dns.nextdns.io CNAME .
 dns13.quad9.net CNAME .
 *.dns13.quad9.net CNAME .
 dns1.conne.net CNAME .
@@ -1187,8 +1189,8 @@ dns.jhangy.us CNAME .
 *.dns.jhangy.us CNAME .
 dns.jichi.io CNAME .
 *.dns.jichi.io CNAME .
-dns.jinwoo.demask.icloud.com CNAME .
-*.dns.jinwoo.demask.icloud.com CNAME .
+dns.jinwoo.de12vpx.com CNAME .
+*.dns.jinwoo.de12vpx.com CNAME .
 dns.jiyi.eu CNAME .
 *.dns.jiyi.eu CNAME .
 dns.joey01245.nl CNAME .
@@ -1529,14 +1531,10 @@ dns.shecan.ir CNAME .
 *.dns.shecan.ir CNAME .
 dns.sheggi.ch CNAME .
 *.dns.sheggi.ch CNAME .
-dns.shimul.me CNAME .
-*.dns.shimul.me CNAME .
 dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
-dns.simplylinux.ch CNAME .
-*.dns.simplylinux.ch CNAME .
 dns.sindominio.net CNAME .
 *.dns.sindominio.net CNAME .
 dns.sitdns.com CNAME .
@@ -1655,6 +1653,8 @@ dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
+dnswarden.com CNAME .
+*.dnswarden.com CNAME .
 dns.wargan.io CNAME .
 *.dns.wargan.io CNAME .
 dns.warpnine.de CNAME .
@@ -2123,8 +2123,6 @@ dukun.de CNAME .
 *.dukun.de CNAME .
 dus01.dnscry.pt CNAME .
 *.dus01.dnscry.pt CNAME .
-dx01.dnscry.pt CNAME .
-*.dx01.dnscry.pt CNAME .
 dzhot.us CNAME .
 *.dzhot.us CNAME .
 ea-dns.rubyfish.cn CNAME .
@@ -2135,8 +2133,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.dnswarden.com CNAME .
-*.ecs-doh.dnswarden.com CNAME .
+ecs-doh.epicbrowser.com CNAME .
+*.ecs-doh.epicbrowser.com CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2153,8 +2151,6 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
-epicbrowser.com CNAME .
-*.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
 *.eropa.dnscepat.id CNAME .
 esel.stusta.mhn.de CNAME .
@@ -2397,6 +2393,8 @@ guard.sntrk.ru CNAME .
 *.guard.sntrk.ru CNAME .
 guardster.com CNAME .
 *.guardster.com CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 gva01.dnscry.pt CNAME .
 *.gva01.dnscry.pt CNAME .
 gztech.me CNAME .
@@ -3009,14 +3007,14 @@ pdns.faelix.net CNAME .
 *.pdns.faelix.net CNAME .
 pdns.itxe.net CNAME .
 *.pdns.itxe.net CNAME .
+pdx01.dnscry.pt CNAME .
+*.pdx01.dnscry.pt CNAME .
 pepetio.xyz CNAME .
 *.pepetio.xyz CNAME .
 per.adfilter.net CNAME .
 *.per.adfilter.net CNAME .
 performance.gosami.xyz CNAME .
 *.performance.gosami.xyz CNAME .
-pfirefox.dns.nextdns.io CNAME .
-*.pfirefox.dns.nextdns.io CNAME .
 phl01.dnscry.pt CNAME .
 *.phl01.dnscry.pt CNAME .
 phx01.dnscry.pt CNAME .
