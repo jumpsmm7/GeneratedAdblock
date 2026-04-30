@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2604300427 ; Serial Number
+ 2604301626 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -9,18 +9,10 @@ $ORIGIN nobypass.rpz.
  )
  NS localhost
 
-003153.xyz A 0.0.0.0
-*.003153.xyz A 0.0.0.0
-003153.xyz AAAA ::
-*.003153.xyz AAAA ::
 012proxy.ga A 0.0.0.0
 *.012proxy.ga A 0.0.0.0
 012proxy.ga AAAA ::
 *.012proxy.ga AAAA ::
-01.dnscry.pt A 0.0.0.0
-*.01.dnscry.pt A 0.0.0.0
-01.dnscry.pt AAAA ::
-*.01.dnscry.pt AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -1081,6 +1073,10 @@ croxyproxy.rocks A 0.0.0.0
 *.croxyproxy.rocks A 0.0.0.0
 croxyproxy.rocks AAAA ::
 *.croxyproxy.rocks AAAA ::
+cry.pt A 0.0.0.0
+*.cry.pt A 0.0.0.0
+cry.pt AAAA ::
+*.cry.pt AAAA ::
 crypticvpn.com A 0.0.0.0
 *.crypticvpn.com A 0.0.0.0
 crypticvpn.com AAAA ::
@@ -1209,10 +1205,14 @@ deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 deic-ore.anycast.uncensoreddns.org AAAA ::
 *.deic-ore.anycast.uncensoreddns.org AAAA ::
-dendarknet.to A 0.0.0.0
-*.dendarknet.to A 0.0.0.0
-dendarknet.to AAAA ::
-*.dendarknet.to AAAA ::
+deic-ore.dnswarden.com A 0.0.0.0
+*.deic-ore.dnswarden.com A 0.0.0.0
+deic-ore.dnswarden.com AAAA ::
+*.deic-ore.dnswarden.com AAAA ::
+den01.dnscry.pt A 0.0.0.0
+*.den01.dnscry.pt A 0.0.0.0
+den01.dnscry.pt AAAA ::
+*.den01.dnscry.pt AAAA ::
 de.teradns.org A 0.0.0.0
 *.de.teradns.org A 0.0.0.0
 de.teradns.org AAAA ::
@@ -1257,6 +1257,10 @@ dns.13evl.com A 0.0.0.0
 *.dns.13evl.com A 0.0.0.0
 dns.13evl.com AAAA ::
 *.dns.13evl.com AAAA ::
+dns13.qmask.icloud.com A 0.0.0.0
+*.dns13.qmask.icloud.com A 0.0.0.0
+dns13.qmask.icloud.com AAAA ::
+*.dns13.qmask.icloud.com AAAA ::
 dns13.quad9.net A 0.0.0.0
 *.dns13.quad9.net A 0.0.0.0
 dns13.quad9.net AAAA ::
@@ -2373,10 +2377,10 @@ dns.joey01245.nl A 0.0.0.0
 *.dns.joey01245.nl A 0.0.0.0
 dns.joey01245.nl AAAA ::
 *.dns.joey01245.nl AAAA ::
-dns.jstockle1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.dns.jstockle1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-dns.jstockle1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.dns.jstockle1dot1dot1dot1.cloudflare-dns.com AAAA ::
+dns.jstockley.com A 0.0.0.0
+*.dns.jstockley.com A 0.0.0.0
+dns.jstockley.com AAAA ::
+*.dns.jstockley.com AAAA ::
 dns.jundev.org A 0.0.0.0
 *.dns.jundev.org A 0.0.0.0
 dns.jundev.org AAAA ::
@@ -3053,6 +3057,10 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
+dns.simplylinux.ch A 0.0.0.0
+*.dns.simplylinux.ch A 0.0.0.0
+dns.simplylinux.ch AAAA ::
+*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -4245,10 +4253,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.dnswarden.com A 0.0.0.0
-*.ecs-doh.dnswarden.com A 0.0.0.0
-ecs-doh.dnswarden.com AAAA ::
-*.ecs-doh.dnswarden.com AAAA ::
+ecs-doh.003153.xyz A 0.0.0.0
+*.ecs-doh.003153.xyz A 0.0.0.0
+ecs-doh.003153.xyz AAAA ::
+*.ecs-doh.003153.xyz AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4621,14 +4629,14 @@ freeyoutube.net A 0.0.0.0
 *.freeyoutube.net A 0.0.0.0
 freeyoutube.net AAAA ::
 *.freeyoutube.net AAAA ::
+frfirefox.dns.nextdns.io A 0.0.0.0
+*.frfirefox.dns.nextdns.io A 0.0.0.0
+frfirefox.dns.nextdns.io AAAA ::
+*.frfirefox.dns.nextdns.io AAAA ::
 fr-gra-w-p-1.nashkan.net A 0.0.0.0
 *.fr-gra-w-p-1.nashkan.net A 0.0.0.0
 fr-gra-w-p-1.nashkan.net AAAA ::
 *.fr-gra-w-p-1.nashkan.net AAAA ::
-frog.dns.qwer.pw A 0.0.0.0
-*.frog.dns.qwer.pw A 0.0.0.0
-frog.dns.qwer.pw AAAA ::
-*.frog.dns.qwer.pw AAAA ::
 fuchur.pentament.de A 0.0.0.0
 *.fuchur.pentament.de A 0.0.0.0
 fuchur.pentament.de AAAA ::
@@ -4769,10 +4777,6 @@ guardster.com A 0.0.0.0
 *.guardster.com A 0.0.0.0
 guardster.com AAAA ::
 *.guardster.com AAAA ::
-gustamadh.dynv6.net A 0.0.0.0
-*.gustamadh.dynv6.net A 0.0.0.0
-gustamadh.dynv6.net AAAA ::
-*.gustamadh.dynv6.net AAAA ::
 gva01.dnscry.pt A 0.0.0.0
 *.gva01.dnscry.pt A 0.0.0.0
 gva01.dnscry.pt AAAA ::
@@ -5969,6 +5973,10 @@ par01.dnscry.pt A 0.0.0.0
 *.par01.dnscry.pt A 0.0.0.0
 par01.dnscry.pt AAAA ::
 *.par01.dnscry.pt AAAA ::
+paradise-human.shop A 0.0.0.0
+*.paradise-human.shop A 0.0.0.0
+paradise-human.shop AAAA ::
+*.paradise-human.shop AAAA ::
 paranoia.mydns.network A 0.0.0.0
 *.paranoia.mydns.network A 0.0.0.0
 paranoia.mydns.network AAAA ::
@@ -5997,10 +6005,10 @@ pdns.itxe.net A 0.0.0.0
 *.pdns.itxe.net A 0.0.0.0
 pdns.itxe.net AAAA ::
 *.pdns.itxe.net AAAA ::
-pdx01.dnscry.pt A 0.0.0.0
-*.pdx01.dnscry.pt A 0.0.0.0
-pdx01.dnscry.pt AAAA ::
-*.pdx01.dnscry.pt AAAA ::
+pdx01.dnsdns.dk A 0.0.0.0
+*.pdx01.dnsdns.dk A 0.0.0.0
+pdx01.dnsdns.dk AAAA ::
+*.pdx01.dnsdns.dk AAAA ::
 pepetio.xyz A 0.0.0.0
 *.pepetio.xyz A 0.0.0.0
 pepetio.xyz AAAA ::
@@ -7341,6 +7349,10 @@ typaza.com A 0.0.0.0
 *.typaza.com A 0.0.0.0
 typaza.com AAAA ::
 *.typaza.com AAAA ::
+uad9.net A 0.0.0.0
+*.uad9.net A 0.0.0.0
+uad9.net AAAA ::
+*.uad9.net AAAA ::
 ueni.dyndns.org A 0.0.0.0
 *.ueni.dyndns.org A 0.0.0.0
 ueni.dyndns.org AAAA ::
@@ -7489,6 +7501,10 @@ unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
 *.unicast.censurfridns.dk AAAA ::
+unicast.censurfriog.dns.qwer.pw A 0.0.0.0
+*.unicast.censurfriog.dns.qwer.pw A 0.0.0.0
+unicast.censurfriog.dns.qwer.pw AAAA ::
+*.unicast.censurfriog.dns.qwer.pw AAAA ::
 unicast.uncensoreddns.org A 0.0.0.0
 *.unicast.uncensoreddns.org A 0.0.0.0
 unicast.uncensoreddns.org AAAA ::
@@ -7825,10 +7841,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.com A 0.0.0.0
-*.whoisping.com A 0.0.0.0
-whoisping.com AAAA ::
-*.whoisping.com AAAA ::
+whoisping.comdarknet.to A 0.0.0.0
+*.whoisping.comdarknet.to A 0.0.0.0
+whoisping.comdarknet.to AAAA ::
+*.whoisping.comdarknet.to AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
@@ -7949,10 +7965,6 @@ ychen.gq A 0.0.0.0
 *.ychen.gq A 0.0.0.0
 ychen.gq AAAA ::
 *.ychen.gq AAAA ::
-y.com A 0.0.0.0
-*.y.com A 0.0.0.0
-y.com AAAA ::
-*.y.com AAAA ::
 yellowproxy.net A 0.0.0.0
 *.yellowproxy.net A 0.0.0.0
 yellowproxy.net AAAA ::
