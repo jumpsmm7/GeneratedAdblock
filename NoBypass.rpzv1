@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605010426 ; Serial Number
+ 2605011627 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -11,8 +11,6 @@ $ORIGIN nobypass.rpz.
 
 003153.xyz CNAME .
 *.003153.xyz CNAME .
-012proxy.ga CNAME .
-*.012proxy.ga CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
@@ -603,12 +601,12 @@ deic-lgb.anycast.censurfridns.dk CNAME .
 *.deic-lgb.anycast.censurfridns.dk CNAME .
 deic-lgb.anycast.uncensoreddns.org CNAME .
 *.deic-lgb.anycast.uncensoreddns.org CNAME .
-deic-ore.1dot1dot1dot1.cloudflare-dns.com CNAME .
-*.deic-ore.1dot1dot1dot1.cloudflare-dns.com CNAME .
 deic-ore.anycast.censurfridns.dk CNAME .
 *.deic-ore.anycast.censurfridns.dk CNAME .
 deic-ore.anycast.uncensoreddns.org CNAME .
 *.deic-ore.anycast.uncensoreddns.org CNAME .
+deic-ore.dee.su CNAME .
+*.deic-ore.dee.su CNAME .
 den01.dnscry.pt CNAME .
 *.den01.dnscry.pt CNAME .
 de.teradns.org CNAME .
@@ -671,8 +669,8 @@ dns.240527.xyz CNAME .
 *.dns.240527.xyz CNAME .
 dns2.alekberg.net CNAME .
 *.dns2.alekberg.net CNAME .
-dns2.cbio.top CNAME .
-*.dns2.cbio.top CNAME .
+dns2.cb012proxy.ga CNAME .
+*.dns2.cb012proxy.ga CNAME .
 dns2.developer.li CNAME .
 *.dns2.developer.li CNAME .
 dns2.digitale-gesellschaft.ch CNAME .
@@ -969,8 +967,6 @@ dns.digitale-gesellschaft.ch CNAME .
 *.dns.digitale-gesellschaft.ch CNAME .
 dns.digitalsize.net CNAME .
 *.dns.digitalsize.net CNAME .
-dns.dk CNAME .
-*.dns.dk CNAME .
 dns.dns-53.com CNAME .
 *.dns.dns-53.com CNAME .
 dns.dns-53.uk CNAME .
@@ -1651,8 +1647,6 @@ dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
-dnswarden.com CNAME .
-*.dnswarden.com CNAME .
 dns.wargan.io CNAME .
 *.dns.wargan.io CNAME .
 dns.warpnine.de CNAME .
@@ -2131,8 +2125,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.dee.su CNAME .
-*.ecs-doh.dee.su CNAME .
+ecs-doh.dnswarden.com CNAME .
+*.ecs-doh.dnswarden.com CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2393,8 +2387,6 @@ guard.sntrk.ru CNAME .
 *.guard.sntrk.ru CNAME .
 guardster.com CNAME .
 *.guardster.com CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 gva01.dnscry.pt CNAME .
 *.gva01.dnscry.pt CNAME .
 gztech.me CNAME .
@@ -2533,6 +2525,8 @@ interncloud.info CNAME .
 *.interncloud.info CNAME .
 internetsehat.bebasid.com CNAME .
 *.internetsehat.bebasid.com CNAME .
+io.top CNAME .
+*.io.top CNAME .
 iow-dns.bitdefender.net CNAME .
 *.iow-dns.bitdefender.net CNAME .
 i.passcloud.xyz CNAME .
@@ -2755,6 +2749,8 @@ miniprox.com CNAME .
 *.miniprox.com CNAME .
 miniprox.info CNAME .
 *.miniprox.info CNAME .
+moamao.shop CNAME .
+*.moamao.shop CNAME .
 mofolinux.com CNAME .
 *.mofolinux.com CNAME .
 morbitzer.de CNAME .
@@ -3755,8 +3751,6 @@ unfiltered.joindns4.eu CNAME .
 *.unfiltered.joindns4.eu CNAME .
 unicast.censurfridns.dk CNAME .
 *.unicast.censurfridns.dk CNAME .
-unicast.censurfrimask.icloud.com CNAME .
-*.unicast.censurfrimask.icloud.com CNAME .
 unicast.uncensoreddns.org CNAME .
 *.unicast.uncensoreddns.org CNAME .
 united-arab-emirates.privacy-dns.pw CNAME .

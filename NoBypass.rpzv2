@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605010426 ; Serial Number
+ 2605011627 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,10 +13,6 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -1197,10 +1193,6 @@ deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 deic-lgb.anycast.uncensoreddns.org AAAA ::
 *.deic-lgb.anycast.uncensoreddns.org AAAA ::
-deic-ore.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.deic-ore.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-deic-ore.1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.deic-ore.1dot1dot1dot1.cloudflare-dns.com AAAA ::
 deic-ore.anycast.censurfridns.dk A 0.0.0.0
 *.deic-ore.anycast.censurfridns.dk A 0.0.0.0
 deic-ore.anycast.censurfridns.dk AAAA ::
@@ -1209,6 +1201,10 @@ deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 deic-ore.anycast.uncensoreddns.org AAAA ::
 *.deic-ore.anycast.uncensoreddns.org AAAA ::
+deic-ore.dee.su A 0.0.0.0
+*.deic-ore.dee.su A 0.0.0.0
+deic-ore.dee.su AAAA ::
+*.deic-ore.dee.su AAAA ::
 den01.dnscry.pt A 0.0.0.0
 *.den01.dnscry.pt A 0.0.0.0
 den01.dnscry.pt AAAA ::
@@ -1333,10 +1329,10 @@ dns2.alekberg.net A 0.0.0.0
 *.dns2.alekberg.net A 0.0.0.0
 dns2.alekberg.net AAAA ::
 *.dns2.alekberg.net AAAA ::
-dns2.cbio.top A 0.0.0.0
-*.dns2.cbio.top A 0.0.0.0
-dns2.cbio.top AAAA ::
-*.dns2.cbio.top AAAA ::
+dns2.cb012proxy.ga A 0.0.0.0
+*.dns2.cb012proxy.ga A 0.0.0.0
+dns2.cb012proxy.ga AAAA ::
+*.dns2.cb012proxy.ga AAAA ::
 dns2.developer.li A 0.0.0.0
 *.dns2.developer.li A 0.0.0.0
 dns2.developer.li AAAA ::
@@ -1929,10 +1925,6 @@ dns.digitalsize.net A 0.0.0.0
 *.dns.digitalsize.net A 0.0.0.0
 dns.digitalsize.net AAAA ::
 *.dns.digitalsize.net AAAA ::
-dns.dk A 0.0.0.0
-*.dns.dk A 0.0.0.0
-dns.dk AAAA ::
-*.dns.dk AAAA ::
 dns.dns-53.com A 0.0.0.0
 *.dns.dns-53.com A 0.0.0.0
 dns.dns-53.com AAAA ::
@@ -3293,10 +3285,6 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
-dnswarden.com A 0.0.0.0
-*.dnswarden.com A 0.0.0.0
-dnswarden.com AAAA ::
-*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4253,10 +4241,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.dee.su A 0.0.0.0
-*.ecs-doh.dee.su A 0.0.0.0
-ecs-doh.dee.su AAAA ::
-*.ecs-doh.dee.su AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4777,10 +4765,6 @@ guardster.com A 0.0.0.0
 *.guardster.com A 0.0.0.0
 guardster.com AAAA ::
 *.guardster.com AAAA ::
-gustamadh.dynv6.net A 0.0.0.0
-*.gustamadh.dynv6.net A 0.0.0.0
-gustamadh.dynv6.net AAAA ::
-*.gustamadh.dynv6.net AAAA ::
 gva01.dnscry.pt A 0.0.0.0
 *.gva01.dnscry.pt A 0.0.0.0
 gva01.dnscry.pt AAAA ::
@@ -5057,6 +5041,10 @@ internetsehat.bebasid.com A 0.0.0.0
 *.internetsehat.bebasid.com A 0.0.0.0
 internetsehat.bebasid.com AAAA ::
 *.internetsehat.bebasid.com AAAA ::
+io.top A 0.0.0.0
+*.io.top A 0.0.0.0
+io.top AAAA ::
+*.io.top AAAA ::
 iow-dns.bitdefender.net A 0.0.0.0
 *.iow-dns.bitdefender.net A 0.0.0.0
 iow-dns.bitdefender.net AAAA ::
@@ -5501,6 +5489,10 @@ miniprox.info A 0.0.0.0
 *.miniprox.info A 0.0.0.0
 miniprox.info AAAA ::
 *.miniprox.info AAAA ::
+moamao.shop A 0.0.0.0
+*.moamao.shop A 0.0.0.0
+moamao.shop AAAA ::
+*.moamao.shop AAAA ::
 mofolinux.com A 0.0.0.0
 *.mofolinux.com A 0.0.0.0
 mofolinux.com AAAA ::
@@ -7501,10 +7493,6 @@ unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
 *.unicast.censurfridns.dk AAAA ::
-unicast.censurfrimask.icloud.com A 0.0.0.0
-*.unicast.censurfrimask.icloud.com A 0.0.0.0
-unicast.censurfrimask.icloud.com AAAA ::
-*.unicast.censurfrimask.icloud.com AAAA ::
 unicast.uncensoreddns.org A 0.0.0.0
 *.unicast.uncensoreddns.org A 0.0.0.0
 unicast.uncensoreddns.org AAAA ::
