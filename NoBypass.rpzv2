@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2604301626 ; Serial Number
+ 2605010426 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -9,6 +9,10 @@ $ORIGIN nobypass.rpz.
  )
  NS localhost
 
+003153.xyz A 0.0.0.0
+*.003153.xyz A 0.0.0.0
+003153.xyz AAAA ::
+*.003153.xyz AAAA ::
 012proxy.ga A 0.0.0.0
 *.012proxy.ga A 0.0.0.0
 012proxy.ga AAAA ::
@@ -1073,10 +1077,6 @@ croxyproxy.rocks A 0.0.0.0
 *.croxyproxy.rocks A 0.0.0.0
 croxyproxy.rocks AAAA ::
 *.croxyproxy.rocks AAAA ::
-cry.pt A 0.0.0.0
-*.cry.pt A 0.0.0.0
-cry.pt AAAA ::
-*.cry.pt AAAA ::
 crypticvpn.com A 0.0.0.0
 *.crypticvpn.com A 0.0.0.0
 crypticvpn.com AAAA ::
@@ -1133,6 +1133,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1161,10 +1165,6 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
-dee.su A 0.0.0.0
-*.dee.su A 0.0.0.0
-dee.su AAAA ::
-*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1197,6 +1197,10 @@ deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-lgb.anycast.uncensoreddns.org A 0.0.0.0
 deic-lgb.anycast.uncensoreddns.org AAAA ::
 *.deic-lgb.anycast.uncensoreddns.org AAAA ::
+deic-ore.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.deic-ore.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+deic-ore.1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.deic-ore.1dot1dot1dot1.cloudflare-dns.com AAAA ::
 deic-ore.anycast.censurfridns.dk A 0.0.0.0
 *.deic-ore.anycast.censurfridns.dk A 0.0.0.0
 deic-ore.anycast.censurfridns.dk AAAA ::
@@ -1205,10 +1209,6 @@ deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 deic-ore.anycast.uncensoreddns.org AAAA ::
 *.deic-ore.anycast.uncensoreddns.org AAAA ::
-deic-ore.dnswarden.com A 0.0.0.0
-*.deic-ore.dnswarden.com A 0.0.0.0
-deic-ore.dnswarden.com AAAA ::
-*.deic-ore.dnswarden.com AAAA ::
 den01.dnscry.pt A 0.0.0.0
 *.den01.dnscry.pt A 0.0.0.0
 den01.dnscry.pt AAAA ::
@@ -1257,10 +1257,6 @@ dns.13evl.com A 0.0.0.0
 *.dns.13evl.com A 0.0.0.0
 dns.13evl.com AAAA ::
 *.dns.13evl.com AAAA ::
-dns13.qmask.icloud.com A 0.0.0.0
-*.dns13.qmask.icloud.com A 0.0.0.0
-dns13.qmask.icloud.com AAAA ::
-*.dns13.qmask.icloud.com AAAA ::
 dns13.quad9.net A 0.0.0.0
 *.dns13.quad9.net A 0.0.0.0
 dns13.quad9.net AAAA ::
@@ -1933,6 +1929,10 @@ dns.digitalsize.net A 0.0.0.0
 *.dns.digitalsize.net A 0.0.0.0
 dns.digitalsize.net AAAA ::
 *.dns.digitalsize.net AAAA ::
+dns.dk A 0.0.0.0
+*.dns.dk A 0.0.0.0
+dns.dk AAAA ::
+*.dns.dk AAAA ::
 dns.dns-53.com A 0.0.0.0
 *.dns.dns-53.com A 0.0.0.0
 dns.dns-53.com AAAA ::
@@ -2625,10 +2625,6 @@ dns.mikrotikrumahan.my.id A 0.0.0.0
 *.dns.mikrotikrumahan.my.id A 0.0.0.0
 dns.mikrotikrumahan.my.id AAAA ::
 *.dns.mikrotikrumahan.my.id AAAA ::
-dns.milkpie.one A 0.0.0.0
-*.dns.milkpie.one A 0.0.0.0
-dns.milkpie.one AAAA ::
-*.dns.milkpie.one AAAA ::
 dns.mnet-online.de A 0.0.0.0
 *.dns.mnet-online.de A 0.0.0.0
 dns.mnet-online.de AAAA ::
@@ -3297,6 +3293,10 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
+dnswarden.com A 0.0.0.0
+*.dnswarden.com A 0.0.0.0
+dnswarden.com AAAA ::
+*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4253,10 +4253,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.003153.xyz A 0.0.0.0
-*.ecs-doh.003153.xyz A 0.0.0.0
-ecs-doh.003153.xyz AAAA ::
-*.ecs-doh.003153.xyz AAAA ::
+ecs-doh.dee.su A 0.0.0.0
+*.ecs-doh.dee.su A 0.0.0.0
+ecs-doh.dee.su AAAA ::
+*.ecs-doh.dee.su AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4629,14 +4629,14 @@ freeyoutube.net A 0.0.0.0
 *.freeyoutube.net A 0.0.0.0
 freeyoutube.net AAAA ::
 *.freeyoutube.net AAAA ::
-frfirefox.dns.nextdns.io A 0.0.0.0
-*.frfirefox.dns.nextdns.io A 0.0.0.0
-frfirefox.dns.nextdns.io AAAA ::
-*.frfirefox.dns.nextdns.io AAAA ::
 fr-gra-w-p-1.nashkan.net A 0.0.0.0
 *.fr-gra-w-p-1.nashkan.net A 0.0.0.0
 fr-gra-w-p-1.nashkan.net AAAA ::
 *.fr-gra-w-p-1.nashkan.net AAAA ::
+frog.dns.qwer.pw A 0.0.0.0
+*.frog.dns.qwer.pw A 0.0.0.0
+frog.dns.qwer.pw AAAA ::
+*.frog.dns.qwer.pw AAAA ::
 fuchur.pentament.de A 0.0.0.0
 *.fuchur.pentament.de A 0.0.0.0
 fuchur.pentament.de AAAA ::
@@ -4777,6 +4777,10 @@ guardster.com A 0.0.0.0
 *.guardster.com A 0.0.0.0
 guardster.com AAAA ::
 *.guardster.com AAAA ::
+gustamadh.dynv6.net A 0.0.0.0
+*.gustamadh.dynv6.net A 0.0.0.0
+gustamadh.dynv6.net AAAA ::
+*.gustamadh.dynv6.net AAAA ::
 gva01.dnscry.pt A 0.0.0.0
 *.gva01.dnscry.pt A 0.0.0.0
 gva01.dnscry.pt AAAA ::
@@ -6005,10 +6009,10 @@ pdns.itxe.net A 0.0.0.0
 *.pdns.itxe.net A 0.0.0.0
 pdns.itxe.net AAAA ::
 *.pdns.itxe.net AAAA ::
-pdx01.dnsdns.dk A 0.0.0.0
-*.pdx01.dnsdns.dk A 0.0.0.0
-pdx01.dnsdns.dk AAAA ::
-*.pdx01.dnsdns.dk AAAA ::
+pdx01.dnscry.pt A 0.0.0.0
+*.pdx01.dnscry.pt A 0.0.0.0
+pdx01.dnscry.pt AAAA ::
+*.pdx01.dnscry.pt AAAA ::
 pepetio.xyz A 0.0.0.0
 *.pepetio.xyz A 0.0.0.0
 pepetio.xyz AAAA ::
@@ -7349,10 +7353,6 @@ typaza.com A 0.0.0.0
 *.typaza.com A 0.0.0.0
 typaza.com AAAA ::
 *.typaza.com AAAA ::
-uad9.net A 0.0.0.0
-*.uad9.net A 0.0.0.0
-uad9.net AAAA ::
-*.uad9.net AAAA ::
 ueni.dyndns.org A 0.0.0.0
 *.ueni.dyndns.org A 0.0.0.0
 ueni.dyndns.org AAAA ::
@@ -7501,10 +7501,10 @@ unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
 *.unicast.censurfridns.dk AAAA ::
-unicast.censurfriog.dns.qwer.pw A 0.0.0.0
-*.unicast.censurfriog.dns.qwer.pw A 0.0.0.0
-unicast.censurfriog.dns.qwer.pw AAAA ::
-*.unicast.censurfriog.dns.qwer.pw AAAA ::
+unicast.censurfrimask.icloud.com A 0.0.0.0
+*.unicast.censurfrimask.icloud.com A 0.0.0.0
+unicast.censurfrimask.icloud.com AAAA ::
+*.unicast.censurfrimask.icloud.com AAAA ::
 unicast.uncensoreddns.org A 0.0.0.0
 *.unicast.uncensoreddns.org A 0.0.0.0
 unicast.uncensoreddns.org AAAA ::
@@ -7841,10 +7841,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.comdarknet.to A 0.0.0.0
-*.whoisping.comdarknet.to A 0.0.0.0
-whoisping.comdarknet.to AAAA ::
-*.whoisping.comdarknet.to AAAA ::
+whoisping.com A 0.0.0.0
+*.whoisping.com A 0.0.0.0
+whoisping.com AAAA ::
+*.whoisping.com AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
