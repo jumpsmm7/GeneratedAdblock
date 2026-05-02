@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605011627 ; Serial Number
+ 2605020427 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -11,6 +11,8 @@ $ORIGIN nobypass.rpz.
 
 003153.xyz CNAME .
 *.003153.xyz CNAME .
+012proxy.ga CNAME .
+*.012proxy.ga CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
@@ -211,8 +213,6 @@ adl.adfilter.net CNAME .
 *.adl.adfilter.net CNAME .
 ads-doh.securedns.eu CNAME .
 *.ads-doh.securedns.eu CNAME .
-ads.hunga1k47.com CNAME .
-*.ads.hunga1k47.com CNAME .
 ad.tzockt.beer CNAME .
 *.ad.tzockt.beer CNAME .
 adult-filter-dns.cleanbrowsing.org CNAME .
@@ -559,6 +559,8 @@ cyberghostvpn.com CNAME .
 *.cyberghostvpn.com CNAME .
 cynntex.fun CNAME .
 *.cynntex.fun CNAME .
+d1dot1dot1dot1.cloudflare-dns.com CNAME .
+*.d1dot1dot1dot1.cloudflare-dns.com CNAME .
 d2.shabi.icu CNAME .
 *.d2.shabi.icu CNAME .
 d.adguard-dns.com CNAME .
@@ -603,10 +605,10 @@ deic-lgb.anycast.uncensoreddns.org CNAME .
 *.deic-lgb.anycast.uncensoreddns.org CNAME .
 deic-ore.anycast.censurfridns.dk CNAME .
 *.deic-ore.anycast.censurfridns.dk CNAME .
+deic-ore.anycast.uncensoreddee.su CNAME .
+*.deic-ore.anycast.uncensoreddee.su CNAME .
 deic-ore.anycast.uncensoreddns.org CNAME .
 *.deic-ore.anycast.uncensoreddns.org CNAME .
-deic-ore.dee.su CNAME .
-*.deic-ore.dee.su CNAME .
 den01.dnscry.pt CNAME .
 *.den01.dnscry.pt CNAME .
 de.teradns.org CNAME .
@@ -669,8 +671,8 @@ dns.240527.xyz CNAME .
 *.dns.240527.xyz CNAME .
 dns2.alekberg.net CNAME .
 *.dns2.alekberg.net CNAME .
-dns2.cb012proxy.ga CNAME .
-*.dns2.cb012proxy.ga CNAME .
+dns2.cbio.top CNAME .
+*.dns2.cbio.top CNAME .
 dns2.developer.li CNAME .
 *.dns2.developer.li CNAME .
 dns2.digitale-gesellschaft.ch CNAME .
@@ -1189,8 +1191,6 @@ dns.jiyi.eu CNAME .
 *.dns.jiyi.eu CNAME .
 dns.joey01245.nl CNAME .
 *.dns.joey01245.nl CNAME .
-dns.jstockley.com CNAME .
-*.dns.jstockley.com CNAME .
 dns.jundev.org CNAME .
 *.dns.jundev.org CNAME .
 dns.jupitrdns.com CNAME .
@@ -1395,6 +1395,8 @@ dns.olpploiopkuyhiopsfrt.info CNAME .
 *.dns.olpploiopkuyhiopsfrt.info CNAME .
 dns.opendns.com CNAME .
 *.dns.opendns.com CNAME .
+dns.org CNAME .
+*.dns.org CNAME .
 dns.oszx.co CNAME .
 *.dns.oszx.co CNAME .
 dnsotls.lab.nic.cl CNAME .
@@ -2387,6 +2389,8 @@ guard.sntrk.ru CNAME .
 *.guard.sntrk.ru CNAME .
 guardster.com CNAME .
 *.guardster.com CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 gva01.dnscry.pt CNAME .
 *.gva01.dnscry.pt CNAME .
 gztech.me CNAME .
@@ -2457,8 +2461,6 @@ hola.org CNAME .
 *.hola.org CNAME .
 hole.elbschloss.xyz CNAME .
 *.hole.elbschloss.xyz CNAME .
-home27.duckdns.org CNAME .
-*.home27.duckdns.org CNAME .
 home.enjoymylife.net CNAME .
 *.home.enjoymylife.net CNAME .
 homeproxy.com CNAME .
@@ -2525,8 +2527,6 @@ interncloud.info CNAME .
 *.interncloud.info CNAME .
 internetsehat.bebasid.com CNAME .
 *.internetsehat.bebasid.com CNAME .
-io.top CNAME .
-*.io.top CNAME .
 iow-dns.bitdefender.net CNAME .
 *.iow-dns.bitdefender.net CNAME .
 i.passcloud.xyz CNAME .
@@ -2597,8 +2597,6 @@ jp.tiar.app CNAME .
 *.jp.tiar.app CNAME .
 jp-tyo-w-p-1.nashkan.net CNAME .
 *.jp-tyo-w-p-1.nashkan.net CNAME .
-jurre-home.duckdns.org CNAME .
-*.jurre-home.duckdns.org CNAME .
 justhost.bedro.cloud CNAME .
 *.justhost.bedro.cloud CNAME .
 justproxy.co.uk CNAME .
@@ -2637,8 +2635,6 @@ kronos.plan9-dns.com CNAME .
 *.kronos.plan9-dns.com CNAME .
 kr-sel.doh.sb CNAME .
 *.kr-sel.doh.sb CNAME .
-krtekvpn.duckdns.org CNAME .
-*.krtekvpn.duckdns.org CNAME .
 kx-97795-tr.xyz CNAME .
 *.kx-97795-tr.xyz CNAME .
 kz-pav-w-p-1.nashkan.net CNAME .
@@ -2749,8 +2745,6 @@ miniprox.com CNAME .
 *.miniprox.com CNAME .
 miniprox.info CNAME .
 *.miniprox.info CNAME .
-moamao.shop CNAME .
-*.moamao.shop CNAME .
 mofolinux.com CNAME .
 *.mofolinux.com CNAME .
 morbitzer.de CNAME .
@@ -2877,6 +2871,8 @@ ns.data.haus CNAME .
 *.ns.data.haus CNAME .
 nsec.arnor.org CNAME .
 *.nsec.arnor.org CNAME .
+ns.jstockley.com CNAME .
+*.ns.jstockley.com CNAME .
 ns.mtsoln.com CNAME .
 *.ns.mtsoln.com CNAME .
 ns.nerdytechgeeks.co.za CNAME .
@@ -2989,8 +2985,6 @@ pandashield.com CNAME .
 *.pandashield.com CNAME .
 par01.dnscry.pt CNAME .
 *.par01.dnscry.pt CNAME .
-paradise-human.shop CNAME .
-*.paradise-human.shop CNAME .
 paranoia.mydns.network CNAME .
 *.paranoia.mydns.network CNAME .
 parrotsec.org CNAME .
@@ -3227,8 +3221,6 @@ public.dns.iij.jp CNAME .
 *.public.dns.iij.jp CNAME .
 public.ns.nwps.fi CNAME .
 *.public.ns.nwps.fi CNAME .
-punono.duckdns.org CNAME .
-*.punono.duckdns.org CNAME .
 puredns.org CNAME .
 *.puredns.org CNAME .
 purevpn.com CNAME .
