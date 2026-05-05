@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605050428 ; Serial Number
+ 2605051628 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -29,10 +29,6 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
-12vpx.com A 0.0.0.0
-*.12vpx.com A 0.0.0.0
-12vpx.com AAAA ::
-*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -649,6 +645,10 @@ ath01.dnscry.pt A 0.0.0.0
 *.ath01.dnscry.pt A 0.0.0.0
 ath01.dnscry.pt AAAA ::
 *.ath01.dnscry.pt AAAA ::
+ath.unipd.it A 0.0.0.0
+*.ath.unipd.it A 0.0.0.0
+ath.unipd.it AAAA ::
+*.ath.unipd.it AAAA ::
 atl01.dnscry.pt A 0.0.0.0
 *.atl01.dnscry.pt A 0.0.0.0
 atl01.dnscry.pt AAAA ::
@@ -705,10 +705,6 @@ awebproxy.com A 0.0.0.0
 *.awebproxy.com A 0.0.0.0
 awebproxy.com AAAA ::
 *.awebproxy.com AAAA ::
-axaxa.fun A 0.0.0.0
-*.axaxa.fun A 0.0.0.0
-axaxa.fun AAAA ::
-*.axaxa.fun AAAA ::
 azirevpn.com A 0.0.0.0
 *.azirevpn.com A 0.0.0.0
 azirevpn.com AAAA ::
@@ -1157,10 +1153,6 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
-dee.su A 0.0.0.0
-*.dee.su A 0.0.0.0
-dee.su AAAA ::
-*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1201,10 +1193,10 @@ deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 *.deic-ore.anycast.uncensoreddns.org A 0.0.0.0
 deic-ore.anycast.uncensoreddns.org AAAA ::
 *.deic-ore.anycast.uncensoreddns.org AAAA ::
-den01.dnscry1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.den01.dnscry1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-den01.dnscry1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.den01.dnscry1dot1dot1dot1.cloudflare-dns.com AAAA ::
+den01.dnscry.pt A 0.0.0.0
+*.den01.dnscry.pt A 0.0.0.0
+den01.dnscry.pt AAAA ::
+*.den01.dnscry.pt AAAA ::
 de.teradns.org A 0.0.0.0
 *.de.teradns.org A 0.0.0.0
 de.teradns.org AAAA ::
@@ -1341,10 +1333,10 @@ dns2.dnscrypt.ca A 0.0.0.0
 *.dns2.dnscrypt.ca A 0.0.0.0
 dns2.dnscrypt.ca AAAA ::
 *.dns2.dnscrypt.ca AAAA ::
-dns2.guidocioni.it A 0.0.0.0
-*.dns2.guidocioni.it A 0.0.0.0
-dns2.guidocioni.it AAAA ::
-*.dns2.guidocioni.it AAAA ::
+dns2.guidocioni.it12vpx.com A 0.0.0.0
+*.dns2.guidocioni.it12vpx.com A 0.0.0.0
+dns2.guidocioni.it12vpx.com AAAA ::
+*.dns2.guidocioni.it12vpx.com AAAA ::
 dns2.in-berlin.de A 0.0.0.0
 *.dns2.in-berlin.de A 0.0.0.0
 dns2.in-berlin.de AAAA ::
@@ -2369,6 +2361,10 @@ dns.jstockley.com A 0.0.0.0
 *.dns.jstockley.com A 0.0.0.0
 dns.jstockley.com AAAA ::
 *.dns.jstockley.com AAAA ::
+dns.jundev.or1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.dns.jundev.or1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+dns.jundev.or1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.dns.jundev.or1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns.jupitrdns.com A 0.0.0.0
 *.dns.jupitrdns.com A 0.0.0.0
 dns.jupitrdns.com AAAA ::
@@ -2557,10 +2553,6 @@ dns.marbledfennec.net A 0.0.0.0
 *.dns.marbledfennec.net A 0.0.0.0
 dns.marbledfennec.net AAAA ::
 *.dns.marbledfennec.net AAAA ::
-dnsmask.icloud.com A 0.0.0.0
-*.dnsmask.icloud.com A 0.0.0.0
-dnsmask.icloud.com AAAA ::
-*.dnsmask.icloud.com AAAA ::
 dns.mateo.ovh A 0.0.0.0
 *.dns.mateo.ovh A 0.0.0.0
 dns.mateo.ovh AAAA ::
@@ -3189,6 +3181,10 @@ dnstls.mobik.com A 0.0.0.0
 *.dnstls.mobik.com A 0.0.0.0
 dnstls.mobik.com AAAA ::
 *.dnstls.mobik.com AAAA ::
+dns.tracker.ink A 0.0.0.0
+*.dns.tracker.ink A 0.0.0.0
+dns.tracker.ink AAAA ::
+*.dns.tracker.ink AAAA ::
 dns.tryk.app A 0.0.0.0
 *.dns.tryk.app A 0.0.0.0
 dns.tryk.app AAAA ::
@@ -4233,10 +4229,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.dnswarden.com A 0.0.0.0
-*.ecs-doh.dnswarden.com A 0.0.0.0
-ecs-doh.dnswarden.com AAAA ::
-*.ecs-doh.dnswarden.com AAAA ::
+ecs-doh.dee.su A 0.0.0.0
+*.ecs-doh.dee.su A 0.0.0.0
+ecs-doh.dee.su AAAA ::
+*.ecs-doh.dee.su AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4625,10 +4621,10 @@ fwgw.orangepipc.mywire.org A 0.0.0.0
 *.fwgw.orangepipc.mywire.org A 0.0.0.0
 fwgw.orangepipc.mywire.org AAAA ::
 *.fwgw.orangepipc.mywire.org AAAA ::
-galileo.math.unipd.it A 0.0.0.0
-*.galileo.math.unipd.it A 0.0.0.0
-galileo.math.unipd.it AAAA ::
-*.galileo.math.unipd.it AAAA ::
+galileo.mdnswarden.com A 0.0.0.0
+*.galileo.mdnswarden.com A 0.0.0.0
+galileo.mdnswarden.com AAAA ::
+*.galileo.mdnswarden.com AAAA ::
 gateway.fomichev.cloud A 0.0.0.0
 *.gateway.fomichev.cloud A 0.0.0.0
 gateway.fomichev.cloud AAAA ::
@@ -4757,6 +4753,10 @@ guardster.com A 0.0.0.0
 *.guardster.com A 0.0.0.0
 guardster.com AAAA ::
 *.guardster.com AAAA ::
+gustamadh.dynv6.net A 0.0.0.0
+*.gustamadh.dynv6.net A 0.0.0.0
+gustamadh.dynv6.net AAAA ::
+*.gustamadh.dynv6.net AAAA ::
 gva01.dnscry.pt A 0.0.0.0
 *.gva01.dnscry.pt A 0.0.0.0
 gva01.dnscry.pt AAAA ::
@@ -6001,10 +6001,10 @@ pepetio.xyz A 0.0.0.0
 *.pepetio.xyz A 0.0.0.0
 pepetio.xyz AAAA ::
 *.pepetio.xyz AAAA ::
-per.adfilter.net A 0.0.0.0
-*.per.adfilter.net A 0.0.0.0
-per.adfilter.net AAAA ::
-*.per.adfilter.net AAAA ::
+per.adfiltemask.icloud.com A 0.0.0.0
+*.per.adfiltemask.icloud.com A 0.0.0.0
+per.adfiltemask.icloud.com AAAA ::
+*.per.adfiltemask.icloud.com AAAA ::
 performance.gosami.xyz A 0.0.0.0
 *.performance.gosami.xyz A 0.0.0.0
 performance.gosami.xyz AAAA ::
@@ -7645,10 +7645,10 @@ vidproxy.com A 0.0.0.0
 *.vidproxy.com A 0.0.0.0
 vidproxy.com AAAA ::
 *.vidproxy.com AAAA ::
-vie01.dnscry.pt A 0.0.0.0
-*.vie01.dnscry.pt A 0.0.0.0
-vie01.dnscry.pt AAAA ::
-*.vie01.dnscry.pt AAAA ::
+vie01.dnscry A 0.0.0.0
+*.vie01.dnscry A 0.0.0.0
+vie01.dnscry AAAA ::
+*.vie01.dnscry AAAA ::
 viewyoutube.net A 0.0.0.0
 *.viewyoutube.net A 0.0.0.0
 viewyoutube.net AAAA ::
@@ -7821,10 +7821,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.com A 0.0.0.0
-*.whoisping.com A 0.0.0.0
-whoisping.com AAAA ::
-*.whoisping.com AAAA ::
+whoisping.comr.net A 0.0.0.0
+*.whoisping.comr.net A 0.0.0.0
+whoisping.comr.net AAAA ::
+*.whoisping.comr.net AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
