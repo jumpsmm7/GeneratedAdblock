@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605051628 ; Serial Number
+ 2605060428 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,10 +13,6 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -29,6 +25,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -261,14 +261,6 @@ adguard.ef67daisuki.club A 0.0.0.0
 *.adguard.ef67daisuki.club A 0.0.0.0
 adguard.ef67daisuki.club AAAA ::
 *.adguard.ef67daisuki.club AAAA ::
-adguard.ender.fr A 0.0.0.0
-*.adguard.ender.fr A 0.0.0.0
-adguard.ender.fr AAAA ::
-*.adguard.ender.fr AAAA ::
-adguard.gambini.org A 0.0.0.0
-*.adguard.gambini.org A 0.0.0.0
-adguard.gambini.org AAAA ::
-*.adguard.gambini.org AAAA ::
 adguard.gbrossi.com.br A 0.0.0.0
 *.adguard.gbrossi.com.br A 0.0.0.0
 adguard.gbrossi.com.br AAAA ::
@@ -645,10 +637,6 @@ ath01.dnscry.pt A 0.0.0.0
 *.ath01.dnscry.pt A 0.0.0.0
 ath01.dnscry.pt AAAA ::
 *.ath01.dnscry.pt AAAA ::
-ath.unipd.it A 0.0.0.0
-*.ath.unipd.it A 0.0.0.0
-ath.unipd.it AAAA ::
-*.ath.unipd.it AAAA ::
 atl01.dnscry.pt A 0.0.0.0
 *.atl01.dnscry.pt A 0.0.0.0
 atl01.dnscry.pt AAAA ::
@@ -705,6 +693,10 @@ awebproxy.com A 0.0.0.0
 *.awebproxy.com A 0.0.0.0
 awebproxy.com AAAA ::
 *.awebproxy.com AAAA ::
+axaxa.fun A 0.0.0.0
+*.axaxa.fun A 0.0.0.0
+axaxa.fun AAAA ::
+*.axaxa.fun AAAA ::
 azirevpn.com A 0.0.0.0
 *.azirevpn.com A 0.0.0.0
 azirevpn.com AAAA ::
@@ -1141,10 +1133,6 @@ de01.dns4me.net A 0.0.0.0
 *.de01.dns4me.net A 0.0.0.0
 de01.dns4me.net AAAA ::
 *.de01.dns4me.net AAAA ::
-de.dns.privex.io A 0.0.0.0
-*.de.dns.privex.io A 0.0.0.0
-de.dns.privex.io AAAA ::
-*.de.dns.privex.io AAAA ::
 de-dus.doh.sb A 0.0.0.0
 *.de-dus.doh.sb A 0.0.0.0
 de-dus.doh.sb AAAA ::
@@ -1333,10 +1321,10 @@ dns2.dnscrypt.ca A 0.0.0.0
 *.dns2.dnscrypt.ca A 0.0.0.0
 dns2.dnscrypt.ca AAAA ::
 *.dns2.dnscrypt.ca AAAA ::
-dns2.guidocioni.it12vpx.com A 0.0.0.0
-*.dns2.guidocioni.it12vpx.com A 0.0.0.0
-dns2.guidocioni.it12vpx.com AAAA ::
-*.dns2.guidocioni.it12vpx.com AAAA ::
+dns2.guidocioni.it A 0.0.0.0
+*.dns2.guidocioni.it A 0.0.0.0
+dns2.guidocioni.it AAAA ::
+*.dns2.guidocioni.it AAAA ::
 dns2.in-berlin.de A 0.0.0.0
 *.dns2.in-berlin.de A 0.0.0.0
 dns2.in-berlin.de AAAA ::
@@ -1345,6 +1333,10 @@ dns2.klcd.eu A 0.0.0.0
 *.dns2.klcd.eu A 0.0.0.0
 dns2.klcd.eu AAAA ::
 *.dns2.klcd.eu AAAA ::
+dns2.nextdns012proxy.ga A 0.0.0.0
+*.dns2.nextdns012proxy.ga A 0.0.0.0
+dns2.nextdns012proxy.ga AAAA ::
+*.dns2.nextdns012proxy.ga AAAA ::
 dns2.nextdns.io A 0.0.0.0
 *.dns2.nextdns.io A 0.0.0.0
 dns2.nextdns.io AAAA ::
@@ -2361,18 +2353,18 @@ dns.jstockley.com A 0.0.0.0
 *.dns.jstockley.com A 0.0.0.0
 dns.jstockley.com AAAA ::
 *.dns.jstockley.com AAAA ::
-dns.jundev.or1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.dns.jundev.or1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-dns.jundev.or1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.dns.jundev.or1dot1dot1dot1.cloudflare-dns.com AAAA ::
+dns.jundev.org A 0.0.0.0
+*.dns.jundev.org A 0.0.0.0
+dns.jundev.org AAAA ::
+*.dns.jundev.org AAAA ::
 dns.jupitrdns.com A 0.0.0.0
 *.dns.jupitrdns.com A 0.0.0.0
 dns.jupitrdns.com AAAA ::
 *.dns.jupitrdns.com AAAA ::
-dns.justinnetworkingsolutions.com A 0.0.0.0
-*.dns.justinnetworkingsolutions.com A 0.0.0.0
-dns.justinnetworkingsolutions.com AAAA ::
-*.dns.justinnetworkingsolutions.com AAAA ::
+dns.justinnetworkingsoludee.su A 0.0.0.0
+*.dns.justinnetworkingsoludee.su A 0.0.0.0
+dns.justinnetworkingsoludee.su AAAA ::
+*.dns.justinnetworkingsoludee.su AAAA ::
 dns.k3nny.fr A 0.0.0.0
 *.dns.k3nny.fr A 0.0.0.0
 dns.k3nny.fr AAAA ::
@@ -4229,10 +4221,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.dee.su A 0.0.0.0
-*.ecs-doh.dee.su A 0.0.0.0
-ecs-doh.dee.su AAAA ::
-*.ecs-doh.dee.su AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4265,10 +4257,6 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
-epicbrowser.com A 0.0.0.0
-*.epicbrowser.com A 0.0.0.0
-epicbrowser.com AAAA ::
-*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4621,18 +4609,18 @@ fwgw.orangepipc.mywire.org A 0.0.0.0
 *.fwgw.orangepipc.mywire.org A 0.0.0.0
 fwgw.orangepipc.mywire.org AAAA ::
 *.fwgw.orangepipc.mywire.org AAAA ::
-galileo.mdnswarden.com A 0.0.0.0
-*.galileo.mdnswarden.com A 0.0.0.0
-galileo.mdnswarden.com AAAA ::
-*.galileo.mdnswarden.com AAAA ::
+galileo.math.unipd.it A 0.0.0.0
+*.galileo.math.unipd.it A 0.0.0.0
+galileo.math.unipd.it AAAA ::
+*.galileo.math.unipd.it AAAA ::
 gateway.fomichev.cloud A 0.0.0.0
 *.gateway.fomichev.cloud A 0.0.0.0
 gateway.fomichev.cloud AAAA ::
 *.gateway.fomichev.cloud AAAA ::
-gb-cov-w-f-1.nashkan.net A 0.0.0.0
-*.gb-cov-w-f-1.nashkan.net A 0.0.0.0
-gb-cov-w-f-1.nashkan.net AAAA ::
-*.gb-cov-w-f-1.nashkan.net AAAA ::
+gb-cov-wepicbrowser.com A 0.0.0.0
+*.gb-cov-wepicbrowser.com A 0.0.0.0
+gb-cov-wepicbrowser.com AAAA ::
+*.gb-cov-wepicbrowser.com AAAA ::
 gb-cov-w-p-1.nashkan.net A 0.0.0.0
 *.gb-cov-w-p-1.nashkan.net A 0.0.0.0
 gb-cov-w-p-1.nashkan.net AAAA ::
@@ -6001,10 +5989,10 @@ pepetio.xyz A 0.0.0.0
 *.pepetio.xyz A 0.0.0.0
 pepetio.xyz AAAA ::
 *.pepetio.xyz AAAA ::
-per.adfiltemask.icloud.com A 0.0.0.0
-*.per.adfiltemask.icloud.com A 0.0.0.0
-per.adfiltemask.icloud.com AAAA ::
-*.per.adfiltemask.icloud.com AAAA ::
+per.adfilter.net A 0.0.0.0
+*.per.adfilter.net A 0.0.0.0
+per.adfilter.net AAAA ::
+*.per.adfilter.net AAAA ::
 performance.gosami.xyz A 0.0.0.0
 *.performance.gosami.xyz A 0.0.0.0
 performance.gosami.xyz AAAA ::
@@ -7173,6 +7161,10 @@ timmes.nl A 0.0.0.0
 *.timmes.nl A 0.0.0.0
 timmes.nl AAAA ::
 *.timmes.nl AAAA ::
+tions.com A 0.0.0.0
+*.tions.com A 0.0.0.0
+tions.com AAAA ::
+*.tions.com AAAA ::
 tj.jamesxue.xyz A 0.0.0.0
 *.tj.jamesxue.xyz A 0.0.0.0
 tj.jamesxue.xyz AAAA ::
@@ -7645,10 +7637,10 @@ vidproxy.com A 0.0.0.0
 *.vidproxy.com A 0.0.0.0
 vidproxy.com AAAA ::
 *.vidproxy.com AAAA ::
-vie01.dnscry A 0.0.0.0
-*.vie01.dnscry A 0.0.0.0
-vie01.dnscry AAAA ::
-*.vie01.dnscry AAAA ::
+vie01.dnscry.pt A 0.0.0.0
+*.vie01.dnscry.pt A 0.0.0.0
+vie01.dnscry.pt AAAA ::
+*.vie01.dnscry.pt AAAA ::
 viewyoutube.net A 0.0.0.0
 *.viewyoutube.net A 0.0.0.0
 viewyoutube.net AAAA ::
@@ -7821,10 +7813,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.comr.net A 0.0.0.0
-*.whoisping.comr.net A 0.0.0.0
-whoisping.comr.net AAAA ::
-*.whoisping.comr.net AAAA ::
+whoisping.com A 0.0.0.0
+*.whoisping.com A 0.0.0.0
+whoisping.com AAAA ::
+*.whoisping.com AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
