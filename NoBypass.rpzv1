@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605080429 ; Serial Number
+ 2605081628 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -679,8 +679,8 @@ dns2.nextdns.io CNAME .
 *.dns2.nextdns.io CNAME .
 dns2.nordvpn.com CNAME .
 *.dns2.nordvpn.com CNAME .
-dns2.safedee.su CNAME .
-*.dns2.safedee.su CNAME .
+dns2.saferbfc.org CNAME .
+*.dns2.saferbfc.org CNAME .
 dns-2.wil.cloud CNAME .
 *.dns-2.wil.cloud CNAME .
 dns.354688.xyz CNAME .
@@ -1091,8 +1091,6 @@ dns.girino.org CNAME .
 *.dns.girino.org CNAME .
 dns.glf.wtf CNAME .
 *.dns.glf.wtf CNAME .
-dns.glorydns.com CNAME .
-*.dns.glorydns.com CNAME .
 dns.gnb09.id CNAME .
 *.dns.gnb09.id CNAME .
 dns.goldplate.org CNAME .
@@ -1187,8 +1185,8 @@ dns.jundev.org CNAME .
 *.dns.jundev.org CNAME .
 dns.jupitrdns.com CNAME .
 *.dns.jupitrdns.com CNAME .
-dns.justinnetworkingsolutions.com CNAME .
-*.dns.justinnetworkingsolutions.com CNAME .
+dns.justinnetworkingso1dot1dot1dot1.cloudflare-dns.com CNAME .
+*.dns.justinnetworkingso1dot1dot1dot1.cloudflare-dns.com CNAME .
 dns.k3nny.fr CNAME .
 *.dns.k3nny.fr CNAME .
 dns.kamilszczepanski.com CNAME .
@@ -1635,6 +1633,8 @@ dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
+dnswarden.com CNAME .
+*.dnswarden.com CNAME .
 dns.wargan.io CNAME .
 *.dns.wargan.io CNAME .
 dns.warpnine.de CNAME .
@@ -2113,8 +2113,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.dnswarden.com CNAME .
-*.ecs-doh.dnswarden.com CNAME .
+ecs-doh.lutions.com CNAME .
+*.ecs-doh.lutions.com CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2317,8 +2317,8 @@ gb-cov-w-f-1.nashkan.net CNAME .
 *.gb-cov-w-f-1.nashkan.net CNAME .
 gb-cov-w-p-1.nashkan.net CNAME .
 *.gb-cov-w-p-1.nashkan.net CNAME .
-gb-lon-w-f-1.nashkan.net CNAME .
-*.gb-lon-w-f-1.nashkan.net CNAME .
+gb-lodee.su CNAME .
+*.gb-lodee.su CNAME .
 gb-lon-w-p-1.nashkan.net CNAME .
 *.gb-lon-w-p-1.nashkan.net CNAME .
 gb-lon-w-p-2.nashkan.net CNAME .
@@ -2375,6 +2375,8 @@ guard.sntrk.ru CNAME .
 *.guard.sntrk.ru CNAME .
 guardster.com CNAME .
 *.guardster.com CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 gva01.dnscry.pt CNAME .
 *.gva01.dnscry.pt CNAME .
 gztech.me CNAME .
@@ -2427,6 +2429,8 @@ hidingyour.info CNAME .
 *.hidingyour.info CNAME .
 hiload.in CNAME .
 *.hiload.in CNAME .
+himedns.com CNAME .
+*.himedns.com CNAME .
 hitian.me CNAME .
 *.hitian.me CNAME .
 hk2.ooroot.com CNAME .
@@ -2491,8 +2495,6 @@ ie01.dns4me.net CNAME .
 *.ie01.dns4me.net CNAME .
 ihctw.synology.me CNAME .
 *.ihctw.synology.me CNAME .
-ihole3.hoerli.net CNAME .
-*.ihole3.hoerli.net CNAME .
 iij.jp CNAME .
 *.iij.jp CNAME .
 ikarosalpha.xyz CNAME .
@@ -2623,8 +2625,6 @@ kronos.plan9-dns.com CNAME .
 *.kronos.plan9-dns.com CNAME .
 kr-sel.doh.sb CNAME .
 *.kr-sel.doh.sb CNAME .
-krtekvpn.duckdns.org CNAME .
-*.krtekvpn.duckdns.org CNAME .
 kx-97795-tr.xyz CNAME .
 *.kx-97795-tr.xyz CNAME .
 kz-pav-w-p-1.nashkan.net CNAME .
@@ -2883,6 +2883,8 @@ nvi-dns.bitdefender.net CNAME .
 *.nvi-dns.bitdefender.net CNAME .
 nvpn.net CNAME .
 *.nvpn.net CNAME .
+n-w-f-1.nashkan.net CNAME .
+*.n-w-f-1.nashkan.net CNAME .
 ny1.nixnet.xyz CNAME .
 *.ny1.nixnet.xyz CNAME .
 nyc01.dnscry.pt CNAME .
@@ -3005,6 +3007,8 @@ pihole1.hoerli.net CNAME .
 *.pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 *.pihole2.hoerli.net CNAME .
+pihole3.hoerli.net CNAME .
+*.pihole3.hoerli.net CNAME .
 pihole4.hoerli.net CNAME .
 *.pihole4.hoerli.net CNAME .
 pihole.aws.ketan.dev CNAME .
@@ -3025,8 +3029,6 @@ pm7051-br.xyz CNAME .
 *.pm7051-br.xyz CNAME .
 pm9352-bd.xyz CNAME .
 *.pm9352-bd.xyz CNAME .
-pmask.icloud.com CNAME .
-*.pmask.icloud.com CNAME .
 polaris.cx CNAME .
 *.polaris.cx CNAME .
 polippix.org CNAME .
@@ -3247,8 +3249,6 @@ rapidproxy.us CNAME .
 *.rapidproxy.us CNAME .
 rayneau.fr CNAME .
 *.rayneau.fr CNAME .
-rbfc.org CNAME .
-*.rbfc.org CNAME .
 rdd01.dnscry.pt CNAME .
 *.rdd01.dnscry.pt CNAME .
 rdns.faelix.net CNAME .
@@ -3641,8 +3641,6 @@ tubeunblock.net CNAME .
 *.tubeunblock.net CNAME .
 tujenasnaszato.xyz CNAME .
 *.tujenasnaszato.xyz CNAME .
-tungdnsne.duckdns.org CNAME .
-*.tungdnsne.duckdns.org CNAME .
 tunnelbear.com CNAME .
 *.tunnelbear.com CNAME .
 turbohide.org CNAME .
