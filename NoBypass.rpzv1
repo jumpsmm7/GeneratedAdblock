@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605090429 ; Serial Number
+ 2605091629 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -11,12 +11,16 @@ $ORIGIN nobypass.rpz.
 
 003153.xyz CNAME .
 *.003153.xyz CNAME .
+012proxy.ga CNAME .
+*.012proxy.ga CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
 *.123000123.xyz CNAME .
 123-24.eport.gr CNAME .
 *.123-24.eport.gr CNAME .
+12vpx.com CNAME .
+*.12vpx.com CNAME .
 1a.ns.ozer.im CNAME .
 *.1a.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
@@ -559,6 +563,8 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 darkness.is.my.waifu.cz CNAME .
 *.darkness.is.my.waifu.cz CNAME .
+darknet.to CNAME .
+*.darknet.to CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
@@ -675,10 +681,10 @@ dns2.nextdns.io CNAME .
 *.dns2.nextdns.io CNAME .
 dns2.nordvpn.com CNAME .
 *.dns2.nordvpn.com CNAME .
-dns2.saferbfc.org CNAME .
-*.dns2.saferbfc.org CNAME .
-dns-2.wil.c012proxy.ga CNAME .
-*.dns-2.wil.c012proxy.ga CNAME .
+dns2.safefirefox.dns.nextdns.io CNAME .
+*.dns2.safefirefox.dns.nextdns.io CNAME .
+dns-2.wil.c1dot1dot1dot1.cloudflare-dns.com CNAME .
+*.dns-2.wil.c1dot1dot1dot1.cloudflare-dns.com CNAME .
 dns.354688.xyz CNAME .
 *.dns.354688.xyz CNAME .
 dns.3wv.de CNAME .
@@ -1167,8 +1173,6 @@ dns.is0mino.com CNAME .
 *.dns.is0mino.com CNAME .
 dns.islandnet.com CNAME .
 *.dns.islandnet.com CNAME .
-dns.j12vpx.com CNAME .
-*.dns.j12vpx.com CNAME .
 dns.jhangy.us CNAME .
 *.dns.jhangy.us CNAME .
 dns.jichi.io CNAME .
@@ -1185,6 +1189,8 @@ dns.jundev.org CNAME .
 *.dns.jundev.org CNAME .
 dns.jupitrdns.com CNAME .
 *.dns.jupitrdns.com CNAME .
+dns.justinnetworkingsolutions.com CNAME .
+*.dns.justinnetworkingsolutions.com CNAME .
 dns.k3nny.fr CNAME .
 *.dns.k3nny.fr CNAME .
 dns.kamilszczepanski.com CNAME .
@@ -2311,8 +2317,8 @@ gateway.fomichev.cloud CNAME .
 *.gateway.fomichev.cloud CNAME .
 gb-cov-w-f-1.nashkan.net CNAME .
 *.gb-cov-w-f-1.nashkan.net CNAME .
-gb-cov-w-p-1.mask.icloud.com CNAME .
-*.gb-cov-w-p-1.mask.icloud.com CNAME .
+gb-cov-w-p-1.nashkan.net CNAME .
+*.gb-cov-w-p-1.nashkan.net CNAME .
 gb-lon-w-f-1.nashkan.net CNAME .
 *.gb-lon-w-f-1.nashkan.net CNAME .
 gb-lon-w-p-1.nashkan.net CNAME .
@@ -2775,8 +2781,6 @@ najiakeji.top CNAME .
 *.najiakeji.top CNAME .
 nanopi.cybergroove.net CNAME .
 *.nanopi.cybergroove.net CNAME .
-nashkan.net CNAME .
-*.nashkan.net CNAME .
 nat64.tuxis.nl CNAME .
 *.nat64.tuxis.nl CNAME .
 naw01.dnscry.pt CNAME .
@@ -3247,6 +3251,8 @@ rapidproxy.us CNAME .
 *.rapidproxy.us CNAME .
 rayneau.fr CNAME .
 *.rayneau.fr CNAME .
+rbfc.org CNAME .
+*.rbfc.org CNAME .
 rdd01.dnscry.pt CNAME .
 *.rdd01.dnscry.pt CNAME .
 rdns.faelix.net CNAME .
@@ -3785,8 +3791,6 @@ us-saj-w-p-1.nashkan.net CNAME .
 *.us-saj-w-p-1.nashkan.net CNAME .
 us-sj.foxyfy.net CNAME .
 *.us-sj.foxyfy.net CNAME .
-ustinnetworkingsolutions.com CNAME .
-*.ustinnetworkingsolutions.com CNAME .
 utunnel.io CNAME .
 *.utunnel.io CNAME .
 uvpn.me CNAME .
@@ -3897,8 +3901,8 @@ webunblocker.xyz CNAME .
 *.webunblocker.xyz CNAME .
 whoer.net CNAME .
 *.whoer.net CNAME .
-whoisping.comdarknet.to CNAME .
-*.whoisping.comdarknet.to CNAME .
+whoisping.com CNAME .
+*.whoisping.com CNAME .
 whonix.org CNAME .
 *.whonix.org CNAME .
 wikimedia-dns.org CNAME .
