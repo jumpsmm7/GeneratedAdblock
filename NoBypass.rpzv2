@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605111629 ; Serial Number
+ 2605120430 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -1381,10 +1381,6 @@ dns64.dns.google A 0.0.0.0
 *.dns64.dns.google A 0.0.0.0
 dns64.dns.google AAAA ::
 *.dns64.dns.google AAAA ::
-dns64.dns.mask.icloud.com A 0.0.0.0
-*.dns64.dns.mask.icloud.com A 0.0.0.0
-dns64.dns.mask.icloud.com AAAA ::
-*.dns64.dns.mask.icloud.com AAAA ::
 dns.7sec.com.br A 0.0.0.0
 *.dns.7sec.com.br A 0.0.0.0
 dns.7sec.com.br AAAA ::
@@ -1821,10 +1817,10 @@ dns.cwlys.com A 0.0.0.0
 *.dns.cwlys.com A 0.0.0.0
 dns.cwlys.com AAAA ::
 *.dns.cwlys.com AAAA ::
-dns-cybersec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.dns-cybersec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-dns-cybersec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.dns-cybersec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com AAAA ::
+dns-cybersec.nordthreatprotection.c012proxy.ga A 0.0.0.0
+*.dns-cybersec.nordthreatprotection.c012proxy.ga A 0.0.0.0
+dns-cybersec.nordthreatprotection.c012proxy.ga AAAA ::
+*.dns-cybersec.nordthreatprotection.c012proxy.ga AAAA ::
 dns.cybertonic.tech A 0.0.0.0
 *.dns.cybertonic.tech A 0.0.0.0
 dns.cybertonic.tech AAAA ::
@@ -2429,10 +2425,6 @@ dns.kosan.moe A 0.0.0.0
 *.dns.kosan.moe A 0.0.0.0
 dns.kosan.moe AAAA ::
 *.dns.kosan.moe AAAA ::
-dns.kugoapps.com A 0.0.0.0
-*.dns.kugoapps.com A 0.0.0.0
-dns.kugoapps.com AAAA ::
-*.dns.kugoapps.com AAAA ::
 dns.kukal.cz A 0.0.0.0
 *.dns.kukal.cz A 0.0.0.0
 dns.kukal.cz AAAA ::
@@ -2781,10 +2773,6 @@ dnsovertls.sinodun.com A 0.0.0.0
 *.dnsovertls.sinodun.com A 0.0.0.0
 dnsovertls.sinodun.com AAAA ::
 *.dnsovertls.sinodun.com AAAA ::
-dns.ovpn.bond A 0.0.0.0
-*.dns.ovpn.bond A 0.0.0.0
-dns.ovpn.bond AAAA ::
-*.dns.ovpn.bond AAAA ::
 dns.paesa.es A 0.0.0.0
 *.dns.paesa.es A 0.0.0.0
 dns.paesa.es AAAA ::
@@ -4209,10 +4197,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.012proxy.ga A 0.0.0.0
-*.ecs-doh.012proxy.ga A 0.0.0.0
-ecs-doh.012proxy.ga AAAA ::
-*.ecs-doh.012proxy.ga AAAA ::
+ecs-doh.epicbrowser.com A 0.0.0.0
+*.ecs-doh.epicbrowser.com A 0.0.0.0
+ecs-doh.epicbrowser.com AAAA ::
+*.ecs-doh.epicbrowser.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4245,10 +4233,6 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
-epicbrowser.com A 0.0.0.0
-*.epicbrowser.com A 0.0.0.0
-epicbrowser.com AAAA ::
-*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4545,6 +4529,10 @@ freeproxy.win A 0.0.0.0
 *.freeproxy.win A 0.0.0.0
 freeproxy.win AAAA ::
 *.freeproxy.win AAAA ::
+free.shecan.ir A 0.0.0.0
+*.free.shecan.ir A 0.0.0.0
+free.shecan.ir AAAA ::
+*.free.shecan.ir AAAA ::
 freevpn4you.net A 0.0.0.0
 *.freevpn4you.net A 0.0.0.0
 freevpn4you.net AAAA ::
@@ -4629,10 +4617,10 @@ geckovpn.xyz A 0.0.0.0
 *.geckovpn.xyz A 0.0.0.0
 geckovpn.xyz AAAA ::
 *.geckovpn.xyz AAAA ::
-geg01.dnscry.firefox.dns.nextdns.io A 0.0.0.0
-*.geg01.dnscry.firefox.dns.nextdns.io A 0.0.0.0
-geg01.dnscry.firefox.dns.nextdns.io AAAA ::
-*.geg01.dnscry.firefox.dns.nextdns.io AAAA ::
+geg01.dnscry.pt A 0.0.0.0
+*.geg01.dnscry.pt A 0.0.0.0
+geg01.dnscry.pt AAAA ::
+*.geg01.dnscry.pt AAAA ::
 genmirror.com A 0.0.0.0
 *.genmirror.com A 0.0.0.0
 genmirror.com AAAA ::

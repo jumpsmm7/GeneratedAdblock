@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605111629 ; Serial Number
+ 2605120430 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -695,8 +695,6 @@ dns64.cloudflare-dns.com CNAME .
 *.dns64.cloudflare-dns.com CNAME .
 dns64.dns.google CNAME .
 *.dns64.dns.google CNAME .
-dns64.dns.mask.icloud.com CNAME .
-*.dns64.dns.mask.icloud.com CNAME .
 dns.7sec.com.br CNAME .
 *.dns.7sec.com.br CNAME .
 dns.7vpn.com CNAME .
@@ -915,8 +913,8 @@ dns.csswg.org CNAME .
 *.dns.csswg.org CNAME .
 dns.cwlys.com CNAME .
 *.dns.cwlys.com CNAME .
-dns-cybersec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com CNAME .
-*.dns-cybersec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com CNAME .
+dns-cybersec.nordthreatprotection.c012proxy.ga CNAME .
+*.dns-cybersec.nordthreatprotection.c012proxy.ga CNAME .
 dns.cybertonic.tech CNAME .
 *.dns.cybertonic.tech CNAME .
 dns.cynthialabs.net CNAME .
@@ -1219,8 +1217,6 @@ dns.korzhyk.pp.ua CNAME .
 *.dns.korzhyk.pp.ua CNAME .
 dns.kosan.moe CNAME .
 *.dns.kosan.moe CNAME .
-dns.kugoapps.com CNAME .
-*.dns.kugoapps.com CNAME .
 dns.kukal.cz CNAME .
 *.dns.kukal.cz CNAME .
 dns.kusoneko.moe CNAME .
@@ -1395,8 +1391,6 @@ dnsovertls3.sinodun.com CNAME .
 *.dnsovertls3.sinodun.com CNAME .
 dnsovertls.sinodun.com CNAME .
 *.dnsovertls.sinodun.com CNAME .
-dns.ovpn.bond CNAME .
-*.dns.ovpn.bond CNAME .
 dns.paesa.es CNAME .
 *.dns.paesa.es CNAME .
 dns.panszelescik.pl CNAME .
@@ -2109,8 +2103,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.012proxy.ga CNAME .
-*.ecs-doh.012proxy.ga CNAME .
+ecs-doh.epicbrowser.com CNAME .
+*.ecs-doh.epicbrowser.com CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2127,8 +2121,6 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
-epicbrowser.com CNAME .
-*.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
 *.eropa.dnscepat.id CNAME .
 esel.stusta.mhn.de CNAME .
@@ -2277,6 +2269,8 @@ free-proxyserver.com CNAME .
 *.free-proxyserver.com CNAME .
 freeproxy.win CNAME .
 *.freeproxy.win CNAME .
+free.shecan.ir CNAME .
+*.free.shecan.ir CNAME .
 freevpn4you.net CNAME .
 *.freevpn4you.net CNAME .
 freevpn.me CNAME .
@@ -2319,8 +2313,8 @@ gclouddns.com CNAME .
 *.gclouddns.com CNAME .
 geckovpn.xyz CNAME .
 *.geckovpn.xyz CNAME .
-geg01.dnscry.firefox.dns.nextdns.io CNAME .
-*.geg01.dnscry.firefox.dns.nextdns.io CNAME .
+geg01.dnscry.pt CNAME .
+*.geg01.dnscry.pt CNAME .
 genmirror.com CNAME .
 *.genmirror.com CNAME .
 german-proxy.info CNAME .
