@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605130428 ; Serial Number
+ 2605131627 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,6 +13,10 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
+012proxy.ga A 0.0.0.0
+*.012proxy.ga A 0.0.0.0
+012proxy.ga AAAA ::
+*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -25,10 +29,6 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
-12vpx.com A 0.0.0.0
-*.12vpx.com A 0.0.0.0
-12vpx.com AAAA ::
-*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -1105,6 +1105,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1189,10 +1193,6 @@ digi77.com A 0.0.0.0
 *.digi77.com A 0.0.0.0
 digi77.com AAAA ::
 *.digi77.com AAAA ::
-dndarknet.to A 0.0.0.0
-*.dndarknet.to A 0.0.0.0
-dndarknet.to AAAA ::
-*.dndarknet.to AAAA ::
 d.niaox.com A 0.0.0.0
 *.d.niaox.com A 0.0.0.0
 d.niaox.com AAAA ::
@@ -1649,14 +1649,14 @@ dns.butterfly87.sbs A 0.0.0.0
 *.dns.butterfly87.sbs A 0.0.0.0
 dns.butterfly87.sbs AAAA ::
 *.dns.butterfly87.sbs AAAA ::
-dnscach1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.dnscach1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-dnscach1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.dnscach1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dnscache0.ns71.net A 0.0.0.0
 *.dnscache0.ns71.net A 0.0.0.0
 dnscache0.ns71.net AAAA ::
 *.dnscache0.ns71.net AAAA ::
+dnscache.e-utp.net A 0.0.0.0
+*.dnscache.e-utp.net A 0.0.0.0
+dnscache.e-utp.net AAAA ::
+*.dnscache.e-utp.net AAAA ::
 dns.cahlen.com A 0.0.0.0
 *.dns.cahlen.com A 0.0.0.0
 dns.cahlen.com AAAA ::
@@ -2361,6 +2361,10 @@ dns.kamilszczepanski.com A 0.0.0.0
 *.dns.kamilszczepanski.com A 0.0.0.0
 dns.kamilszczepanski.com AAAA ::
 *.dns.kamilszczepanski.com AAAA ::
+dns.kapite.in A 0.0.0.0
+*.dns.kapite.in A 0.0.0.0
+dns.kapite.in AAAA ::
+*.dns.kapite.in AAAA ::
 dns.karadag.me A 0.0.0.0
 *.dns.karadag.me A 0.0.0.0
 dns.karadag.me AAAA ::
@@ -2993,10 +2997,6 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
-dns.simplylinux.ch A 0.0.0.0
-*.dns.simplylinux.ch A 0.0.0.0
-dns.simplylinux.ch AAAA ::
-*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -4197,10 +4197,6 @@ ee-tll.doh.sb A 0.0.0.0
 *.ee-tll.doh.sb A 0.0.0.0
 ee-tll.doh.sb AAAA ::
 *.ee-tll.doh.sb AAAA ::
-e.e-utp.net A 0.0.0.0
-*.e.e-utp.net A 0.0.0.0
-e.e-utp.net AAAA ::
-*.e.e-utp.net AAAA ::
 eliatofani.ovh A 0.0.0.0
 *.eliatofani.ovh A 0.0.0.0
 eliatofani.ovh AAAA ::
@@ -4601,10 +4597,6 @@ gclouddns.com A 0.0.0.0
 *.gclouddns.com A 0.0.0.0
 gclouddns.com AAAA ::
 *.gclouddns.com AAAA ::
-gdns.dk A 0.0.0.0
-*.gdns.dk A 0.0.0.0
-gdns.dk AAAA ::
-*.gdns.dk AAAA ::
 geckovpn.xyz A 0.0.0.0
 *.geckovpn.xyz A 0.0.0.0
 geckovpn.xyz AAAA ::
@@ -4705,6 +4697,10 @@ guardster.com A 0.0.0.0
 *.guardster.com A 0.0.0.0
 guardster.com AAAA ::
 *.guardster.com AAAA ::
+gustamadh.dynv6.net A 0.0.0.0
+*.gustamadh.dynv6.net A 0.0.0.0
+gustamadh.dynv6.net AAAA ::
+*.gustamadh.dynv6.net AAAA ::
 gva01.dnscry.pt A 0.0.0.0
 *.gva01.dnscry.pt A 0.0.0.0
 gva01.dnscry.pt AAAA ::
@@ -5793,10 +5789,6 @@ onion.ws A 0.0.0.0
 *.onion.ws A 0.0.0.0
 onion.ws AAAA ::
 *.onion.ws AAAA ::
-oogle-public-dns-a.google.com A 0.0.0.0
-*.oogle-public-dns-a.google.com A 0.0.0.0
-oogle-public-dns-a.google.com AAAA ::
-*.oogle-public-dns-a.google.com AAAA ::
 opencdn.jomodns.com A 0.0.0.0
 *.opencdn.jomodns.com A 0.0.0.0
 opencdn.jomodns.com AAAA ::
@@ -6033,10 +6025,10 @@ polisitogel.show A 0.0.0.0
 *.polisitogel.show A 0.0.0.0
 polisitogel.show AAAA ::
 *.polisitogel.show AAAA ::
-polisitogel.webcam A 0.0.0.0
-*.polisitogel.webcam A 0.0.0.0
-polisitogel.webcam AAAA ::
-*.polisitogel.webcam AAAA ::
+polisitogel.we12vpx.com A 0.0.0.0
+*.polisitogel.we12vpx.com A 0.0.0.0
+polisitogel.we12vpx.com AAAA ::
+*.polisitogel.we12vpx.com AAAA ::
 pollproxy.info A 0.0.0.0
 *.pollproxy.info A 0.0.0.0
 pollproxy.info AAAA ::
@@ -6865,10 +6857,6 @@ sjc01.dnscry.pt A 0.0.0.0
 *.sjc01.dnscry.pt A 0.0.0.0
 sjc01.dnscry.pt AAAA ::
 *.sjc01.dnscry.pt AAAA ::
-s.kapite.in A 0.0.0.0
-*.s.kapite.in A 0.0.0.0
-s.kapite.in AAAA ::
-*.s.kapite.in AAAA ::
 skydragoness.com A 0.0.0.0
 *.skydragoness.com A 0.0.0.0
 skydragoness.com AAAA ::
@@ -7417,10 +7405,6 @@ unfiltered.joindns4.eu A 0.0.0.0
 *.unfiltered.joindns4.eu A 0.0.0.0
 unfiltered.joindns4.eu AAAA ::
 *.unfiltered.joindns4.eu AAAA ::
-unicast.censurfri012proxy.ga A 0.0.0.0
-*.unicast.censurfri012proxy.ga A 0.0.0.0
-unicast.censurfri012proxy.ga AAAA ::
-*.unicast.censurfri012proxy.ga AAAA ::
 unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::

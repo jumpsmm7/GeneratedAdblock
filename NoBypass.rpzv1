@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605130428 ; Serial Number
+ 2605131627 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -11,14 +11,14 @@ $ORIGIN nobypass.rpz.
 
 003153.xyz CNAME .
 *.003153.xyz CNAME .
+012proxy.ga CNAME .
+*.012proxy.ga CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
 *.123000123.xyz CNAME .
 123-24.eport.gr CNAME .
 *.123-24.eport.gr CNAME .
-12vpx.com CNAME .
-*.12vpx.com CNAME .
 1a.ns.ozer.im CNAME .
 *.1a.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
@@ -557,6 +557,8 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 darkness.is.my.waifu.cz CNAME .
 *.darkness.is.my.waifu.cz CNAME .
+darknet.to CNAME .
+*.darknet.to CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
@@ -599,8 +601,6 @@ dfw02.dnscry.pt CNAME .
 *.dfw02.dnscry.pt CNAME .
 digi77.com CNAME .
 *.digi77.com CNAME .
-dndarknet.to CNAME .
-*.dndarknet.to CNAME .
 d.niaox.com CNAME .
 *.d.niaox.com CNAME .
 dns01.flm9.net CNAME .
@@ -829,10 +829,10 @@ dns.busold.ws CNAME .
 *.dns.busold.ws CNAME .
 dns.butterfly87.sbs CNAME .
 *.dns.butterfly87.sbs CNAME .
-dnscach1dot1dot1dot1.cloudflare-dns.com CNAME .
-*.dnscach1dot1dot1dot1.cloudflare-dns.com CNAME .
 dnscache0.ns71.net CNAME .
 *.dnscache0.ns71.net CNAME .
+dnscache.e-utp.net CNAME .
+*.dnscache.e-utp.net CNAME .
 dns.cahlen.com CNAME .
 *.dns.cahlen.com CNAME .
 dns.caliph.dev CNAME .
@@ -1185,6 +1185,8 @@ dns.k3nny.fr CNAME .
 *.dns.k3nny.fr CNAME .
 dns.kamilszczepanski.com CNAME .
 *.dns.kamilszczepanski.com CNAME .
+dns.kapite.in CNAME .
+*.dns.kapite.in CNAME .
 dns.karadag.me CNAME .
 *.dns.karadag.me CNAME .
 dns.karl.one CNAME .
@@ -1501,8 +1503,6 @@ dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
-dns.simplylinux.ch CNAME .
-*.dns.simplylinux.ch CNAME .
 dns.sindominio.net CNAME .
 *.dns.sindominio.net CNAME .
 dns.sitdns.com CNAME .
@@ -2103,8 +2103,6 @@ edns.233py.com CNAME .
 *.edns.233py.com CNAME .
 ee-tll.doh.sb CNAME .
 *.ee-tll.doh.sb CNAME .
-e.e-utp.net CNAME .
-*.e.e-utp.net CNAME .
 eliatofani.ovh CNAME .
 *.eliatofani.ovh CNAME .
 emby.rasp.tv CNAME .
@@ -2305,8 +2303,6 @@ gb-lon-w-p-2.nashkan.net CNAME .
 *.gb-lon-w-p-2.nashkan.net CNAME .
 gclouddns.com CNAME .
 *.gclouddns.com CNAME .
-gdns.dk CNAME .
-*.gdns.dk CNAME .
 geckovpn.xyz CNAME .
 *.geckovpn.xyz CNAME .
 geg01.dnscry.pt CNAME .
@@ -2357,6 +2353,8 @@ guard.sntrk.ru CNAME .
 *.guard.sntrk.ru CNAME .
 guardster.com CNAME .
 *.guardster.com CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 gva01.dnscry.pt CNAME .
 *.gva01.dnscry.pt CNAME .
 gztech.me CNAME .
@@ -2901,8 +2899,6 @@ onion.to CNAME .
 *.onion.to CNAME .
 onion.ws CNAME .
 *.onion.ws CNAME .
-oogle-public-dns-a.google.com CNAME .
-*.oogle-public-dns-a.google.com CNAME .
 opencdn.jomodns.com CNAME .
 *.opencdn.jomodns.com CNAME .
 opennic1.eth-services.de CNAME .
@@ -3021,8 +3017,8 @@ polisitogel.hair CNAME .
 *.polisitogel.hair CNAME .
 polisitogel.show CNAME .
 *.polisitogel.show CNAME .
-polisitogel.webcam CNAME .
-*.polisitogel.webcam CNAME .
+polisitogel.we12vpx.com CNAME .
+*.polisitogel.we12vpx.com CNAME .
 pollproxy.info CNAME .
 *.pollproxy.info CNAME .
 pooblet.co.za CNAME .
@@ -3437,8 +3433,6 @@ sitenable.in CNAME .
 *.sitenable.in CNAME .
 sjc01.dnscry.pt CNAME .
 *.sjc01.dnscry.pt CNAME .
-s.kapite.in CNAME .
-*.s.kapite.in CNAME .
 skydragoness.com CNAME .
 *.skydragoness.com CNAME .
 sky.rethinkdns.com CNAME .
@@ -3713,8 +3707,6 @@ unfiltered.adguard-dns.com CNAME .
 *.unfiltered.adguard-dns.com CNAME .
 unfiltered.joindns4.eu CNAME .
 *.unfiltered.joindns4.eu CNAME .
-unicast.censurfri012proxy.ga CNAME .
-*.unicast.censurfri012proxy.ga CNAME .
 unicast.censurfridns.dk CNAME .
 *.unicast.censurfridns.dk CNAME .
 unicast.uncensoreddns.org CNAME .
