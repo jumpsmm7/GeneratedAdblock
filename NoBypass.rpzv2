@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605140427 ; Serial Number
+ 2605141627 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -29,6 +29,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -165,10 +169,6 @@ adb.timnichollsphotography.com A 0.0.0.0
 *.adb.timnichollsphotography.com A 0.0.0.0
 adb.timnichollsphotography.com AAAA ::
 *.adb.timnichollsphotography.com AAAA ::
-addns1.m-it.ro A 0.0.0.0
-*.addns1.m-it.ro A 0.0.0.0
-addns1.m-it.ro AAAA ::
-*.addns1.m-it.ro AAAA ::
 adfiltro.fun A 0.0.0.0
 *.adfiltro.fun A 0.0.0.0
 adfiltro.fun AAAA ::
@@ -365,10 +365,6 @@ adguard.shuting.idv.tw A 0.0.0.0
 *.adguard.shuting.idv.tw A 0.0.0.0
 adguard.shuting.idv.tw AAAA ::
 *.adguard.shuting.idv.tw AAAA ::
-adguard.sscw.win A 0.0.0.0
-*.adguard.sscw.win A 0.0.0.0
-adguard.sscw.win AAAA ::
-*.adguard.sscw.win AAAA ::
 adguard.twotigers.xyz A 0.0.0.0
 *.adguard.twotigers.xyz A 0.0.0.0
 adguard.twotigers.xyz AAAA ::
@@ -1085,10 +1081,6 @@ cynntex.fun A 0.0.0.0
 *.cynntex.fun A 0.0.0.0
 cynntex.fun AAAA ::
 *.cynntex.fun AAAA ::
-d12vpx.com A 0.0.0.0
-*.d12vpx.com A 0.0.0.0
-d12vpx.com AAAA ::
-*.d12vpx.com AAAA ::
 d2.shabi.icu A 0.0.0.0
 *.d2.shabi.icu A 0.0.0.0
 d2.shabi.icu AAAA ::
@@ -1813,10 +1805,10 @@ dns.cwlys.com A 0.0.0.0
 *.dns.cwlys.com A 0.0.0.0
 dns.cwlys.com AAAA ::
 *.dns.cwlys.com AAAA ::
-dns-cybersec.nordthreatprotection.cmask.icloud.com A 0.0.0.0
-*.dns-cybersec.nordthreatprotection.cmask.icloud.com A 0.0.0.0
-dns-cybersec.nordthreatprotection.cmask.icloud.com AAAA ::
-*.dns-cybersec.nordthreatprotection.cmask.icloud.com AAAA ::
+dns-cybersec.nordthreatprotection.com A 0.0.0.0
+*.dns-cybersec.nordthreatprotection.com A 0.0.0.0
+dns-cybersec.nordthreatprotection.com AAAA ::
+*.dns-cybersec.nordthreatprotection.com AAAA ::
 dns.cybertonic.tech A 0.0.0.0
 *.dns.cybertonic.tech A 0.0.0.0
 dns.cybertonic.tech AAAA ::
@@ -1945,10 +1937,10 @@ dns-doh.dnsforfamily.com A 0.0.0.0
 *.dns-doh.dnsforfamily.com A 0.0.0.0
 dns-doh.dnsforfamily.com AAAA ::
 *.dns-doh.dnsforfamily.com AAAA ::
-dns-doh-no-safe-search.dnsforfamily.com A 0.0.0.0
-*.dns-doh-no-safe-search.dnsforfamily.com A 0.0.0.0
-dns-doh-no-safe-search.dnsforfamily.com AAAA ::
-*.dns-doh-no-safe-search.dnsforfamily.com AAAA ::
+dns-doh-no-safe-search.dnsforfirefox.dns.nextdns.io A 0.0.0.0
+*.dns-doh-no-safe-search.dnsforfirefox.dns.nextdns.io A 0.0.0.0
+dns-doh-no-safe-search.dnsforfirefox.dns.nextdns.io AAAA ::
+*.dns-doh-no-safe-search.dnsforfirefox.dns.nextdns.io AAAA ::
 dns-dot.dnsforfamily.com A 0.0.0.0
 *.dns-dot.dnsforfamily.com A 0.0.0.0
 dns-dot.dnsforfamily.com AAAA ::
@@ -2365,6 +2357,10 @@ dns.kapite.in A 0.0.0.0
 *.dns.kapite.in A 0.0.0.0
 dns.kapite.in AAAA ::
 *.dns.kapite.in AAAA ::
+dns.karadag.me A 0.0.0.0
+*.dns.karadag.me A 0.0.0.0
+dns.karadag.me AAAA ::
+*.dns.karadag.me AAAA ::
 dns.karl.one A 0.0.0.0
 *.dns.karl.one A 0.0.0.0
 dns.karl.one AAAA ::
@@ -3233,6 +3229,10 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
+dnswarden.com A 0.0.0.0
+*.dnswarden.com A 0.0.0.0
+dnswarden.com AAAA ::
+*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4177,10 +4177,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.dnswarden.com A 0.0.0.0
-*.ecs-doh.dnswarden.com A 0.0.0.0
-ecs-doh.dnswarden.com AAAA ::
-*.ecs-doh.dnswarden.com AAAA ::
+ecs-doh.epicbrowser.com A 0.0.0.0
+*.ecs-doh.epicbrowser.com A 0.0.0.0
+ecs-doh.epicbrowser.com AAAA ::
+*.ecs-doh.epicbrowser.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4213,10 +4213,6 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
-epicbrowser.com A 0.0.0.0
-*.epicbrowser.com A 0.0.0.0
-epicbrowser.com AAAA ::
-*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4285,6 +4281,10 @@ family.cloudflare-dns.com A 0.0.0.0
 *.family.cloudflare-dns.com A 0.0.0.0
 family.cloudflare-dns.com AAAA ::
 *.family.cloudflare-dns.com AAAA ::
+family.com A 0.0.0.0
+*.family.com A 0.0.0.0
+family.com AAAA ::
+*.family.com AAAA ::
 family.dns.doubleangels.com A 0.0.0.0
 *.family.dns.doubleangels.com A 0.0.0.0
 family.dns.doubleangels.com AAAA ::
@@ -4697,6 +4697,10 @@ guardster.com A 0.0.0.0
 *.guardster.com A 0.0.0.0
 guardster.com AAAA ::
 *.guardster.com AAAA ::
+gustamadh.dynv6.net A 0.0.0.0
+*.gustamadh.dynv6.net A 0.0.0.0
+gustamadh.dynv6.net AAAA ::
+*.gustamadh.dynv6.net AAAA ::
 gva01.dnscry.pt A 0.0.0.0
 *.gva01.dnscry.pt A 0.0.0.0
 gva01.dnscry.pt AAAA ::
@@ -5677,10 +5681,6 @@ nsec.arnor.org A 0.0.0.0
 *.nsec.arnor.org A 0.0.0.0
 nsec.arnor.org AAAA ::
 *.nsec.arnor.org AAAA ::
-ns.karadag.me A 0.0.0.0
-*.ns.karadag.me A 0.0.0.0
-ns.karadag.me AAAA ::
-*.ns.karadag.me AAAA ::
 ns.mtsoln.com A 0.0.0.0
 *.ns.mtsoln.com A 0.0.0.0
 ns.mtsoln.com AAAA ::

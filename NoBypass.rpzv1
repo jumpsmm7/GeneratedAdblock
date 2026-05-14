@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605140427 ; Serial Number
+ 2605141627 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -19,6 +19,8 @@ $ORIGIN nobypass.rpz.
 *.123000123.xyz CNAME .
 123-24.eport.gr CNAME .
 *.123-24.eport.gr CNAME .
+12vpx.com CNAME .
+*.12vpx.com CNAME .
 1a.ns.ozer.im CNAME .
 *.1a.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
@@ -87,8 +89,6 @@ adblock.mydns.network CNAME .
 *.adblock.mydns.network CNAME .
 adb.timnichollsphotography.com CNAME .
 *.adb.timnichollsphotography.com CNAME .
-addns1.m-it.ro CNAME .
-*.addns1.m-it.ro CNAME .
 adfiltro.fun CNAME .
 *.adfiltro.fun CNAME .
 adfreedns.top CNAME .
@@ -187,8 +187,6 @@ adguard.shutgaming.net CNAME .
 *.adguard.shutgaming.net CNAME .
 adguard.shuting.idv.tw CNAME .
 *.adguard.shuting.idv.tw CNAME .
-adguard.sscw.win CNAME .
-*.adguard.sscw.win CNAME .
 adguard.twotigers.xyz CNAME .
 *.adguard.twotigers.xyz CNAME .
 adguard-vpn.com CNAME .
@@ -547,8 +545,6 @@ cyberghostvpn.com CNAME .
 *.cyberghostvpn.com CNAME .
 cynntex.fun CNAME .
 *.cynntex.fun CNAME .
-d12vpx.com CNAME .
-*.d12vpx.com CNAME .
 d2.shabi.icu CNAME .
 *.d2.shabi.icu CNAME .
 d.adguard-dns.com CNAME .
@@ -911,8 +907,8 @@ dns.csswg.org CNAME .
 *.dns.csswg.org CNAME .
 dns.cwlys.com CNAME .
 *.dns.cwlys.com CNAME .
-dns-cybersec.nordthreatprotection.cmask.icloud.com CNAME .
-*.dns-cybersec.nordthreatprotection.cmask.icloud.com CNAME .
+dns-cybersec.nordthreatprotection.com CNAME .
+*.dns-cybersec.nordthreatprotection.com CNAME .
 dns.cybertonic.tech CNAME .
 *.dns.cybertonic.tech CNAME .
 dns.cynthialabs.net CNAME .
@@ -977,8 +973,8 @@ dnsdoh.art CNAME .
 *.dnsdoh.art CNAME .
 dns-doh.dnsforfamily.com CNAME .
 *.dns-doh.dnsforfamily.com CNAME .
-dns-doh-no-safe-search.dnsforfamily.com CNAME .
-*.dns-doh-no-safe-search.dnsforfamily.com CNAME .
+dns-doh-no-safe-search.dnsforfirefox.dns.nextdns.io CNAME .
+*.dns-doh-no-safe-search.dnsforfirefox.dns.nextdns.io CNAME .
 dns-dot.dnsforfamily.com CNAME .
 *.dns-dot.dnsforfamily.com CNAME .
 dns.dotnet.win CNAME .
@@ -1187,6 +1183,8 @@ dns.kamilszczepanski.com CNAME .
 *.dns.kamilszczepanski.com CNAME .
 dns.kapite.in CNAME .
 *.dns.kapite.in CNAME .
+dns.karadag.me CNAME .
+*.dns.karadag.me CNAME .
 dns.karl.one CNAME .
 *.dns.karl.one CNAME .
 dns.kastner-online.de CNAME .
@@ -1621,6 +1619,8 @@ dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
+dnswarden.com CNAME .
+*.dnswarden.com CNAME .
 dns.wargan.io CNAME .
 *.dns.wargan.io CNAME .
 dns.warpnine.de CNAME .
@@ -2093,8 +2093,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.dnswarden.com CNAME .
-*.ecs-doh.dnswarden.com CNAME .
+ecs-doh.epicbrowser.com CNAME .
+*.ecs-doh.epicbrowser.com CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2111,8 +2111,6 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
-epicbrowser.com CNAME .
-*.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
 *.eropa.dnscepat.id CNAME .
 esel.stusta.mhn.de CNAME .
@@ -2147,6 +2145,8 @@ family.canadianshield.cira.ca CNAME .
 *.family.canadianshield.cira.ca CNAME .
 family.cloudflare-dns.com CNAME .
 *.family.cloudflare-dns.com CNAME .
+family.com CNAME .
+*.family.com CNAME .
 family.dns.doubleangels.com CNAME .
 *.family.dns.doubleangels.com CNAME .
 family.dns.mullvad.net CNAME .
@@ -2353,6 +2353,8 @@ guard.sntrk.ru CNAME .
 *.guard.sntrk.ru CNAME .
 guardster.com CNAME .
 *.guardster.com CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 gva01.dnscry.pt CNAME .
 *.gva01.dnscry.pt CNAME .
 gztech.me CNAME .
@@ -2843,8 +2845,6 @@ ns.data.haus CNAME .
 *.ns.data.haus CNAME .
 nsec.arnor.org CNAME .
 *.nsec.arnor.org CNAME .
-ns.karadag.me CNAME .
-*.ns.karadag.me CNAME .
 ns.mtsoln.com CNAME .
 *.ns.mtsoln.com CNAME .
 ns.net.kg CNAME .

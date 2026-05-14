@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN allowed.rpz.
 @ IN SOA localhost hostmaster.allowed.rpz. (
- 2605140430 ; Serial Number
+ 2605141631 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -35,8 +35,8 @@ $ORIGIN allowed.rpz.
 *.07494aa4.open.convertkit-mail4.com CNAME rpz-passthru.
 07c225f3.online CNAME rpz-passthru.
 *.07c225f3.online CNAME rpz-passthru.
-088a5f37.open.convertkit-mail4.com CNAME rpz-passthru.
-*.088a5f37.open.convertkit-mail4.com CNAME rpz-passthru.
+088atermux.net CNAME rpz-passthru.
+*.088atermux.net CNAME rpz-passthru.
 0.africa.pool.ntp.org CNAME rpz-passthru.
 *.0.africa.pool.ntp.org CNAME rpz-passthru.
 0.arch.pool.ntp.org CNAME rpz-passthru.
@@ -127,12 +127,16 @@ $ORIGIN allowed.rpz.
 *.10319.seu.cleverreach.com CNAME rpz-passthru.
 104721.seu2.cleverreach.com CNAME rpz-passthru.
 *.104721.seu2.cleverreach.com CNAME rpz-passthru.
+104ffb11.click.convertkit-mail4.com CNAME rpz-passthru.
+*.104ffb11.click.convertkit-mail4.com CNAME rpz-passthru.
 104ffb11.open.convertkit-mail4.com CNAME rpz-passthru.
 *.104ffb11.open.convertkit-mail4.com CNAME rpz-passthru.
 105116.seu2.cleverreach.com CNAME rpz-passthru.
 *.105116.seu2.cleverreach.com CNAME rpz-passthru.
 105150.seu.cleverreach.com CNAME rpz-passthru.
 *.105150.seu.cleverreach.com CNAME rpz-passthru.
+106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services CNAME rpz-passthru.
+*.106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services CNAME rpz-passthru.
 107335.seu2.cleverreach.com CNAME rpz-passthru.
 *.107335.seu2.cleverreach.com CNAME rpz-passthru.
 10818.seu.cleverreach.com CNAME rpz-passthru.
@@ -153,6 +157,8 @@ $ORIGIN allowed.rpz.
 *.1177.se CNAME rpz-passthru.
 120263.seu2.cleverreach.com CNAME rpz-passthru.
 *.120263.seu2.cleverreach.com CNAME rpz-passthru.
+121880.seu2.cleverreach.com CNAME rpz-passthru.
+*.121880.seu2.cleverreach.com CNAME rpz-passthru.
 123961.seu2.cleverreach.com CNAME rpz-passthru.
 *.123961.seu2.cleverreach.com CNAME rpz-passthru.
 123greetings.com CNAME rpz-passthru.
@@ -163,6 +169,8 @@ $ORIGIN allowed.rpz.
 *.123-reg.co.uk CNAME rpz-passthru.
 125632.seu2.cleverreach.com CNAME rpz-passthru.
 *.125632.seu2.cleverreach.com CNAME rpz-passthru.
+125908.seu2.cleverreach.com CNAME rpz-passthru.
+*.125908.seu2.cleverreach.com CNAME rpz-passthru.
 126.am CNAME rpz-passthru.
 *.126.am CNAME rpz-passthru.
 128793.seu2.cleverreach.com CNAME rpz-passthru.
@@ -227,6 +235,8 @@ $ORIGIN allowed.rpz.
 *.143821590.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 143827149.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 *.143827149.sites.hscoscdn-eu1.net CNAME rpz-passthru.
+143839207.sites.hscoscdn-eu1.net CNAME rpz-passthru.
+*.143839207.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 143958517.group0.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 *.143958517.group0.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 144368567.group0.sites.hscoscdn-eu1.net CNAME rpz-passthru.
@@ -293,6 +303,8 @@ $ORIGIN allowed.rpz.
 *.15850.seu.cleverreach.com CNAME rpz-passthru.
 159529.seu2.cleverreach.com CNAME rpz-passthru.
 *.159529.seu2.cleverreach.com CNAME rpz-passthru.
+160787.seu2.cleverreach.com CNAME rpz-passthru.
+*.160787.seu2.cleverreach.com CNAME rpz-passthru.
 161417.seu2.cleverreach.com CNAME rpz-passthru.
 *.161417.seu2.cleverreach.com CNAME rpz-passthru.
 161683.seu2.cleverreach.com CNAME rpz-passthru.
@@ -485,10 +497,12 @@ $ORIGIN allowed.rpz.
 *.200787.seu2.cleverreach.com CNAME rpz-passthru.
 206577.seu2.cleverreach.com CNAME rpz-passthru.
 *.206577.seu2.cleverreach.com CNAME rpz-passthru.
-20791gslbsvc.net.cn CNAME rpz-passthru.
-*.20791gslbsvc.net.cn CNAME rpz-passthru.
+207917eer.net CNAME rpz-passthru.
+*.207917eer.net CNAME rpz-passthru.
 214747.seu2.cleverreach.com CNAME rpz-passthru.
 *.214747.seu2.cleverreach.com CNAME rpz-passthru.
+2148167.group0.sites.hscoscdn-eu1.net CNAME rpz-passthru.
+*.2148167.group0.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 216589.seu2.cleverreach.com CNAME rpz-passthru.
 *.216589.seu2.cleverreach.com CNAME rpz-passthru.
 219699.seu2.cleverreach.com CNAME rpz-passthru.
@@ -565,6 +579,10 @@ $ORIGIN allowed.rpz.
 *.249348.seu2.cleverreach.com CNAME rpz-passthru.
 24942465.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 *.24942465.sites.hscoscdn-eu1.net CNAME rpz-passthru.
+24970030.group0.sites.hscoscdn-eu1.net CNAME rpz-passthru.
+*.24970030.group0.sites.hscoscdn-eu1.net CNAME rpz-passthru.
+24970030.sites.hscoscdn-eu1.net CNAME rpz-passthru.
+*.24970030.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 24banking.md CNAME rpz-passthru.
 *.24banking.md CNAME rpz-passthru.
 24banking.ro CNAME rpz-passthru.
@@ -625,8 +643,8 @@ $ORIGIN allowed.rpz.
 *.25855289.group0.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 25874232.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 *.25874232.sites.hscoscdn-eu1.net CNAME rpz-passthru.
-25880420.sites.hscoscdn-eu1.net CNAME rpz-passthru.
-*.25880420.sites.hscoscdn-eu1.net CNAME rpz-passthru.
+25880420.sites.ion.com CNAME rpz-passthru.
+*.25880420.sites.ion.com CNAME rpz-passthru.
 25882072.group0.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 *.25882072.group0.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 25882072.sites.hscoscdn-eu1.net CNAME rpz-passthru.
@@ -635,8 +653,8 @@ $ORIGIN allowed.rpz.
 *.25896552.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 25913237.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 *.25913237.sites.hscoscdn-eu1.net CNAME rpz-passthru.
-259440.seu2.cleverreach.com CNAME rpz-passthru.
-*.259440.seu2.cleverreach.com CNAME rpz-passthru.
+259440nt.gotinder.com CNAME rpz-passthru.
+*.259440nt.gotinder.com CNAME rpz-passthru.
 26019959.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 *.26019959.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 26125366.sites.hscoscdn-eu1.net CNAME rpz-passthru.
@@ -645,6 +663,8 @@ $ORIGIN allowed.rpz.
 *.26134430.group0.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 261826.seu2.cleverreach.com CNAME rpz-passthru.
 *.261826.seu2.cleverreach.com CNAME rpz-passthru.
+26182814.group0.sites.hscoscdn-eu1.net CNAME rpz-passthru.
+*.26182814.group0.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 26213917.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 *.26213917.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 262397.seu2.cleverreach.com CNAME rpz-passthru.
@@ -653,12 +673,12 @@ $ORIGIN allowed.rpz.
 *.26247228.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 26282475.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 *.26282475.sites.hscoscdn-eu1.net CNAME rpz-passthru.
-262841106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services CNAME rpz-passthru.
-*.262841106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services CNAME rpz-passthru.
+262841.seu2.cleverreach.com CNAME rpz-passthru.
+*.262841.seu2.cleverreach.com CNAME rpz-passthru.
 26502660.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 *.26502660.sites.hscoscdn-eu1.net CNAME rpz-passthru.
-26544488.sites.hscoscd CNAME rpz-passthru.
-*.26544488.sites.hscoscd CNAME rpz-passthru.
+26544488.sites.hscoscdn-eu1.net CNAME rpz-passthru.
+*.26544488.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 26545664.group0.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 *.26545664.group0.sites.hscoscdn-eu1.net CNAME rpz-passthru.
 26556211.sites.hscoscdn-eu1.net CNAME rpz-passthru.
@@ -847,6 +867,8 @@ $ORIGIN allowed.rpz.
 *.304709.seu2.cleverreach.com CNAME rpz-passthru.
 30488.redirect.appmetrica.yandex.com CNAME rpz-passthru.
 *.30488.redirect.appmetrica.yandex.com CNAME rpz-passthru.
+306076.seu2.cleverreach.com CNAME rpz-passthru.
+*.306076.seu2.cleverreach.com CNAME rpz-passthru.
 306738.seu2.cleverreach.com CNAME rpz-passthru.
 *.306738.seu2.cleverreach.com CNAME rpz-passthru.
 312066.seu2.cleverreach.com CNAME rpz-passthru.
@@ -989,8 +1011,8 @@ $ORIGIN allowed.rpz.
 *.3.asia.pool.ntp.org CNAME rpz-passthru.
 3c5984bd.click.convertkit-mail4.com CNAME rpz-passthru.
 *.3c5984bd.click.convertkit-mail4.com CNAME rpz-passthru.
-3c5984my-win.avast.com CNAME rpz-passthru.
-*.3c5984my-win.avast.com CNAME rpz-passthru.
+3c5984bd.open.convertkit-mail4.com CNAME rpz-passthru.
+*.3c5984bd.open.convertkit-mail4.com CNAME rpz-passthru.
 3c.co CNAME rpz-passthru.
 *.3c.co CNAME rpz-passthru.
 3.centos.pool.ntp.org CNAME rpz-passthru.
@@ -1081,6 +1103,8 @@ $ORIGIN allowed.rpz.
 *.413084.seu2.cleverreach.com CNAME rpz-passthru.
 415753.seu2.cleverreach.com CNAME rpz-passthru.
 *.415753.seu2.cleverreach.com CNAME rpz-passthru.
+418968.seu2.cleverreach.com CNAME rpz-passthru.
+*.418968.seu2.cleverreach.com CNAME rpz-passthru.
 4190005.redirect.appmetrica.yandex.com CNAME rpz-passthru.
 *.4190005.redirect.appmetrica.yandex.com CNAME rpz-passthru.
 420624.seu2.cleverreach.com CNAME rpz-passthru.
@@ -1645,8 +1669,8 @@ access-prod.apis.anvato.net CNAME rpz-passthru.
 *.access-prod.apis.anvato.net CNAME rpz-passthru.
 accesstrade.net CNAME rpz-passthru.
 *.accesstrade.net CNAME rpz-passthru.
-accoubd.open.convertkit-mail4.com CNAME rpz-passthru.
-*.accoubd.open.convertkit-mail4.com CNAME rpz-passthru.
+accougslbsvc.net.cn CNAME rpz-passthru.
+*.accougslbsvc.net.cn CNAME rpz-passthru.
 account.activedirectory.windowsazure.com CNAME rpz-passthru.
 *.account.activedirectory.windowsazure.com CNAME rpz-passthru.
 account.adobe.com CNAME rpz-passthru.
@@ -2051,8 +2075,6 @@ ad.samsungadhub.com CNAME rpz-passthru.
 *.ad.samsungadhub.com CNAME rpz-passthru.
 adscendmedia.com CNAME rpz-passthru.
 *.adscendmedia.com CNAME rpz-passthru.
-adser.seu.cleverreach.com CNAME rpz-passthru.
-*.adser.seu.cleverreach.com CNAME rpz-passthru.
 adservice.google.ac CNAME rpz-passthru.
 *.adservice.google.ac CNAME rpz-passthru.
 adservice.google.ad CNAME rpz-passthru.
@@ -2409,6 +2431,8 @@ adservice.google.xn--ngbrx CNAME rpz-passthru.
 *.adservice.google.xn--ngbrx CNAME rpz-passthru.
 adservice.google.xn--node CNAME rpz-passthru.
 *.adservice.google.xn--node CNAME rpz-passthru.
+adservoid.cat CNAME rpz-passthru.
+*.adservoid.cat CNAME rpz-passthru.
 ads-fa-darwin.hulustream.com CNAME rpz-passthru.
 *.ads-fa-darwin.hulustream.com CNAME rpz-passthru.
 ads.google.com CNAME rpz-passthru.
@@ -3451,8 +3475,8 @@ amazon.market CNAME rpz-passthru.
 *.amazon.market CNAME rpz-passthru.
 amazon.markets CNAME rpz-passthru.
 *.amazon.markets CNAME rpz-passthru.
-amazon.marsbc.com CNAME rpz-passthru.
-*.amazon.marsbc.com CNAME rpz-passthru.
+amazon.marytics.adjust.net.in CNAME rpz-passthru.
+*.amazon.marytics.adjust.net.in CNAME rpz-passthru.
 amazon.mba CNAME rpz-passthru.
 *.amazon.mba CNAME rpz-passthru.
 amazon.md CNAME rpz-passthru.
@@ -4025,6 +4049,8 @@ ana.fr CNAME rpz-passthru.
 *.ana.fr CNAME rpz-passthru.
 anaf.ro CNAME rpz-passthru.
 *.anaf.ro CNAME rpz-passthru.
+analamazon.academy CNAME rpz-passthru.
+*.analamazon.academy CNAME rpz-passthru.
 analitik.edevlet.gov.tr CNAME rpz-passthru.
 *.analitik.edevlet.gov.tr CNAME rpz-passthru.
 analytics.adjust.cn CNAME rpz-passthru.
@@ -4033,8 +4059,6 @@ analytics.adjust.com CNAME rpz-passthru.
 *.analytics.adjust.com CNAME rpz-passthru.
 analytics.adjust.io CNAME rpz-passthru.
 *.analytics.adjust.io CNAME rpz-passthru.
-analytics.adjust.net.in CNAME rpz-passthru.
-*.analytics.adjust.net.in CNAME rpz-passthru.
 analytics.adjust.world CNAME rpz-passthru.
 *.analytics.adjust.world CNAME rpz-passthru.
 analytics.barnebys.sh CNAME rpz-passthru.
@@ -4115,8 +4139,8 @@ ani.sh CNAME rpz-passthru.
 *.ani.sh CNAME rpz-passthru.
 anninhthudo.vn CNAME rpz-passthru.
 *.anninhthudo.vn CNAME rpz-passthru.
-annosparkasse-osterholz.de CNAME rpz-passthru.
-*.annosparkasse-osterholz.de CNAME rpz-passthru.
+annoiler.de CNAME rpz-passthru.
+*.annoiler.de CNAME rpz-passthru.
 announcements.engadget.com CNAME rpz-passthru.
 *.announcements.engadget.com CNAME rpz-passthru.
 anonaddy.com CNAME rpz-passthru.
@@ -4675,8 +4699,8 @@ api.similarweb.com CNAME rpz-passthru.
 *.api.similarweb.com CNAME rpz-passthru.
 api.simperium.com CNAME rpz-passthru.
 *.api.simperium.com CNAME rpz-passthru.
-api.simplisafeiler.de CNAME rpz-passthru.
-*.api.simplisafeiler.de CNAME rpz-passthru.
+api.simplisafeml.de CNAME rpz-passthru.
+*.api.simplisafeml.de CNAME rpz-passthru.
 apis.justwatch.com CNAME rpz-passthru.
 *.apis.justwatch.com CNAME rpz-passthru.
 api.skype.com CNAME rpz-passthru.
@@ -5163,8 +5187,6 @@ areyouonit.soundcloud.com CNAME rpz-passthru.
 *.areyouonit.soundcloud.com CNAME rpz-passthru.
 argenta.be CNAME rpz-passthru.
 *.argenta.be CNAME rpz-passthru.
-arget.com CNAME rpz-passthru.
-*.arget.com CNAME rpz-passthru.
 argos.co.uk CNAME rpz-passthru.
 *.argos.co.uk CNAME rpz-passthru.
 ar.gravatar.com CNAME rpz-passthru.
@@ -5249,8 +5271,8 @@ a.slashdotmedia.com CNAME rpz-passthru.
 *.a.slashdotmedia.com CNAME rpz-passthru.
 asmhentai.com CNAME rpz-passthru.
 *.asmhentai.com CNAME rpz-passthru.
-asm.npml.de CNAME rpz-passthru.
-*.asm.npml.de CNAME rpz-passthru.
+asm.np.community.playstation.net CNAME rpz-passthru.
+*.asm.np.community.playstation.net CNAME rpz-passthru.
 asm.skype.com CNAME rpz-passthru.
 *.asm.skype.com CNAME rpz-passthru.
 asnbank.nl CNAME rpz-passthru.
@@ -5941,6 +5963,8 @@ banking.ksk-stade.de CNAME rpz-passthru.
 *.banking.ksk-stade.de CNAME rpz-passthru.
 banking-merkur-bank.de CNAME rpz-passthru.
 *.banking-merkur-bank.de CNAME rpz-passthru.
+banking.poogleapis.com CNAME rpz-passthru.
+*.banking.poogleapis.com CNAME rpz-passthru.
 bankingportal.sparkasse-koelnbonn.de CNAME rpz-passthru.
 *.bankingportal.sparkasse-koelnbonn.de CNAME rpz-passthru.
 banking.raiffeisen.at CNAME rpz-passthru.
@@ -8289,6 +8313,8 @@ challenge.flipboard.com CNAME rpz-passthru.
 *.challenge.flipboard.com CNAME rpz-passthru.
 changehero.io CNAME rpz-passthru.
 *.changehero.io CNAME rpz-passthru.
+changelhscoscdn-eu1.net CNAME rpz-passthru.
+*.changelhscoscdn-eu1.net CNAME rpz-passthru.
 changelly.com CNAME rpz-passthru.
 *.changelly.com CNAME rpz-passthru.
 changelogs.ubuntu.com CNAME rpz-passthru.
@@ -8929,8 +8955,6 @@ click.virt.s6.exacttarget.com CNAME rpz-passthru.
 *.click.virt.s6.exacttarget.com CNAME rpz-passthru.
 click.virt.s7.exacttarget.com CNAME rpz-passthru.
 *.click.virt.s7.exacttarget.com CNAME rpz-passthru.
-click.virt.s7.exacttoogleapis.com CNAME rpz-passthru.
-*.click.virt.s7.exacttoogleapis.com CNAME rpz-passthru.
 click.world.taobao.com CNAME rpz-passthru.
 *.click.world.taobao.com CNAME rpz-passthru.
 click.zoom.us CNAME rpz-passthru.
@@ -9347,6 +9371,8 @@ comic.naver.com CNAME rpz-passthru.
 *.comic.naver.com CNAME rpz-passthru.
 comic.nil.naver.com CNAME rpz-passthru.
 *.comic.nil.naver.com CNAME rpz-passthru.
+commandemploiquebec.gouv.qc.ca CNAME rpz-passthru.
+*.commandemploiquebec.gouv.qc.ca CNAME rpz-passthru.
 commander1.com CNAME rpz-passthru.
 *.commander1.com CNAME rpz-passthru.
 commbank.com.au CNAME rpz-passthru.
@@ -9631,8 +9657,6 @@ control.phone.com CNAME rpz-passthru.
 *.control.phone.com CNAME rpz-passthru.
 conversantmedia.com CNAME rpz-passthru.
 *.conversantmedia.com CNAME rpz-passthru.
-conversantmedit-go.kelkoogroup.net CNAME rpz-passthru.
-*.conversantmedit-go.kelkoogroup.net CNAME rpz-passthru.
 conversation-read.spot.im CNAME rpz-passthru.
 *.conversation-read.spot.im CNAME rpz-passthru.
 convertbox.com CNAME rpz-passthru.
@@ -10151,6 +10175,8 @@ d66fdb5e.open.convertkit-mail2.com CNAME rpz-passthru.
 *.d66fdb5e.open.convertkit-mail2.com CNAME rpz-passthru.
 d75.eu CNAME rpz-passthru.
 *.d75.eu CNAME rpz-passthru.
+d8016216.click.convertkit-mail4.com CNAME rpz-passthru.
+*.d8016216.click.convertkit-mail4.com CNAME rpz-passthru.
 d8016216.open.convertkit-mail4.com CNAME rpz-passthru.
 *.d8016216.open.convertkit-mail4.com CNAME rpz-passthru.
 d83eunklitikj.cloudfront.net CNAME rpz-passthru.
@@ -11425,8 +11451,8 @@ ebanking.ing.be CNAME rpz-passthru.
 *.ebanking.ing.be CNAME rpz-passthru.
 ebanking.slatinska-banka.hr CNAME rpz-passthru.
 *.ebanking.slatinska-banka.hr CNAME rpz-passthru.
-ebanking.uncom CNAME rpz-passthru.
-*.ebanking.uncom CNAME rpz-passthru.
+ebanking.uno-ab320182.com CNAME rpz-passthru.
+*.ebanking.uno-ab320182.com CNAME rpz-passthru.
 ebank.kfcc.com.tw CNAME rpz-passthru.
 *.ebank.kfcc.com.tw CNAME rpz-passthru.
 ebank.kh3c.com.tw CNAME rpz-passthru.
@@ -11979,6 +12005,8 @@ eqbank.ca CNAME rpz-passthru.
 *.eqbank.ca CNAME rpz-passthru.
 equifax.com CNAME rpz-passthru.
 *.equifax.com CNAME rpz-passthru.
+er1.com CNAME rpz-passthru.
+*.er1.com CNAME rpz-passthru.
 erax.cz CNAME rpz-passthru.
 *.erax.cz CNAME rpz-passthru.
 e-recht24.de CNAME rpz-passthru.
@@ -14979,8 +15007,6 @@ haltdalensparebank.no CNAME rpz-passthru.
 *.haltdalensparebank.no CNAME rpz-passthru.
 halykpay.kz CNAME rpz-passthru.
 *.halykpay.kz CNAME rpz-passthru.
-hamazon.academy CNAME rpz-passthru.
-*.hamazon.academy CNAME rpz-passthru.
 hamburger-volksbank.de CNAME rpz-passthru.
 *.hamburger-volksbank.de CNAME rpz-passthru.
 hanabank.com CNAME rpz-passthru.
@@ -15463,6 +15489,8 @@ hsbank.no CNAME rpz-passthru.
 *.hsbank.no CNAME rpz-passthru.
 hsbc.ca CNAME rpz-passthru.
 *.hsbc.ca CNAME rpz-passthru.
+hsbc.com CNAME rpz-passthru.
+*.hsbc.com CNAME rpz-passthru.
 hsbc.com.au CNAME rpz-passthru.
 *.hsbc.com.au CNAME rpz-passthru.
 hsbc.com.hk CNAME rpz-passthru.
@@ -15641,8 +15669,6 @@ ia601203.us.archive.org CNAME rpz-passthru.
 *.ia601203.us.archive.org CNAME rpz-passthru.
 ia801005.us.archive.org CNAME rpz-passthru.
 *.ia801005.us.archive.org CNAME rpz-passthru.
-ia.com CNAME rpz-passthru.
-*.ia.com CNAME rpz-passthru.
 i.airtel.in CNAME rpz-passthru.
 *.i.airtel.in CNAME rpz-passthru.
 i.alicdn.com CNAME rpz-passthru.
@@ -16531,8 +16557,8 @@ image.s50.exacttarget.com CNAME rpz-passthru.
 *.image.s50.exacttarget.com CNAME rpz-passthru.
 image.s6.exacttarget.com CNAME rpz-passthru.
 *.image.s6.exacttarget.com CNAME rpz-passthru.
-image.s7.exacttarget.com CNAME rpz-passthru.
-*.image.s7.exacttarget.com CNAME rpz-passthru.
+image.s7.exacttaad.kddi-fs.com CNAME rpz-passthru.
+*.image.s7.exacttaad.kddi-fs.com CNAME rpz-passthru.
 imagesak.secureserver.net CNAME rpz-passthru.
 *.imagesak.secureserver.net CNAME rpz-passthru.
 images-amazon.com CNAME rpz-passthru.
@@ -18055,6 +18081,8 @@ kreissparkasse-kelheim.de CNAME rpz-passthru.
 *.kreissparkasse-kelheim.de CNAME rpz-passthru.
 kreissparkasse-nordhausen.de CNAME rpz-passthru.
 *.kreissparkasse-nordhausen.de CNAME rpz-passthru.
+kreissparkasse-osterholz.de CNAME rpz-passthru.
+*.kreissparkasse-osterholz.de CNAME rpz-passthru.
 kreissparkasse-ravensburg.de CNAME rpz-passthru.
 *.kreissparkasse-ravensburg.de CNAME rpz-passthru.
 kreissparkasse-schwalm-eder.de CNAME rpz-passthru.
@@ -19227,8 +19255,6 @@ lxsvc.net CNAME rpz-passthru.
 *.lxsvc.net CNAME rpz-passthru.
 ly2.ws CNAME rpz-passthru.
 *.ly2.ws CNAME rpz-passthru.
-ly.com CNAME rpz-passthru.
-*.ly.com CNAME rpz-passthru.
 l.yimg.com CNAME rpz-passthru.
 *.l.yimg.com CNAME rpz-passthru.
 ly.me CNAME rpz-passthru.
@@ -20381,6 +20407,8 @@ mkt7185.com CNAME rpz-passthru.
 *.mkt7185.com CNAME rpz-passthru.
 mktcloud.c.huawei.com CNAME rpz-passthru.
 *.mktcloud.c.huawei.com CNAME rpz-passthru.
+mktly.com CNAME rpz-passthru.
+*.mktly.com CNAME rpz-passthru.
 mkto-a0095.com CNAME rpz-passthru.
 *.mkto-a0095.com CNAME rpz-passthru.
 mkto-a0279.com CNAME rpz-passthru.
@@ -20467,8 +20495,6 @@ mkto-ab310115.com CNAME rpz-passthru.
 *.mkto-ab310115.com CNAME rpz-passthru.
 mkto-ab320028.com CNAME rpz-passthru.
 *.mkto-ab320028.com CNAME rpz-passthru.
-mkto-ab320182.com CNAME rpz-passthru.
-*.mkto-ab320182.com CNAME rpz-passthru.
 mkto-ab320191.com CNAME rpz-passthru.
 *.mkto-ab320191.com CNAME rpz-passthru.
 mkto-ab330006.com CNAME rpz-passthru.
@@ -20493,6 +20519,8 @@ mkto-ab390196.com CNAME rpz-passthru.
 *.mkto-ab390196.com CNAME rpz-passthru.
 mkto-ab400068.com CNAME rpz-passthru.
 *.mkto-ab400068.com CNAME rpz-passthru.
+mkto-ab400103.com CNAME rpz-passthru.
+*.mkto-ab400103.com CNAME rpz-passthru.
 mkto-ab400124.com CNAME rpz-passthru.
 *.mkto-ab400124.com CNAME rpz-passthru.
 mkto-ab400143.com CNAME rpz-passthru.
@@ -20515,8 +20543,8 @@ mkto-ab430187.com CNAME rpz-passthru.
 *.mkto-ab430187.com CNAME rpz-passthru.
 mkto-ab440025.com CNAME rpz-passthru.
 *.mkto-ab440025.com CNAME rpz-passthru.
-mkto-ab440026.nt.gotinder.com CNAME rpz-passthru.
-*.mkto-ab440026.nt.gotinder.com CNAME rpz-passthru.
+mkto-ab440026.com CNAME rpz-passthru.
+*.mkto-ab440026.com CNAME rpz-passthru.
 mkto-ab440032.com CNAME rpz-passthru.
 *.mkto-ab440032.com CNAME rpz-passthru.
 mkto-ab440098.com CNAME rpz-passthru.
@@ -20613,6 +20641,8 @@ mkto-ab690019.com CNAME rpz-passthru.
 *.mkto-ab690019.com CNAME rpz-passthru.
 mkto-ab690062.com CNAME rpz-passthru.
 *.mkto-ab690062.com CNAME rpz-passthru.
+mkto-ab700044.com CNAME rpz-passthru.
+*.mkto-ab700044.com CNAME rpz-passthru.
 mkto-abc0038.com CNAME rpz-passthru.
 *.mkto-abc0038.com CNAME rpz-passthru.
 mkto-abc0114.com CNAME rpz-passthru.
@@ -20745,6 +20775,8 @@ mkto-sj050137.com CNAME rpz-passthru.
 *.mkto-sj050137.com CNAME rpz-passthru.
 mkto-sj060054.com CNAME rpz-passthru.
 *.mkto-sj060054.com CNAME rpz-passthru.
+mkto-sj070141.com CNAME rpz-passthru.
+*.mkto-sj070141.com CNAME rpz-passthru.
 mkto-sj070214.com CNAME rpz-passthru.
 *.mkto-sj070214.com CNAME rpz-passthru.
 mkto-sj070218.com CNAME rpz-passthru.
@@ -21675,6 +21707,8 @@ my-volksbank.de CNAME rpz-passthru.
 *.my-volksbank.de CNAME rpz-passthru.
 my.vudu.com CNAME rpz-passthru.
 *.my.vudu.com CNAME rpz-passthru.
+my-win.avast.com CNAME rpz-passthru.
+*.my-win.avast.com CNAME rpz-passthru.
 mywot.com CNAME rpz-passthru.
 *.mywot.com CNAME rpz-passthru.
 myxns.cn CNAME rpz-passthru.
@@ -21975,8 +22009,6 @@ networks.feedburner.com CNAME rpz-passthru.
 *.networks.feedburner.com CNAME rpz-passthru.
 networksolutions.com CNAME rpz-passthru.
 *.networksolutions.com CNAME rpz-passthru.
-n-eu1.net CNAME rpz-passthru.
-*.n-eu1.net CNAME rpz-passthru.
 neu1-urlp.secure.skypeassets.com CNAME rpz-passthru.
 *.neu1-urlp.secure.skypeassets.com CNAME rpz-passthru.
 neural17.cdnwebcloud.com CNAME rpz-passthru.
@@ -22681,8 +22713,8 @@ officeredir.microsoft.com CNAME rpz-passthru.
 *.officeredir.microsoft.com CNAME rpz-passthru.
 official-blog.line.me CNAME rpz-passthru.
 *.official-blog.line.me CNAME rpz-passthru.
-offline.officeapps.live.comion.com CNAME rpz-passthru.
-*.offline.officeapps.live.comion.com CNAME rpz-passthru.
+offline.officeapps.live.com CNAME rpz-passthru.
+*.offline.officeapps.live.com CNAME rpz-passthru.
 ogcrawler.blog.naver.com CNAME rpz-passthru.
 *.ogcrawler.blog.naver.com CNAME rpz-passthru.
 oge.la CNAME rpz-passthru.
@@ -23109,6 +23141,8 @@ online.woodforest.com CNAME rpz-passthru.
 *.online.woodforest.com CNAME rpz-passthru.
 onmpeg.com CNAME rpz-passthru.
 *.onmpeg.com CNAME rpz-passthru.
+onnected.com CNAME rpz-passthru.
+*.onnected.com CNAME rpz-passthru.
 on.playstation.com CNAME rpz-passthru.
 *.on.playstation.com CNAME rpz-passthru.
 onpointcu.com CNAME rpz-passthru.
@@ -23327,10 +23361,12 @@ ospa.de CNAME rpz-passthru.
 *.ospa.de CNAME rpz-passthru.
 ospserver.net CNAME rpz-passthru.
 *.ospserver.net CNAME rpz-passthru.
-oss.hpcemploiquebec.gouv.qc.ca CNAME rpz-passthru.
-*.oss.hpcemploiquebec.gouv.qc.ca CNAME rpz-passthru.
+oss.hpcrelays.syncthing.net CNAME rpz-passthru.
+*.oss.hpcrelays.syncthing.net CNAME rpz-passthru.
 oss.maxcdn.com CNAME rpz-passthru.
 *.oss.maxcdn.com CNAME rpz-passthru.
+ostbank.de CNAME rpz-passthru.
+*.ostbank.de CNAME rpz-passthru.
 ostfriesische-volksbank.de CNAME rpz-passthru.
 *.ostfriesische-volksbank.de CNAME rpz-passthru.
 ostsaechsische-sparkasse-dresden.de CNAME rpz-passthru.
@@ -25679,8 +25715,6 @@ rberding.de CNAME rpz-passthru.
 *.rberding.de CNAME rpz-passthru.
 rb-erkelenz.de CNAME rpz-passthru.
 *.rb-erkelenz.de CNAME rpz-passthru.
-rb-eschweunce.xxx-tracker.com CNAME rpz-passthru.
-*.rb-eschweunce.xxx-tracker.com CNAME rpz-passthru.
 rb-essenbach.de CNAME rpz-passthru.
 *.rb-essenbach.de CNAME rpz-passthru.
 rbfalkenstein-woerth.de CNAME rpz-passthru.
@@ -25967,8 +26001,6 @@ rdsig.yahoo.co.jp CNAME rpz-passthru.
 *.rdsig.yahoo.co.jp CNAME rpz-passthru.
 rdstation.com.br CNAME rpz-passthru.
 *.rdstation.com.br CNAME rpz-passthru.
-rdstatonnected.com CNAME rpz-passthru.
-*.rdstatonnected.com CNAME rpz-passthru.
 rdtcdn.com CNAME rpz-passthru.
 *.rdtcdn.com CNAME rpz-passthru.
 rdtw69dab.cc.rs6.net CNAME rpz-passthru.
@@ -26155,8 +26187,6 @@ rekgn6nab.cc.rs6.net CNAME rpz-passthru.
 *.rekgn6nab.cc.rs6.net CNAME rpz-passthru.
 relay01.hitbtc.com CNAME rpz-passthru.
 *.relay01.hitbtc.com CNAME rpz-passthru.
-relays.syncthing.net CNAME rpz-passthru.
-*.relays.syncthing.net CNAME rpz-passthru.
 releasenotes.sonymobile.com CNAME rpz-passthru.
 *.releasenotes.sonymobile.com CNAME rpz-passthru.
 releases.flowplayer.com CNAME rpz-passthru.
@@ -26363,6 +26393,8 @@ rftyzi5ab.cc.rs6.net CNAME rpz-passthru.
 *.rftyzi5ab.cc.rs6.net CNAME rpz-passthru.
 rg3.github.io CNAME rpz-passthru.
 *.rg3.github.io CNAME rpz-passthru.
+rget.com CNAME rpz-passthru.
+*.rget.com CNAME rpz-passthru.
 rgkkzvdab.cc.rs6.net CNAME rpz-passthru.
 *.rgkkzvdab.cc.rs6.net CNAME rpz-passthru.
 rgllca6ab.cc.rs6.net CNAME rpz-passthru.
@@ -26465,8 +26497,8 @@ rnk.net CNAME rpz-passthru.
 *.rnk.net CNAME rpz-passthru.
 rny9z6jab.cc.rs6.net CNAME rpz-passthru.
 *.rny9z6jab.cc.rs6.net CNAME rpz-passthru.
-ro-1-100--ostbank.de CNAME rpz-passthru.
-*.ro-1-100--ostbank.de CNAME rpz-passthru.
+ro-1-100--ys.net CNAME rpz-passthru.
+*.ro-1-100--ys.net CNAME rpz-passthru.
 road.adblock.ro CNAME rpz-passthru.
 *.road.adblock.ro CNAME rpz-passthru.
 roadandtrack.com CNAME rpz-passthru.
@@ -30415,8 +30447,8 @@ suite10.emarsys.net CNAME rpz-passthru.
 *.suite10.emarsys.net CNAME rpz-passthru.
 suite11-cf.emarsys.net CNAME rpz-passthru.
 *.suite11-cf.emarsys.net CNAME rpz-passthru.
-suite11.emarsys.net CNAME rpz-passthru.
-*.suite11.emarsys.net CNAME rpz-passthru.
+suite11.emars1.elecsnet.ru CNAME rpz-passthru.
+*.suite11.emars1.elecsnet.ru CNAME rpz-passthru.
 suite12.emarsys.net CNAME rpz-passthru.
 *.suite12.emarsys.net CNAME rpz-passthru.
 suite14.emarsys.net CNAME rpz-passthru.
@@ -30435,8 +30467,8 @@ suite20.emarsys.net CNAME rpz-passthru.
 *.suite20.emarsys.net CNAME rpz-passthru.
 suite22.emarsys.net CNAME rpz-passthru.
 *.suite22.emarsys.net CNAME rpz-passthru.
-suite24.emarsys.netad.kddi-fs.com CNAME rpz-passthru.
-*.suite24.emarsys.netad.kddi-fs.com CNAME rpz-passthru.
+suite24.emarsys.net CNAME rpz-passthru.
+*.suite24.emarsys.net CNAME rpz-passthru.
 suite25.emarsys.net CNAME rpz-passthru.
 *.suite25.emarsys.net CNAME rpz-passthru.
 suite26.emarsys.net CNAME rpz-passthru.
@@ -30445,6 +30477,8 @@ suite27.emarsys.net CNAME rpz-passthru.
 *.suite27.emarsys.net CNAME rpz-passthru.
 suite29.emarsys.net CNAME rpz-passthru.
 *.suite29.emarsys.net CNAME rpz-passthru.
+suite30-cdnnet.emarsys.net CNAME rpz-passthru.
+*.suite30-cdnnet.emarsys.net CNAME rpz-passthru.
 suite30-cf.emarsys.net CNAME rpz-passthru.
 *.suite30-cf.emarsys.net CNAME rpz-passthru.
 suite30.emarsys.net CNAME rpz-passthru.
@@ -30473,6 +30507,8 @@ suite41.emarsys.net CNAME rpz-passthru.
 *.suite41.emarsys.net CNAME rpz-passthru.
 suite43.emarsys.net CNAME rpz-passthru.
 *.suite43.emarsys.net CNAME rpz-passthru.
+suite45-cf.emarsys.net CNAME rpz-passthru.
+*.suite45-cf.emarsys.net CNAME rpz-passthru.
 suite45.emarsys.net CNAME rpz-passthru.
 *.suite45.emarsys.net CNAME rpz-passthru.
 suite46.emarsys.net CNAME rpz-passthru.
@@ -30977,8 +31013,8 @@ tas24.ua CNAME rpz-passthru.
 *.tas24.ua CNAME rpz-passthru.
 tasks-pa.clients6.google.com CNAME rpz-passthru.
 *.tasks-pa.clients6.google.com CNAME rpz-passthru.
-tasks-pa.g1.elecsnet.ru CNAME rpz-passthru.
-*.tasks-pa.g1.elecsnet.ru CNAME rpz-passthru.
+tasks-pa.g5f37.open.convertkit-mail4.com CNAME rpz-passthru.
+*.tasks-pa.g5f37.open.convertkit-mail4.com CNAME rpz-passthru.
 taunussparkasse.de CNAME rpz-passthru.
 *.taunussparkasse.de CNAME rpz-passthru.
 tau.pe CNAME rpz-passthru.
@@ -31161,8 +31197,6 @@ terms.naver.com CNAME rpz-passthru.
 *.terms.naver.com CNAME rpz-passthru.
 termux.com CNAME rpz-passthru.
 *.termux.com CNAME rpz-passthru.
-termux.net CNAME rpz-passthru.
-*.termux.net CNAME rpz-passthru.
 terra-1-g.djicdn.com CNAME rpz-passthru.
 *.terra-1-g.djicdn.com CNAME rpz-passthru.
 terra-2-g.djicdn.com CNAME rpz-passthru.
@@ -33271,8 +33305,8 @@ vb-hohenlohe.de CNAME rpz-passthru.
 *.vb-hohenlohe.de CNAME rpz-passthru.
 vbimharz.de CNAME rpz-passthru.
 *.vbimharz.de CNAME rpz-passthru.
-vb-io.com CNAME rpz-passthru.
-*.vb-io.com CNAME rpz-passthru.
+vb-iounce.xxx-tracker.com CNAME rpz-passthru.
+*.vb-iounce.xxx-tracker.com CNAME rpz-passthru.
 vb-is.de CNAME rpz-passthru.
 *.vb-is.de CNAME rpz-passthru.
 vb-iw.de CNAME rpz-passthru.
@@ -33869,8 +33903,6 @@ voice.gcloudcs.com CNAME rpz-passthru.
 *.voice.gcloudcs.com CNAME rpz-passthru.
 voice.wechat.com CNAME rpz-passthru.
 *.voice.wechat.com CNAME rpz-passthru.
-void.cat CNAME rpz-passthru.
-*.void.cat CNAME rpz-passthru.
 void.gr CNAME rpz-passthru.
 *.void.gr CNAME rpz-passthru.
 voip.game.xiaomi.com CNAME rpz-passthru.
@@ -38689,14 +38721,82 @@ zzb.bz CNAME rpz-passthru.
 *.zzb.bz CNAME rpz-passthru.
 zz.ee CNAME rpz-passthru.
 *.zz.ee CNAME rpz-passthru.
-106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services CNAME rpz-passthru.
-*.106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services CNAME rpz-passthru.
+088a5f37.open.convertkit-mail4.com CNAME rpz-passthru.
+*.088a5f37.open.convertkit-mail4.com CNAME rpz-passthru.
+20791gslbsvc.net.cn CNAME rpz-passthru.
+*.20791gslbsvc.net.cn CNAME rpz-passthru.
+25880420.sites.hscoscdn-eu1.net CNAME rpz-passthru.
+*.25880420.sites.hscoscdn-eu1.net CNAME rpz-passthru.
+259440.seu2.cleverreach.com CNAME rpz-passthru.
+*.259440.seu2.cleverreach.com CNAME rpz-passthru.
+262841106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services CNAME rpz-passthru.
+*.262841106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services CNAME rpz-passthru.
+26544488.sites.hscoscd CNAME rpz-passthru.
+*.26544488.sites.hscoscd CNAME rpz-passthru.
+3c5984my-win.avast.com CNAME rpz-passthru.
+*.3c5984my-win.avast.com CNAME rpz-passthru.
+accoubd.open.convertkit-mail4.com CNAME rpz-passthru.
+*.accoubd.open.convertkit-mail4.com CNAME rpz-passthru.
+adser.seu.cleverreach.com CNAME rpz-passthru.
+*.adser.seu.cleverreach.com CNAME rpz-passthru.
+amazon.marsbc.com CNAME rpz-passthru.
+*.amazon.marsbc.com CNAME rpz-passthru.
+analytics.adjust.net.in CNAME rpz-passthru.
+*.analytics.adjust.net.in CNAME rpz-passthru.
+annosparkasse-osterholz.de CNAME rpz-passthru.
+*.annosparkasse-osterholz.de CNAME rpz-passthru.
+api.simplisafeiler.de CNAME rpz-passthru.
+*.api.simplisafeiler.de CNAME rpz-passthru.
+arget.com CNAME rpz-passthru.
+*.arget.com CNAME rpz-passthru.
+asm.npml.de CNAME rpz-passthru.
+*.asm.npml.de CNAME rpz-passthru.
+click.virt.s7.exacttoogleapis.com CNAME rpz-passthru.
+*.click.virt.s7.exacttoogleapis.com CNAME rpz-passthru.
+conversantmedit-go.kelkoogroup.net CNAME rpz-passthru.
+*.conversantmedit-go.kelkoogroup.net CNAME rpz-passthru.
+ebanking.uncom CNAME rpz-passthru.
+*.ebanking.uncom CNAME rpz-passthru.
+hamazon.academy CNAME rpz-passthru.
+*.hamazon.academy CNAME rpz-passthru.
+ia.com CNAME rpz-passthru.
+*.ia.com CNAME rpz-passthru.
+image.s7.exacttarget.com CNAME rpz-passthru.
+*.image.s7.exacttarget.com CNAME rpz-passthru.
+ly.com CNAME rpz-passthru.
+*.ly.com CNAME rpz-passthru.
+mkto-ab320182.com CNAME rpz-passthru.
+*.mkto-ab320182.com CNAME rpz-passthru.
+mkto-ab440026.nt.gotinder.com CNAME rpz-passthru.
+*.mkto-ab440026.nt.gotinder.com CNAME rpz-passthru.
+n-eu1.net CNAME rpz-passthru.
+*.n-eu1.net CNAME rpz-passthru.
+offline.officeapps.live.comion.com CNAME rpz-passthru.
+*.offline.officeapps.live.comion.com CNAME rpz-passthru.
+oss.hpcemploiquebec.gouv.qc.ca CNAME rpz-passthru.
+*.oss.hpcemploiquebec.gouv.qc.ca CNAME rpz-passthru.
+rb-eschweunce.xxx-tracker.com CNAME rpz-passthru.
+*.rb-eschweunce.xxx-tracker.com CNAME rpz-passthru.
+rdstatonnected.com CNAME rpz-passthru.
+*.rdstatonnected.com CNAME rpz-passthru.
+relays.syncthing.net CNAME rpz-passthru.
+*.relays.syncthing.net CNAME rpz-passthru.
+ro-1-100--ostbank.de CNAME rpz-passthru.
+*.ro-1-100--ostbank.de CNAME rpz-passthru.
+suite11.emarsys.net CNAME rpz-passthru.
+*.suite11.emarsys.net CNAME rpz-passthru.
+suite24.emarsys.netad.kddi-fs.com CNAME rpz-passthru.
+*.suite24.emarsys.netad.kddi-fs.com CNAME rpz-passthru.
+tasks-pa.g1.elecsnet.ru CNAME rpz-passthru.
+*.tasks-pa.g1.elecsnet.ru CNAME rpz-passthru.
+termux.net CNAME rpz-passthru.
+*.termux.net CNAME rpz-passthru.
+vb-io.com CNAME rpz-passthru.
+*.vb-io.com CNAME rpz-passthru.
+void.cat CNAME rpz-passthru.
+*.void.cat CNAME rpz-passthru.
 20791ostbank.de CNAME rpz-passthru.
 *.20791ostbank.de CNAME rpz-passthru.
-26544488.sites.hscoscdn-eu1.net CNAME rpz-passthru.
-*.26544488.sites.hscoscdn-eu1.net CNAME rpz-passthru.
-3c5984bd.open.convertkit-mail4.com CNAME rpz-passthru.
-*.3c5984bd.open.convertkit-mail4.com CNAME rpz-passthru.
 accousafelinking.net CNAME rpz-passthru.
 *.accousafelinking.net CNAME rpz-passthru.
 adsertermux.net CNAME rpz-passthru.
@@ -38727,10 +38827,6 @@ ibank.ziraktrack.com CNAME rpz-passthru.
 *.ibank.ziraktrack.com CNAME rpz-passthru.
 kreisu1.com CNAME rpz-passthru.
 *.kreisu1.com CNAME rpz-passthru.
-mkto-ab440026.com CNAME rpz-passthru.
-*.mkto-ab440026.com CNAME rpz-passthru.
-my-win.avast.com CNAME rpz-passthru.
-*.my-win.avast.com CNAME rpz-passthru.
 nt.gotinder.com CNAME rpz-passthru.
 *.nt.gotinder.com CNAME rpz-passthru.
 onlinebankunce.xxx-tracker.com CNAME rpz-passthru.
@@ -38759,8 +38855,6 @@ vb-ioml.de CNAME rpz-passthru.
 *.1.elecsnet.ru CNAME rpz-passthru.
 20791void.cat CNAME rpz-passthru.
 *.20791void.cat CNAME rpz-passthru.
-262841.seu2.cleverreach.com CNAME rpz-passthru.
-*.262841.seu2.cleverreach.com CNAME rpz-passthru.
 2736106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services CNAME rpz-passthru.
 *.2736106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services CNAME rpz-passthru.
 accoutermux.net CNAME rpz-passthru.
@@ -38791,8 +38885,6 @@ gslbsvc.net.cn CNAME rpz-passthru.
 *.gslbsvc.net.cn CNAME rpz-passthru.
 hunce.xxx-tracker.com CNAME rpz-passthru.
 *.hunce.xxx-tracker.com CNAME rpz-passthru.
-kreissparkasse-osterholz.de CNAME rpz-passthru.
-*.kreissparkasse-osterholz.de CNAME rpz-passthru.
 mkto-ab560171.cion.com CNAME rpz-passthru.
 *.mkto-ab560171.cion.com CNAME rpz-passthru.
 my.pervo.com CNAME rpz-passthru.
@@ -38805,14 +38897,10 @@ oogleapis.com CNAME rpz-passthru.
 *.oogleapis.com CNAME rpz-passthru.
 oss.hpc39.seu2.cleverreach.com CNAME rpz-passthru.
 *.oss.hpc39.seu2.cleverreach.com CNAME rpz-passthru.
-ostbank.de CNAME rpz-passthru.
-*.ostbank.de CNAME rpz-passthru.
 rb-eschweiler.de CNAME rpz-passthru.
 *.rb-eschweiler.de CNAME rpz-passthru.
 scdn-eu1.net CNAME rpz-passthru.
 *.scdn-eu1.net CNAME rpz-passthru.
-suite24.emarsys.net CNAME rpz-passthru.
-*.suite24.emarsys.net CNAME rpz-passthru.
 suite36-cf.emarsysonnected.com CNAME rpz-passthru.
 *.suite36-cf.emarsysonnected.com CNAME rpz-passthru.
 tasks-pa.g0-edge-chat.facebook.com CNAME rpz-passthru.
@@ -38835,8 +38923,6 @@ annor.jakuli.com CNAME rpz-passthru.
 *.annor.jakuli.com CNAME rpz-passthru.
 api.simplisafely.com CNAME rpz-passthru.
 *.api.simplisafely.com CNAME rpz-passthru.
-asm.np.community.playstation.net CNAME rpz-passthru.
-*.asm.np.community.playstation.net CNAME rpz-passthru.
 banking.pmail4.com CNAME rpz-passthru.
 *.banking.pmail4.com CNAME rpz-passthru.
 best.ali-au.piano.io CNAME rpz-passthru.
@@ -38887,8 +38973,6 @@ offline.officeapps.live.com1.elecsnet.ru CNAME rpz-passthru.
 *.offline.officeapps.live.com1.elecsnet.ru CNAME rpz-passthru.
 onlinebank.nirsoft.net CNAME rpz-passthru.
 *.onlinebank.nirsoft.net CNAME rpz-passthru.
-onnected.com CNAME rpz-passthru.
-*.onnected.com CNAME rpz-passthru.
 oss.hpcvoid.cat CNAME rpz-passthru.
 *.oss.hpcvoid.cat CNAME rpz-passthru.
 promoine.com CNAME rpz-passthru.
@@ -38945,8 +39029,6 @@ emea01.safelinks.protection.outlo1-aclk.net CNAME rpz-passthru.
 *.emea01.safelinks.protection.outlo1-aclk.net CNAME rpz-passthru.
 gsbank.co.uk CNAME rpz-passthru.
 *.gsbank.co.uk CNAME rpz-passthru.
-hsbc.com CNAME rpz-passthru.
-*.hsbc.com CNAME rpz-passthru.
 nl-go.kelkoogrouprelays.syncthing.net CNAME rpz-passthru.
 *.nl-go.kelkoogrouprelays.syncthing.net CNAME rpz-passthru.
 open49.com CNAME rpz-passthru.
@@ -39089,8 +39171,6 @@ trackinggsbank.co.uk CNAME rpz-passthru.
 *.20791vice.google.museum CNAME rpz-passthru.
 8106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services CNAME rpz-passthru.
 *.8106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services CNAME rpz-passthru.
-accougslbsvc.net.cn CNAME rpz-passthru.
-*.accougslbsvc.net.cn CNAME rpz-passthru.
 adser1-aclk.net CNAME rpz-passthru.
 *.adser1-aclk.net CNAME rpz-passthru.
 amazon.marfology-cdn.exponea.com CNAME rpz-passthru.
@@ -39129,8 +39209,6 @@ ons.com CNAME rpz-passthru.
 *.ons.com CNAME rpz-passthru.
 ospera.oauth.live.central1.cc CNAME rpz-passthru.
 *.ospera.oauth.live.central1.cc CNAME rpz-passthru.
-oss.hpcrelays.syncthing.net CNAME rpz-passthru.
-*.oss.hpcrelays.syncthing.net CNAME rpz-passthru.
 pr.community.playstation.net CNAME rpz-passthru.
 *.pr.community.playstation.net CNAME rpz-passthru.
 rbexpress.com CNAME rpz-passthru.
@@ -39153,8 +39231,6 @@ wwd.com CNAME rpz-passthru.
 *.wwd.com CNAME rpz-passthru.
 145892027.grelays.syncthing.net CNAME rpz-passthru.
 *.145892027.grelays.syncthing.net CNAME rpz-passthru.
-207917eer.net CNAME rpz-passthru.
-*.207917eer.net CNAME rpz-passthru.
 admarkt.kleinanad.kddi-fs.com CNAME rpz-passthru.
 *.admarkt.kleinanad.kddi-fs.com CNAME rpz-passthru.
 amazon.academy CNAME rpz-passthru.
@@ -39293,8 +39369,6 @@ link.fresad.kddi-fs.com CNAME rpz-passthru.
 *.link.fresad.kddi-fs.com CNAME rpz-passthru.
 mkto-lon0901oogleapis.com CNAME rpz-passthru.
 *.mkto-lon0901oogleapis.com CNAME rpz-passthru.
-offline.officeapps.live.com CNAME rpz-passthru.
-*.offline.officeapps.live.com CNAME rpz-passthru.
 r4khbybab.cc.rs6.nent.gotinder.com CNAME rpz-passthru.
 *.r4khbybab.cc.rs6.nent.gotinder.com CNAME rpz-passthru.
 rbamazon.academy CNAME rpz-passthru.
@@ -39639,8 +39713,6 @@ tasks-pa.gs11.exacttarget.com CNAME rpz-passthru.
 *.tasks-pa.gs11.exacttarget.com CNAME rpz-passthru.
 view.termux.net CNAME rpz-passthru.
 *.view.termux.net CNAME rpz-passthru.
-adservoid.cat CNAME rpz-passthru.
-*.adservoid.cat CNAME rpz-passthru.
 banking.my-win.avast.com CNAME rpz-passthru.
 *.banking.my-win.avast.com CNAME rpz-passthru.
 emaraiffeisen.at CNAME rpz-passthru.
@@ -50417,8 +50489,6 @@ links.email.c.com CNAME rpz-passthru.
 *.links.email.c.com CNAME rpz-passthru.
 otnprt.com CNAME rpz-passthru.
 *.otnprt.com CNAME rpz-passthru.
-rget.com CNAME rpz-passthru.
-*.rget.com CNAME rpz-passthru.
 statics.teams.cdn.o.bid CNAME rpz-passthru.
 *.statics.teams.cdn.o.bid CNAME rpz-passthru.
 t.sidekickopom.hk CNAME rpz-passthru.
