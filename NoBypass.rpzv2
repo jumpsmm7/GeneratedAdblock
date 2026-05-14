@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605131627 ; Serial Number
+ 2605140427 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -1085,6 +1085,10 @@ cynntex.fun A 0.0.0.0
 *.cynntex.fun A 0.0.0.0
 cynntex.fun AAAA ::
 *.cynntex.fun AAAA ::
+d12vpx.com A 0.0.0.0
+*.d12vpx.com A 0.0.0.0
+d12vpx.com AAAA ::
+*.d12vpx.com AAAA ::
 d2.shabi.icu A 0.0.0.0
 *.d2.shabi.icu A 0.0.0.0
 d2.shabi.icu AAAA ::
@@ -1809,10 +1813,10 @@ dns.cwlys.com A 0.0.0.0
 *.dns.cwlys.com A 0.0.0.0
 dns.cwlys.com AAAA ::
 *.dns.cwlys.com AAAA ::
-dns-cybersec.nordthreatprotection.com A 0.0.0.0
-*.dns-cybersec.nordthreatprotection.com A 0.0.0.0
-dns-cybersec.nordthreatprotection.com AAAA ::
-*.dns-cybersec.nordthreatprotection.com AAAA ::
+dns-cybersec.nordthreatprotection.cmask.icloud.com A 0.0.0.0
+*.dns-cybersec.nordthreatprotection.cmask.icloud.com A 0.0.0.0
+dns-cybersec.nordthreatprotection.cmask.icloud.com AAAA ::
+*.dns-cybersec.nordthreatprotection.cmask.icloud.com AAAA ::
 dns.cybertonic.tech A 0.0.0.0
 *.dns.cybertonic.tech A 0.0.0.0
 dns.cybertonic.tech AAAA ::
@@ -2049,10 +2053,6 @@ dns.farshidhakimy.de A 0.0.0.0
 *.dns.farshidhakimy.de A 0.0.0.0
 dns.farshidhakimy.de AAAA ::
 *.dns.farshidhakimy.de AAAA ::
-dns.faze.dev A 0.0.0.0
-*.dns.faze.dev A 0.0.0.0
-dns.faze.dev AAAA ::
-*.dns.faze.dev AAAA ::
 dns.fehlsprache.de A 0.0.0.0
 *.dns.fehlsprache.de A 0.0.0.0
 dns.fehlsprache.de AAAA ::
@@ -2365,10 +2365,6 @@ dns.kapite.in A 0.0.0.0
 *.dns.kapite.in A 0.0.0.0
 dns.kapite.in AAAA ::
 *.dns.kapite.in AAAA ::
-dns.karadag.me A 0.0.0.0
-*.dns.karadag.me A 0.0.0.0
-dns.karadag.me AAAA ::
-*.dns.karadag.me AAAA ::
 dns.karl.one A 0.0.0.0
 *.dns.karl.one A 0.0.0.0
 dns.karl.one AAAA ::
@@ -2997,6 +2993,10 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
+dns.simplylinux.ch A 0.0.0.0
+*.dns.simplylinux.ch A 0.0.0.0
+dns.simplylinux.ch AAAA ::
+*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -4697,10 +4697,6 @@ guardster.com A 0.0.0.0
 *.guardster.com A 0.0.0.0
 guardster.com AAAA ::
 *.guardster.com AAAA ::
-gustamadh.dynv6.net A 0.0.0.0
-*.gustamadh.dynv6.net A 0.0.0.0
-gustamadh.dynv6.net AAAA ::
-*.gustamadh.dynv6.net AAAA ::
 gva01.dnscry.pt A 0.0.0.0
 *.gva01.dnscry.pt A 0.0.0.0
 gva01.dnscry.pt AAAA ::
@@ -5681,6 +5677,10 @@ nsec.arnor.org A 0.0.0.0
 *.nsec.arnor.org A 0.0.0.0
 nsec.arnor.org AAAA ::
 *.nsec.arnor.org AAAA ::
+ns.karadag.me A 0.0.0.0
+*.ns.karadag.me A 0.0.0.0
+ns.karadag.me AAAA ::
+*.ns.karadag.me AAAA ::
 ns.mtsoln.com A 0.0.0.0
 *.ns.mtsoln.com A 0.0.0.0
 ns.mtsoln.com AAAA ::
@@ -6025,10 +6025,10 @@ polisitogel.show A 0.0.0.0
 *.polisitogel.show A 0.0.0.0
 polisitogel.show AAAA ::
 *.polisitogel.show AAAA ::
-polisitogel.we12vpx.com A 0.0.0.0
-*.polisitogel.we12vpx.com A 0.0.0.0
-polisitogel.we12vpx.com AAAA ::
-*.polisitogel.we12vpx.com AAAA ::
+polisitogel.webcam A 0.0.0.0
+*.polisitogel.webcam A 0.0.0.0
+polisitogel.webcam AAAA ::
+*.polisitogel.webcam AAAA ::
 pollproxy.info A 0.0.0.0
 *.pollproxy.info A 0.0.0.0
 pollproxy.info AAAA ::
