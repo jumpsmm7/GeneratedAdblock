@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605141627 ; Serial Number
+ 2605150427 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,10 +13,6 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -169,6 +165,10 @@ adb.timnichollsphotography.com A 0.0.0.0
 *.adb.timnichollsphotography.com A 0.0.0.0
 adb.timnichollsphotography.com AAAA ::
 *.adb.timnichollsphotography.com AAAA ::
+addns1.m-it.ro A 0.0.0.0
+*.addns1.m-it.ro A 0.0.0.0
+addns1.m-it.ro AAAA ::
+*.addns1.m-it.ro AAAA ::
 adfiltro.fun A 0.0.0.0
 *.adfiltro.fun A 0.0.0.0
 adfiltro.fun AAAA ::
@@ -1133,10 +1133,6 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
-dee.su A 0.0.0.0
-*.dee.su A 0.0.0.0
-dee.su AAAA ::
-*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1865,6 +1861,10 @@ dns.decloudus.com A 0.0.0.0
 *.dns.decloudus.com A 0.0.0.0
 dns.decloudus.com AAAA ::
 *.dns.decloudus.com AAAA ::
+dnsdee.su A 0.0.0.0
+*.dnsdee.su A 0.0.0.0
+dnsdee.su AAAA ::
+*.dnsdee.su AAAA ::
 dns.dekedin.me A 0.0.0.0
 *.dns.dekedin.me A 0.0.0.0
 dns.dekedin.me AAAA ::
@@ -1893,6 +1893,10 @@ dns.digitalsize.net A 0.0.0.0
 *.dns.digitalsize.net A 0.0.0.0
 dns.digitalsize.net AAAA ::
 *.dns.digitalsize.net AAAA ::
+dns.dk A 0.0.0.0
+*.dns.dk A 0.0.0.0
+dns.dk AAAA ::
+*.dns.dk AAAA ::
 dns.dns-53.com A 0.0.0.0
 *.dns.dns-53.com A 0.0.0.0
 dns.dns-53.com AAAA ::
@@ -1937,10 +1941,10 @@ dns-doh.dnsforfamily.com A 0.0.0.0
 *.dns-doh.dnsforfamily.com A 0.0.0.0
 dns-doh.dnsforfamily.com AAAA ::
 *.dns-doh.dnsforfamily.com AAAA ::
-dns-doh-no-safe-search.dnsforfirefox.dns.nextdns.io A 0.0.0.0
-*.dns-doh-no-safe-search.dnsforfirefox.dns.nextdns.io A 0.0.0.0
-dns-doh-no-safe-search.dnsforfirefox.dns.nextdns.io AAAA ::
-*.dns-doh-no-safe-search.dnsforfirefox.dns.nextdns.io AAAA ::
+dns-doh-no-safe-search.dnsforfamily.com A 0.0.0.0
+*.dns-doh-no-safe-search.dnsforfamily.com A 0.0.0.0
+dns-doh-no-safe-search.dnsforfamily.com AAAA ::
+*.dns-doh-no-safe-search.dnsforfamily.com AAAA ::
 dns-dot.dnsforfamily.com A 0.0.0.0
 *.dns-dot.dnsforfamily.com A 0.0.0.0
 dns-dot.dnsforfamily.com AAAA ::
@@ -1989,10 +1993,10 @@ dns.eliv.kr A 0.0.0.0
 *.dns.eliv.kr A 0.0.0.0
 dns.eliv.kr AAAA ::
 *.dns.eliv.kr AAAA ::
-dnsenc.com A 0.0.0.0
-*.dnsenc.com A 0.0.0.0
-dnsenc.com AAAA ::
-*.dnsenc.com AAAA ::
+dnsenc.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.dnsenc.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+dnsenc.1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.dnsenc.1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns.engineer.web.id A 0.0.0.0
 *.dns.engineer.web.id A 0.0.0.0
 dns.engineer.web.id AAAA ::
@@ -2361,10 +2365,6 @@ dns.karadag.me A 0.0.0.0
 *.dns.karadag.me A 0.0.0.0
 dns.karadag.me AAAA ::
 *.dns.karadag.me AAAA ::
-dns.karl.one A 0.0.0.0
-*.dns.karl.one A 0.0.0.0
-dns.karl.one AAAA ::
-*.dns.karl.one AAAA ::
 dns.kastner-online.de A 0.0.0.0
 *.dns.kastner-online.de A 0.0.0.0
 dns.kastner-online.de AAAA ::
@@ -2989,10 +2989,6 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
-dns.simplylinux.ch A 0.0.0.0
-*.dns.simplylinux.ch A 0.0.0.0
-dns.simplylinux.ch AAAA ::
-*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -3229,10 +3225,6 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
-dnswarden.com A 0.0.0.0
-*.dnswarden.com A 0.0.0.0
-dnswarden.com AAAA ::
-*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4177,10 +4169,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.epicbrowser.com A 0.0.0.0
-*.ecs-doh.epicbrowser.com A 0.0.0.0
-ecs-doh.epicbrowser.com AAAA ::
-*.ecs-doh.epicbrowser.com AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4281,10 +4273,6 @@ family.cloudflare-dns.com A 0.0.0.0
 *.family.cloudflare-dns.com A 0.0.0.0
 family.cloudflare-dns.com AAAA ::
 *.family.cloudflare-dns.com AAAA ::
-family.com A 0.0.0.0
-*.family.com A 0.0.0.0
-family.com AAAA ::
-*.family.com AAAA ::
 family.dns.doubleangels.com A 0.0.0.0
 *.family.dns.doubleangels.com A 0.0.0.0
 family.dns.doubleangels.com AAAA ::
@@ -4653,6 +4641,10 @@ google-public-dns-a.google.com A 0.0.0.0
 *.google-public-dns-a.google.com A 0.0.0.0
 google-public-dns-a.google.com AAAA ::
 *.google-public-dns-a.google.com AAAA ::
+google-public-dns-b012proxy.ga A 0.0.0.0
+*.google-public-dns-b012proxy.ga A 0.0.0.0
+google-public-dns-b012proxy.ga AAAA ::
+*.google-public-dns-b012proxy.ga AAAA ::
 google-public-dns-b.google.com A 0.0.0.0
 *.google-public-dns-b.google.com A 0.0.0.0
 google-public-dns-b.google.com AAAA ::
@@ -7409,6 +7401,10 @@ unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
 *.unicast.censurfridns.dk AAAA ::
+unicast.censurfriepicbrowser.com A 0.0.0.0
+*.unicast.censurfriepicbrowser.com A 0.0.0.0
+unicast.censurfriepicbrowser.com AAAA ::
+*.unicast.censurfriepicbrowser.com AAAA ::
 unicast.uncensoreddns.org A 0.0.0.0
 *.unicast.uncensoreddns.org A 0.0.0.0
 unicast.uncensoreddns.org AAAA ::
