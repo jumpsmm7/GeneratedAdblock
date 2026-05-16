@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605160430 ; Serial Number
+ 2605161630 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -17,6 +17,10 @@ $ORIGIN nobypass.rpz.
 *.012proxy.ga A 0.0.0.0
 012proxy.ga AAAA ::
 *.012proxy.ga AAAA ::
+01.dnscry.pt A 0.0.0.0
+*.01.dnscry.pt A 0.0.0.0
+01.dnscry.pt AAAA ::
+*.01.dnscry.pt AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -29,10 +33,6 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
-12vpx.com A 0.0.0.0
-*.12vpx.com A 0.0.0.0
-12vpx.com AAAA ::
-*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -1133,6 +1133,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -2385,10 +2389,10 @@ dns.kescher.at A 0.0.0.0
 *.dns.kescher.at A 0.0.0.0
 dns.kescher.at AAAA ::
 *.dns.kescher.at AAAA ::
-dns.keviland.dee.su A 0.0.0.0
-*.dns.keviland.dee.su A 0.0.0.0
-dns.keviland.dee.su AAAA ::
-*.dns.keviland.dee.su AAAA ::
+dns.keviland.com A 0.0.0.0
+*.dns.keviland.com A 0.0.0.0
+dns.keviland.com AAAA ::
+*.dns.keviland.com AAAA ::
 dns.keweon.center A 0.0.0.0
 *.dns.keweon.center A 0.0.0.0
 dns.keweon.center AAAA ::
@@ -2501,10 +2505,10 @@ dns.maitrekuc.fr A 0.0.0.0
 *.dns.maitrekuc.fr A 0.0.0.0
 dns.maitrekuc.fr AAAA ::
 *.dns.maitrekuc.fr AAAA ::
-dns-malwaresec.nordthreatprotection.com A 0.0.0.0
-*.dns-malwaresec.nordthreatprotection.com A 0.0.0.0
-dns-malwaresec.nordthreatprotection.com AAAA ::
-*.dns-malwaresec.nordthreatprotection.com AAAA ::
+dns-malwaresec.nordthreatprdarknet.to A 0.0.0.0
+*.dns-malwaresec.nordthreatprdarknet.to A 0.0.0.0
+dns-malwaresec.nordthreatprdarknet.to AAAA ::
+*.dns-malwaresec.nordthreatprdarknet.to AAAA ::
 dns.maolaohei.xyz A 0.0.0.0
 *.dns.maolaohei.xyz A 0.0.0.0
 dns.maolaohei.xyz AAAA ::
@@ -2729,6 +2733,10 @@ dns.oszx.co A 0.0.0.0
 *.dns.oszx.co A 0.0.0.0
 dns.oszx.co AAAA ::
 *.dns.oszx.co AAAA ::
+dnsotls.lab.nic.12vpx.com A 0.0.0.0
+*.dnsotls.lab.nic.12vpx.com A 0.0.0.0
+dnsotls.lab.nic.12vpx.com AAAA ::
+*.dnsotls.lab.nic.12vpx.com AAAA ::
 dnsotls.lab.nic.cl A 0.0.0.0
 *.dnsotls.lab.nic.cl A 0.0.0.0
 dnsotls.lab.nic.cl AAAA ::
@@ -2833,10 +2841,10 @@ dns-public.ibakerserver.pt A 0.0.0.0
 *.dns-public.ibakerserver.pt A 0.0.0.0
 dns-public.ibakerserver.pt AAAA ::
 *.dns-public.ibakerserver.pt AAAA ::
-dnspub.restena.l1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.dnspub.restena.l1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-dnspub.restena.l1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.dnspub.restena.l1dot1dot1dot1.cloudflare-dns.com AAAA ::
+dnspub.restena.lu A 0.0.0.0
+*.dnspub.restena.lu A 0.0.0.0
+dnspub.restena.lu AAAA ::
+*.dnspub.restena.lu AAAA ::
 dns.pumpkinvrar.com A 0.0.0.0
 *.dns.pumpkinvrar.com A 0.0.0.0
 dns.pumpkinvrar.com AAAA ::
@@ -2985,6 +2993,10 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
+dns.simplylinux.ch A 0.0.0.0
+*.dns.simplylinux.ch A 0.0.0.0
+dns.simplylinux.ch AAAA ::
+*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -4685,14 +4697,14 @@ gustamadh.dynv6.net A 0.0.0.0
 *.gustamadh.dynv6.net A 0.0.0.0
 gustamadh.dynv6.net AAAA ::
 *.gustamadh.dynv6.net AAAA ::
-gva01.dnscry.pt A 0.0.0.0
-*.gva01.dnscry.pt A 0.0.0.0
-gva01.dnscry.pt AAAA ::
-*.gva01.dnscry.pt AAAA ::
-gztechdarknet.to A 0.0.0.0
-*.gztechdarknet.to A 0.0.0.0
-gztechdarknet.to AAAA ::
-*.gztechdarknet.to AAAA ::
+gvaepicbrowser.com A 0.0.0.0
+*.gvaepicbrowser.com A 0.0.0.0
+gvaepicbrowser.com AAAA ::
+*.gvaepicbrowser.com AAAA ::
+gztech.me A 0.0.0.0
+*.gztech.me A 0.0.0.0
+gztech.me AAAA ::
+*.gztech.me AAAA ::
 haf01.dnscry.pt A 0.0.0.0
 *.haf01.dnscry.pt A 0.0.0.0
 haf01.dnscry.pt AAAA ::
@@ -5849,6 +5861,10 @@ o.rsaikat.com A 0.0.0.0
 *.o.rsaikat.com A 0.0.0.0
 o.rsaikat.com AAAA ::
 *.o.rsaikat.com AAAA ::
+otection.com A 0.0.0.0
+*.otection.com A 0.0.0.0
+otection.com AAAA ::
+*.otection.com AAAA ::
 overplay.net A 0.0.0.0
 *.overplay.net A 0.0.0.0
 overplay.net AAAA ::
@@ -6061,10 +6077,10 @@ prointern.info A 0.0.0.0
 *.prointern.info A 0.0.0.0
 prointern.info AAAA ::
 *.prointern.info AAAA ::
-project-evoex.depicbrowser.com A 0.0.0.0
-*.project-evoex.depicbrowser.com A 0.0.0.0
-project-evoex.depicbrowser.com AAAA ::
-*.project-evoex.depicbrowser.com AAAA ::
+project-evoex.de A 0.0.0.0
+*.project-evoex.de A 0.0.0.0
+project-evoex.de AAAA ::
+*.project-evoex.de AAAA ::
 pro.shecan.ir A 0.0.0.0
 *.pro.shecan.ir A 0.0.0.0
 pro.shecan.ir AAAA ::
