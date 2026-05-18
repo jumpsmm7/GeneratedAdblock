@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605171630 ; Serial Number
+ 2605180427 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -29,6 +29,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -729,6 +733,10 @@ biying.flymlc.com A 0.0.0.0
 *.biying.flymlc.com A 0.0.0.0
 biying.flymlc.com AAAA ::
 *.biying.flymlc.com AAAA ::
+blackhole.myon.lu A 0.0.0.0
+*.blackhole.myon.lu A 0.0.0.0
+blackhole.myon.lu AAAA ::
+*.blackhole.myon.lu AAAA ::
 blackvpn.com A 0.0.0.0
 *.blackvpn.com A 0.0.0.0
 blackvpn.com AAAA ::
@@ -1129,6 +1137,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -2381,10 +2393,10 @@ dns.kescher.at A 0.0.0.0
 *.dns.kescher.at A 0.0.0.0
 dns.kescher.at AAAA ::
 *.dns.kescher.at AAAA ::
-dns.keviland.com A 0.0.0.0
-*.dns.keviland.com A 0.0.0.0
-dns.keviland.com AAAA ::
-*.dns.keviland.com AAAA ::
+dns.keviland.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.dns.keviland.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+dns.keviland.1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.dns.keviland.1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns.keweon.center A 0.0.0.0
 *.dns.keweon.center A 0.0.0.0
 dns.keweon.center AAAA ::
@@ -2621,10 +2633,6 @@ dns.nas-server.ru A 0.0.0.0
 *.dns.nas-server.ru A 0.0.0.0
 dns.nas-server.ru AAAA ::
 *.dns.nas-server.ru AAAA ::
-dns-ndee.su A 0.0.0.0
-*.dns-ndee.su A 0.0.0.0
-dns-ndee.su AAAA ::
-*.dns-ndee.su AAAA ::
 dns.neeb.it A 0.0.0.0
 *.dns.neeb.it A 0.0.0.0
 dns.neeb.it AAAA ::
@@ -2833,10 +2841,10 @@ dns-public.ibakerserver.pt A 0.0.0.0
 *.dns-public.ibakerserver.pt A 0.0.0.0
 dns-public.ibakerserver.pt AAAA ::
 *.dns-public.ibakerserver.pt AAAA ::
-dnspub.restena.lu A 0.0.0.0
-*.dnspub.restena.lu A 0.0.0.0
-dnspub.restena.lu AAAA ::
-*.dnspub.restena.lu AAAA ::
+dnspub.restena.lepicbrowser.com A 0.0.0.0
+*.dnspub.restena.lepicbrowser.com A 0.0.0.0
+dnspub.restena.lepicbrowser.com AAAA ::
+*.dnspub.restena.lepicbrowser.com AAAA ::
 dns.pumpkinvrar.com A 0.0.0.0
 *.dns.pumpkinvrar.com A 0.0.0.0
 dns.pumpkinvrar.com AAAA ::
@@ -2985,10 +2993,6 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
-dns.simplylinux.ch A 0.0.0.0
-*.dns.simplylinux.ch A 0.0.0.0
-dns.simplylinux.ch AAAA ::
-*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -3225,10 +3229,6 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
-dnswarden.com A 0.0.0.0
-*.dnswarden.com A 0.0.0.0
-dnswarden.com AAAA ::
-*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4173,10 +4173,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.12vpx.com A 0.0.0.0
-*.ecs-doh.12vpx.com A 0.0.0.0
-ecs-doh.12vpx.com AAAA ::
-*.ecs-doh.12vpx.com AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4209,10 +4209,6 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
-epicbrowser.com A 0.0.0.0
-*.epicbrowser.com A 0.0.0.0
-epicbrowser.com AAAA ::
-*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4837,6 +4833,10 @@ hole.elbschloss.xyz A 0.0.0.0
 *.hole.elbschloss.xyz A 0.0.0.0
 hole.elbschloss.xyz AAAA ::
 *.hole.elbschloss.xyz AAAA ::
+home27.duckdns.org A 0.0.0.0
+*.home27.duckdns.org A 0.0.0.0
+home27.duckdns.org AAAA ::
+*.home27.duckdns.org AAAA ::
 home.enjoymylife.net A 0.0.0.0
 *.home.enjoymylife.net A 0.0.0.0
 home.enjoymylife.net AAAA ::
@@ -5109,6 +5109,10 @@ jp-tyo-w-p-1.nashkan.net A 0.0.0.0
 *.jp-tyo-w-p-1.nashkan.net A 0.0.0.0
 jp-tyo-w-p-1.nashkan.net AAAA ::
 *.jp-tyo-w-p-1.nashkan.net AAAA ::
+jurre-home.duckdns.org A 0.0.0.0
+*.jurre-home.duckdns.org A 0.0.0.0
+jurre-home.duckdns.org AAAA ::
+*.jurre-home.duckdns.org AAAA ::
 justhost.bedro.cloud A 0.0.0.0
 *.justhost.bedro.cloud A 0.0.0.0
 justhost.bedro.cloud AAAA ::
@@ -5853,10 +5857,6 @@ o.rsaikat.com A 0.0.0.0
 *.o.rsaikat.com A 0.0.0.0
 o.rsaikat.com AAAA ::
 *.o.rsaikat.com AAAA ::
-osec.quad9.net A 0.0.0.0
-*.osec.quad9.net A 0.0.0.0
-osec.quad9.net AAAA ::
-*.osec.quad9.net AAAA ::
 overplay.net A 0.0.0.0
 *.overplay.net A 0.0.0.0
 overplay.net AAAA ::
@@ -6069,10 +6069,10 @@ prointern.info A 0.0.0.0
 *.prointern.info A 0.0.0.0
 prointern.info AAAA ::
 *.prointern.info AAAA ::
-project-evoex.de A 0.0.0.0
-*.project-evoex.de A 0.0.0.0
-project-evoex.de AAAA ::
-*.project-evoex.de AAAA ::
+project-evoex.dfirefox.dns.nextdns.io A 0.0.0.0
+*.project-evoex.dfirefox.dns.nextdns.io A 0.0.0.0
+project-evoex.dfirefox.dns.nextdns.io AAAA ::
+*.project-evoex.dfirefox.dns.nextdns.io AAAA ::
 pro.shecan.ir A 0.0.0.0
 *.pro.shecan.ir A 0.0.0.0
 pro.shecan.ir AAAA ::
