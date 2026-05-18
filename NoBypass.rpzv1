@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605180427 ; Serial Number
+ 2605181627 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -11,8 +11,6 @@ $ORIGIN nobypass.rpz.
 
 003153.xyz CNAME .
 *.003153.xyz CNAME .
-012proxy.ga CNAME .
-*.012proxy.ga CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
@@ -267,6 +265,8 @@ ams01.dnscry.pt CNAME .
 *.ams01.dnscry.pt CNAME .
 ams02.dnscry.pt CNAME .
 *.ams02.dnscry.pt CNAME .
+an01.dnscry.pt CNAME .
+*.an01.dnscry.pt CNAME .
 aniscartujo.com CNAME .
 *.aniscartujo.com CNAME .
 anonine.com CNAME .
@@ -313,8 +313,6 @@ a.safe.ns.dnslify.com CNAME .
 *.a.safe.ns.dnslify.com CNAME .
 asia.dnscepat.id CNAME .
 *.asia.dnscepat.id CNAME .
-asia.tri-dns.net CNAME .
-*.asia.tri-dns.net CNAME .
 astrill.com CNAME .
 *.astrill.com CNAME .
 ath01.dnscry.pt CNAME .
@@ -573,8 +571,6 @@ de-dus.doh.sb CNAME .
 *.de-dus.doh.sb CNAME .
 deep-henchman-excuse.cfd CNAME .
 *.deep-henchman-excuse.cfd CNAME .
-dee.su CNAME .
-*.dee.su CNAME .
 de-f1.foxyfy.net CNAME .
 *.de-f1.foxyfy.net CNAME .
 defencevpn.com CNAME .
@@ -939,6 +935,8 @@ dns.decky.eu CNAME .
 *.dns.decky.eu CNAME .
 dns.decloudus.com CNAME .
 *.dns.decloudus.com CNAME .
+dns-dee.su CNAME .
+*.dns-dee.su CNAME .
 dns.dekedin.me CNAME .
 *.dns.dekedin.me CNAME .
 dns.developer.li CNAME .
@@ -1201,8 +1199,8 @@ dns.kernel-error.de CNAME .
 *.dns.kernel-error.de CNAME .
 dns.kescher.at CNAME .
 *.dns.kescher.at CNAME .
-dns.keviland.1dot1dot1dot1.cloudflare-dns.com CNAME .
-*.dns.keviland.1dot1dot1dot1.cloudflare-dns.com CNAME .
+dns.keviland.com CNAME .
+*.dns.keviland.com CNAME .
 dns.keweon.center CNAME .
 *.dns.keweon.center CNAME .
 dns.koala.us.to CNAME .
@@ -1425,8 +1423,8 @@ dns.pub CNAME .
 *.dns.pub CNAME .
 dns-public.ibakerserver.pt CNAME .
 *.dns-public.ibakerserver.pt CNAME .
-dnspub.restena.lepicbrowser.com CNAME .
-*.dnspub.restena.lepicbrowser.com CNAME .
+dnspub.restena012proxy.ga CNAME .
+*.dnspub.restena012proxy.ga CNAME .
 dns.pumpkinvrar.com CNAME .
 *.dns.pumpkinvrar.com CNAME .
 dns.pumplex.com CNAME .
@@ -1501,6 +1499,8 @@ dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
+dns.simplylinux.ch CNAME .
+*.dns.simplylinux.ch CNAME .
 dns.sindominio.net CNAME .
 *.dns.sindominio.net CNAME .
 dns.sitdns.com CNAME .
@@ -2109,6 +2109,8 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
+epicbrowser.com CNAME .
+*.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
 *.eropa.dnscepat.id CNAME .
 esel.stusta.mhn.de CNAME .
@@ -2119,8 +2121,6 @@ eth.link CNAME .
 *.eth.link CNAME .
 eu1.dns.lavate.ch CNAME .
 *.eu1.dns.lavate.ch CNAME .
-eu.tri-dns.net CNAME .
-*.eu.tri-dns.net CNAME .
 evn01.dnscry.pt CNAME .
 *.evn01.dnscry.pt CNAME .
 evyy.net CNAME .
@@ -2349,16 +2349,12 @@ guard.sntrk.ru CNAME .
 *.guard.sntrk.ru CNAME .
 guardster.com CNAME .
 *.guardster.com CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 gva01.dnscry.pt CNAME .
 *.gva01.dnscry.pt CNAME .
 gztech.me CNAME .
 *.gztech.me CNAME .
 haf01.dnscry.pt CNAME .
 *.haf01.dnscry.pt CNAME .
-han01.dnscry.pt CNAME .
-*.han01.dnscry.pt CNAME .
 hard.dnsforge.de CNAME .
 *.hard.dnsforge.de CNAME .
 hel01.dnscry.pt CNAME .
@@ -2369,6 +2365,8 @@ helloworld.cx CNAME .
 *.helloworld.cx CNAME .
 hfgx.shop CNAME .
 *.hfgx.shop CNAME .
+hfirefox.dns.nextdns.io CNAME .
+*.hfirefox.dns.nextdns.io CNAME .
 h.gjrick.tw CNAME .
 *.h.gjrick.tw CNAME .
 hiddendigital.info CNAME .
@@ -2793,6 +2791,8 @@ noads.joindns4.eu CNAME .
 *.noads.joindns4.eu CNAME .
 nordvpn.com CNAME .
 *.nordvpn.com CNAME .
+nosec.quad9.net CNAME .
+*.nosec.quad9.net CNAME .
 ns.00dani.me CNAME .
 *.ns.00dani.me CNAME .
 ns0.fdn.fr CNAME .
@@ -3039,8 +3039,8 @@ privatnas.servebeer.com CNAME .
 *.privatnas.servebeer.com CNAME .
 prointern.info CNAME .
 *.prointern.info CNAME .
-project-evoex.dfirefox.dns.nextdns.io CNAME .
-*.project-evoex.dfirefox.dns.nextdns.io CNAME .
+project-evoex.de CNAME .
+*.project-evoex.de CNAME .
 pro.shecan.ir CNAME .
 *.pro.shecan.ir CNAME .
 protected.canadianshield.cira.ca CNAME .
@@ -3359,8 +3359,6 @@ sec-tunnel.com CNAME .
 *.sec-tunnel.com CNAME .
 secure.anudeep.me CNAME .
 *.secure.anudeep.me CNAME .
-secure.avastdns.com CNAME .
-*.secure.avastdns.com CNAME .
 secure-dns.pleumkungz.com CNAME .
 *.secure-dns.pleumkungz.com CNAME .
 securedns.vendorvista.xyz CNAME .

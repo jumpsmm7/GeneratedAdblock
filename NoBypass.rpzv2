@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605180427 ; Serial Number
+ 2605181627 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,10 +13,6 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -525,6 +521,10 @@ ams02.dnscry.pt A 0.0.0.0
 *.ams02.dnscry.pt A 0.0.0.0
 ams02.dnscry.pt AAAA ::
 *.ams02.dnscry.pt AAAA ::
+an01.dnscry.pt A 0.0.0.0
+*.an01.dnscry.pt A 0.0.0.0
+an01.dnscry.pt AAAA ::
+*.an01.dnscry.pt AAAA ::
 aniscartujo.com A 0.0.0.0
 *.aniscartujo.com A 0.0.0.0
 aniscartujo.com AAAA ::
@@ -617,10 +617,6 @@ asia.dnscepat.id A 0.0.0.0
 *.asia.dnscepat.id A 0.0.0.0
 asia.dnscepat.id AAAA ::
 *.asia.dnscepat.id AAAA ::
-asia.tri-dns.net A 0.0.0.0
-*.asia.tri-dns.net A 0.0.0.0
-asia.tri-dns.net AAAA ::
-*.asia.tri-dns.net AAAA ::
 astrill.com A 0.0.0.0
 *.astrill.com A 0.0.0.0
 astrill.com AAAA ::
@@ -1137,10 +1133,6 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
-dee.su A 0.0.0.0
-*.dee.su A 0.0.0.0
-dee.su AAAA ::
-*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1869,6 +1861,10 @@ dns.decloudus.com A 0.0.0.0
 *.dns.decloudus.com A 0.0.0.0
 dns.decloudus.com AAAA ::
 *.dns.decloudus.com AAAA ::
+dns-dee.su A 0.0.0.0
+*.dns-dee.su A 0.0.0.0
+dns-dee.su AAAA ::
+*.dns-dee.su AAAA ::
 dns.dekedin.me A 0.0.0.0
 *.dns.dekedin.me A 0.0.0.0
 dns.dekedin.me AAAA ::
@@ -2393,10 +2389,10 @@ dns.kescher.at A 0.0.0.0
 *.dns.kescher.at A 0.0.0.0
 dns.kescher.at AAAA ::
 *.dns.kescher.at AAAA ::
-dns.keviland.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.dns.keviland.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-dns.keviland.1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.dns.keviland.1dot1dot1dot1.cloudflare-dns.com AAAA ::
+dns.keviland.com A 0.0.0.0
+*.dns.keviland.com A 0.0.0.0
+dns.keviland.com AAAA ::
+*.dns.keviland.com AAAA ::
 dns.keweon.center A 0.0.0.0
 *.dns.keweon.center A 0.0.0.0
 dns.keweon.center AAAA ::
@@ -2841,10 +2837,10 @@ dns-public.ibakerserver.pt A 0.0.0.0
 *.dns-public.ibakerserver.pt A 0.0.0.0
 dns-public.ibakerserver.pt AAAA ::
 *.dns-public.ibakerserver.pt AAAA ::
-dnspub.restena.lepicbrowser.com A 0.0.0.0
-*.dnspub.restena.lepicbrowser.com A 0.0.0.0
-dnspub.restena.lepicbrowser.com AAAA ::
-*.dnspub.restena.lepicbrowser.com AAAA ::
+dnspub.restena012proxy.ga A 0.0.0.0
+*.dnspub.restena012proxy.ga A 0.0.0.0
+dnspub.restena012proxy.ga AAAA ::
+*.dnspub.restena012proxy.ga AAAA ::
 dns.pumpkinvrar.com A 0.0.0.0
 *.dns.pumpkinvrar.com A 0.0.0.0
 dns.pumpkinvrar.com AAAA ::
@@ -2993,6 +2989,10 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
+dns.simplylinux.ch A 0.0.0.0
+*.dns.simplylinux.ch A 0.0.0.0
+dns.simplylinux.ch AAAA ::
+*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -4209,6 +4209,10 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
+epicbrowser.com A 0.0.0.0
+*.epicbrowser.com A 0.0.0.0
+epicbrowser.com AAAA ::
+*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4229,10 +4233,6 @@ eu1.dns.lavate.ch A 0.0.0.0
 *.eu1.dns.lavate.ch A 0.0.0.0
 eu1.dns.lavate.ch AAAA ::
 *.eu1.dns.lavate.ch AAAA ::
-eu.tri-dns.net A 0.0.0.0
-*.eu.tri-dns.net A 0.0.0.0
-eu.tri-dns.net AAAA ::
-*.eu.tri-dns.net AAAA ::
 evn01.dnscry.pt A 0.0.0.0
 *.evn01.dnscry.pt A 0.0.0.0
 evn01.dnscry.pt AAAA ::
@@ -4689,10 +4689,6 @@ guardster.com A 0.0.0.0
 *.guardster.com A 0.0.0.0
 guardster.com AAAA ::
 *.guardster.com AAAA ::
-gustamadh.dynv6.net A 0.0.0.0
-*.gustamadh.dynv6.net A 0.0.0.0
-gustamadh.dynv6.net AAAA ::
-*.gustamadh.dynv6.net AAAA ::
 gva01.dnscry.pt A 0.0.0.0
 *.gva01.dnscry.pt A 0.0.0.0
 gva01.dnscry.pt AAAA ::
@@ -4705,10 +4701,6 @@ haf01.dnscry.pt A 0.0.0.0
 *.haf01.dnscry.pt A 0.0.0.0
 haf01.dnscry.pt AAAA ::
 *.haf01.dnscry.pt AAAA ::
-han01.dnscry.pt A 0.0.0.0
-*.han01.dnscry.pt A 0.0.0.0
-han01.dnscry.pt AAAA ::
-*.han01.dnscry.pt AAAA ::
 hard.dnsforge.de A 0.0.0.0
 *.hard.dnsforge.de A 0.0.0.0
 hard.dnsforge.de AAAA ::
@@ -4729,6 +4721,10 @@ hfgx.shop A 0.0.0.0
 *.hfgx.shop A 0.0.0.0
 hfgx.shop AAAA ::
 *.hfgx.shop AAAA ::
+hfirefox.dns.nextdns.io A 0.0.0.0
+*.hfirefox.dns.nextdns.io A 0.0.0.0
+hfirefox.dns.nextdns.io AAAA ::
+*.hfirefox.dns.nextdns.io AAAA ::
 h.gjrick.tw A 0.0.0.0
 *.h.gjrick.tw A 0.0.0.0
 h.gjrick.tw AAAA ::
@@ -5577,6 +5573,10 @@ nordvpn.com A 0.0.0.0
 *.nordvpn.com A 0.0.0.0
 nordvpn.com AAAA ::
 *.nordvpn.com AAAA ::
+nosec.quad9.net A 0.0.0.0
+*.nosec.quad9.net A 0.0.0.0
+nosec.quad9.net AAAA ::
+*.nosec.quad9.net AAAA ::
 ns.00dani.me A 0.0.0.0
 *.ns.00dani.me A 0.0.0.0
 ns.00dani.me AAAA ::
@@ -6069,10 +6069,10 @@ prointern.info A 0.0.0.0
 *.prointern.info A 0.0.0.0
 prointern.info AAAA ::
 *.prointern.info AAAA ::
-project-evoex.dfirefox.dns.nextdns.io A 0.0.0.0
-*.project-evoex.dfirefox.dns.nextdns.io A 0.0.0.0
-project-evoex.dfirefox.dns.nextdns.io AAAA ::
-*.project-evoex.dfirefox.dns.nextdns.io AAAA ::
+project-evoex.de A 0.0.0.0
+*.project-evoex.de A 0.0.0.0
+project-evoex.de AAAA ::
+*.project-evoex.de AAAA ::
 pro.shecan.ir A 0.0.0.0
 *.pro.shecan.ir A 0.0.0.0
 pro.shecan.ir AAAA ::
@@ -6709,10 +6709,6 @@ secure.anudeep.me A 0.0.0.0
 *.secure.anudeep.me A 0.0.0.0
 secure.anudeep.me AAAA ::
 *.secure.anudeep.me AAAA ::
-secure.avastdns.com A 0.0.0.0
-*.secure.avastdns.com A 0.0.0.0
-secure.avastdns.com AAAA ::
-*.secure.avastdns.com AAAA ::
 secure-dns.pleumkungz.com A 0.0.0.0
 *.secure-dns.pleumkungz.com A 0.0.0.0
 secure-dns.pleumkungz.com AAAA ::
