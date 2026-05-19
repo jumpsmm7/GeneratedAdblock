@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605181627 ; Serial Number
+ 2605190427 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,6 +13,10 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
+012proxy.ga A 0.0.0.0
+*.012proxy.ga A 0.0.0.0
+012proxy.ga AAAA ::
+*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -521,10 +525,6 @@ ams02.dnscry.pt A 0.0.0.0
 *.ams02.dnscry.pt A 0.0.0.0
 ams02.dnscry.pt AAAA ::
 *.ams02.dnscry.pt AAAA ::
-an01.dnscry.pt A 0.0.0.0
-*.an01.dnscry.pt A 0.0.0.0
-an01.dnscry.pt AAAA ::
-*.an01.dnscry.pt AAAA ::
 aniscartujo.com A 0.0.0.0
 *.aniscartujo.com A 0.0.0.0
 aniscartujo.com AAAA ::
@@ -617,6 +617,10 @@ asia.dnscepat.id A 0.0.0.0
 *.asia.dnscepat.id A 0.0.0.0
 asia.dnscepat.id AAAA ::
 *.asia.dnscepat.id AAAA ::
+asia.tri-dns.net A 0.0.0.0
+*.asia.tri-dns.net A 0.0.0.0
+asia.tri-dns.net AAAA ::
+*.asia.tri-dns.net AAAA ::
 astrill.com A 0.0.0.0
 *.astrill.com A 0.0.0.0
 astrill.com AAAA ::
@@ -681,10 +685,6 @@ awebproxy.com A 0.0.0.0
 *.awebproxy.com A 0.0.0.0
 awebproxy.com AAAA ::
 *.awebproxy.com AAAA ::
-axaxa.fun A 0.0.0.0
-*.axaxa.fun A 0.0.0.0
-axaxa.fun AAAA ::
-*.axaxa.fun AAAA ::
 azirevpn.com A 0.0.0.0
 *.azirevpn.com A 0.0.0.0
 azirevpn.com AAAA ::
@@ -1101,10 +1101,6 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1117,6 +1113,10 @@ d.bod.lol A 0.0.0.0
 *.d.bod.lol A 0.0.0.0
 d.bod.lol AAAA ::
 *.d.bod.lol AAAA ::
+d.com A 0.0.0.0
+*.d.com A 0.0.0.0
+d.com AAAA ::
+*.d.com AAAA ::
 de01.dns4me.net A 0.0.0.0
 *.de01.dns4me.net A 0.0.0.0
 de01.dns4me.net AAAA ::
@@ -1861,10 +1861,6 @@ dns.decloudus.com A 0.0.0.0
 *.dns.decloudus.com A 0.0.0.0
 dns.decloudus.com AAAA ::
 *.dns.decloudus.com AAAA ::
-dns-dee.su A 0.0.0.0
-*.dns-dee.su A 0.0.0.0
-dns-dee.su AAAA ::
-*.dns-dee.su AAAA ::
 dns.dekedin.me A 0.0.0.0
 *.dns.dekedin.me A 0.0.0.0
 dns.dekedin.me AAAA ::
@@ -1953,6 +1949,10 @@ dns.dremaxx.de A 0.0.0.0
 *.dns.dremaxx.de A 0.0.0.0
 dns.dremaxx.de AAAA ::
 *.dns.dremaxx.de AAAA ::
+dns.dyn1.de A 0.0.0.0
+*.dns.dyn1.de A 0.0.0.0
+dns.dyn1.de AAAA ::
+*.dns.dyn1.de AAAA ::
 dns.east.comss.one A 0.0.0.0
 *.dns.east.comss.one A 0.0.0.0
 dns.east.comss.one AAAA ::
@@ -2389,10 +2389,10 @@ dns.kescher.at A 0.0.0.0
 *.dns.kescher.at A 0.0.0.0
 dns.kescher.at AAAA ::
 *.dns.kescher.at AAAA ::
-dns.keviland.com A 0.0.0.0
-*.dns.keviland.com A 0.0.0.0
-dns.keviland.com AAAA ::
-*.dns.keviland.com AAAA ::
+dns.kevilandarknet.to A 0.0.0.0
+*.dns.kevilandarknet.to A 0.0.0.0
+dns.kevilandarknet.to AAAA ::
+*.dns.kevilandarknet.to AAAA ::
 dns.keweon.center A 0.0.0.0
 *.dns.keweon.center A 0.0.0.0
 dns.keweon.center AAAA ::
@@ -2505,10 +2505,10 @@ dns.maitrekuc.fr A 0.0.0.0
 *.dns.maitrekuc.fr A 0.0.0.0
 dns.maitrekuc.fr AAAA ::
 *.dns.maitrekuc.fr AAAA ::
-dns-malwaresec.nordthreatprotection.com A 0.0.0.0
-*.dns-malwaresec.nordthreatprotection.com A 0.0.0.0
-dns-malwaresec.nordthreatprotection.com AAAA ::
-*.dns-malwaresec.nordthreatprotection.com AAAA ::
+dns-malwaresec.nordthreatprotection.cdee.su A 0.0.0.0
+*.dns-malwaresec.nordthreatprotection.cdee.su A 0.0.0.0
+dns-malwaresec.nordthreatprotection.cdee.su AAAA ::
+*.dns-malwaresec.nordthreatprotection.cdee.su AAAA ::
 dns.maolaohei.xyz A 0.0.0.0
 *.dns.maolaohei.xyz A 0.0.0.0
 dns.maolaohei.xyz AAAA ::
@@ -2837,10 +2837,10 @@ dns-public.ibakerserver.pt A 0.0.0.0
 *.dns-public.ibakerserver.pt A 0.0.0.0
 dns-public.ibakerserver.pt AAAA ::
 *.dns-public.ibakerserver.pt AAAA ::
-dnspub.restena012proxy.ga A 0.0.0.0
-*.dnspub.restena012proxy.ga A 0.0.0.0
-dnspub.restena012proxy.ga AAAA ::
-*.dnspub.restena012proxy.ga AAAA ::
+dnspub.restena.lu A 0.0.0.0
+*.dnspub.restena.lu A 0.0.0.0
+dnspub.restena.lu AAAA ::
+*.dnspub.restena.lu AAAA ::
 dns.pumpkinvrar.com A 0.0.0.0
 *.dns.pumpkinvrar.com A 0.0.0.0
 dns.pumpkinvrar.com AAAA ::
@@ -2973,10 +2973,6 @@ dns.shareworx.net A 0.0.0.0
 *.dns.shareworx.net A 0.0.0.0
 dns.shareworx.net AAAA ::
 *.dns.shareworx.net AAAA ::
-dns.shecan.ir A 0.0.0.0
-*.dns.shecan.ir A 0.0.0.0
-dns.shecan.ir AAAA ::
-*.dns.shecan.ir AAAA ::
 dns.sheggi.ch A 0.0.0.0
 *.dns.sheggi.ch A 0.0.0.0
 dns.sheggi.ch AAAA ::
@@ -2989,10 +2985,6 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
-dns.simplylinux.ch A 0.0.0.0
-*.dns.simplylinux.ch A 0.0.0.0
-dns.simplylinux.ch AAAA ::
-*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -4233,6 +4225,10 @@ eu1.dns.lavate.ch A 0.0.0.0
 *.eu1.dns.lavate.ch A 0.0.0.0
 eu1.dns.lavate.ch AAAA ::
 *.eu1.dns.lavate.ch AAAA ::
+eu.tri-dns.net A 0.0.0.0
+*.eu.tri-dns.net A 0.0.0.0
+eu.tri-dns.net AAAA ::
+*.eu.tri-dns.net AAAA ::
 evn01.dnscry.pt A 0.0.0.0
 *.evn01.dnscry.pt A 0.0.0.0
 evn01.dnscry.pt AAAA ::
@@ -4701,6 +4697,10 @@ haf01.dnscry.pt A 0.0.0.0
 *.haf01.dnscry.pt A 0.0.0.0
 haf01.dnscry.pt AAAA ::
 *.haf01.dnscry.pt AAAA ::
+han01.dnscry.pt A 0.0.0.0
+*.han01.dnscry.pt A 0.0.0.0
+han01.dnscry.pt AAAA ::
+*.han01.dnscry.pt AAAA ::
 hard.dnsforge.de A 0.0.0.0
 *.hard.dnsforge.de A 0.0.0.0
 hard.dnsforge.de AAAA ::
@@ -4721,10 +4721,6 @@ hfgx.shop A 0.0.0.0
 *.hfgx.shop A 0.0.0.0
 hfgx.shop AAAA ::
 *.hfgx.shop AAAA ::
-hfirefox.dns.nextdns.io A 0.0.0.0
-*.hfirefox.dns.nextdns.io A 0.0.0.0
-hfirefox.dns.nextdns.io AAAA ::
-*.hfirefox.dns.nextdns.io AAAA ::
 h.gjrick.tw A 0.0.0.0
 *.h.gjrick.tw A 0.0.0.0
 h.gjrick.tw AAAA ::
@@ -5573,10 +5569,6 @@ nordvpn.com A 0.0.0.0
 *.nordvpn.com A 0.0.0.0
 nordvpn.com AAAA ::
 *.nordvpn.com AAAA ::
-nosec.quad9.net A 0.0.0.0
-*.nosec.quad9.net A 0.0.0.0
-nosec.quad9.net AAAA ::
-*.nosec.quad9.net AAAA ::
 ns.00dani.me A 0.0.0.0
 *.ns.00dani.me A 0.0.0.0
 ns.00dani.me AAAA ::
@@ -6713,10 +6705,6 @@ secure-dns.pleumkungz.com A 0.0.0.0
 *.secure-dns.pleumkungz.com A 0.0.0.0
 secure-dns.pleumkungz.com AAAA ::
 *.secure-dns.pleumkungz.com AAAA ::
-securedns.vendorvista.xyz A 0.0.0.0
-*.securedns.vendorvista.xyz A 0.0.0.0
-securedns.vendorvista.xyz AAAA ::
-*.securedns.vendorvista.xyz AAAA ::
 secure.hafnova.com A 0.0.0.0
 *.secure.hafnova.com A 0.0.0.0
 secure.hafnova.com AAAA ::
@@ -6809,10 +6797,6 @@ shield.afixer.app A 0.0.0.0
 *.shield.afixer.app A 0.0.0.0
 shield.afixer.app AAAA ::
 *.shield.afixer.app AAAA ::
-shitblocker.com A 0.0.0.0
-*.shitblocker.com A 0.0.0.0
-shitblocker.com AAAA ::
-*.shitblocker.com AAAA ::
 sin02.dnscry.pt A 0.0.0.0
 *.sin02.dnscry.pt A 0.0.0.0
 sin02.dnscry.pt AAAA ::
