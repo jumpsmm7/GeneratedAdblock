@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605201627 ; Serial Number
+ 2605210427 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -19,6 +19,8 @@ $ORIGIN nobypass.rpz.
 *.123000123.xyz CNAME .
 123-24.eport.gr CNAME .
 *.123-24.eport.gr CNAME .
+12vpx.com CNAME .
+*.12vpx.com CNAME .
 1a.ns.ozer.im CNAME .
 *.1a.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
@@ -553,8 +555,6 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 darkness.is.my.waifu.cz CNAME .
 *.darkness.is.my.waifu.cz CNAME .
-darknet.to CNAME .
-*.darknet.to CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
@@ -595,8 +595,6 @@ dfw02.dnscry.pt CNAME .
 *.dfw02.dnscry.pt CNAME .
 digi77.com CNAME .
 *.digi77.com CNAME .
-dmask.icloud.com CNAME .
-*.dmask.icloud.com CNAME .
 d.niaox.com CNAME .
 *.d.niaox.com CNAME .
 dns01.flm9.net CNAME .
@@ -1199,10 +1197,12 @@ dns.kerekes.xyz CNAME .
 *.dns.kerekes.xyz CNAME .
 dns.kernel-error.de CNAME .
 *.dns.kernel-error.de CNAME .
-dns.kescher.a12vpx.com CNAME .
-*.dns.kescher.a12vpx.com CNAME .
+dns.kescher.at CNAME .
+*.dns.kescher.at CNAME .
 dns.keviland.com CNAME .
 *.dns.keviland.com CNAME .
+dns.keweon1dot1dot1dot1.cloudflare-dns.com CNAME .
+*.dns.keweon1dot1dot1dot1.cloudflare-dns.com CNAME .
 dns.keweon.center CNAME .
 *.dns.keweon.center CNAME .
 dns.koala.us.to CNAME .
@@ -1259,8 +1259,8 @@ dns.lvolland.fr CNAME .
 *.dns.lvolland.fr CNAME .
 dns.maitrekuc.fr CNAME .
 *.dns.maitrekuc.fr CNAME .
-dns-malwaresec.nordthreatprotection.cdee.su CNAME .
-*.dns-malwaresec.nordthreatprotection.cdee.su CNAME .
+dns-malwaresec.nordthreatprotection.com CNAME .
+*.dns-malwaresec.nordthreatprotection.com CNAME .
 dns.maolaohei.xyz CNAME .
 *.dns.maolaohei.xyz CNAME .
 dns.marasov.id CNAME .
@@ -1415,8 +1415,8 @@ dns.porteii.com CNAME .
 *.dns.porteii.com CNAME .
 dns.practicallyunhackable.com CNAME .
 *.dns.practicallyunhackable.com CNAME .
-dns-privacy.puregeni.us CNAME .
-*.dns-privacy.puregeni.us CNAME .
+dns-prdee.su CNAME .
+*.dns-prdee.su CNAME .
 dns.propheci.xyz CNAME .
 *.dns.propheci.xyz CNAME .
 dns.psociety.de CNAME .
@@ -1501,8 +1501,6 @@ dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
-dns.simplylinux.ch CNAME .
-*.dns.simplylinux.ch CNAME .
 dns.sindominio.net CNAME .
 *.dns.sindominio.net CNAME .
 dns.sitdns.com CNAME .
@@ -1573,8 +1571,8 @@ dns-tls.bitwiseshift.net CNAME .
 *.dns-tls.bitwiseshift.net CNAME .
 dns.tls-data.de CNAME .
 *.dns.tls-data.de CNAME .
-dnstls.mobik.com CNAME .
-*.dnstls.mobik.com CNAME .
+dnstls.mobikmask.icloud.com CNAME .
+*.dnstls.mobikmask.icloud.com CNAME .
 dns.tracker.ink CNAME .
 *.dns.tracker.ink CNAME .
 dns.tryk.app CNAME .
@@ -1621,6 +1619,8 @@ dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
+dnswarden.com CNAME .
+*.dnswarden.com CNAME .
 dns.wargan.io CNAME .
 *.dns.wargan.io CNAME .
 dns.warpnine.de CNAME .
@@ -2093,8 +2093,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.dnswarden.com CNAME .
-*.ecs-doh.dnswarden.com CNAME .
+ecs-doh.darknet.to CNAME .
+*.ecs-doh.darknet.to CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2353,8 +2353,8 @@ guard.sntrk.ru CNAME .
 *.guard.sntrk.ru CNAME .
 guardster.com CNAME .
 *.guardster.com CNAME .
-gva01.dn1dot1dot1dot1.cloudflare-dns.com CNAME .
-*.gva01.dn1dot1dot1dot1.cloudflare-dns.com CNAME .
+gva01.dnscry.pt CNAME .
+*.gva01.dnscry.pt CNAME .
 gztech.me CNAME .
 *.gztech.me CNAME .
 haf01.dnscry.pt CNAME .
@@ -2513,6 +2513,8 @@ itopvpn.com CNAME .
 *.itopvpn.com CNAME .
 ivacy.com CNAME .
 *.ivacy.com CNAME .
+ivacy.puregeni.us CNAME .
+*.ivacy.puregeni.us CNAME .
 ivnkn.xyz CNAME .
 *.ivnkn.xyz CNAME .
 ivpn.net CNAME .
@@ -2847,8 +2849,6 @@ ns.net.kg CNAME .
 *.ns.net.kg CNAME .
 ns.nwps.fi CNAME .
 *.ns.nwps.fi CNAME .
-nsotls.lab.nic.cl CNAME .
-*.nsotls.lab.nic.cl CNAME .
 ns.ral9005.org CNAME .
 *.ns.ral9005.org CNAME .
 ns.trcnet.fi CNAME .
@@ -3343,8 +3343,6 @@ saoudiproxy.info CNAME .
 *.saoudiproxy.info CNAME .
 sbdns.co.in CNAME .
 *.sbdns.co.in CNAME .
-scry.pt CNAME .
-*.scry.pt CNAME .
 sdns22.gkonuralp.com CNAME .
 *.sdns22.gkonuralp.com CNAME .
 sdns.233py.com CNAME .
