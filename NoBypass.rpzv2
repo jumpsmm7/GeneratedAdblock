@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605211627 ; Serial Number
+ 2605220430 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -29,10 +29,6 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
-12vpx.com A 0.0.0.0
-*.12vpx.com A 0.0.0.0
-12vpx.com AAAA ::
-*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -601,6 +597,10 @@ arashi.net.eu.org A 0.0.0.0
 *.arashi.net.eu.org A 0.0.0.0
 arashi.net.eu.org AAAA ::
 *.arashi.net.eu.org AAAA ::
+ard.dnsforge.de A 0.0.0.0
+*.ard.dnsforge.de A 0.0.0.0
+ard.dnsforge.de AAAA ::
+*.ard.dnsforge.de AAAA ::
 area51.mywire.org A 0.0.0.0
 *.area51.mywire.org A 0.0.0.0
 area51.mywire.org AAAA ::
@@ -1101,10 +1101,6 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -2513,10 +2509,10 @@ dns.maitrekuc.fr A 0.0.0.0
 *.dns.maitrekuc.fr A 0.0.0.0
 dns.maitrekuc.fr AAAA ::
 *.dns.maitrekuc.fr AAAA ::
-dns-malwaresec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.dns-malwaresec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-dns-malwaresec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.dns-malwaresec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com AAAA ::
+dns-malwaresec.nordthreatprotection.cdarknet.to A 0.0.0.0
+*.dns-malwaresec.nordthreatprotection.cdarknet.to A 0.0.0.0
+dns-malwaresec.nordthreatprotection.cdarknet.to AAAA ::
+*.dns-malwaresec.nordthreatprotection.cdarknet.to AAAA ::
 dns.maolaohei.xyz A 0.0.0.0
 *.dns.maolaohei.xyz A 0.0.0.0
 dns.maolaohei.xyz AAAA ::
@@ -3701,10 +3697,6 @@ doh.maskab.com A 0.0.0.0
 *.doh.maskab.com A 0.0.0.0
 doh.maskab.com AAAA ::
 *.doh.maskab.com AAAA ::
-doh.max.net.id A 0.0.0.0
-*.doh.max.net.id A 0.0.0.0
-doh.max.net.id AAAA ::
-*.doh.max.net.id AAAA ::
 doh.mmmalia.com A 0.0.0.0
 *.doh.mmmalia.com A 0.0.0.0
 doh.mmmalia.com AAAA ::
@@ -4701,6 +4693,10 @@ gztech.me A 0.0.0.0
 *.gztech.me A 0.0.0.0
 gztech.me AAAA ::
 *.gztech.me AAAA ::
+h12vpx.com A 0.0.0.0
+*.h12vpx.com A 0.0.0.0
+h12vpx.com AAAA ::
+*.h12vpx.com AAAA ::
 haf01.dnscry.pt A 0.0.0.0
 *.haf01.dnscry.pt A 0.0.0.0
 haf01.dnscry.pt AAAA ::
@@ -4709,10 +4705,6 @@ han01.dnscry.pt A 0.0.0.0
 *.han01.dnscry.pt A 0.0.0.0
 han01.dnscry.pt AAAA ::
 *.han01.dnscry.pt AAAA ::
-hard.dnsforge.de A 0.0.0.0
-*.hard.dnsforge.de A 0.0.0.0
-hard.dnsforge.de AAAA ::
-*.hard.dnsforge.de AAAA ::
 hel01.dnscry.pt A 0.0.0.0
 *.hel01.dnscry.pt A 0.0.0.0
 hel01.dnscry.pt AAAA ::

@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605211627 ; Serial Number
+ 2605220430 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -19,8 +19,6 @@ $ORIGIN nobypass.rpz.
 *.123000123.xyz CNAME .
 123-24.eport.gr CNAME .
 *.123-24.eport.gr CNAME .
-12vpx.com CNAME .
-*.12vpx.com CNAME .
 1a.ns.ozer.im CNAME .
 *.1a.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
@@ -305,6 +303,8 @@ arashi.eu.org CNAME .
 *.arashi.eu.org CNAME .
 arashi.net.eu.org CNAME .
 *.arashi.net.eu.org CNAME .
+ard.dnsforge.de CNAME .
+*.ard.dnsforge.de CNAME .
 area51.mywire.org CNAME .
 *.area51.mywire.org CNAME .
 armorrush.eu.org CNAME .
@@ -555,8 +555,6 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 darkness.is.my.waifu.cz CNAME .
 *.darkness.is.my.waifu.cz CNAME .
-darknet.to CNAME .
-*.darknet.to CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
@@ -1261,8 +1259,8 @@ dns.lvolland.fr CNAME .
 *.dns.lvolland.fr CNAME .
 dns.maitrekuc.fr CNAME .
 *.dns.maitrekuc.fr CNAME .
-dns-malwaresec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com CNAME .
-*.dns-malwaresec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com CNAME .
+dns-malwaresec.nordthreatprotection.cdarknet.to CNAME .
+*.dns-malwaresec.nordthreatprotection.cdarknet.to CNAME .
 dns.maolaohei.xyz CNAME .
 *.dns.maolaohei.xyz CNAME .
 dns.marasov.id CNAME .
@@ -1855,8 +1853,6 @@ doh.lv CNAME .
 *.doh.lv CNAME .
 doh.maskab.com CNAME .
 *.doh.maskab.com CNAME .
-doh.max.net.id CNAME .
-*.doh.max.net.id CNAME .
 doh.mmmalia.com CNAME .
 *.doh.mmmalia.com CNAME .
 doh.mullvad.net CNAME .
@@ -2355,12 +2351,12 @@ gva01.dnscry.pt CNAME .
 *.gva01.dnscry.pt CNAME .
 gztech.me CNAME .
 *.gztech.me CNAME .
+h12vpx.com CNAME .
+*.h12vpx.com CNAME .
 haf01.dnscry.pt CNAME .
 *.haf01.dnscry.pt CNAME .
 han01.dnscry.pt CNAME .
 *.han01.dnscry.pt CNAME .
-hard.dnsforge.de CNAME .
-*.hard.dnsforge.de CNAME .
 hel01.dnscry.pt CNAME .
 *.hel01.dnscry.pt CNAME .
 helios.plan9-dns.com CNAME .
