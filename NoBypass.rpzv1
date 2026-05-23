@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605230427 ; Serial Number
+ 2605231627 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -137,8 +137,6 @@ adguard.easez.net CNAME .
 *.adguard.easez.net CNAME .
 adguard.ef67daisuki.club CNAME .
 *.adguard.ef67daisuki.club CNAME .
-adguard.gambini.org CNAME .
-*.adguard.gambini.org CNAME .
 adguard.gbrossi.com.br CNAME .
 *.adguard.gbrossi.com.br CNAME .
 adguard.haneulo.com CNAME .
@@ -555,6 +553,8 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 darkness.is.my.waifu.cz CNAME .
 *.darkness.is.my.waifu.cz CNAME .
+darknet.to CNAME .
+*.darknet.to CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
@@ -591,6 +591,8 @@ deic-ore.anycast.uncensoreddns.org CNAME .
 *.deic-ore.anycast.uncensoreddns.org CNAME .
 den01.dnscry.pt CNAME .
 *.den01.dnscry.pt CNAME .
+depicbrowser.com CNAME .
+*.depicbrowser.com CNAME .
 dfw02.dnscry.pt CNAME .
 *.dfw02.dnscry.pt CNAME .
 digi77.com CNAME .
@@ -1197,8 +1199,8 @@ dns.kerekes.xyz CNAME .
 *.dns.kerekes.xyz CNAME .
 dns.kernel-error.de CNAME .
 *.dns.kernel-error.de CNAME .
-dns.kescher.adnswarden.com CNAME .
-*.dns.kescher.adnswarden.com CNAME .
+dns.kescher.at CNAME .
+*.dns.kescher.at CNAME .
 dns.keviland.com CNAME .
 *.dns.keviland.com CNAME .
 dns.keweon.center CNAME .
@@ -1257,14 +1259,16 @@ dns.lvolland.fr CNAME .
 *.dns.lvolland.fr CNAME .
 dns.maitrekuc.fr CNAME .
 *.dns.maitrekuc.fr CNAME .
-dns-malwaresec.nordthreatprotection.cdee.su CNAME .
-*.dns-malwaresec.nordthreatprotection.cdee.su CNAME .
+dns-malwaresec.nordthreatprotection.com CNAME .
+*.dns-malwaresec.nordthreatprotection.com CNAME .
 dns.maolaohei.xyz CNAME .
 *.dns.maolaohei.xyz CNAME .
 dns.marasov.id CNAME .
 *.dns.marasov.id CNAME .
 dns.marbledfennec.net CNAME .
 *.dns.marbledfennec.net CNAME .
+dnsmask.icloud.com CNAME .
+*.dnsmask.icloud.com CNAME .
 dns.mateo.ovh CNAME .
 *.dns.mateo.ovh CNAME .
 dns.maybe.icu CNAME .
@@ -1347,6 +1351,8 @@ dnsnl.alekberg.net CNAME .
 *.dnsnl.alekberg.net CNAME .
 dns.nodoa.me CNAME .
 *.dns.nodoa.me CNAME .
+dns-nosec.quad9.ndee.su CNAME .
+*.dns-nosec.quad9.ndee.su CNAME .
 dns-nosec.quad9.net CNAME .
 *.dns-nosec.quad9.net CNAME .
 dns.novali.date CNAME .
@@ -1499,8 +1505,6 @@ dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
-dns.simplylinux.ch CNAME .
-*.dns.simplylinux.ch CNAME .
 dns.sindominio.net CNAME .
 *.dns.sindominio.net CNAME .
 dns.sitdns.com CNAME .
@@ -1571,8 +1575,6 @@ dns-tls.bitwiseshift.net CNAME .
 *.dns-tls.bitwiseshift.net CNAME .
 dns.tls-data.de CNAME .
 *.dns.tls-data.de CNAME .
-dnstls.mobik.com CNAME .
-*.dnstls.mobik.com CNAME .
 dns.tracker.ink CNAME .
 *.dns.tracker.ink CNAME .
 dns.tryk.app CNAME .
@@ -2093,8 +2095,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.om CNAME .
-*.ecs-doh.om CNAME .
+ecs-doh.dnswarden.com CNAME .
+*.ecs-doh.dnswarden.com CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2347,12 +2349,14 @@ guardian-vpn.com CNAME .
 *.guardian-vpn.com CNAME .
 guardianvpn.net CNAME .
 *.guardianvpn.net CNAME .
-guard.sepicbrowser.com CNAME .
-*.guard.sepicbrowser.com CNAME .
+guard.sntrk.ru CNAME .
+*.guard.sntrk.ru CNAME .
 guardster.com CNAME .
 *.guardster.com CNAME .
-gva01.dnscry.pt CNAME .
-*.gva01.dnscry.pt CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
+gva01.dnscrfirefox.dns.nextdns.io CNAME .
+*.gva01.dnscrfirefox.dns.nextdns.io CNAME .
 gztech.me CNAME .
 *.gztech.me CNAME .
 haf01.dnscry.pt CNAME .
@@ -2421,8 +2425,6 @@ hola.org CNAME .
 *.hola.org CNAME .
 hole.elbschloss.xyz CNAME .
 *.hole.elbschloss.xyz CNAME .
-home27.duckdns.org CNAME .
-*.home27.duckdns.org CNAME .
 home.enjoymylife.net CNAME .
 *.home.enjoymylife.net CNAME .
 homeproxy.com CNAME .
@@ -2559,8 +2561,6 @@ jp.tiar.app CNAME .
 *.jp.tiar.app CNAME .
 jp-tyo-w-p-1.nashkan.net CNAME .
 *.jp-tyo-w-p-1.nashkan.net CNAME .
-jurre-home.duckdns.org CNAME .
-*.jurre-home.duckdns.org CNAME .
 justhost.bedro.cloud CNAME .
 *.justhost.bedro.cloud CNAME .
 justproxy.co.uk CNAME .
@@ -2839,6 +2839,8 @@ ns.data.haus CNAME .
 *.ns.data.haus CNAME .
 nsec.arnor.org CNAME .
 *.nsec.arnor.org CNAME .
+ns.keweon.center CNAME .
+*.ns.keweon.center CNAME .
 ns.mtsoln.com CNAME .
 *.ns.mtsoln.com CNAME .
 ns.net.kg CNAME .
@@ -2849,8 +2851,6 @@ ns.ral9005.org CNAME .
 *.ns.ral9005.org CNAME .
 ns.trcnet.fi CNAME .
 *.ns.trcnet.fi CNAME .
-ntrk.ru CNAME .
-*.ntrk.ru CNAME .
 ntwrkh.pro CNAME .
 *.ntwrkh.pro CNAME .
 nue01.dnscry.pt CNAME .
@@ -2961,8 +2961,6 @@ pates.services.sfr.fr.casepp.sfr.fr CNAME .
 *.pates.services.sfr.fr.casepp.sfr.fr CNAME .
 paulo.nom.za CNAME .
 *.paulo.nom.za CNAME .
-pdns.dk CNAME .
-*.pdns.dk CNAME .
 pdns.faelix.net CNAME .
 *.pdns.faelix.net CNAME .
 pdns.itxe.net CNAME .
@@ -3189,8 +3187,6 @@ public.dns.iij.jp CNAME .
 *.public.dns.iij.jp CNAME .
 public.ns.nwps.fi CNAME .
 *.public.ns.nwps.fi CNAME .
-punono.duckdns.org CNAME .
-*.punono.duckdns.org CNAME .
 puredns.org CNAME .
 *.puredns.org CNAME .
 purevpn.com CNAME .
@@ -3311,8 +3307,6 @@ ronfeed.com CNAME .
 *.ronfeed.com CNAME .
 root.hagezi.org CNAME .
 *.root.hagezi.org CNAME .
-rotected.canadianshield.cira.ca CNAME .
-*.rotected.canadianshield.cira.ca CNAME .
 router.comss.one CNAME .
 *.router.comss.one CNAME .
 rpz-public-resolver1.rrdns.pch.net CNAME .
@@ -3561,6 +3555,8 @@ tll01.dnscry.pt CNAME .
 *.tll01.dnscry.pt CNAME .
 tls-dns-u.odvr.dns-oarc.net CNAME .
 *.tls-dns-u.odvr.dns-oarc.net CNAME .
+tls.mobik.com CNAME .
+*.tls.mobik.com CNAME .
 tlv01.dnscry.pt CNAME .
 *.tlv01.dnscry.pt CNAME .
 tlz.asia CNAME .
@@ -3605,8 +3601,6 @@ tsm01.dnscry.pt CNAME .
 *.tsm01.dnscry.pt CNAME .
 ttag.dns.nomu.pw CNAME .
 *.ttag.dns.nomu.pw CNAME .
-tuandns.duckdns.org CNAME .
-*.tuandns.duckdns.org CNAME .
 tubeunblock.me CNAME .
 *.tubeunblock.me CNAME .
 tubeunblock.net CNAME .
@@ -3701,8 +3695,6 @@ unfiltered.adguard-dns.com CNAME .
 *.unfiltered.adguard-dns.com CNAME .
 unfiltered.joindns4.eu CNAME .
 *.unfiltered.joindns4.eu CNAME .
-unicast.censurfridarknet.to CNAME .
-*.unicast.censurfridarknet.to CNAME .
 unicast.censurfridns.dk CNAME .
 *.unicast.censurfridns.dk CNAME .
 unicast.uncensoreddns.org CNAME .
@@ -3949,6 +3941,8 @@ youtubez.com CNAME .
 *.youtubez.com CNAME .
 yovbak.com CNAME .
 *.yovbak.com CNAME .
+y.pt CNAME .
+*.y.pt CNAME .
 yul01.dnscry.pt CNAME .
 *.yul01.dnscry.pt CNAME .
 yunyun.is.my.waifu.cz CNAME .
