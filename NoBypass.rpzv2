@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605240428 ; Serial Number
+ 2605241628 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,10 +13,6 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -29,6 +25,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -1077,10 +1077,10 @@ cynntex.fun A 0.0.0.0
 *.cynntex.fun A 0.0.0.0
 cynntex.fun AAAA ::
 *.cynntex.fun AAAA ::
-d1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.d1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-d1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.d1dot1dot1dot1.cloudflare-dns.com AAAA ::
+d012proxy.ga A 0.0.0.0
+*.d012proxy.ga A 0.0.0.0
+d012proxy.ga AAAA ::
+*.d012proxy.ga AAAA ::
 d2.shabi.icu A 0.0.0.0
 *.d2.shabi.icu A 0.0.0.0
 d2.shabi.icu AAAA ::
@@ -1101,10 +1101,6 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1133,6 +1129,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -2389,10 +2389,10 @@ dns.kernel-error.de A 0.0.0.0
 *.dns.kernel-error.de A 0.0.0.0
 dns.kernel-error.de AAAA ::
 *.dns.kernel-error.de AAAA ::
-dns.kescher.a12vpx.com A 0.0.0.0
-*.dns.kescher.a12vpx.com A 0.0.0.0
-dns.kescher.a12vpx.com AAAA ::
-*.dns.kescher.a12vpx.com AAAA ::
+dns.kescher.amask.icloud.com A 0.0.0.0
+*.dns.kescher.amask.icloud.com A 0.0.0.0
+dns.kescher.amask.icloud.com AAAA ::
+*.dns.kescher.amask.icloud.com AAAA ::
 dns.keviland.com A 0.0.0.0
 *.dns.keviland.com A 0.0.0.0
 dns.keviland.com AAAA ::
@@ -2509,10 +2509,10 @@ dns.maitrekuc.fr A 0.0.0.0
 *.dns.maitrekuc.fr A 0.0.0.0
 dns.maitrekuc.fr AAAA ::
 *.dns.maitrekuc.fr AAAA ::
-dns-malwaresec.nordthreatprotection.cdee.su A 0.0.0.0
-*.dns-malwaresec.nordthreatprotection.cdee.su A 0.0.0.0
-dns-malwaresec.nordthreatprotection.cdee.su AAAA ::
-*.dns-malwaresec.nordthreatprotection.cdee.su AAAA ::
+dns-malwaresec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.dns-malwaresec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+dns-malwaresec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.dns-malwaresec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns.maolaohei.xyz A 0.0.0.0
 *.dns.maolaohei.xyz A 0.0.0.0
 dns.maolaohei.xyz AAAA ::
@@ -3805,10 +3805,6 @@ doh.quickline.ch A 0.0.0.0
 *.doh.quickline.ch A 0.0.0.0
 doh.quickline.ch AAAA ::
 *.doh.quickline.ch AAAA ::
-doh-random-upstream.nicolas-dorriere.fr A 0.0.0.0
-*.doh-random-upstream.nicolas-dorriere.fr A 0.0.0.0
-doh-random-upstream.nicolas-dorriere.fr AAAA ::
-*.doh-random-upstream.nicolas-dorriere.fr AAAA ::
 doh.rezhajul.io A 0.0.0.0
 *.doh.rezhajul.io A 0.0.0.0
 doh.rezhajul.io AAAA ::
@@ -4177,10 +4173,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.firefox.dns.nextdns.io A 0.0.0.0
-*.ecs-doh.firefox.dns.nextdns.io A 0.0.0.0
-ecs-doh.firefox.dns.nextdns.io AAAA ::
-*.ecs-doh.firefox.dns.nextdns.io AAAA ::
+ecs-doh.darknet.to A 0.0.0.0
+*.ecs-doh.darknet.to A 0.0.0.0
+ecs-doh.darknet.to AAAA ::
+*.ecs-doh.darknet.to AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4737,10 +4733,10 @@ hfgx.shop A 0.0.0.0
 *.hfgx.shop A 0.0.0.0
 hfgx.shop AAAA ::
 *.hfgx.shop AAAA ::
-h.gjrick.tw A 0.0.0.0
-*.h.gjrick.tw A 0.0.0.0
-h.gjrick.tw AAAA ::
-*.h.gjrick.tw AAAA ::
+h.gjrdns.dk A 0.0.0.0
+*.h.gjrdns.dk A 0.0.0.0
+h.gjrdns.dk AAAA ::
+*.h.gjrdns.dk AAAA ::
 hiddendigital.info A 0.0.0.0
 *.hiddendigital.info A 0.0.0.0
 hiddendigital.info AAAA ::
@@ -4921,6 +4917,10 @@ ibuki.cgnat.net A 0.0.0.0
 *.ibuki.cgnat.net A 0.0.0.0
 ibuki.cgnat.net AAAA ::
 *.ibuki.cgnat.net AAAA ::
+ick.tw A 0.0.0.0
+*.ick.tw A 0.0.0.0
+ick.tw AAAA ::
+*.ick.tw AAAA ::
 idcloak.com A 0.0.0.0
 *.idcloak.com A 0.0.0.0
 idcloak.com AAAA ::
@@ -5689,10 +5689,6 @@ ns.nwps.fi A 0.0.0.0
 *.ns.nwps.fi A 0.0.0.0
 ns.nwps.fi AAAA ::
 *.ns.nwps.fi AAAA ::
-nspub.restena.lu A 0.0.0.0
-*.nspub.restena.lu A 0.0.0.0
-nspub.restena.lu AAAA ::
-*.nspub.restena.lu AAAA ::
 ns.ral9005.org A 0.0.0.0
 *.ns.ral9005.org A 0.0.0.0
 ns.ral9005.org AAAA ::
@@ -7397,6 +7393,10 @@ unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
 *.unicast.censurfridns.dk AAAA ::
+unicast.censurfrinspub.restena.lu A 0.0.0.0
+*.unicast.censurfrinspub.restena.lu A 0.0.0.0
+unicast.censurfrinspub.restena.lu AAAA ::
+*.unicast.censurfrinspub.restena.lu AAAA ::
 unicast.uncensoreddns.org A 0.0.0.0
 *.unicast.uncensoreddns.org A 0.0.0.0
 unicast.uncensoreddns.org AAAA ::
