@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605250427 ; Serial Number
+ 2605251627 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,6 +13,10 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
+012proxy.ga A 0.0.0.0
+*.012proxy.ga A 0.0.0.0
+012proxy.ga AAAA ::
+*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -25,10 +29,6 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
-12vpx.com A 0.0.0.0
-*.12vpx.com A 0.0.0.0
-12vpx.com AAAA ::
-*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -1097,6 +1097,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1181,10 +1185,6 @@ digi77.com A 0.0.0.0
 *.digi77.com A 0.0.0.0
 digi77.com AAAA ::
 *.digi77.com AAAA ::
-dmask.icloud.com A 0.0.0.0
-*.dmask.icloud.com A 0.0.0.0
-dmask.icloud.com AAAA ::
-*.dmask.icloud.com AAAA ::
 d.niaox.com A 0.0.0.0
 *.d.niaox.com A 0.0.0.0
 d.niaox.com AAAA ::
@@ -2389,10 +2389,10 @@ dns.kernel-error.de A 0.0.0.0
 *.dns.kernel-error.de A 0.0.0.0
 dns.kernel-error.de AAAA ::
 *.dns.kernel-error.de AAAA ::
-dns.kescher.a1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.dns.kescher.a1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-dns.kescher.a1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.dns.kescher.a1dot1dot1dot1.cloudflare-dns.com AAAA ::
+dns.kescher.afirefox.dns.nextdns.io A 0.0.0.0
+*.dns.kescher.afirefox.dns.nextdns.io A 0.0.0.0
+dns.kescher.afirefox.dns.nextdns.io AAAA ::
+*.dns.kescher.afirefox.dns.nextdns.io AAAA ::
 dns.keviland.com A 0.0.0.0
 *.dns.keviland.com A 0.0.0.0
 dns.keviland.com AAAA ::
@@ -2509,10 +2509,10 @@ dns.maitrekuc.fr A 0.0.0.0
 *.dns.maitrekuc.fr A 0.0.0.0
 dns.maitrekuc.fr AAAA ::
 *.dns.maitrekuc.fr AAAA ::
-dns-malwaresec.nordthreatprotection.cdarknet.to A 0.0.0.0
-*.dns-malwaresec.nordthreatprotection.cdarknet.to A 0.0.0.0
-dns-malwaresec.nordthreatprotection.cdarknet.to AAAA ::
-*.dns-malwaresec.nordthreatprotection.cdarknet.to AAAA ::
+dns-malwaresec.nordthreatprotection.cmask.icloud.com A 0.0.0.0
+*.dns-malwaresec.nordthreatprotection.cmask.icloud.com A 0.0.0.0
+dns-malwaresec.nordthreatprotection.cmask.icloud.com AAAA ::
+*.dns-malwaresec.nordthreatprotection.cmask.icloud.com AAAA ::
 dns.maolaohei.xyz A 0.0.0.0
 *.dns.maolaohei.xyz A 0.0.0.0
 dns.maolaohei.xyz AAAA ::
@@ -2841,6 +2841,10 @@ dns-public.ibakerserver.pt A 0.0.0.0
 *.dns-public.ibakerserver.pt A 0.0.0.0
 dns-public.ibakerserver.pt AAAA ::
 *.dns-public.ibakerserver.pt AAAA ::
+dnspub.restena.lu A 0.0.0.0
+*.dnspub.restena.lu A 0.0.0.0
+dnspub.restena.lu AAAA ::
+*.dnspub.restena.lu AAAA ::
 dns.pumpkinvrar.com A 0.0.0.0
 *.dns.pumpkinvrar.com A 0.0.0.0
 dns.pumpkinvrar.com AAAA ::
@@ -2989,6 +2993,10 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
+dns.simplylinux.ch A 0.0.0.0
+*.dns.simplylinux.ch A 0.0.0.0
+dns.simplylinux.ch AAAA ::
+*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -3225,10 +3233,6 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
-dnswarden.com A 0.0.0.0
-*.dnswarden.com A 0.0.0.0
-dnswarden.com AAAA ::
-*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4173,10 +4177,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.012proxy.ga A 0.0.0.0
-*.ecs-doh.012proxy.ga A 0.0.0.0
-ecs-doh.012proxy.ga AAAA ::
-*.ecs-doh.012proxy.ga AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4209,6 +4213,10 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
+epicbrowser.com A 0.0.0.0
+*.epicbrowser.com A 0.0.0.0
+epicbrowser.com AAAA ::
+*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4693,10 +4701,10 @@ gustamadh.dynv6.net A 0.0.0.0
 *.gustamadh.dynv6.net A 0.0.0.0
 gustamadh.dynv6.net AAAA ::
 *.gustamadh.dynv6.net AAAA ::
-gva01.dnscry.pt A 0.0.0.0
-*.gva01.dnscry.pt A 0.0.0.0
-gva01.dnscry.pt AAAA ::
-*.gva01.dnscry.pt AAAA ::
+gva01.dnscry12vpx.com A 0.0.0.0
+*.gva01.dnscry12vpx.com A 0.0.0.0
+gva01.dnscry12vpx.com AAAA ::
+*.gva01.dnscry12vpx.com AAAA ::
 gztech.me A 0.0.0.0
 *.gztech.me A 0.0.0.0
 gztech.me AAAA ::
@@ -4729,10 +4737,10 @@ hfgx.shop A 0.0.0.0
 *.hfgx.shop A 0.0.0.0
 hfgx.shop AAAA ::
 *.hfgx.shop AAAA ::
-h.gjrepicbrowser.com A 0.0.0.0
-*.h.gjrepicbrowser.com A 0.0.0.0
-h.gjrepicbrowser.com AAAA ::
-*.h.gjrepicbrowser.com AAAA ::
+h.gjrick.tw A 0.0.0.0
+*.h.gjrick.tw A 0.0.0.0
+h.gjrick.tw AAAA ::
+*.h.gjrick.tw AAAA ::
 hiddendigital.info A 0.0.0.0
 *.hiddendigital.info A 0.0.0.0
 hiddendigital.info AAAA ::
@@ -4913,10 +4921,6 @@ ibuki.cgnat.net A 0.0.0.0
 *.ibuki.cgnat.net A 0.0.0.0
 ibuki.cgnat.net AAAA ::
 *.ibuki.cgnat.net AAAA ::
-ick.tw A 0.0.0.0
-*.ick.tw A 0.0.0.0
-ick.tw AAAA ::
-*.ick.tw AAAA ::
 idcloak.com A 0.0.0.0
 *.idcloak.com A 0.0.0.0
 idcloak.com AAAA ::
@@ -5685,10 +5689,6 @@ ns.nwps.fi A 0.0.0.0
 *.ns.nwps.fi A 0.0.0.0
 ns.nwps.fi AAAA ::
 *.ns.nwps.fi AAAA ::
-nspub.restena.lu A 0.0.0.0
-*.nspub.restena.lu A 0.0.0.0
-nspub.restena.lu AAAA ::
-*.nspub.restena.lu AAAA ::
 ns.ral9005.org A 0.0.0.0
 *.ns.ral9005.org A 0.0.0.0
 ns.ral9005.org AAAA ::
@@ -7213,10 +7213,6 @@ tujenasnaszato.xyz A 0.0.0.0
 *.tujenasnaszato.xyz A 0.0.0.0
 tujenasnaszato.xyz AAAA ::
 *.tujenasnaszato.xyz AAAA ::
-tungdnsne.duckdns.org A 0.0.0.0
-*.tungdnsne.duckdns.org A 0.0.0.0
-tungdnsne.duckdns.org AAAA ::
-*.tungdnsne.duckdns.org AAAA ::
 tunnelbear.com A 0.0.0.0
 *.tunnelbear.com A 0.0.0.0
 tunnelbear.com AAAA ::
@@ -7721,10 +7717,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.com A 0.0.0.0
-*.whoisping.com A 0.0.0.0
-whoisping.com AAAA ::
-*.whoisping.com AAAA ::
+whoisping.com1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.whoisping.com1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+whoisping.com1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.whoisping.com1dot1dot1dot1.cloudflare-dns.com AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
