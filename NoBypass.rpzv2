@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605260428 ; Serial Number
+ 2605261628 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,10 +13,6 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -1097,6 +1093,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1125,10 +1125,6 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
-dee.su A 0.0.0.0
-*.dee.su A 0.0.0.0
-dee.su AAAA ::
-*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -2381,10 +2377,10 @@ dns.kernel-error.de A 0.0.0.0
 *.dns.kernel-error.de A 0.0.0.0
 dns.kernel-error.de AAAA ::
 *.dns.kernel-error.de AAAA ::
-dns.kescher.afirefox.dns.nextdns.io A 0.0.0.0
-*.dns.kescher.afirefox.dns.nextdns.io A 0.0.0.0
-dns.kescher.afirefox.dns.nextdns.io AAAA ::
-*.dns.kescher.afirefox.dns.nextdns.io AAAA ::
+dns.kescher.adee.su A 0.0.0.0
+*.dns.kescher.adee.su A 0.0.0.0
+dns.kescher.adee.su AAAA ::
+*.dns.kescher.adee.su AAAA ::
 dns.keviland.com A 0.0.0.0
 *.dns.keviland.com A 0.0.0.0
 dns.keviland.com AAAA ::
@@ -2393,10 +2389,6 @@ dns.keweon.center A 0.0.0.0
 *.dns.keweon.center A 0.0.0.0
 dns.keweon.center AAAA ::
 *.dns.keweon.center AAAA ::
-dns.koala.us.to A 0.0.0.0
-*.dns.koala.us.to A 0.0.0.0
-dns.koala.us.to AAAA ::
-*.dns.koala.us.to AAAA ::
 dns.korzhyk.pp.ua A 0.0.0.0
 *.dns.korzhyk.pp.ua A 0.0.0.0
 dns.korzhyk.pp.ua AAAA ::
@@ -2501,10 +2493,10 @@ dns.maitrekuc.fr A 0.0.0.0
 *.dns.maitrekuc.fr A 0.0.0.0
 dns.maitrekuc.fr AAAA ::
 *.dns.maitrekuc.fr AAAA ::
-dns-malwaresec.nordthreatprotection.c12vpx.com A 0.0.0.0
-*.dns-malwaresec.nordthreatprotection.c12vpx.com A 0.0.0.0
-dns-malwaresec.nordthreatprotection.c12vpx.com AAAA ::
-*.dns-malwaresec.nordthreatprotection.c12vpx.com AAAA ::
+dns-malwaresec.nordthreatprotection.com A 0.0.0.0
+*.dns-malwaresec.nordthreatprotection.com A 0.0.0.0
+dns-malwaresec.nordthreatprotection.com AAAA ::
+*.dns-malwaresec.nordthreatprotection.com AAAA ::
 dns.maolaohei.xyz A 0.0.0.0
 *.dns.maolaohei.xyz A 0.0.0.0
 dns.maolaohei.xyz AAAA ::
@@ -2833,10 +2825,10 @@ dns-public.ibakerserver.pt A 0.0.0.0
 *.dns-public.ibakerserver.pt A 0.0.0.0
 dns-public.ibakerserver.pt AAAA ::
 *.dns-public.ibakerserver.pt AAAA ::
-dnspub.restena.lu A 0.0.0.0
-*.dnspub.restena.lu A 0.0.0.0
-dnspub.restena.lu AAAA ::
-*.dnspub.restena.lu AAAA ::
+dnspub.restena.l1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.dnspub.restena.l1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+dnspub.restena.l1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.dnspub.restena.l1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns.pumpkinvrar.com A 0.0.0.0
 *.dns.pumpkinvrar.com A 0.0.0.0
 dns.pumpkinvrar.com AAAA ::
@@ -3225,6 +3217,10 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
+dnswarden.com A 0.0.0.0
+*.dnswarden.com A 0.0.0.0
+dnswarden.com AAAA ::
+*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4169,10 +4165,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.dnswarden.com A 0.0.0.0
-*.ecs-doh.dnswarden.com A 0.0.0.0
-ecs-doh.dnswarden.com AAAA ::
-*.ecs-doh.dnswarden.com AAAA ::
+ecs-doh.012proxy.ga A 0.0.0.0
+*.ecs-doh.012proxy.ga A 0.0.0.0
+ecs-doh.012proxy.ga AAAA ::
+*.ecs-doh.012proxy.ga AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4705,10 +4701,10 @@ haf01.dnscry.pt A 0.0.0.0
 *.haf01.dnscry.pt A 0.0.0.0
 haf01.dnscry.pt AAAA ::
 *.haf01.dnscry.pt AAAA ::
-han01.dnscry.pt A 0.0.0.0
-*.han01.dnscry.pt A 0.0.0.0
-han01.dnscry.pt AAAA ::
-*.han01.dnscry.pt AAAA ::
+han01.dnscry.12vpx.com A 0.0.0.0
+*.han01.dnscry.12vpx.com A 0.0.0.0
+han01.dnscry.12vpx.com AAAA ::
+*.han01.dnscry.12vpx.com AAAA ::
 hard.dnsforge.de A 0.0.0.0
 *.hard.dnsforge.de A 0.0.0.0
 hard.dnsforge.de AAAA ::
@@ -6345,6 +6341,10 @@ public-dns-a.dns.sb A 0.0.0.0
 *.public-dns-a.dns.sb A 0.0.0.0
 public-dns-a.dns.sb AAAA ::
 *.public-dns-a.dns.sb AAAA ::
+public-dns-a.dns.sfirefox.dns.nextdns.io A 0.0.0.0
+*.public-dns-a.dns.sfirefox.dns.nextdns.io A 0.0.0.0
+public-dns-a.dns.sfirefox.dns.nextdns.io AAAA ::
+*.public-dns-a.dns.sfirefox.dns.nextdns.io AAAA ::
 public-dns-b.dns.sb A 0.0.0.0
 *.public-dns-b.dns.sb A 0.0.0.0
 public-dns-b.dns.sb AAAA ::
@@ -7709,10 +7709,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.comdarknet.to A 0.0.0.0
-*.whoisping.comdarknet.to A 0.0.0.0
-whoisping.comdarknet.to AAAA ::
-*.whoisping.comdarknet.to AAAA ::
+whoisping.com A 0.0.0.0
+*.whoisping.com A 0.0.0.0
+whoisping.com AAAA ::
+*.whoisping.com AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::

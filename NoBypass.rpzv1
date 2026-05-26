@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605260428 ; Serial Number
+ 2605261628 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -11,8 +11,6 @@ $ORIGIN nobypass.rpz.
 
 003153.xyz CNAME .
 *.003153.xyz CNAME .
-012proxy.ga CNAME .
-*.012proxy.ga CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
@@ -553,6 +551,8 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 darkness.is.my.waifu.cz CNAME .
 *.darkness.is.my.waifu.cz CNAME .
+darknet.to CNAME .
+*.darknet.to CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
@@ -567,8 +567,6 @@ de-dus.doh.sb CNAME .
 *.de-dus.doh.sb CNAME .
 deep-henchman-excuse.cfd CNAME .
 *.deep-henchman-excuse.cfd CNAME .
-dee.su CNAME .
-*.dee.su CNAME .
 de-f1.foxyfy.net CNAME .
 *.de-f1.foxyfy.net CNAME .
 defencevpn.com CNAME .
@@ -1195,14 +1193,12 @@ dns.kerekes.xyz CNAME .
 *.dns.kerekes.xyz CNAME .
 dns.kernel-error.de CNAME .
 *.dns.kernel-error.de CNAME .
-dns.kescher.afirefox.dns.nextdns.io CNAME .
-*.dns.kescher.afirefox.dns.nextdns.io CNAME .
+dns.kescher.adee.su CNAME .
+*.dns.kescher.adee.su CNAME .
 dns.keviland.com CNAME .
 *.dns.keviland.com CNAME .
 dns.keweon.center CNAME .
 *.dns.keweon.center CNAME .
-dns.koala.us.to CNAME .
-*.dns.koala.us.to CNAME .
 dns.korzhyk.pp.ua CNAME .
 *.dns.korzhyk.pp.ua CNAME .
 dns.kosan.moe CNAME .
@@ -1255,8 +1251,8 @@ dns.lvolland.fr CNAME .
 *.dns.lvolland.fr CNAME .
 dns.maitrekuc.fr CNAME .
 *.dns.maitrekuc.fr CNAME .
-dns-malwaresec.nordthreatprotection.c12vpx.com CNAME .
-*.dns-malwaresec.nordthreatprotection.c12vpx.com CNAME .
+dns-malwaresec.nordthreatprotection.com CNAME .
+*.dns-malwaresec.nordthreatprotection.com CNAME .
 dns.maolaohei.xyz CNAME .
 *.dns.maolaohei.xyz CNAME .
 dns.marasov.id CNAME .
@@ -1421,8 +1417,8 @@ dns.pub CNAME .
 *.dns.pub CNAME .
 dns-public.ibakerserver.pt CNAME .
 *.dns-public.ibakerserver.pt CNAME .
-dnspub.restena.lu CNAME .
-*.dnspub.restena.lu CNAME .
+dnspub.restena.l1dot1dot1dot1.cloudflare-dns.com CNAME .
+*.dnspub.restena.l1dot1dot1dot1.cloudflare-dns.com CNAME .
 dns.pumpkinvrar.com CNAME .
 *.dns.pumpkinvrar.com CNAME .
 dns.pumplex.com CNAME .
@@ -1617,6 +1613,8 @@ dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
+dnswarden.com CNAME .
+*.dnswarden.com CNAME .
 dns.wargan.io CNAME .
 *.dns.wargan.io CNAME .
 dns.warpnine.de CNAME .
@@ -2089,8 +2087,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.dnswarden.com CNAME .
-*.ecs-doh.dnswarden.com CNAME .
+ecs-doh.012proxy.ga CNAME .
+*.ecs-doh.012proxy.ga CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2357,8 +2355,8 @@ gztech.me CNAME .
 *.gztech.me CNAME .
 haf01.dnscry.pt CNAME .
 *.haf01.dnscry.pt CNAME .
-han01.dnscry.pt CNAME .
-*.han01.dnscry.pt CNAME .
+han01.dnscry.12vpx.com CNAME .
+*.han01.dnscry.12vpx.com CNAME .
 hard.dnsforge.de CNAME .
 *.hard.dnsforge.de CNAME .
 hel01.dnscry.pt CNAME .
@@ -3177,6 +3175,8 @@ ps1.modr.club CNAME .
 *.ps1.modr.club CNAME .
 public-dns-a.dns.sb CNAME .
 *.public-dns-a.dns.sb CNAME .
+public-dns-a.dns.sfirefox.dns.nextdns.io CNAME .
+*.public-dns-a.dns.sfirefox.dns.nextdns.io CNAME .
 public-dns-b.dns.sb CNAME .
 *.public-dns-b.dns.sb CNAME .
 public.dns.iij.jp CNAME .
@@ -3859,8 +3859,8 @@ webunblocker.xyz CNAME .
 *.webunblocker.xyz CNAME .
 whoer.net CNAME .
 *.whoer.net CNAME .
-whoisping.comdarknet.to CNAME .
-*.whoisping.comdarknet.to CNAME .
+whoisping.com CNAME .
+*.whoisping.com CNAME .
 whonix.org CNAME .
 *.whonix.org CNAME .
 wikimedia-dns.org CNAME .
