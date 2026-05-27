@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605261628 ; Serial Number
+ 2605270427 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -11,12 +11,16 @@ $ORIGIN nobypass.rpz.
 
 003153.xyz CNAME .
 *.003153.xyz CNAME .
+012proxy.ga CNAME .
+*.012proxy.ga CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
 *.123000123.xyz CNAME .
 123-24.eport.gr CNAME .
 *.123-24.eport.gr CNAME .
+12vpx.com CNAME .
+*.12vpx.com CNAME .
 1a.ns.ozer.im CNAME .
 *.1a.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
@@ -593,6 +597,8 @@ dfw02.dnscry.pt CNAME .
 *.dfw02.dnscry.pt CNAME .
 digi77.com CNAME .
 *.digi77.com CNAME .
+dmask.icloud.com CNAME .
+*.dmask.icloud.com CNAME .
 d.niaox.com CNAME .
 *.d.niaox.com CNAME .
 dns01.flm9.net CNAME .
@@ -1031,8 +1037,6 @@ dns.fizz.studio CNAME .
 *.dns.fizz.studio CNAME .
 dns.flatuslifir.is CNAME .
 *.dns.flatuslifir.is CNAME .
-dns.flightspace.net CNAME .
-*.dns.flightspace.net CNAME .
 dns.floriantinney.de CNAME .
 *.dns.floriantinney.de CNAME .
 dns.flwagners.com CNAME .
@@ -1193,12 +1197,14 @@ dns.kerekes.xyz CNAME .
 *.dns.kerekes.xyz CNAME .
 dns.kernel-error.de CNAME .
 *.dns.kernel-error.de CNAME .
-dns.kescher.adee.su CNAME .
-*.dns.kescher.adee.su CNAME .
+dns.kescher.at CNAME .
+*.dns.kescher.at CNAME .
 dns.keviland.com CNAME .
 *.dns.keviland.com CNAME .
 dns.keweon.center CNAME .
 *.dns.keweon.center CNAME .
+dns.koala.us.to CNAME .
+*.dns.koala.us.to CNAME .
 dns.korzhyk.pp.ua CNAME .
 *.dns.korzhyk.pp.ua CNAME .
 dns.kosan.moe CNAME .
@@ -1251,8 +1257,8 @@ dns.lvolland.fr CNAME .
 *.dns.lvolland.fr CNAME .
 dns.maitrekuc.fr CNAME .
 *.dns.maitrekuc.fr CNAME .
-dns-malwaresec.nordthreatprotection.com CNAME .
-*.dns-malwaresec.nordthreatprotection.com CNAME .
+dns-malwaresec.nordthreatprotection.cdee.su CNAME .
+*.dns-malwaresec.nordthreatprotection.cdee.su CNAME .
 dns.maolaohei.xyz CNAME .
 *.dns.maolaohei.xyz CNAME .
 dns.marasov.id CNAME .
@@ -1417,8 +1423,8 @@ dns.pub CNAME .
 *.dns.pub CNAME .
 dns-public.ibakerserver.pt CNAME .
 *.dns-public.ibakerserver.pt CNAME .
-dnspub.restena.l1dot1dot1dot1.cloudflare-dns.com CNAME .
-*.dnspub.restena.l1dot1dot1dot1.cloudflare-dns.com CNAME .
+dnspub.restena.lu CNAME .
+*.dnspub.restena.lu CNAME .
 dns.pumpkinvrar.com CNAME .
 *.dns.pumpkinvrar.com CNAME .
 dns.pumplex.com CNAME .
@@ -1465,8 +1471,6 @@ dns.sarilouis.com CNAME .
 *.dns.sarilouis.com CNAME .
 dns.sb CNAME .
 *.dns.sb CNAME .
-dns.scapetical.com CNAME .
-*.dns.scapetical.com CNAME .
 dns.scarx.net CNAME .
 *.dns.scarx.net CNAME .
 dns.schlagheck.berlin CNAME .
@@ -1877,8 +1881,6 @@ doh.onedns.net CNAME .
 *.doh.onedns.net CNAME .
 doh.opendns.com CNAME .
 *.doh.opendns.com CNAME .
-doh-own-recursion.nicolas-dorriere.fr CNAME .
-*.doh-own-recursion.nicolas-dorriere.fr CNAME .
 doh.phdns2.lonet.org CNAME .
 *.doh.phdns2.lonet.org CNAME .
 doh.pi-dns.com CNAME .
@@ -2087,8 +2089,6 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.012proxy.ga CNAME .
-*.ecs-doh.012proxy.ga CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2347,16 +2347,14 @@ guard.sntrk.ru CNAME .
 *.guard.sntrk.ru CNAME .
 guardster.com CNAME .
 *.guardster.com CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 gva01.dnscry.pt CNAME .
 *.gva01.dnscry.pt CNAME .
 gztech.me CNAME .
 *.gztech.me CNAME .
 haf01.dnscry.pt CNAME .
 *.haf01.dnscry.pt CNAME .
-han01.dnscry.12vpx.com CNAME .
-*.han01.dnscry.12vpx.com CNAME .
+han01.dnscry.pt CNAME .
+*.han01.dnscry.pt CNAME .
 hard.dnsforge.de CNAME .
 *.hard.dnsforge.de CNAME .
 hel01.dnscry.pt CNAME .
@@ -2835,6 +2833,8 @@ ns.data.haus CNAME .
 *.ns.data.haus CNAME .
 nsec.arnor.org CNAME .
 *.nsec.arnor.org CNAME .
+ns.keweon.center CNAME .
+*.ns.keweon.center CNAME .
 ns.mtsoln.com CNAME .
 *.ns.mtsoln.com CNAME .
 ns.net.kg CNAME .
@@ -3175,8 +3175,6 @@ ps1.modr.club CNAME .
 *.ps1.modr.club CNAME .
 public-dns-a.dns.sb CNAME .
 *.public-dns-a.dns.sb CNAME .
-public-dns-a.dns.sfirefox.dns.nextdns.io CNAME .
-*.public-dns-a.dns.sfirefox.dns.nextdns.io CNAME .
 public-dns-b.dns.sb CNAME .
 *.public-dns-b.dns.sb CNAME .
 public.dns.iij.jp CNAME .
@@ -3859,8 +3857,8 @@ webunblocker.xyz CNAME .
 *.webunblocker.xyz CNAME .
 whoer.net CNAME .
 *.whoer.net CNAME .
-whoisping.com CNAME .
-*.whoisping.com CNAME .
+whoisping.com1dot1dot1dot1.cloudflare-dns.com CNAME .
+*.whoisping.com1dot1dot1dot1.cloudflare-dns.com CNAME .
 whonix.org CNAME .
 *.whonix.org CNAME .
 wikimedia-dns.org CNAME .

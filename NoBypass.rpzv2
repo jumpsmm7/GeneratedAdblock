@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605261628 ; Serial Number
+ 2605270427 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,6 +13,10 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
+012proxy.ga A 0.0.0.0
+*.012proxy.ga A 0.0.0.0
+012proxy.ga AAAA ::
+*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -25,6 +29,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -1177,6 +1185,10 @@ digi77.com A 0.0.0.0
 *.digi77.com A 0.0.0.0
 digi77.com AAAA ::
 *.digi77.com AAAA ::
+dmask.icloud.com A 0.0.0.0
+*.dmask.icloud.com A 0.0.0.0
+dmask.icloud.com AAAA ::
+*.dmask.icloud.com AAAA ::
 d.niaox.com A 0.0.0.0
 *.d.niaox.com A 0.0.0.0
 d.niaox.com AAAA ::
@@ -2053,10 +2065,6 @@ dns.flatuslifir.is A 0.0.0.0
 *.dns.flatuslifir.is A 0.0.0.0
 dns.flatuslifir.is AAAA ::
 *.dns.flatuslifir.is AAAA ::
-dns.flightspace.net A 0.0.0.0
-*.dns.flightspace.net A 0.0.0.0
-dns.flightspace.net AAAA ::
-*.dns.flightspace.net AAAA ::
 dns.floriantinney.de A 0.0.0.0
 *.dns.floriantinney.de A 0.0.0.0
 dns.floriantinney.de AAAA ::
@@ -2377,10 +2385,10 @@ dns.kernel-error.de A 0.0.0.0
 *.dns.kernel-error.de A 0.0.0.0
 dns.kernel-error.de AAAA ::
 *.dns.kernel-error.de AAAA ::
-dns.kescher.adee.su A 0.0.0.0
-*.dns.kescher.adee.su A 0.0.0.0
-dns.kescher.adee.su AAAA ::
-*.dns.kescher.adee.su AAAA ::
+dns.kescher.at A 0.0.0.0
+*.dns.kescher.at A 0.0.0.0
+dns.kescher.at AAAA ::
+*.dns.kescher.at AAAA ::
 dns.keviland.com A 0.0.0.0
 *.dns.keviland.com A 0.0.0.0
 dns.keviland.com AAAA ::
@@ -2389,6 +2397,10 @@ dns.keweon.center A 0.0.0.0
 *.dns.keweon.center A 0.0.0.0
 dns.keweon.center AAAA ::
 *.dns.keweon.center AAAA ::
+dns.koala.us.to A 0.0.0.0
+*.dns.koala.us.to A 0.0.0.0
+dns.koala.us.to AAAA ::
+*.dns.koala.us.to AAAA ::
 dns.korzhyk.pp.ua A 0.0.0.0
 *.dns.korzhyk.pp.ua A 0.0.0.0
 dns.korzhyk.pp.ua AAAA ::
@@ -2493,10 +2505,10 @@ dns.maitrekuc.fr A 0.0.0.0
 *.dns.maitrekuc.fr A 0.0.0.0
 dns.maitrekuc.fr AAAA ::
 *.dns.maitrekuc.fr AAAA ::
-dns-malwaresec.nordthreatprotection.com A 0.0.0.0
-*.dns-malwaresec.nordthreatprotection.com A 0.0.0.0
-dns-malwaresec.nordthreatprotection.com AAAA ::
-*.dns-malwaresec.nordthreatprotection.com AAAA ::
+dns-malwaresec.nordthreatprotection.cdee.su A 0.0.0.0
+*.dns-malwaresec.nordthreatprotection.cdee.su A 0.0.0.0
+dns-malwaresec.nordthreatprotection.cdee.su AAAA ::
+*.dns-malwaresec.nordthreatprotection.cdee.su AAAA ::
 dns.maolaohei.xyz A 0.0.0.0
 *.dns.maolaohei.xyz A 0.0.0.0
 dns.maolaohei.xyz AAAA ::
@@ -2825,10 +2837,10 @@ dns-public.ibakerserver.pt A 0.0.0.0
 *.dns-public.ibakerserver.pt A 0.0.0.0
 dns-public.ibakerserver.pt AAAA ::
 *.dns-public.ibakerserver.pt AAAA ::
-dnspub.restena.l1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.dnspub.restena.l1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-dnspub.restena.l1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.dnspub.restena.l1dot1dot1dot1.cloudflare-dns.com AAAA ::
+dnspub.restena.lu A 0.0.0.0
+*.dnspub.restena.lu A 0.0.0.0
+dnspub.restena.lu AAAA ::
+*.dnspub.restena.lu AAAA ::
 dns.pumpkinvrar.com A 0.0.0.0
 *.dns.pumpkinvrar.com A 0.0.0.0
 dns.pumpkinvrar.com AAAA ::
@@ -2921,10 +2933,6 @@ dns.sb A 0.0.0.0
 *.dns.sb A 0.0.0.0
 dns.sb AAAA ::
 *.dns.sb AAAA ::
-dns.scapetical.com A 0.0.0.0
-*.dns.scapetical.com A 0.0.0.0
-dns.scapetical.com AAAA ::
-*.dns.scapetical.com AAAA ::
 dns.scarx.net A 0.0.0.0
 *.dns.scarx.net A 0.0.0.0
 dns.scarx.net AAAA ::
@@ -3745,10 +3753,6 @@ doh.opendns.com A 0.0.0.0
 *.doh.opendns.com A 0.0.0.0
 doh.opendns.com AAAA ::
 *.doh.opendns.com AAAA ::
-doh-own-recursion.nicolas-dorriere.fr A 0.0.0.0
-*.doh-own-recursion.nicolas-dorriere.fr A 0.0.0.0
-doh-own-recursion.nicolas-dorriere.fr AAAA ::
-*.doh-own-recursion.nicolas-dorriere.fr AAAA ::
 doh.phdns2.lonet.org A 0.0.0.0
 *.doh.phdns2.lonet.org A 0.0.0.0
 doh.phdns2.lonet.org AAAA ::
@@ -4165,10 +4169,6 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.012proxy.ga A 0.0.0.0
-*.ecs-doh.012proxy.ga A 0.0.0.0
-ecs-doh.012proxy.ga AAAA ::
-*.ecs-doh.012proxy.ga AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4685,10 +4685,6 @@ guardster.com A 0.0.0.0
 *.guardster.com A 0.0.0.0
 guardster.com AAAA ::
 *.guardster.com AAAA ::
-gustamadh.dynv6.net A 0.0.0.0
-*.gustamadh.dynv6.net A 0.0.0.0
-gustamadh.dynv6.net AAAA ::
-*.gustamadh.dynv6.net AAAA ::
 gva01.dnscry.pt A 0.0.0.0
 *.gva01.dnscry.pt A 0.0.0.0
 gva01.dnscry.pt AAAA ::
@@ -4701,10 +4697,10 @@ haf01.dnscry.pt A 0.0.0.0
 *.haf01.dnscry.pt A 0.0.0.0
 haf01.dnscry.pt AAAA ::
 *.haf01.dnscry.pt AAAA ::
-han01.dnscry.12vpx.com A 0.0.0.0
-*.han01.dnscry.12vpx.com A 0.0.0.0
-han01.dnscry.12vpx.com AAAA ::
-*.han01.dnscry.12vpx.com AAAA ::
+han01.dnscry.pt A 0.0.0.0
+*.han01.dnscry.pt A 0.0.0.0
+han01.dnscry.pt AAAA ::
+*.han01.dnscry.pt AAAA ::
 hard.dnsforge.de A 0.0.0.0
 *.hard.dnsforge.de A 0.0.0.0
 hard.dnsforge.de AAAA ::
@@ -5661,6 +5657,10 @@ nsec.arnor.org A 0.0.0.0
 *.nsec.arnor.org A 0.0.0.0
 nsec.arnor.org AAAA ::
 *.nsec.arnor.org AAAA ::
+ns.keweon.center A 0.0.0.0
+*.ns.keweon.center A 0.0.0.0
+ns.keweon.center AAAA ::
+*.ns.keweon.center AAAA ::
 ns.mtsoln.com A 0.0.0.0
 *.ns.mtsoln.com A 0.0.0.0
 ns.mtsoln.com AAAA ::
@@ -6341,10 +6341,6 @@ public-dns-a.dns.sb A 0.0.0.0
 *.public-dns-a.dns.sb A 0.0.0.0
 public-dns-a.dns.sb AAAA ::
 *.public-dns-a.dns.sb AAAA ::
-public-dns-a.dns.sfirefox.dns.nextdns.io A 0.0.0.0
-*.public-dns-a.dns.sfirefox.dns.nextdns.io A 0.0.0.0
-public-dns-a.dns.sfirefox.dns.nextdns.io AAAA ::
-*.public-dns-a.dns.sfirefox.dns.nextdns.io AAAA ::
 public-dns-b.dns.sb A 0.0.0.0
 *.public-dns-b.dns.sb A 0.0.0.0
 public-dns-b.dns.sb AAAA ::
@@ -7709,10 +7705,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.com A 0.0.0.0
-*.whoisping.com A 0.0.0.0
-whoisping.com AAAA ::
-*.whoisping.com AAAA ::
+whoisping.com1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.whoisping.com1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+whoisping.com1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.whoisping.com1dot1dot1dot1.cloudflare-dns.com AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
