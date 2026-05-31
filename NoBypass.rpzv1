@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605310431 ; Serial Number
+ 2605311631 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -11,6 +11,8 @@ $ORIGIN nobypass.rpz.
 
 003153.xyz CNAME .
 *.003153.xyz CNAME .
+012proxy.ga CNAME .
+*.012proxy.ga CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
@@ -541,8 +543,6 @@ cyberghostvpn.com CNAME .
 *.cyberghostvpn.com CNAME .
 cynntex.fun CNAME .
 *.cynntex.fun CNAME .
-d012proxy.ga CNAME .
-*.d012proxy.ga CNAME .
 d2.shabi.icu CNAME .
 *.d2.shabi.icu CNAME .
 d.adguard-dns.com CNAME .
@@ -553,8 +553,6 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 darkness.is.my.waifu.cz CNAME .
 *.darkness.is.my.waifu.cz CNAME .
-darknet.to CNAME .
-*.darknet.to CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
@@ -1077,6 +1075,8 @@ dns.girino.org CNAME .
 *.dns.girino.org CNAME .
 dns.glf.wtf CNAME .
 *.dns.glf.wtf CNAME .
+dns.glorydns.com CNAME .
+*.dns.glorydns.com CNAME .
 dns.gnb09.id CNAME .
 *.dns.gnb09.id CNAME .
 dns.goldplate.org CNAME .
@@ -1195,8 +1195,8 @@ dns.kerekes.xyz CNAME .
 *.dns.kerekes.xyz CNAME .
 dns.kernel-error.de CNAME .
 *.dns.kernel-error.de CNAME .
-dns.kescher.at CNAME .
-*.dns.kescher.at CNAME .
+dns.kescher.a12vpx.com CNAME .
+*.dns.kescher.a12vpx.com CNAME .
 dns.keviland.com CNAME .
 *.dns.keviland.com CNAME .
 dns.keweon.center CNAME .
@@ -1497,6 +1497,8 @@ dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
+dns.simplylinux.ch CNAME .
+*.dns.simplylinux.ch CNAME .
 dns.sindominio.net CNAME .
 *.dns.sindominio.net CNAME .
 dns.sitdns.com CNAME .
@@ -1609,6 +1611,8 @@ dns.vmath.my.id CNAME .
 *.dns.vmath.my.id CNAME .
 dns.vod11.xyz CNAME .
 *.dns.vod11.xyz CNAME .
+dnsvps.familiamv.net CNAME .
+*.dnsvps.familiamv.net CNAME .
 dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
 dns.wang.art CNAME .
@@ -2063,8 +2067,6 @@ doyouremember.love CNAME .
 *.doyouremember.love CNAME .
 droyd.top CNAME .
 *.droyd.top CNAME .
-drs.rustsword.com CNAME .
-*.drs.rustsword.com CNAME .
 d.toairs.com CNAME .
 *.d.toairs.com CNAME .
 dtw01.dnscry.pt CNAME .
@@ -2103,6 +2105,8 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
+epicbrowser.com CNAME .
+*.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
 *.eropa.dnscepat.id CNAME .
 esel.stusta.mhn.de CNAME .
@@ -2355,10 +2359,10 @@ han01.dnscry.pt CNAME .
 *.han01.dnscry.pt CNAME .
 hard.dnsforge.de CNAME .
 *.hard.dnsforge.de CNAME .
-hel01.dnscry.pt CNAME .
-*.hel01.dnscry.pt CNAME .
-heli12vpx.com CNAME .
-*.heli12vpx.com CNAME .
+hedarknet.to CNAME .
+*.hedarknet.to CNAME .
+helios.plan9-dns.com CNAME .
+*.helios.plan9-dns.com CNAME .
 helloworld.cx CNAME .
 *.helloworld.cx CNAME .
 hfgx.shop CNAME .
@@ -2595,6 +2599,8 @@ kx-97795-tr.xyz CNAME .
 *.kx-97795-tr.xyz CNAME .
 kz-pav-w-p-1.nashkan.net CNAME .
 *.kz-pav-w-p-1.nashkan.net CNAME .
+l01.dnscry.pt CNAME .
+*.l01.dnscry.pt CNAME .
 las01.dnscry.pt CNAME .
 *.las01.dnscry.pt CNAME .
 lastentarvike.fi CNAME .
@@ -2837,8 +2843,6 @@ ns.ral9005.org CNAME .
 *.ns.ral9005.org CNAME .
 ns.trcnet.fi CNAME .
 *.ns.trcnet.fi CNAME .
-nsvps.familiamv.net CNAME .
-*.nsvps.familiamv.net CNAME .
 ntwrkh.pro CNAME .
 *.ntwrkh.pro CNAME .
 nue01.dnscry.pt CNAME .
@@ -2921,8 +2925,6 @@ ore-dns.bitdefender.net CNAME .
 *.ore-dns.bitdefender.net CNAME .
 o.rsaikat.com CNAME .
 *.o.rsaikat.com CNAME .
-os.plan9-dns.com CNAME .
-*.os.plan9-dns.com CNAME .
 overplay.net CNAME .
 *.overplay.net CNAME .
 ovpn.com CNAME .
@@ -3177,8 +3179,8 @@ public.dns.iij.jp CNAME .
 *.public.dns.iij.jp CNAME .
 public.ns.nwps.fi CNAME .
 *.public.ns.nwps.fi CNAME .
-punono.duckdnepicbrowser.com CNAME .
-*.punono.duckdnepicbrowser.com CNAME .
+punono.duckdns.org CNAME .
+*.punono.duckdns.org CNAME .
 puredns.org CNAME .
 *.puredns.org CNAME .
 purevpn.com CNAME .
@@ -3427,8 +3429,6 @@ sof01.dnscry.pt CNAME .
 *.sof01.dnscry.pt CNAME .
 solaxy.live CNAME .
 *.solaxy.live CNAME .
-s.org CNAME .
-*.s.org CNAME .
 spacedns.org CNAME .
 *.spacedns.org CNAME .
 spacevpn.io CNAME .

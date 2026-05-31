@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605310431 ; Serial Number
+ 2605311631 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,6 +13,10 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
+012proxy.ga A 0.0.0.0
+*.012proxy.ga A 0.0.0.0
+012proxy.ga AAAA ::
+*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -1073,10 +1077,6 @@ cynntex.fun A 0.0.0.0
 *.cynntex.fun A 0.0.0.0
 cynntex.fun AAAA ::
 *.cynntex.fun AAAA ::
-d012proxy.ga A 0.0.0.0
-*.d012proxy.ga A 0.0.0.0
-d012proxy.ga AAAA ::
-*.d012proxy.ga AAAA ::
 d2.shabi.icu A 0.0.0.0
 *.d2.shabi.icu A 0.0.0.0
 d2.shabi.icu AAAA ::
@@ -1097,10 +1097,6 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -2145,6 +2141,10 @@ dns.glf.wtf A 0.0.0.0
 *.dns.glf.wtf A 0.0.0.0
 dns.glf.wtf AAAA ::
 *.dns.glf.wtf AAAA ::
+dns.glorydns.com A 0.0.0.0
+*.dns.glorydns.com A 0.0.0.0
+dns.glorydns.com AAAA ::
+*.dns.glorydns.com AAAA ::
 dns.gnb09.id A 0.0.0.0
 *.dns.gnb09.id A 0.0.0.0
 dns.gnb09.id AAAA ::
@@ -2381,10 +2381,10 @@ dns.kernel-error.de A 0.0.0.0
 *.dns.kernel-error.de A 0.0.0.0
 dns.kernel-error.de AAAA ::
 *.dns.kernel-error.de AAAA ::
-dns.kescher.at A 0.0.0.0
-*.dns.kescher.at A 0.0.0.0
-dns.kescher.at AAAA ::
-*.dns.kescher.at AAAA ::
+dns.kescher.a12vpx.com A 0.0.0.0
+*.dns.kescher.a12vpx.com A 0.0.0.0
+dns.kescher.a12vpx.com AAAA ::
+*.dns.kescher.a12vpx.com AAAA ::
 dns.keviland.com A 0.0.0.0
 *.dns.keviland.com A 0.0.0.0
 dns.keviland.com AAAA ::
@@ -2985,6 +2985,10 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
+dns.simplylinux.ch A 0.0.0.0
+*.dns.simplylinux.ch A 0.0.0.0
+dns.simplylinux.ch AAAA ::
+*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -3209,6 +3213,10 @@ dns.vod11.xyz A 0.0.0.0
 *.dns.vod11.xyz A 0.0.0.0
 dns.vod11.xyz AAAA ::
 *.dns.vod11.xyz AAAA ::
+dnsvps.familiamv.net A 0.0.0.0
+*.dnsvps.familiamv.net A 0.0.0.0
+dnsvps.familiamv.net AAAA ::
+*.dnsvps.familiamv.net AAAA ::
 dns.w3ctag.org A 0.0.0.0
 *.dns.w3ctag.org A 0.0.0.0
 dns.w3ctag.org AAAA ::
@@ -4117,10 +4125,6 @@ droyd.top A 0.0.0.0
 *.droyd.top A 0.0.0.0
 droyd.top AAAA ::
 *.droyd.top AAAA ::
-drs.rustsword.com A 0.0.0.0
-*.drs.rustsword.com A 0.0.0.0
-drs.rustsword.com AAAA ::
-*.drs.rustsword.com AAAA ::
 d.toairs.com A 0.0.0.0
 *.d.toairs.com A 0.0.0.0
 d.toairs.com AAAA ::
@@ -4197,6 +4201,10 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
+epicbrowser.com A 0.0.0.0
+*.epicbrowser.com A 0.0.0.0
+epicbrowser.com AAAA ::
+*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4701,14 +4709,14 @@ hard.dnsforge.de A 0.0.0.0
 *.hard.dnsforge.de A 0.0.0.0
 hard.dnsforge.de AAAA ::
 *.hard.dnsforge.de AAAA ::
-hel01.dnscry.pt A 0.0.0.0
-*.hel01.dnscry.pt A 0.0.0.0
-hel01.dnscry.pt AAAA ::
-*.hel01.dnscry.pt AAAA ::
-heli12vpx.com A 0.0.0.0
-*.heli12vpx.com A 0.0.0.0
-heli12vpx.com AAAA ::
-*.heli12vpx.com AAAA ::
+hedarknet.to A 0.0.0.0
+*.hedarknet.to A 0.0.0.0
+hedarknet.to AAAA ::
+*.hedarknet.to AAAA ::
+helios.plan9-dns.com A 0.0.0.0
+*.helios.plan9-dns.com A 0.0.0.0
+helios.plan9-dns.com AAAA ::
+*.helios.plan9-dns.com AAAA ::
 helloworld.cx A 0.0.0.0
 *.helloworld.cx A 0.0.0.0
 helloworld.cx AAAA ::
@@ -5181,6 +5189,10 @@ kz-pav-w-p-1.nashkan.net A 0.0.0.0
 *.kz-pav-w-p-1.nashkan.net A 0.0.0.0
 kz-pav-w-p-1.nashkan.net AAAA ::
 *.kz-pav-w-p-1.nashkan.net AAAA ::
+l01.dnscry.pt A 0.0.0.0
+*.l01.dnscry.pt A 0.0.0.0
+l01.dnscry.pt AAAA ::
+*.l01.dnscry.pt AAAA ::
 las01.dnscry.pt A 0.0.0.0
 *.las01.dnscry.pt A 0.0.0.0
 las01.dnscry.pt AAAA ::
@@ -5665,10 +5677,6 @@ ns.trcnet.fi A 0.0.0.0
 *.ns.trcnet.fi A 0.0.0.0
 ns.trcnet.fi AAAA ::
 *.ns.trcnet.fi AAAA ::
-nsvps.familiamv.net A 0.0.0.0
-*.nsvps.familiamv.net A 0.0.0.0
-nsvps.familiamv.net AAAA ::
-*.nsvps.familiamv.net AAAA ::
 ntwrkh.pro A 0.0.0.0
 *.ntwrkh.pro A 0.0.0.0
 ntwrkh.pro AAAA ::
@@ -5833,10 +5841,6 @@ o.rsaikat.com A 0.0.0.0
 *.o.rsaikat.com A 0.0.0.0
 o.rsaikat.com AAAA ::
 *.o.rsaikat.com AAAA ::
-os.plan9-dns.com A 0.0.0.0
-*.os.plan9-dns.com A 0.0.0.0
-os.plan9-dns.com AAAA ::
-*.os.plan9-dns.com AAAA ::
 overplay.net A 0.0.0.0
 *.overplay.net A 0.0.0.0
 overplay.net AAAA ::
@@ -6345,10 +6349,10 @@ public.ns.nwps.fi A 0.0.0.0
 *.public.ns.nwps.fi A 0.0.0.0
 public.ns.nwps.fi AAAA ::
 *.public.ns.nwps.fi AAAA ::
-punono.duckdnepicbrowser.com A 0.0.0.0
-*.punono.duckdnepicbrowser.com A 0.0.0.0
-punono.duckdnepicbrowser.com AAAA ::
-*.punono.duckdnepicbrowser.com AAAA ::
+punono.duckdns.org A 0.0.0.0
+*.punono.duckdns.org A 0.0.0.0
+punono.duckdns.org AAAA ::
+*.punono.duckdns.org AAAA ::
 puredns.org A 0.0.0.0
 *.puredns.org A 0.0.0.0
 puredns.org AAAA ::
@@ -6845,10 +6849,6 @@ solaxy.live A 0.0.0.0
 *.solaxy.live A 0.0.0.0
 solaxy.live AAAA ::
 *.solaxy.live AAAA ::
-s.org A 0.0.0.0
-*.s.org A 0.0.0.0
-s.org AAAA ::
-*.s.org AAAA ::
 spacedns.org A 0.0.0.0
 *.spacedns.org A 0.0.0.0
 spacedns.org AAAA ::
