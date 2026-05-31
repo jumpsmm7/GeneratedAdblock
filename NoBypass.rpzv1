@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2605301631 ; Serial Number
+ 2605310431 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -11,8 +11,6 @@ $ORIGIN nobypass.rpz.
 
 003153.xyz CNAME .
 *.003153.xyz CNAME .
-012proxy.ga CNAME .
-*.012proxy.ga CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
@@ -543,6 +541,8 @@ cyberghostvpn.com CNAME .
 *.cyberghostvpn.com CNAME .
 cynntex.fun CNAME .
 *.cynntex.fun CNAME .
+d012proxy.ga CNAME .
+*.d012proxy.ga CNAME .
 d2.shabi.icu CNAME .
 *.d2.shabi.icu CNAME .
 d.adguard-dns.com CNAME .
@@ -1255,8 +1255,8 @@ dns.lvolland.fr CNAME .
 *.dns.lvolland.fr CNAME .
 dns.maitrekuc.fr CNAME .
 *.dns.maitrekuc.fr CNAME .
-dns-malwaresec.nordthreatprotection.cfirefox.dns.nextdns.io CNAME .
-*.dns-malwaresec.nordthreatprotection.cfirefox.dns.nextdns.io CNAME .
+dns-malwaresec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com CNAME .
+*.dns-malwaresec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com CNAME .
 dns.maolaohei.xyz CNAME .
 *.dns.maolaohei.xyz CNAME .
 dns.marasov.id CNAME .
@@ -1497,8 +1497,6 @@ dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
-dns.simplylinux.ch CNAME .
-*.dns.simplylinux.ch CNAME .
 dns.sindominio.net CNAME .
 *.dns.sindominio.net CNAME .
 dns.sitdns.com CNAME .
@@ -1611,8 +1609,6 @@ dns.vmath.my.id CNAME .
 *.dns.vmath.my.id CNAME .
 dns.vod11.xyz CNAME .
 *.dns.vod11.xyz CNAME .
-dnsvps.familiamv.net CNAME .
-*.dnsvps.familiamv.net CNAME .
 dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
 dns.wang.art CNAME .
@@ -2107,8 +2103,6 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
-epicbrowser.com CNAME .
-*.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
 *.eropa.dnscepat.id CNAME .
 esel.stusta.mhn.de CNAME .
@@ -2363,8 +2357,8 @@ hard.dnsforge.de CNAME .
 *.hard.dnsforge.de CNAME .
 hel01.dnscry.pt CNAME .
 *.hel01.dnscry.pt CNAME .
-helios.plan9-dns.com CNAME .
-*.helios.plan9-dns.com CNAME .
+heli12vpx.com CNAME .
+*.heli12vpx.com CNAME .
 helloworld.cx CNAME .
 *.helloworld.cx CNAME .
 hfgx.shop CNAME .
@@ -2665,8 +2659,6 @@ mail.data.haus CNAME .
 *.mail.data.haus CNAME .
 mailer.amlegion.org CNAME .
 *.mailer.amlegion.org CNAME .
-mailkyb.co CNAME .
-*.mailkyb.co CNAME .
 mainframe.dewed.de CNAME .
 *.mainframe.dewed.de CNAME .
 man01.dnscry.pt CNAME .
@@ -2845,6 +2837,8 @@ ns.ral9005.org CNAME .
 *.ns.ral9005.org CNAME .
 ns.trcnet.fi CNAME .
 *.ns.trcnet.fi CNAME .
+nsvps.familiamv.net CNAME .
+*.nsvps.familiamv.net CNAME .
 ntwrkh.pro CNAME .
 *.ntwrkh.pro CNAME .
 nue01.dnscry.pt CNAME .
@@ -2927,6 +2921,8 @@ ore-dns.bitdefender.net CNAME .
 *.ore-dns.bitdefender.net CNAME .
 o.rsaikat.com CNAME .
 *.o.rsaikat.com CNAME .
+os.plan9-dns.com CNAME .
+*.os.plan9-dns.com CNAME .
 overplay.net CNAME .
 *.overplay.net CNAME .
 ovpn.com CNAME .
@@ -3181,8 +3177,8 @@ public.dns.iij.jp CNAME .
 *.public.dns.iij.jp CNAME .
 public.ns.nwps.fi CNAME .
 *.public.ns.nwps.fi CNAME .
-punono.duckdns.org CNAME .
-*.punono.duckdns.org CNAME .
+punono.duckdnepicbrowser.com CNAME .
+*.punono.duckdnepicbrowser.com CNAME .
 puredns.org CNAME .
 *.puredns.org CNAME .
 purevpn.com CNAME .
@@ -3431,6 +3427,8 @@ sof01.dnscry.pt CNAME .
 *.sof01.dnscry.pt CNAME .
 solaxy.live CNAME .
 *.solaxy.live CNAME .
+s.org CNAME .
+*.s.org CNAME .
 spacedns.org CNAME .
 *.spacedns.org CNAME .
 spacevpn.io CNAME .
@@ -3855,8 +3853,8 @@ webunblocker.xyz CNAME .
 *.webunblocker.xyz CNAME .
 whoer.net CNAME .
 *.whoer.net CNAME .
-whoisping.com12vpx.com CNAME .
-*.whoisping.com12vpx.com CNAME .
+whoisping.com CNAME .
+*.whoisping.com CNAME .
 whonix.org CNAME .
 *.whonix.org CNAME .
 wikimedia-dns.org CNAME .
