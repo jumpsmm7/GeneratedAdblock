@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606040431 ; Serial Number
+ 2606041631 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -29,10 +29,6 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
-12vpx.com A 0.0.0.0
-*.12vpx.com A 0.0.0.0
-12vpx.com AAAA ::
-*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -953,6 +949,10 @@ chuncheon.dnsovertor.cc A 0.0.0.0
 *.chuncheon.dnsovertor.cc A 0.0.0.0
 chuncheon.dnsovertor.cc AAAA ::
 *.chuncheon.dnsovertor.cc AAAA ::
+cira.ca A 0.0.0.0
+*.cira.ca A 0.0.0.0
+cira.ca AAAA ::
+*.cira.ca AAAA ::
 citizenvpn.com A 0.0.0.0
 *.citizenvpn.com A 0.0.0.0
 citizenvpn.com AAAA ::
@@ -1129,10 +1129,6 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
-dee.su A 0.0.0.0
-*.dee.su A 0.0.0.0
-dee.su AAAA ::
-*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1233,6 +1229,10 @@ dns1.dnscrypt.ca A 0.0.0.0
 *.dns1.dnscrypt.ca A 0.0.0.0
 dns1.dnscrypt.ca AAAA ::
 *.dns1.dnscrypt.ca AAAA ::
+dns1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.dns1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+dns1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.dns1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns1.in-berlin.de A 0.0.0.0
 *.dns1.in-berlin.de A 0.0.0.0
 dns1.in-berlin.de AAAA ::
@@ -2001,10 +2001,6 @@ dns.envs.net A 0.0.0.0
 *.dns.envs.net A 0.0.0.0
 dns.envs.net AAAA ::
 *.dns.envs.net AAAA ::
-dnsepicbrowser.com A 0.0.0.0
-*.dnsepicbrowser.com A 0.0.0.0
-dnsepicbrowser.com AAAA ::
-*.dnsepicbrowser.com AAAA ::
 dnses.alekberg.net A 0.0.0.0
 *.dnses.alekberg.net A 0.0.0.0
 dnses.alekberg.net AAAA ::
@@ -2393,10 +2389,10 @@ dns.kernel-error.de A 0.0.0.0
 *.dns.kernel-error.de A 0.0.0.0
 dns.kernel-error.de AAAA ::
 *.dns.kernel-error.de AAAA ::
-dns.kescher.at A 0.0.0.0
-*.dns.kescher.at A 0.0.0.0
-dns.kescher.at AAAA ::
-*.dns.kescher.at AAAA ::
+dns.keviland.com A 0.0.0.0
+*.dns.keviland.com A 0.0.0.0
+dns.keviland.com AAAA ::
+*.dns.keviland.com AAAA ::
 dns.keweon.center A 0.0.0.0
 *.dns.keweon.center A 0.0.0.0
 dns.keweon.center AAAA ::
@@ -2489,6 +2485,10 @@ dns.lobbygod.com A 0.0.0.0
 *.dns.lobbygod.com A 0.0.0.0
 dns.lobbygod.com AAAA ::
 *.dns.lobbygod.com AAAA ::
+dnslow.mdarknet.to A 0.0.0.0
+*.dnslow.mdarknet.to A 0.0.0.0
+dnslow.mdarknet.to AAAA ::
+*.dnslow.mdarknet.to AAAA ::
 dnslow.me A 0.0.0.0
 *.dnslow.me A 0.0.0.0
 dnslow.me AAAA ::
@@ -2509,10 +2509,10 @@ dns.maitrekuc.fr A 0.0.0.0
 *.dns.maitrekuc.fr A 0.0.0.0
 dns.maitrekuc.fr AAAA ::
 *.dns.maitrekuc.fr AAAA ::
-dns-malwaresec.nordthreatprotection.cdarknet.to A 0.0.0.0
-*.dns-malwaresec.nordthreatprotection.cdarknet.to A 0.0.0.0
-dns-malwaresec.nordthreatprotection.cdarknet.to AAAA ::
-*.dns-malwaresec.nordthreatprotection.cdarknet.to AAAA ::
+dns-malwaresec.nordthreatprotection.cdee.su A 0.0.0.0
+*.dns-malwaresec.nordthreatprotection.cdee.su A 0.0.0.0
+dns-malwaresec.nordthreatprotection.cdee.su AAAA ::
+*.dns-malwaresec.nordthreatprotection.cdee.su AAAA ::
 dns.maolaohei.xyz A 0.0.0.0
 *.dns.maolaohei.xyz A 0.0.0.0
 dns.maolaohei.xyz AAAA ::
@@ -2997,6 +2997,10 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
+dns.simplylinux.ch A 0.0.0.0
+*.dns.simplylinux.ch A 0.0.0.0
+dns.simplylinux.ch AAAA ::
+*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -4689,10 +4693,10 @@ guardianvpn.net A 0.0.0.0
 *.guardianvpn.net A 0.0.0.0
 guardianvpn.net AAAA ::
 *.guardianvpn.net AAAA ::
-guard.sntrk.ru A 0.0.0.0
-*.guard.sntrk.ru A 0.0.0.0
-guard.sntrk.ru AAAA ::
-*.guard.sntrk.ru AAAA ::
+guard.snepicbrowser.com A 0.0.0.0
+*.guard.snepicbrowser.com A 0.0.0.0
+guard.snepicbrowser.com AAAA ::
+*.guard.snepicbrowser.com AAAA ::
 guardster.com A 0.0.0.0
 *.guardster.com A 0.0.0.0
 guardster.com AAAA ::
@@ -4701,10 +4705,10 @@ gustamadh.dynv6.net A 0.0.0.0
 *.gustamadh.dynv6.net A 0.0.0.0
 gustamadh.dynv6.net AAAA ::
 *.gustamadh.dynv6.net AAAA ::
-gva01.dfirefox.dns.nextdns.io A 0.0.0.0
-*.gva01.dfirefox.dns.nextdns.io A 0.0.0.0
-gva01.dfirefox.dns.nextdns.io AAAA ::
-*.gva01.dfirefox.dns.nextdns.io AAAA ::
+gva01.dnscry.pt A 0.0.0.0
+*.gva01.dnscry.pt A 0.0.0.0
+gva01.dnscry.pt AAAA ::
+*.gva01.dnscry.pt AAAA ::
 gztech.me A 0.0.0.0
 *.gztech.me A 0.0.0.0
 gztech.me AAAA ::
@@ -6069,6 +6073,10 @@ pro.shecan.ir A 0.0.0.0
 *.pro.shecan.ir A 0.0.0.0
 pro.shecan.ir AAAA ::
 *.pro.shecan.ir AAAA ::
+protected.canadianshield.12vpx.com A 0.0.0.0
+*.protected.canadianshield.12vpx.com A 0.0.0.0
+protected.canadianshield.12vpx.com AAAA ::
+*.protected.canadianshield.12vpx.com AAAA ::
 protected.canadianshield.cira.ca A 0.0.0.0
 *.protected.canadianshield.cira.ca A 0.0.0.0
 protected.canadianshield.cira.ca AAAA ::
@@ -6337,10 +6345,10 @@ proxy-youtube.com A 0.0.0.0
 *.proxy-youtube.com A 0.0.0.0
 proxy-youtube.com AAAA ::
 *.proxy-youtube.com AAAA ::
-ps1dns.dk A 0.0.0.0
-*.ps1dns.dk A 0.0.0.0
-ps1dns.dk AAAA ::
-*.ps1dns.dk AAAA ::
+ps1.modr.club A 0.0.0.0
+*.ps1.modr.club A 0.0.0.0
+ps1.modr.club AAAA ::
+*.ps1.modr.club AAAA ::
 public-dns-a.dns.sb A 0.0.0.0
 *.public-dns-a.dns.sb A 0.0.0.0
 public-dns-a.dns.sb AAAA ::
@@ -7173,6 +7181,10 @@ tri-dns.net A 0.0.0.0
 *.tri-dns.net A 0.0.0.0
 tri-dns.net AAAA ::
 *.tri-dns.net AAAA ::
+trk.ru A 0.0.0.0
+*.trk.ru A 0.0.0.0
+trk.ru AAAA ::
+*.trk.ru AAAA ::
 truta.org A 0.0.0.0
 *.truta.org A 0.0.0.0
 truta.org AAAA ::
@@ -7381,10 +7393,6 @@ unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
 *.unicast.censurfridns.dk AAAA ::
-unicast.censurfrinscry.pt A 0.0.0.0
-*.unicast.censurfrinscry.pt A 0.0.0.0
-unicast.censurfrinscry.pt AAAA ::
-*.unicast.censurfrinscry.pt AAAA ::
 unicast.uncensoreddns.org A 0.0.0.0
 *.unicast.uncensoreddns.org A 0.0.0.0
 unicast.uncensoreddns.org AAAA ::
