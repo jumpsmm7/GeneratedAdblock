@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606050431 ; Serial Number
+ 2606051630 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,6 +13,10 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
+012proxy.ga A 0.0.0.0
+*.012proxy.ga A 0.0.0.0
+012proxy.ga AAAA ::
+*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -1097,10 +1101,6 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1829,6 +1829,10 @@ dns.dallinbryce.com A 0.0.0.0
 *.dns.dallinbryce.com A 0.0.0.0
 dns.dallinbryce.com AAAA ::
 *.dns.dallinbryce.com AAAA ::
+dnsdarknet.to A 0.0.0.0
+*.dnsdarknet.to A 0.0.0.0
+dnsdarknet.to AAAA ::
+*.dnsdarknet.to AAAA ::
 dns.datenquark.de A 0.0.0.0
 *.dns.datenquark.de A 0.0.0.0
 dns.datenquark.de AAAA ::
@@ -1853,10 +1857,6 @@ dns.decloudus.com A 0.0.0.0
 *.dns.decloudus.com A 0.0.0.0
 dns.decloudus.com AAAA ::
 *.dns.decloudus.com AAAA ::
-dnsdee.su A 0.0.0.0
-*.dnsdee.su A 0.0.0.0
-dnsdee.su AAAA ::
-*.dnsdee.su AAAA ::
 dns.dekedin.me A 0.0.0.0
 *.dns.dekedin.me A 0.0.0.0
 dns.dekedin.me AAAA ::
@@ -2505,14 +2505,10 @@ dns.maitrekuc.fr A 0.0.0.0
 *.dns.maitrekuc.fr A 0.0.0.0
 dns.maitrekuc.fr AAAA ::
 *.dns.maitrekuc.fr AAAA ::
-dns-malwaresec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.dns-malwaresec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-dns-malwaresec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.dns-malwaresec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com AAAA ::
-dns.maolaohei.xyz A 0.0.0.0
-*.dns.maolaohei.xyz A 0.0.0.0
-dns.maolaohei.xyz AAAA ::
-*.dns.maolaohei.xyz AAAA ::
+dns-malwaresec.nordthreatprotection.cdee.su A 0.0.0.0
+*.dns-malwaresec.nordthreatprotection.cdee.su A 0.0.0.0
+dns-malwaresec.nordthreatprotection.cdee.su AAAA ::
+*.dns-malwaresec.nordthreatprotection.cdee.su AAAA ::
 dns.marasov.id A 0.0.0.0
 *.dns.marasov.id A 0.0.0.0
 dns.marasov.id AAAA ::
@@ -2837,10 +2833,10 @@ dns-public.ibakerserver.pt A 0.0.0.0
 *.dns-public.ibakerserver.pt A 0.0.0.0
 dns-public.ibakerserver.pt AAAA ::
 *.dns-public.ibakerserver.pt AAAA ::
-dnspub.restena.lu A 0.0.0.0
-*.dnspub.restena.lu A 0.0.0.0
-dnspub.restena.lu AAAA ::
-*.dnspub.restena.lu AAAA ::
+dnspub.rmask.icloud.com A 0.0.0.0
+*.dnspub.rmask.icloud.com A 0.0.0.0
+dnspub.rmask.icloud.com AAAA ::
+*.dnspub.rmask.icloud.com AAAA ::
 dns.pumpkinvrar.com A 0.0.0.0
 *.dns.pumpkinvrar.com A 0.0.0.0
 dns.pumpkinvrar.com AAAA ::
@@ -4229,6 +4225,10 @@ es-ma.foxyfy.net A 0.0.0.0
 *.es-ma.foxyfy.net A 0.0.0.0
 es-ma.foxyfy.net AAAA ::
 *.es-ma.foxyfy.net AAAA ::
+estena.lu A 0.0.0.0
+*.estena.lu A 0.0.0.0
+estena.lu AAAA ::
+*.estena.lu AAAA ::
 eth.link A 0.0.0.0
 *.eth.link A 0.0.0.0
 eth.link AAAA ::
@@ -4701,14 +4701,14 @@ gustamadh.dynv6.net A 0.0.0.0
 *.gustamadh.dynv6.net A 0.0.0.0
 gustamadh.dynv6.net AAAA ::
 *.gustamadh.dynv6.net AAAA ::
-gva012proxy.ga A 0.0.0.0
-*.gva012proxy.ga A 0.0.0.0
-gva012proxy.ga AAAA ::
-*.gva012proxy.ga AAAA ::
-gztech.me A 0.0.0.0
-*.gztech.me A 0.0.0.0
-gztech.me AAAA ::
-*.gztech.me AAAA ::
+gva01.dnscry.pt A 0.0.0.0
+*.gva01.dnscry.pt A 0.0.0.0
+gva01.dnscry.pt AAAA ::
+*.gva01.dnscry.pt AAAA ::
+gztecfirefox.dns.nextdns.io A 0.0.0.0
+*.gztecfirefox.dns.nextdns.io A 0.0.0.0
+gztecfirefox.dns.nextdns.io AAAA ::
+*.gztecfirefox.dns.nextdns.io AAAA ::
 haf01.dnscry.pt A 0.0.0.0
 *.haf01.dnscry.pt A 0.0.0.0
 haf01.dnscry.pt AAAA ::
@@ -4829,6 +4829,10 @@ hkname.freecdn.one A 0.0.0.0
 *.hkname.freecdn.one A 0.0.0.0
 hkname.freecdn.one AAAA ::
 *.hkname.freecdn.one AAAA ::
+h.me A 0.0.0.0
+*.h.me A 0.0.0.0
+h.me AAAA ::
+*.h.me AAAA ::
 hola.org A 0.0.0.0
 *.hola.org A 0.0.0.0
 hola.org AAAA ::
@@ -7709,10 +7713,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.com01.dnscry.pt A 0.0.0.0
-*.whoisping.com01.dnscry.pt A 0.0.0.0
-whoisping.com01.dnscry.pt AAAA ::
-*.whoisping.com01.dnscry.pt AAAA ::
+whoisping.com A 0.0.0.0
+*.whoisping.com A 0.0.0.0
+whoisping.com AAAA ::
+*.whoisping.com AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
