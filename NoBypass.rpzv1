@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606041631 ; Serial Number
+ 2606050431 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -11,14 +11,14 @@ $ORIGIN nobypass.rpz.
 
 003153.xyz CNAME .
 *.003153.xyz CNAME .
-012proxy.ga CNAME .
-*.012proxy.ga CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
 *.123000123.xyz CNAME .
 123-24.eport.gr CNAME .
 *.123-24.eport.gr CNAME .
+12vpx.com CNAME .
+*.12vpx.com CNAME .
 1a.ns.ozer.im CNAME .
 *.1a.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
@@ -479,8 +479,6 @@ chromium.dns.nextdns.io CNAME .
 *.chromium.dns.nextdns.io CNAME .
 chuncheon.dnsovertor.cc CNAME .
 *.chuncheon.dnsovertor.cc CNAME .
-cira.ca CNAME .
-*.cira.ca CNAME .
 citizenvpn.com CNAME .
 *.citizenvpn.com CNAME .
 cleanbrowsing.org CNAME .
@@ -555,6 +553,8 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 darkness.is.my.waifu.cz CNAME .
 *.darkness.is.my.waifu.cz CNAME .
+darknet.to CNAME .
+*.darknet.to CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
@@ -619,8 +619,6 @@ dns1.digitale-gesellschaft.ch CNAME .
 *.dns1.digitale-gesellschaft.ch CNAME .
 dns1.dnscrypt.ca CNAME .
 *.dns1.dnscrypt.ca CNAME .
-dns1dot1dot1dot1.cloudflare-dns.com CNAME .
-*.dns1dot1dot1dot1.cloudflare-dns.com CNAME .
 dns1.in-berlin.de CNAME .
 *.dns1.in-berlin.de CNAME .
 dns1.irumatech.com CNAME .
@@ -933,6 +931,8 @@ dns.decky.eu CNAME .
 *.dns.decky.eu CNAME .
 dns.decloudus.com CNAME .
 *.dns.decloudus.com CNAME .
+dnsdee.su CNAME .
+*.dnsdee.su CNAME .
 dns.dekedin.me CNAME .
 *.dns.dekedin.me CNAME .
 dns.developer.li CNAME .
@@ -1247,8 +1247,6 @@ dns.listo.click CNAME .
 *.dns.listo.click CNAME .
 dns.lobbygod.com CNAME .
 *.dns.lobbygod.com CNAME .
-dnslow.mdarknet.to CNAME .
-*.dnslow.mdarknet.to CNAME .
 dnslow.me CNAME .
 *.dnslow.me CNAME .
 dns.lsho.top CNAME .
@@ -1259,8 +1257,8 @@ dns.lvolland.fr CNAME .
 *.dns.lvolland.fr CNAME .
 dns.maitrekuc.fr CNAME .
 *.dns.maitrekuc.fr CNAME .
-dns-malwaresec.nordthreatprotection.cdee.su CNAME .
-*.dns-malwaresec.nordthreatprotection.cdee.su CNAME .
+dns-malwaresec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com CNAME .
+*.dns-malwaresec.nordthreatprotection.c1dot1dot1dot1.cloudflare-dns.com CNAME .
 dns.maolaohei.xyz CNAME .
 *.dns.maolaohei.xyz CNAME .
 dns.marasov.id CNAME .
@@ -1369,8 +1367,6 @@ dns.ofdoom.net CNAME .
 *.dns.ofdoom.net CNAME .
 dns.oliviertv.co.za CNAME .
 *.dns.oliviertv.co.za CNAME .
-dns.olpploiopkuyhiopsfrt.info CNAME .
-*.dns.olpploiopkuyhiopsfrt.info CNAME .
 dns.opendns.com CNAME .
 *.dns.opendns.com CNAME .
 dns.oszx.co CNAME .
@@ -2115,6 +2111,8 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
+epicbrowser.com CNAME .
+*.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
 *.eropa.dnscepat.id CNAME .
 esel.stusta.mhn.de CNAME .
@@ -2351,14 +2349,14 @@ guardian-vpn.com CNAME .
 *.guardian-vpn.com CNAME .
 guardianvpn.net CNAME .
 *.guardianvpn.net CNAME .
-guard.snepicbrowser.com CNAME .
-*.guard.snepicbrowser.com CNAME .
+guard.sntrk.ru CNAME .
+*.guard.sntrk.ru CNAME .
 guardster.com CNAME .
 *.guardster.com CNAME .
 gustamadh.dynv6.net CNAME .
 *.gustamadh.dynv6.net CNAME .
-gva01.dnscry.pt CNAME .
-*.gva01.dnscry.pt CNAME .
+gva012proxy.ga CNAME .
+*.gva012proxy.ga CNAME .
 gztech.me CNAME .
 *.gztech.me CNAME .
 haf01.dnscry.pt CNAME .
@@ -3041,8 +3039,6 @@ project-evoex.de CNAME .
 *.project-evoex.de CNAME .
 pro.shecan.ir CNAME .
 *.pro.shecan.ir CNAME .
-protected.canadianshield.12vpx.com CNAME .
-*.protected.canadianshield.12vpx.com CNAME .
 protected.canadianshield.cira.ca CNAME .
 *.protected.canadianshield.cira.ca CNAME .
 protective.joindns4.eu CNAME .
@@ -3595,8 +3591,6 @@ trickbyte.com CNAME .
 *.trickbyte.com CNAME .
 tri-dns.net CNAME .
 *.tri-dns.net CNAME .
-trk.ru CNAME .
-*.trk.ru CNAME .
 truta.org CNAME .
 *.truta.org CNAME .
 tsm01.dnscry.pt CNAME .
@@ -3865,8 +3859,8 @@ webunblocker.xyz CNAME .
 *.webunblocker.xyz CNAME .
 whoer.net CNAME .
 *.whoer.net CNAME .
-whoisping.com CNAME .
-*.whoisping.com CNAME .
+whoisping.com01.dnscry.pt CNAME .
+*.whoisping.com01.dnscry.pt CNAME .
 whonix.org CNAME .
 *.whonix.org CNAME .
 wikimedia-dns.org CNAME .
