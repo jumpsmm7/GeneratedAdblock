@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606051630 ; Serial Number
+ 2606060433 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -9,10 +9,8 @@ $ORIGIN nobypass.rpz.
  )
  NS localhost
 
-003153.xyz CNAME .
-*.003153.xyz CNAME .
-012proxy.ga CNAME .
-*.012proxy.ga CNAME .
+01.dnscry.pt CNAME .
+*.01.dnscry.pt CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
@@ -61,6 +59,8 @@ abel.waringer-atg.de CNAME .
 *.abel.waringer-atg.de CNAME .
 abn01.dnscry.pt CNAME .
 *.abn01.dnscry.pt CNAME .
+ab.nic.cl CNAME .
+*.ab.nic.cl CNAME .
 aceproxy.com CNAME .
 *.aceproxy.com CNAME .
 acevpn.com CNAME .
@@ -555,6 +555,8 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 darkness.is.my.waifu.cz CNAME .
 *.darkness.is.my.waifu.cz CNAME .
+darknet.to CNAME .
+*.darknet.to CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
@@ -569,6 +571,8 @@ de-dus.doh.sb CNAME .
 *.de-dus.doh.sb CNAME .
 deep-henchman-excuse.cfd CNAME .
 *.deep-henchman-excuse.cfd CNAME .
+dee.su CNAME .
+*.dee.su CNAME .
 de-f1.foxyfy.net CNAME .
 *.de-f1.foxyfy.net CNAME .
 defencevpn.com CNAME .
@@ -919,8 +923,6 @@ dns.daemon.za.net CNAME .
 *.dns.daemon.za.net CNAME .
 dns.dallinbryce.com CNAME .
 *.dns.dallinbryce.com CNAME .
-dnsdarknet.to CNAME .
-*.dnsdarknet.to CNAME .
 dns.datenquark.de CNAME .
 *.dns.datenquark.de CNAME .
 dns.david888.com CNAME .
@@ -1199,6 +1201,8 @@ dns.kerekes.xyz CNAME .
 *.dns.kerekes.xyz CNAME .
 dns.kernel-error.de CNAME .
 *.dns.kernel-error.de CNAME .
+dns.kescher.at CNAME .
+*.dns.kescher.at CNAME .
 dns.keviland.com CNAME .
 *.dns.keviland.com CNAME .
 dns.keweon.center CNAME .
@@ -1257,8 +1261,10 @@ dns.lvolland.fr CNAME .
 *.dns.lvolland.fr CNAME .
 dns.maitrekuc.fr CNAME .
 *.dns.maitrekuc.fr CNAME .
-dns-malwaresec.nordthreatprotection.cdee.su CNAME .
-*.dns-malwaresec.nordthreatprotection.cdee.su CNAME .
+dns-malwaresec.nordthreatprotection.cdnswarden.com CNAME .
+*.dns-malwaresec.nordthreatprotection.cdnswarden.com CNAME .
+dns.maolaohei.xyz CNAME .
+*.dns.maolaohei.xyz CNAME .
 dns.marasov.id CNAME .
 *.dns.marasov.id CNAME .
 dns.marbledfennec.net CNAME .
@@ -1369,6 +1375,8 @@ dns.opendns.com CNAME .
 *.dns.opendns.com CNAME .
 dns.oszx.co CNAME .
 *.dns.oszx.co CNAME .
+dnsotls.l012proxy.ga CNAME .
+*.dnsotls.l012proxy.ga CNAME .
 dnsotls.lab.nic.cl CNAME .
 *.dnsotls.lab.nic.cl CNAME .
 dns.ourvau.lt CNAME .
@@ -1421,8 +1429,8 @@ dns.pub CNAME .
 *.dns.pub CNAME .
 dns-public.ibakerserver.pt CNAME .
 *.dns-public.ibakerserver.pt CNAME .
-dnspub.rmask.icloud.com CNAME .
-*.dnspub.rmask.icloud.com CNAME .
+dnspub.restena.lu CNAME .
+*.dnspub.restena.lu CNAME .
 dns.pumpkinvrar.com CNAME .
 *.dns.pumpkinvrar.com CNAME .
 dns.pumplex.com CNAME .
@@ -2091,8 +2099,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.dnswarden.com CNAME .
-*.ecs-doh.dnswarden.com CNAME .
+ecs-doh.003153.xyz CNAME .
+*.ecs-doh.003153.xyz CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2109,16 +2117,12 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
-epicbrowser.com CNAME .
-*.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
 *.eropa.dnscepat.id CNAME .
 esel.stusta.mhn.de CNAME .
 *.esel.stusta.mhn.de CNAME .
 es-ma.foxyfy.net CNAME .
 *.es-ma.foxyfy.net CNAME .
-estena.lu CNAME .
-*.estena.lu CNAME .
 eth.link CNAME .
 *.eth.link CNAME .
 eu1.dns.lavate.ch CNAME .
@@ -2355,10 +2359,10 @@ guardster.com CNAME .
 *.guardster.com CNAME .
 gustamadh.dynv6.net CNAME .
 *.gustamadh.dynv6.net CNAME .
-gva01.dnscry.pt CNAME .
-*.gva01.dnscry.pt CNAME .
-gztecfirefox.dns.nextdns.io CNAME .
-*.gztecfirefox.dns.nextdns.io CNAME .
+gvaepicbrowser.com CNAME .
+*.gvaepicbrowser.com CNAME .
+gztech.me CNAME .
+*.gztech.me CNAME .
 haf01.dnscry.pt CNAME .
 *.haf01.dnscry.pt CNAME .
 han01.dnscry.pt CNAME .
@@ -2419,8 +2423,6 @@ hk-hkg.doh.sb CNAME .
 *.hk-hkg.doh.sb CNAME .
 hkname.freecdn.one CNAME .
 *.hkname.freecdn.one CNAME .
-h.me CNAME .
-*.h.me CNAME .
 hola.org CNAME .
 *.hola.org CNAME .
 hole.elbschloss.xyz CNAME .

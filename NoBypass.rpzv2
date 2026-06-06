@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606051630 ; Serial Number
+ 2606060433 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -9,14 +9,10 @@ $ORIGIN nobypass.rpz.
  )
  NS localhost
 
-003153.xyz A 0.0.0.0
-*.003153.xyz A 0.0.0.0
-003153.xyz AAAA ::
-*.003153.xyz AAAA ::
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
+01.dnscry.pt A 0.0.0.0
+*.01.dnscry.pt A 0.0.0.0
+01.dnscry.pt AAAA ::
+*.01.dnscry.pt AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -113,6 +109,10 @@ abn01.dnscry.pt A 0.0.0.0
 *.abn01.dnscry.pt A 0.0.0.0
 abn01.dnscry.pt AAAA ::
 *.abn01.dnscry.pt AAAA ::
+ab.nic.cl A 0.0.0.0
+*.ab.nic.cl A 0.0.0.0
+ab.nic.cl AAAA ::
+*.ab.nic.cl AAAA ::
 aceproxy.com A 0.0.0.0
 *.aceproxy.com A 0.0.0.0
 aceproxy.com AAAA ::
@@ -1101,6 +1101,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1129,6 +1133,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1829,10 +1837,6 @@ dns.dallinbryce.com A 0.0.0.0
 *.dns.dallinbryce.com A 0.0.0.0
 dns.dallinbryce.com AAAA ::
 *.dns.dallinbryce.com AAAA ::
-dnsdarknet.to A 0.0.0.0
-*.dnsdarknet.to A 0.0.0.0
-dnsdarknet.to AAAA ::
-*.dnsdarknet.to AAAA ::
 dns.datenquark.de A 0.0.0.0
 *.dns.datenquark.de A 0.0.0.0
 dns.datenquark.de AAAA ::
@@ -2389,6 +2393,10 @@ dns.kernel-error.de A 0.0.0.0
 *.dns.kernel-error.de A 0.0.0.0
 dns.kernel-error.de AAAA ::
 *.dns.kernel-error.de AAAA ::
+dns.kescher.at A 0.0.0.0
+*.dns.kescher.at A 0.0.0.0
+dns.kescher.at AAAA ::
+*.dns.kescher.at AAAA ::
 dns.keviland.com A 0.0.0.0
 *.dns.keviland.com A 0.0.0.0
 dns.keviland.com AAAA ::
@@ -2505,10 +2513,14 @@ dns.maitrekuc.fr A 0.0.0.0
 *.dns.maitrekuc.fr A 0.0.0.0
 dns.maitrekuc.fr AAAA ::
 *.dns.maitrekuc.fr AAAA ::
-dns-malwaresec.nordthreatprotection.cdee.su A 0.0.0.0
-*.dns-malwaresec.nordthreatprotection.cdee.su A 0.0.0.0
-dns-malwaresec.nordthreatprotection.cdee.su AAAA ::
-*.dns-malwaresec.nordthreatprotection.cdee.su AAAA ::
+dns-malwaresec.nordthreatprotection.cdnswarden.com A 0.0.0.0
+*.dns-malwaresec.nordthreatprotection.cdnswarden.com A 0.0.0.0
+dns-malwaresec.nordthreatprotection.cdnswarden.com AAAA ::
+*.dns-malwaresec.nordthreatprotection.cdnswarden.com AAAA ::
+dns.maolaohei.xyz A 0.0.0.0
+*.dns.maolaohei.xyz A 0.0.0.0
+dns.maolaohei.xyz AAAA ::
+*.dns.maolaohei.xyz AAAA ::
 dns.marasov.id A 0.0.0.0
 *.dns.marasov.id A 0.0.0.0
 dns.marasov.id AAAA ::
@@ -2729,6 +2741,10 @@ dns.oszx.co A 0.0.0.0
 *.dns.oszx.co A 0.0.0.0
 dns.oszx.co AAAA ::
 *.dns.oszx.co AAAA ::
+dnsotls.l012proxy.ga A 0.0.0.0
+*.dnsotls.l012proxy.ga A 0.0.0.0
+dnsotls.l012proxy.ga AAAA ::
+*.dnsotls.l012proxy.ga AAAA ::
 dnsotls.lab.nic.cl A 0.0.0.0
 *.dnsotls.lab.nic.cl A 0.0.0.0
 dnsotls.lab.nic.cl AAAA ::
@@ -2833,10 +2849,10 @@ dns-public.ibakerserver.pt A 0.0.0.0
 *.dns-public.ibakerserver.pt A 0.0.0.0
 dns-public.ibakerserver.pt AAAA ::
 *.dns-public.ibakerserver.pt AAAA ::
-dnspub.rmask.icloud.com A 0.0.0.0
-*.dnspub.rmask.icloud.com A 0.0.0.0
-dnspub.rmask.icloud.com AAAA ::
-*.dnspub.rmask.icloud.com AAAA ::
+dnspub.restena.lu A 0.0.0.0
+*.dnspub.restena.lu A 0.0.0.0
+dnspub.restena.lu AAAA ::
+*.dnspub.restena.lu AAAA ::
 dns.pumpkinvrar.com A 0.0.0.0
 *.dns.pumpkinvrar.com A 0.0.0.0
 dns.pumpkinvrar.com AAAA ::
@@ -4173,10 +4189,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.dnswarden.com A 0.0.0.0
-*.ecs-doh.dnswarden.com A 0.0.0.0
-ecs-doh.dnswarden.com AAAA ::
-*.ecs-doh.dnswarden.com AAAA ::
+ecs-doh.003153.xyz A 0.0.0.0
+*.ecs-doh.003153.xyz A 0.0.0.0
+ecs-doh.003153.xyz AAAA ::
+*.ecs-doh.003153.xyz AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4209,10 +4225,6 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
-epicbrowser.com A 0.0.0.0
-*.epicbrowser.com A 0.0.0.0
-epicbrowser.com AAAA ::
-*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4225,10 +4237,6 @@ es-ma.foxyfy.net A 0.0.0.0
 *.es-ma.foxyfy.net A 0.0.0.0
 es-ma.foxyfy.net AAAA ::
 *.es-ma.foxyfy.net AAAA ::
-estena.lu A 0.0.0.0
-*.estena.lu A 0.0.0.0
-estena.lu AAAA ::
-*.estena.lu AAAA ::
 eth.link A 0.0.0.0
 *.eth.link A 0.0.0.0
 eth.link AAAA ::
@@ -4701,14 +4709,14 @@ gustamadh.dynv6.net A 0.0.0.0
 *.gustamadh.dynv6.net A 0.0.0.0
 gustamadh.dynv6.net AAAA ::
 *.gustamadh.dynv6.net AAAA ::
-gva01.dnscry.pt A 0.0.0.0
-*.gva01.dnscry.pt A 0.0.0.0
-gva01.dnscry.pt AAAA ::
-*.gva01.dnscry.pt AAAA ::
-gztecfirefox.dns.nextdns.io A 0.0.0.0
-*.gztecfirefox.dns.nextdns.io A 0.0.0.0
-gztecfirefox.dns.nextdns.io AAAA ::
-*.gztecfirefox.dns.nextdns.io AAAA ::
+gvaepicbrowser.com A 0.0.0.0
+*.gvaepicbrowser.com A 0.0.0.0
+gvaepicbrowser.com AAAA ::
+*.gvaepicbrowser.com AAAA ::
+gztech.me A 0.0.0.0
+*.gztech.me A 0.0.0.0
+gztech.me AAAA ::
+*.gztech.me AAAA ::
 haf01.dnscry.pt A 0.0.0.0
 *.haf01.dnscry.pt A 0.0.0.0
 haf01.dnscry.pt AAAA ::
@@ -4829,10 +4837,6 @@ hkname.freecdn.one A 0.0.0.0
 *.hkname.freecdn.one A 0.0.0.0
 hkname.freecdn.one AAAA ::
 *.hkname.freecdn.one AAAA ::
-h.me A 0.0.0.0
-*.h.me A 0.0.0.0
-h.me AAAA ::
-*.h.me AAAA ::
 hola.org A 0.0.0.0
 *.hola.org A 0.0.0.0
 hola.org AAAA ::
