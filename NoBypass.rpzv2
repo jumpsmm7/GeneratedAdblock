@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606061631 ; Serial Number
+ 2606070431 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -17,10 +17,6 @@ $ORIGIN nobypass.rpz.
 *.012proxy.ga A 0.0.0.0
 012proxy.ga AAAA ::
 *.012proxy.ga AAAA ::
-01.dnscry.pt A 0.0.0.0
-*.01.dnscry.pt A 0.0.0.0
-01.dnscry.pt AAAA ::
-*.01.dnscry.pt AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -33,6 +29,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -113,6 +113,10 @@ abn01.dnscry.pt A 0.0.0.0
 *.abn01.dnscry.pt A 0.0.0.0
 abn01.dnscry.pt AAAA ::
 *.abn01.dnscry.pt AAAA ::
+ab.nic.cl A 0.0.0.0
+*.ab.nic.cl A 0.0.0.0
+ab.nic.cl AAAA ::
+*.ab.nic.cl AAAA ::
 aceproxy.com A 0.0.0.0
 *.aceproxy.com A 0.0.0.0
 aceproxy.com AAAA ::
@@ -1129,6 +1133,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1853,10 +1861,6 @@ dns.decloudus.com A 0.0.0.0
 *.dns.decloudus.com A 0.0.0.0
 dns.decloudus.com AAAA ::
 *.dns.decloudus.com AAAA ::
-dnsdee.su A 0.0.0.0
-*.dnsdee.su A 0.0.0.0
-dnsdee.su AAAA ::
-*.dnsdee.su AAAA ::
 dns.dekedin.me A 0.0.0.0
 *.dns.dekedin.me A 0.0.0.0
 dns.dekedin.me AAAA ::
@@ -2389,6 +2393,10 @@ dns.kernel-error.de A 0.0.0.0
 *.dns.kernel-error.de A 0.0.0.0
 dns.kernel-error.de AAAA ::
 *.dns.kernel-error.de AAAA ::
+dns.kescher.at A 0.0.0.0
+*.dns.kescher.at A 0.0.0.0
+dns.kescher.at AAAA ::
+*.dns.kescher.at AAAA ::
 dns.keviland.com A 0.0.0.0
 *.dns.keviland.com A 0.0.0.0
 dns.keviland.com AAAA ::
@@ -2505,10 +2513,10 @@ dns.maitrekuc.fr A 0.0.0.0
 *.dns.maitrekuc.fr A 0.0.0.0
 dns.maitrekuc.fr AAAA ::
 *.dns.maitrekuc.fr AAAA ::
-dns-malwaresec.nordthreatprotection.com A 0.0.0.0
-*.dns-malwaresec.nordthreatprotection.com A 0.0.0.0
-dns-malwaresec.nordthreatprotection.com AAAA ::
-*.dns-malwaresec.nordthreatprotection.com AAAA ::
+dns-malwaresec.nordthreatprotection.cdarknet.to A 0.0.0.0
+*.dns-malwaresec.nordthreatprotection.cdarknet.to A 0.0.0.0
+dns-malwaresec.nordthreatprotection.cdarknet.to AAAA ::
+*.dns-malwaresec.nordthreatprotection.cdarknet.to AAAA ::
 dns.maolaohei.xyz A 0.0.0.0
 *.dns.maolaohei.xyz A 0.0.0.0
 dns.maolaohei.xyz AAAA ::
@@ -2733,14 +2741,14 @@ dns.oszx.co A 0.0.0.0
 *.dns.oszx.co A 0.0.0.0
 dns.oszx.co AAAA ::
 *.dns.oszx.co AAAA ::
-dnsotls.l12vpx.com A 0.0.0.0
-*.dnsotls.l12vpx.com A 0.0.0.0
-dnsotls.l12vpx.com AAAA ::
-*.dnsotls.l12vpx.com AAAA ::
 dnsotls.lab.nic.cl A 0.0.0.0
 *.dnsotls.lab.nic.cl A 0.0.0.0
 dnsotls.lab.nic.cl AAAA ::
 *.dnsotls.lab.nic.cl AAAA ::
+dnsotls.lfirefox.dns.nextdns.io A 0.0.0.0
+*.dnsotls.lfirefox.dns.nextdns.io A 0.0.0.0
+dnsotls.lfirefox.dns.nextdns.io AAAA ::
+*.dnsotls.lfirefox.dns.nextdns.io AAAA ::
 dns.ourvau.lt A 0.0.0.0
 *.dns.ourvau.lt A 0.0.0.0
 dns.ourvau.lt AAAA ::
@@ -3233,10 +3241,6 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
-dnswarden.com A 0.0.0.0
-*.dnswarden.com A 0.0.0.0
-dnswarden.com AAAA ::
-*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4185,10 +4189,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.darknet.to A 0.0.0.0
-*.ecs-doh.darknet.to A 0.0.0.0
-ecs-doh.darknet.to AAAA ::
-*.ecs-doh.darknet.to AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4709,6 +4713,10 @@ gustamadh.dynv6.net A 0.0.0.0
 *.gustamadh.dynv6.net A 0.0.0.0
 gustamadh.dynv6.net AAAA ::
 *.gustamadh.dynv6.net AAAA ::
+gva01.dnscry.pt A 0.0.0.0
+*.gva01.dnscry.pt A 0.0.0.0
+gva01.dnscry.pt AAAA ::
+*.gva01.dnscry.pt AAAA ::
 gztech.me A 0.0.0.0
 *.gztech.me A 0.0.0.0
 gztech.me AAAA ::
@@ -4841,6 +4849,10 @@ hole.elbschloss.xyz A 0.0.0.0
 *.hole.elbschloss.xyz A 0.0.0.0
 hole.elbschloss.xyz AAAA ::
 *.hole.elbschloss.xyz AAAA ::
+home27.duckdns.org A 0.0.0.0
+*.home27.duckdns.org A 0.0.0.0
+home27.duckdns.org AAAA ::
+*.home27.duckdns.org AAAA ::
 home.enjoymylife.net A 0.0.0.0
 *.home.enjoymylife.net A 0.0.0.0
 home.enjoymylife.net AAAA ::
@@ -4913,10 +4925,6 @@ ibuki.cgnat.net A 0.0.0.0
 *.ibuki.cgnat.net A 0.0.0.0
 ibuki.cgnat.net AAAA ::
 *.ibuki.cgnat.net AAAA ::
-ic-dns-a.dns.sb A 0.0.0.0
-*.ic-dns-a.dns.sb A 0.0.0.0
-ic-dns-a.dns.sb AAAA ::
-*.ic-dns-a.dns.sb AAAA ::
 idcloak.com A 0.0.0.0
 *.idcloak.com A 0.0.0.0
 idcloak.com AAAA ::
@@ -6345,10 +6353,6 @@ ps1.modr.club A 0.0.0.0
 *.ps1.modr.club A 0.0.0.0
 ps1.modr.club AAAA ::
 *.ps1.modr.club AAAA ::
-publfirefox.dns.nextdns.io A 0.0.0.0
-*.publfirefox.dns.nextdns.io A 0.0.0.0
-publfirefox.dns.nextdns.io AAAA ::
-*.publfirefox.dns.nextdns.io AAAA ::
 public-dns-a.dns.sb A 0.0.0.0
 *.public-dns-a.dns.sb A 0.0.0.0
 public-dns-a.dns.sb AAAA ::
@@ -7177,10 +7181,6 @@ tri-dns.net A 0.0.0.0
 *.tri-dns.net A 0.0.0.0
 tri-dns.net AAAA ::
 *.tri-dns.net AAAA ::
-truta.org A 0.0.0.0
-*.truta.org A 0.0.0.0
-truta.org AAAA ::
-*.truta.org AAAA ::
 tsm01.dnscry.pt A 0.0.0.0
 *.tsm01.dnscry.pt A 0.0.0.0
 tsm01.dnscry.pt AAAA ::
@@ -7713,10 +7713,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.comab.nic.cl A 0.0.0.0
-*.whoisping.comab.nic.cl A 0.0.0.0
-whoisping.comab.nic.cl AAAA ::
-*.whoisping.comab.nic.cl AAAA ::
+whoisping.com A 0.0.0.0
+*.whoisping.com A 0.0.0.0
+whoisping.com AAAA ::
+*.whoisping.com AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
