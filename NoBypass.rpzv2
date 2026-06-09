@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606081631 ; Serial Number
+ 2606090432 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -1129,6 +1129,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1185,10 +1189,6 @@ d.niaox.com A 0.0.0.0
 *.d.niaox.com A 0.0.0.0
 d.niaox.com AAAA ::
 *.d.niaox.com AAAA ::
-dns012proxy.ga A 0.0.0.0
-*.dns012proxy.ga A 0.0.0.0
-dns012proxy.ga AAAA ::
-*.dns012proxy.ga AAAA ::
 dns01.flm9.net A 0.0.0.0
 *.dns01.flm9.net A 0.0.0.0
 dns01.flm9.net AAAA ::
@@ -1921,6 +1921,10 @@ dns.dnswarden.com A 0.0.0.0
 *.dns.dnswarden.com A 0.0.0.0
 dns.dnswarden.com AAAA ::
 *.dns.dnswarden.com AAAA ::
+dnsdnswarden.com A 0.0.0.0
+*.dnsdnswarden.com A 0.0.0.0
+dnsdnswarden.com AAAA ::
+*.dnsdnswarden.com AAAA ::
 dnsdoh.art A 0.0.0.0
 *.dnsdoh.art A 0.0.0.0
 dnsdoh.art AAAA ::
@@ -2505,10 +2509,14 @@ dns.maitrekuc.fr A 0.0.0.0
 *.dns.maitrekuc.fr A 0.0.0.0
 dns.maitrekuc.fr AAAA ::
 *.dns.maitrekuc.fr AAAA ::
-dns-malwaresec.nordthreatprotection.cdee.su A 0.0.0.0
-*.dns-malwaresec.nordthreatprotection.cdee.su A 0.0.0.0
-dns-malwaresec.nordthreatprotection.cdee.su AAAA ::
-*.dns-malwaresec.nordthreatprotection.cdee.su AAAA ::
+dns-malwaresec.nordthreatprotection.c012proxy.ga A 0.0.0.0
+*.dns-malwaresec.nordthreatprotection.c012proxy.ga A 0.0.0.0
+dns-malwaresec.nordthreatprotection.c012proxy.ga AAAA ::
+*.dns-malwaresec.nordthreatprotection.c012proxy.ga AAAA ::
+dns.maolaohei.xyz A 0.0.0.0
+*.dns.maolaohei.xyz A 0.0.0.0
+dns.maolaohei.xyz AAAA ::
+*.dns.maolaohei.xyz AAAA ::
 dns.marasov.id A 0.0.0.0
 *.dns.marasov.id A 0.0.0.0
 dns.marasov.id AAAA ::
@@ -2725,10 +2733,6 @@ dns.oliviertv.co.za A 0.0.0.0
 *.dns.oliviertv.co.za A 0.0.0.0
 dns.oliviertv.co.za AAAA ::
 *.dns.oliviertv.co.za AAAA ::
-dnsomask.icloud.com A 0.0.0.0
-*.dnsomask.icloud.com A 0.0.0.0
-dnsomask.icloud.com AAAA ::
-*.dnsomask.icloud.com AAAA ::
 dns.opendns.com A 0.0.0.0
 *.dns.opendns.com A 0.0.0.0
 dns.opendns.com AAAA ::
@@ -4181,10 +4185,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.dnswarden.com A 0.0.0.0
-*.ecs-doh.dnswarden.com A 0.0.0.0
-ecs-doh.dnswarden.com AAAA ::
-*.ecs-doh.dnswarden.com AAAA ::
+ecs-doh.epicbrowser.com A 0.0.0.0
+*.ecs-doh.epicbrowser.com A 0.0.0.0
+ecs-doh.epicbrowser.com AAAA ::
+*.ecs-doh.epicbrowser.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4217,10 +4221,6 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
-epicbrowser.com A 0.0.0.0
-*.epicbrowser.com A 0.0.0.0
-epicbrowser.com AAAA ::
-*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4701,10 +4701,10 @@ guardster.com A 0.0.0.0
 *.guardster.com A 0.0.0.0
 guardster.com AAAA ::
 *.guardster.com AAAA ::
-gustamadh.dynv6.nefirefox.dns.nextdns.io A 0.0.0.0
-*.gustamadh.dynv6.nefirefox.dns.nextdns.io A 0.0.0.0
-gustamadh.dynv6.nefirefox.dns.nextdns.io AAAA ::
-*.gustamadh.dynv6.nefirefox.dns.nextdns.io AAAA ::
+gustamadh.dynv6.net A 0.0.0.0
+*.gustamadh.dynv6.net A 0.0.0.0
+gustamadh.dynv6.net AAAA ::
+*.gustamadh.dynv6.net AAAA ::
 gva01.dnscry.pt A 0.0.0.0
 *.gva01.dnscry.pt A 0.0.0.0
 gva01.dnscry.pt AAAA ::
@@ -4841,6 +4841,10 @@ hole.elbschloss.xyz A 0.0.0.0
 *.hole.elbschloss.xyz A 0.0.0.0
 hole.elbschloss.xyz AAAA ::
 *.hole.elbschloss.xyz AAAA ::
+home27.duckdns.org A 0.0.0.0
+*.home27.duckdns.org A 0.0.0.0
+home27.duckdns.org AAAA ::
+*.home27.duckdns.org AAAA ::
 home.enjoymylife.net A 0.0.0.0
 *.home.enjoymylife.net A 0.0.0.0
 home.enjoymylife.net AAAA ::
@@ -7073,10 +7077,6 @@ tikvpn.com A 0.0.0.0
 *.tikvpn.com A 0.0.0.0
 tikvpn.com AAAA ::
 *.tikvpn.com AAAA ::
-timedns.net A 0.0.0.0
-*.timedns.net A 0.0.0.0
-timedns.net AAAA ::
-*.timedns.net AAAA ::
 timmes.nl A 0.0.0.0
 *.timmes.nl A 0.0.0.0
 timmes.nl AAAA ::
@@ -7101,10 +7101,6 @@ tls-dns-u.odvr.dns-oarc.net A 0.0.0.0
 *.tls-dns-u.odvr.dns-oarc.net A 0.0.0.0
 tls-dns-u.odvr.dns-oarc.net AAAA ::
 *.tls-dns-u.odvr.dns-oarc.net AAAA ::
-tls.lab.nic.cl A 0.0.0.0
-*.tls.lab.nic.cl A 0.0.0.0
-tls.lab.nic.cl AAAA ::
-*.tls.lab.nic.cl AAAA ::
 tlv01.dnscry.pt A 0.0.0.0
 *.tlv01.dnscry.pt A 0.0.0.0
 tlv01.dnscry.pt AAAA ::
@@ -7209,6 +7205,10 @@ tujenasnaszato.xyz A 0.0.0.0
 *.tujenasnaszato.xyz A 0.0.0.0
 tujenasnaszato.xyz AAAA ::
 *.tujenasnaszato.xyz AAAA ::
+tungdnsne.duckdns.org A 0.0.0.0
+*.tungdnsne.duckdns.org A 0.0.0.0
+tungdnsne.duckdns.org AAAA ::
+*.tungdnsne.duckdns.org AAAA ::
 tunnelbear.com A 0.0.0.0
 *.tunnelbear.com A 0.0.0.0
 tunnelbear.com AAAA ::
