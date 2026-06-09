@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606090432 ; Serial Number
+ 2606091634 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,6 +13,10 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
+012proxy.ga A 0.0.0.0
+*.012proxy.ga A 0.0.0.0
+012proxy.ga AAAA ::
+*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -25,10 +29,6 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
-12vpx.com A 0.0.0.0
-*.12vpx.com A 0.0.0.0
-12vpx.com AAAA ::
-*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -245,10 +245,6 @@ adguard.dekonix.ru A 0.0.0.0
 *.adguard.dekonix.ru A 0.0.0.0
 adguard.dekonix.ru AAAA ::
 *.adguard.dekonix.ru AAAA ::
-adguard.depieri.net A 0.0.0.0
-*.adguard.depieri.net A 0.0.0.0
-adguard.depieri.net AAAA ::
-*.adguard.depieri.net AAAA ::
 adguard-dns.com A 0.0.0.0
 *.adguard-dns.com A 0.0.0.0
 adguard-dns.com AAAA ::
@@ -1097,10 +1093,6 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1129,10 +1121,6 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
-dee.su A 0.0.0.0
-*.dee.su A 0.0.0.0
-dee.su AAAA ::
-*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1921,10 +1909,6 @@ dns.dnswarden.com A 0.0.0.0
 *.dns.dnswarden.com A 0.0.0.0
 dns.dnswarden.com AAAA ::
 *.dns.dnswarden.com AAAA ::
-dnsdnswarden.com A 0.0.0.0
-*.dnsdnswarden.com A 0.0.0.0
-dnsdnswarden.com AAAA ::
-*.dnsdnswarden.com AAAA ::
 dnsdoh.art A 0.0.0.0
 *.dnsdoh.art A 0.0.0.0
 dnsdoh.art AAAA ::
@@ -2393,10 +2377,14 @@ dns.kernel-error.de A 0.0.0.0
 *.dns.kernel-error.de A 0.0.0.0
 dns.kernel-error.de AAAA ::
 *.dns.kernel-error.de AAAA ::
-dns.keviland.com A 0.0.0.0
-*.dns.keviland.com A 0.0.0.0
-dns.keviland.com AAAA ::
-*.dns.keviland.com AAAA ::
+dns.kescher.at A 0.0.0.0
+*.dns.kescher.at A 0.0.0.0
+dns.kescher.at AAAA ::
+*.dns.kescher.at AAAA ::
+dns.kevidee.su A 0.0.0.0
+*.dns.kevidee.su A 0.0.0.0
+dns.kevidee.su AAAA ::
+*.dns.kevidee.su AAAA ::
 dns.keweon.center A 0.0.0.0
 *.dns.keweon.center A 0.0.0.0
 dns.keweon.center AAAA ::
@@ -2509,10 +2497,10 @@ dns.maitrekuc.fr A 0.0.0.0
 *.dns.maitrekuc.fr A 0.0.0.0
 dns.maitrekuc.fr AAAA ::
 *.dns.maitrekuc.fr AAAA ::
-dns-malwaresec.nordthreatprotection.c012proxy.ga A 0.0.0.0
-*.dns-malwaresec.nordthreatprotection.c012proxy.ga A 0.0.0.0
-dns-malwaresec.nordthreatprotection.c012proxy.ga AAAA ::
-*.dns-malwaresec.nordthreatprotection.c012proxy.ga AAAA ::
+dns-malwaresec.nordthreatprotection.com A 0.0.0.0
+*.dns-malwaresec.nordthreatprotection.com A 0.0.0.0
+dns-malwaresec.nordthreatprotection.com AAAA ::
+*.dns-malwaresec.nordthreatprotection.com AAAA ::
 dns.maolaohei.xyz A 0.0.0.0
 *.dns.maolaohei.xyz A 0.0.0.0
 dns.maolaohei.xyz AAAA ::
@@ -2741,6 +2729,10 @@ dns.oszx.co A 0.0.0.0
 *.dns.oszx.co A 0.0.0.0
 dns.oszx.co AAAA ::
 *.dns.oszx.co AAAA ::
+dnsotlepicbrowser.com A 0.0.0.0
+*.dnsotlepicbrowser.com A 0.0.0.0
+dnsotlepicbrowser.com AAAA ::
+*.dnsotlepicbrowser.com AAAA ::
 dnsotls.lab.nic.cl A 0.0.0.0
 *.dnsotls.lab.nic.cl A 0.0.0.0
 dnsotls.lab.nic.cl AAAA ::
@@ -3237,6 +3229,10 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
+dnswarden.com A 0.0.0.0
+*.dnswarden.com A 0.0.0.0
+dnswarden.com AAAA ::
+*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4185,10 +4181,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.epicbrowser.com A 0.0.0.0
-*.ecs-doh.epicbrowser.com A 0.0.0.0
-ecs-doh.epicbrowser.com AAAA ::
-*.ecs-doh.epicbrowser.com AAAA ::
+ecs-doh.12vpx.com A 0.0.0.0
+*.ecs-doh.12vpx.com A 0.0.0.0
+ecs-doh.12vpx.com AAAA ::
+*.ecs-doh.12vpx.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4693,10 +4689,6 @@ guardianvpn.net A 0.0.0.0
 *.guardianvpn.net A 0.0.0.0
 guardianvpn.net AAAA ::
 *.guardianvpn.net AAAA ::
-guard.sntrk.ru A 0.0.0.0
-*.guard.sntrk.ru A 0.0.0.0
-guard.sntrk.ru AAAA ::
-*.guard.sntrk.ru AAAA ::
 guardster.com A 0.0.0.0
 *.guardster.com A 0.0.0.0
 guardster.com AAAA ::
@@ -4705,10 +4697,10 @@ gustamadh.dynv6.net A 0.0.0.0
 *.gustamadh.dynv6.net A 0.0.0.0
 gustamadh.dynv6.net AAAA ::
 *.gustamadh.dynv6.net AAAA ::
-gva01.dnscry.pt A 0.0.0.0
-*.gva01.dnscry.pt A 0.0.0.0
-gva01.dnscry.pt AAAA ::
-*.gva01.dnscry.pt AAAA ::
+gva01.dnscry.ptdarknet.to A 0.0.0.0
+*.gva01.dnscry.ptdarknet.to A 0.0.0.0
+gva01.dnscry.ptdarknet.to AAAA ::
+*.gva01.dnscry.ptdarknet.to AAAA ::
 gztech.me A 0.0.0.0
 *.gztech.me A 0.0.0.0
 gztech.me AAAA ::
@@ -5113,10 +5105,6 @@ jp-tyo-w-p-1.nashkan.net A 0.0.0.0
 *.jp-tyo-w-p-1.nashkan.net A 0.0.0.0
 jp-tyo-w-p-1.nashkan.net AAAA ::
 *.jp-tyo-w-p-1.nashkan.net AAAA ::
-jurre-home.duckdns.org A 0.0.0.0
-*.jurre-home.duckdns.org A 0.0.0.0
-jurre-home.duckdns.org AAAA ::
-*.jurre-home.duckdns.org AAAA ::
 justhost.bedro.cloud A 0.0.0.0
 *.justhost.bedro.cloud A 0.0.0.0
 justhost.bedro.cloud AAAA ::
@@ -5193,10 +5181,6 @@ kr-sel.doh.sb A 0.0.0.0
 *.kr-sel.doh.sb A 0.0.0.0
 kr-sel.doh.sb AAAA ::
 *.kr-sel.doh.sb AAAA ::
-krtekvpn.duckdns.org A 0.0.0.0
-*.krtekvpn.duckdns.org A 0.0.0.0
-krtekvpn.duckdns.org AAAA ::
-*.krtekvpn.duckdns.org AAAA ::
 kx-97795-tr.xyz A 0.0.0.0
 *.kx-97795-tr.xyz A 0.0.0.0
 kx-97795-tr.xyz AAAA ::
@@ -5205,6 +5189,10 @@ kz-pav-w-p-1.nashkan.net A 0.0.0.0
 *.kz-pav-w-p-1.nashkan.net A 0.0.0.0
 kz-pav-w-p-1.nashkan.net AAAA ::
 *.kz-pav-w-p-1.nashkan.net AAAA ::
+land.com A 0.0.0.0
+*.land.com A 0.0.0.0
+land.com AAAA ::
+*.land.com AAAA ::
 las01.dnscry.pt A 0.0.0.0
 *.las01.dnscry.pt A 0.0.0.0
 las01.dnscry.pt AAAA ::
@@ -6361,10 +6349,6 @@ public.ns.nwps.fi A 0.0.0.0
 *.public.ns.nwps.fi A 0.0.0.0
 public.ns.nwps.fi AAAA ::
 *.public.ns.nwps.fi AAAA ::
-punono.duckdns.org A 0.0.0.0
-*.punono.duckdns.org A 0.0.0.0
-punono.duckdns.org AAAA ::
-*.punono.duckdns.org AAAA ::
 puredns.org A 0.0.0.0
 *.puredns.org A 0.0.0.0
 puredns.org AAAA ::
@@ -6841,6 +6825,10 @@ sky.rethinkdns.com A 0.0.0.0
 *.sky.rethinkdns.com A 0.0.0.0
 sky.rethinkdns.com AAAA ::
 *.sky.rethinkdns.com AAAA ::
+s.lab.nic.cl A 0.0.0.0
+*.s.lab.nic.cl A 0.0.0.0
+s.lab.nic.cl AAAA ::
+*.s.lab.nic.cl AAAA ::
 slc01.dnscry.pt A 0.0.0.0
 *.slc01.dnscry.pt A 0.0.0.0
 slc01.dnscry.pt AAAA ::
@@ -7049,10 +7037,6 @@ testguard.meexx.de A 0.0.0.0
 *.testguard.meexx.de A 0.0.0.0
 testguard.meexx.de AAAA ::
 *.testguard.meexx.de AAAA ::
-thanos.pleumkungz.com A 0.0.0.0
-*.thanos.pleumkungz.com A 0.0.0.0
-thanos.pleumkungz.com AAAA ::
-*.thanos.pleumkungz.com AAAA ::
 thebestvpn.com A 0.0.0.0
 *.thebestvpn.com A 0.0.0.0
 thebestvpn.com AAAA ::
