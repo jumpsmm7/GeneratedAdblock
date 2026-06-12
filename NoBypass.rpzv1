@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606111632 ; Serial Number
+ 2606120431 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -9,8 +9,8 @@ $ORIGIN nobypass.rpz.
  )
  NS localhost
 
-003153.xyz CNAME .
-*.003153.xyz CNAME .
+012proxy.ga CNAME .
+*.012proxy.ga CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
@@ -361,8 +361,6 @@ bazooki-infra.dev CNAME .
 *.bazooki-infra.dev CNAME .
 beevpn.com CNAME .
 *.beevpn.com CNAME .
-berg.net CNAME .
-*.berg.net CNAME .
 bestvpnrating.com CNAME .
 *.bestvpnrating.com CNAME .
 bestwon203.com CNAME .
@@ -577,6 +575,8 @@ de-dus.doh.sb CNAME .
 *.de-dus.doh.sb CNAME .
 deep-henchman-excuse.cfd CNAME .
 *.deep-henchman-excuse.cfd CNAME .
+dee.su CNAME .
+*.dee.su CNAME .
 de-f1.foxyfy.net CNAME .
 *.de-f1.foxyfy.net CNAME .
 defencevpn.com CNAME .
@@ -1201,8 +1201,8 @@ dns.kawa.tf CNAME .
 *.dns.kawa.tf CNAME .
 dns.kebree.fr CNAME .
 *.dns.kebree.fr CNAME .
-dns.ker012proxy.ga CNAME .
-*.dns.ker012proxy.ga CNAME .
+dns.kermask.icloud.com CNAME .
+*.dns.kermask.icloud.com CNAME .
 dns.kernel-error.de CNAME .
 *.dns.kernel-error.de CNAME .
 dns.kescher.at CNAME .
@@ -1279,8 +1279,8 @@ dns.mayx.eu.org CNAME .
 *.dns.mayx.eu.org CNAME .
 dns.mbrjun.cn CNAME .
 *.dns.mbrjun.cn CNAME .
-dns-mdee.su CNAME .
-*.dns-mdee.su CNAME .
+dns-mdnswarden.com CNAME .
+*.dns-mdnswarden.com CNAME .
 dns.meeo.win CNAME .
 *.dns.meeo.win CNAME .
 dns.melvin2204.nl CNAME .
@@ -1331,8 +1331,6 @@ dns.neeb.it CNAME .
 *.dns.neeb.it CNAME .
 dns.neilzone.co.uk CNAME .
 *.dns.neilzone.co.uk CNAME .
-dns.netraptor.com.au CNAME .
-*.dns.netraptor.com.au CNAME .
 dns.netvpn.net CNAME .
 *.dns.netvpn.net CNAME .
 dns.neubsi.at CNAME .
@@ -1351,10 +1349,10 @@ dns.nixnet.xyz CNAME .
 *.dns.nixnet.xyz CNAME .
 dns.njal.la CNAME .
 *.dns.njal.la CNAME .
+dnsnl.alekbefirefox.dns.nextdns.io CNAME .
+*.dnsnl.alekbefirefox.dns.nextdns.io CNAME .
 dnsnl.alekberg.net CNAME .
 *.dnsnl.alekberg.net CNAME .
-dnsnl.alekepicbrowser.com CNAME .
-*.dnsnl.alekepicbrowser.com CNAME .
 dns.nodoa.me CNAME .
 *.dns.nodoa.me CNAME .
 dns-nosec.quad9.net CNAME .
@@ -1509,6 +1507,8 @@ dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
+dns.simplylinux.ch CNAME .
+*.dns.simplylinux.ch CNAME .
 dns.sindominio.net CNAME .
 *.dns.sindominio.net CNAME .
 dns.sitdns.com CNAME .
@@ -1839,6 +1839,8 @@ doh.jeroenhd.nl CNAME .
 *.doh.jeroenhd.nl CNAME .
 doh-jp.blahdns.com CNAME .
 *.doh-jp.blahdns.com CNAME .
+doh.kekew.info CNAME .
+*.doh.kekew.info CNAME .
 doh.kel.pe CNAME .
 *.doh.kel.pe CNAME .
 doh.kidzonet.io CNAME .
@@ -2099,8 +2101,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.dnswarden.com CNAME .
-*.ecs-doh.dnswarden.com CNAME .
+ecs-doh.003153.xyz CNAME .
+*.ecs-doh.003153.xyz CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2119,6 +2121,8 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
+epicbrowser.com CNAME .
+*.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
 *.eropa.dnscepat.id CNAME .
 esel.stusta.mhn.de CNAME .
@@ -2359,8 +2363,8 @@ guardster.com CNAME .
 *.guardster.com CNAME .
 gustamadh.dynv6.net CNAME .
 *.gustamadh.dynv6.net CNAME .
-gva01.dnscry.pt1dot1dot1dot1.cloudflare-dns.com CNAME .
-*.gva01.dnscry.pt1dot1dot1dot1.cloudflare-dns.com CNAME .
+gva01.dnscry.pt CNAME .
+*.gva01.dnscry.pt CNAME .
 gztech.me CNAME .
 *.gztech.me CNAME .
 haf01.dnscry.pt CNAME .
@@ -3289,6 +3293,8 @@ rfree1.blue-shield.at CNAME .
 *.rfree1.blue-shield.at CNAME .
 rfree2.blue-shield.at CNAME .
 *.rfree2.blue-shield.at CNAME .
+rg.net CNAME .
+*.rg.net CNAME .
 rgnet-iad.anycast.censurfridns.dk CNAME .
 *.rgnet-iad.anycast.censurfridns.dk CNAME .
 rgnet-iad.anycast.uncensoreddns.org CNAME .
@@ -3861,8 +3867,8 @@ webunblocker.xyz CNAME .
 *.webunblocker.xyz CNAME .
 whoer.net CNAME .
 *.whoer.net CNAME .
-whoisping.commask.icloud.com CNAME .
-*.whoisping.commask.icloud.com CNAME .
+whoisping.com CNAME .
+*.whoisping.com CNAME .
 whonix.org CNAME .
 *.whonix.org CNAME .
 wikimedia-dns.org CNAME .
