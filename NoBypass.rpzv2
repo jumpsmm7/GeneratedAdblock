@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606121631 ; Serial Number
+ 2606130433 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -1101,6 +1101,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1229,6 +1233,10 @@ dns1.dnscrypt.ca A 0.0.0.0
 *.dns1.dnscrypt.ca A 0.0.0.0
 dns1.dnscrypt.ca AAAA ::
 *.dns1.dnscrypt.ca AAAA ::
+dns1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.dns1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+dns1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.dns1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns1.in-berlin.de A 0.0.0.0
 *.dns1.in-berlin.de A 0.0.0.0
 dns1.in-berlin.de AAAA ::
@@ -2385,10 +2393,6 @@ dns.kernel-error.de A 0.0.0.0
 *.dns.kernel-error.de A 0.0.0.0
 dns.kernel-error.de AAAA ::
 *.dns.kernel-error.de AAAA ::
-dns.kescher.at A 0.0.0.0
-*.dns.kescher.at A 0.0.0.0
-dns.kescher.at AAAA ::
-*.dns.kescher.at AAAA ::
 dns.keviland.com A 0.0.0.0
 *.dns.keviland.com A 0.0.0.0
 dns.keviland.com AAAA ::
@@ -2505,10 +2509,14 @@ dns.maitrekuc.fr A 0.0.0.0
 *.dns.maitrekuc.fr A 0.0.0.0
 dns.maitrekuc.fr AAAA ::
 *.dns.maitrekuc.fr AAAA ::
-dns-malwaresec.nordthreatprotection.cdee.su A 0.0.0.0
-*.dns-malwaresec.nordthreatprotection.cdee.su A 0.0.0.0
-dns-malwaresec.nordthreatprotection.cdee.su AAAA ::
-*.dns-malwaresec.nordthreatprotection.cdee.su AAAA ::
+dns-malwaresec.nordthreatprotection.com A 0.0.0.0
+*.dns-malwaresec.nordthreatprotection.com A 0.0.0.0
+dns-malwaresec.nordthreatprotection.com AAAA ::
+*.dns-malwaresec.nordthreatprotection.com AAAA ::
+dns.maolaohei.xyz A 0.0.0.0
+*.dns.maolaohei.xyz A 0.0.0.0
+dns.maolaohei.xyz AAAA ::
+*.dns.maolaohei.xyz AAAA ::
 dns.marasov.id A 0.0.0.0
 *.dns.marasov.id A 0.0.0.0
 dns.marasov.id AAAA ::
@@ -2829,14 +2837,14 @@ dns.pub A 0.0.0.0
 *.dns.pub A 0.0.0.0
 dns.pub AAAA ::
 *.dns.pub AAAA ::
-dnspubdarknet.to A 0.0.0.0
-*.dnspubdarknet.to A 0.0.0.0
-dnspubdarknet.to AAAA ::
-*.dnspubdarknet.to AAAA ::
 dns-public.ibakerserver.pt A 0.0.0.0
 *.dns-public.ibakerserver.pt A 0.0.0.0
 dns-public.ibakerserver.pt AAAA ::
 *.dns-public.ibakerserver.pt AAAA ::
+dnspub.restena.lu A 0.0.0.0
+*.dnspub.restena.lu A 0.0.0.0
+dnspub.restena.lu AAAA ::
+*.dnspub.restena.lu AAAA ::
 dns.pumpkinvrar.com A 0.0.0.0
 *.dns.pumpkinvrar.com A 0.0.0.0
 dns.pumpkinvrar.com AAAA ::
@@ -2985,10 +2993,6 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
-dns.simplylinux.ch A 0.0.0.0
-*.dns.simplylinux.ch A 0.0.0.0
-dns.simplylinux.ch AAAA ::
-*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -4177,10 +4181,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.om A 0.0.0.0
-*.ecs-doh.om A 0.0.0.0
-ecs-doh.om AAAA ::
-*.ecs-doh.om AAAA ::
+ecs-doh.dee.su A 0.0.0.0
+*.ecs-doh.dee.su A 0.0.0.0
+ecs-doh.dee.su AAAA ::
+*.ecs-doh.dee.su AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4213,6 +4217,10 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
+epicbrowser.com A 0.0.0.0
+*.epicbrowser.com A 0.0.0.0
+epicbrowser.com AAAA ::
+*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4729,10 +4737,10 @@ hfgx.shop A 0.0.0.0
 *.hfgx.shop A 0.0.0.0
 hfgx.shop AAAA ::
 *.hfgx.shop AAAA ::
-h.gjrickepicbrowser.com A 0.0.0.0
-*.h.gjrickepicbrowser.com A 0.0.0.0
-h.gjrickepicbrowser.com AAAA ::
-*.h.gjrickepicbrowser.com AAAA ::
+h.gjrick.tw A 0.0.0.0
+*.h.gjrick.tw A 0.0.0.0
+h.gjrick.tw AAAA ::
+*.h.gjrick.tw AAAA ::
 hiddendigital.info A 0.0.0.0
 *.hiddendigital.info A 0.0.0.0
 hiddendigital.info AAAA ::
@@ -6333,10 +6341,6 @@ ps1.modr.club A 0.0.0.0
 *.ps1.modr.club A 0.0.0.0
 ps1.modr.club AAAA ::
 *.ps1.modr.club AAAA ::
-public-dns-a.dnsmask.icloud.com A 0.0.0.0
-*.public-dns-a.dnsmask.icloud.com A 0.0.0.0
-public-dns-a.dnsmask.icloud.com AAAA ::
-*.public-dns-a.dnsmask.icloud.com AAAA ::
 public-dns-a.dns.sb A 0.0.0.0
 *.public-dns-a.dns.sb A 0.0.0.0
 public-dns-a.dns.sb AAAA ::
@@ -7749,10 +7753,6 @@ www.chungocoai.name.vn A 0.0.0.0
 *.www.chungocoai.name.vn A 0.0.0.0
 www.chungocoai.name.vn AAAA ::
 *.www.chungocoai.name.vn AAAA ::
-www.dnsadguard.co.uk A 0.0.0.0
-*.www.dnsadguard.co.uk A 0.0.0.0
-www.dnsadguard.co.uk AAAA ::
-*.www.dnsadguard.co.uk AAAA ::
 www.inpssh.online A 0.0.0.0
 *.www.inpssh.online A 0.0.0.0
 www.inpssh.online AAAA ::

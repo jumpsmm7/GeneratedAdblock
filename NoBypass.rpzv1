@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606121631 ; Serial Number
+ 2606130433 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -555,6 +555,8 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 darkness.is.my.waifu.cz CNAME .
 *.darkness.is.my.waifu.cz CNAME .
+darknet.to CNAME .
+*.darknet.to CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
@@ -619,6 +621,8 @@ dns1.digitale-gesellschaft.ch CNAME .
 *.dns1.digitale-gesellschaft.ch CNAME .
 dns1.dnscrypt.ca CNAME .
 *.dns1.dnscrypt.ca CNAME .
+dns1dot1dot1dot1.cloudflare-dns.com CNAME .
+*.dns1dot1dot1dot1.cloudflare-dns.com CNAME .
 dns1.in-berlin.de CNAME .
 *.dns1.in-berlin.de CNAME .
 dns1.irumatech.com CNAME .
@@ -1197,8 +1201,6 @@ dns.kerekes.xyz CNAME .
 *.dns.kerekes.xyz CNAME .
 dns.kernel-error.de CNAME .
 *.dns.kernel-error.de CNAME .
-dns.kescher.at CNAME .
-*.dns.kescher.at CNAME .
 dns.keviland.com CNAME .
 *.dns.keviland.com CNAME .
 dns.keweon.center CNAME .
@@ -1257,8 +1259,10 @@ dns.lvolland.fr CNAME .
 *.dns.lvolland.fr CNAME .
 dns.maitrekuc.fr CNAME .
 *.dns.maitrekuc.fr CNAME .
-dns-malwaresec.nordthreatprotection.cdee.su CNAME .
-*.dns-malwaresec.nordthreatprotection.cdee.su CNAME .
+dns-malwaresec.nordthreatprotection.com CNAME .
+*.dns-malwaresec.nordthreatprotection.com CNAME .
+dns.maolaohei.xyz CNAME .
+*.dns.maolaohei.xyz CNAME .
 dns.marasov.id CNAME .
 *.dns.marasov.id CNAME .
 dns.marbledfennec.net CNAME .
@@ -1419,10 +1423,10 @@ dns.psociety.de CNAME .
 *.dns.psociety.de CNAME .
 dns.pub CNAME .
 *.dns.pub CNAME .
-dnspubdarknet.to CNAME .
-*.dnspubdarknet.to CNAME .
 dns-public.ibakerserver.pt CNAME .
 *.dns-public.ibakerserver.pt CNAME .
+dnspub.restena.lu CNAME .
+*.dnspub.restena.lu CNAME .
 dns.pumpkinvrar.com CNAME .
 *.dns.pumpkinvrar.com CNAME .
 dns.pumplex.com CNAME .
@@ -1497,8 +1501,6 @@ dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
-dns.simplylinux.ch CNAME .
-*.dns.simplylinux.ch CNAME .
 dns.sindominio.net CNAME .
 *.dns.sindominio.net CNAME .
 dns.sitdns.com CNAME .
@@ -2093,8 +2095,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.om CNAME .
-*.ecs-doh.om CNAME .
+ecs-doh.dee.su CNAME .
+*.ecs-doh.dee.su CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2111,6 +2113,8 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
+epicbrowser.com CNAME .
+*.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
 *.eropa.dnscepat.id CNAME .
 esel.stusta.mhn.de CNAME .
@@ -2369,8 +2373,8 @@ helloworld.cx CNAME .
 *.helloworld.cx CNAME .
 hfgx.shop CNAME .
 *.hfgx.shop CNAME .
-h.gjrickepicbrowser.com CNAME .
-*.h.gjrickepicbrowser.com CNAME .
+h.gjrick.tw CNAME .
+*.h.gjrick.tw CNAME .
 hiddendigital.info CNAME .
 *.hiddendigital.info CNAME .
 hiddendragon.site CNAME .
@@ -3171,8 +3175,6 @@ proxy-youtube.com CNAME .
 *.proxy-youtube.com CNAME .
 ps1.modr.club CNAME .
 *.ps1.modr.club CNAME .
-public-dns-a.dnsmask.icloud.com CNAME .
-*.public-dns-a.dnsmask.icloud.com CNAME .
 public-dns-a.dns.sb CNAME .
 *.public-dns-a.dns.sb CNAME .
 public-dns-b.dns.sb CNAME .
@@ -3879,8 +3881,6 @@ www.c-dns.com CNAME .
 *.www.c-dns.com CNAME .
 www.chungocoai.name.vn CNAME .
 *.www.chungocoai.name.vn CNAME .
-www.dnsadguard.co.uk CNAME .
-*.www.dnsadguard.co.uk CNAME .
 www.inpssh.online CNAME .
 *.www.inpssh.online CNAME .
 www.jabber-germany.de CNAME .
