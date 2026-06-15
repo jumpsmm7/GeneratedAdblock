@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606150608 ; Serial Number
+ 2606151631 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -29,10 +29,6 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
-12vpx.com A 0.0.0.0
-*.12vpx.com A 0.0.0.0
-12vpx.com AAAA ::
-*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -2061,10 +2057,6 @@ dns.farshidhakimy.de A 0.0.0.0
 *.dns.farshidhakimy.de A 0.0.0.0
 dns.farshidhakimy.de AAAA ::
 *.dns.farshidhakimy.de AAAA ::
-dns-fdarknet.to A 0.0.0.0
-*.dns-fdarknet.to A 0.0.0.0
-dns-fdarknet.to AAAA ::
-*.dns-fdarknet.to AAAA ::
 dns.fehlsprache.de A 0.0.0.0
 *.dns.fehlsprache.de A 0.0.0.0
 dns.fehlsprache.de AAAA ::
@@ -2101,6 +2093,10 @@ dns.flymc.cc A 0.0.0.0
 *.dns.flymc.cc A 0.0.0.0
 dns.flymc.cc AAAA ::
 *.dns.flymc.cc AAAA ::
+dns-fmask.icloud.com A 0.0.0.0
+*.dns-fmask.icloud.com A 0.0.0.0
+dns-fmask.icloud.com AAAA ::
+*.dns-fmask.icloud.com AAAA ::
 dnsforfamily.com A 0.0.0.0
 *.dnsforfamily.com A 0.0.0.0
 dnsforfamily.com AAAA ::
@@ -2109,6 +2105,10 @@ dnsforge.de A 0.0.0.0
 *.dnsforge.de A 0.0.0.0
 dnsforge.de AAAA ::
 *.dnsforge.de AAAA ::
+dnsforge.dfirefox.dns.nextdns.io A 0.0.0.0
+*.dnsforge.dfirefox.dns.nextdns.io A 0.0.0.0
+dnsforge.dfirefox.dns.nextdns.io AAAA ::
+*.dnsforge.dfirefox.dns.nextdns.io AAAA ::
 dns.foximao.cn A 0.0.0.0
 *.dns.foximao.cn A 0.0.0.0
 dns.foximao.cn AAAA ::
@@ -2393,10 +2393,10 @@ dns.karl.one A 0.0.0.0
 *.dns.karl.one A 0.0.0.0
 dns.karl.one AAAA ::
 *.dns.karl.one AAAA ::
-dns.kastner-onlinefirefox.dns.nextdns.io A 0.0.0.0
-*.dns.kastner-onlinefirefox.dns.nextdns.io A 0.0.0.0
-dns.kastner-onlinefirefox.dns.nextdns.io AAAA ::
-*.dns.kastner-onlinefirefox.dns.nextdns.io AAAA ::
+dns.kastner-online12vpx.com A 0.0.0.0
+*.dns.kastner-online12vpx.com A 0.0.0.0
+dns.kastner-online12vpx.com AAAA ::
+*.dns.kastner-online12vpx.com AAAA ::
 dns.kawa.tf A 0.0.0.0
 *.dns.kawa.tf A 0.0.0.0
 dns.kawa.tf AAAA ::
@@ -3013,10 +3013,6 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
-dns.simplylinux.ch A 0.0.0.0
-*.dns.simplylinux.ch A 0.0.0.0
-dns.simplylinux.ch AAAA ::
-*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -3253,6 +3249,10 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
+dnswarden.com A 0.0.0.0
+*.dnswarden.com A 0.0.0.0
+dnswarden.com AAAA ::
+*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4205,10 +4205,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.dnswarden.com A 0.0.0.0
-*.ecs-doh.dnswarden.com A 0.0.0.0
-ecs-doh.dnswarden.com AAAA ::
-*.ecs-doh.dnswarden.com AAAA ::
+ecs-doh.darknet.to A 0.0.0.0
+*.ecs-doh.darknet.to A 0.0.0.0
+ecs-doh.darknet.to AAAA ::
+*.ecs-doh.darknet.to AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -7097,10 +7097,6 @@ tikvpn.com A 0.0.0.0
 *.tikvpn.com A 0.0.0.0
 tikvpn.com AAAA ::
 *.tikvpn.com AAAA ::
-timedns.net A 0.0.0.0
-*.timedns.net A 0.0.0.0
-timedns.net AAAA ::
-*.timedns.net AAAA ::
 timmes.nl A 0.0.0.0
 *.timmes.nl A 0.0.0.0
 timmes.nl AAAA ::

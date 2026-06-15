@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606150608 ; Serial Number
+ 2606151631 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -19,8 +19,6 @@ $ORIGIN nobypass.rpz.
 *.123000123.xyz CNAME .
 123-24.eport.gr CNAME .
 *.123-24.eport.gr CNAME .
-12vpx.com CNAME .
-*.12vpx.com CNAME .
 1a.ns.ozer.im CNAME .
 *.1a.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
@@ -1035,8 +1033,6 @@ dns.fancyorg.at CNAME .
 *.dns.fancyorg.at CNAME .
 dns.farshidhakimy.de CNAME .
 *.dns.farshidhakimy.de CNAME .
-dns-fdarknet.to CNAME .
-*.dns-fdarknet.to CNAME .
 dns.fehlsprache.de CNAME .
 *.dns.fehlsprache.de CNAME .
 dns.ffnw.de CNAME .
@@ -1055,10 +1051,14 @@ dns.flwagners.com CNAME .
 *.dns.flwagners.com CNAME .
 dns.flymc.cc CNAME .
 *.dns.flymc.cc CNAME .
+dns-fmask.icloud.com CNAME .
+*.dns-fmask.icloud.com CNAME .
 dnsforfamily.com CNAME .
 *.dnsforfamily.com CNAME .
 dnsforge.de CNAME .
 *.dnsforge.de CNAME .
+dnsforge.dfirefox.dns.nextdns.io CNAME .
+*.dnsforge.dfirefox.dns.nextdns.io CNAME .
 dns.foximao.cn CNAME .
 *.dns.foximao.cn CNAME .
 dns.foxyfy.net CNAME .
@@ -1201,8 +1201,8 @@ dns.karadag.me CNAME .
 *.dns.karadag.me CNAME .
 dns.karl.one CNAME .
 *.dns.karl.one CNAME .
-dns.kastner-onlinefirefox.dns.nextdns.io CNAME .
-*.dns.kastner-onlinefirefox.dns.nextdns.io CNAME .
+dns.kastner-online12vpx.com CNAME .
+*.dns.kastner-online12vpx.com CNAME .
 dns.kawa.tf CNAME .
 *.dns.kawa.tf CNAME .
 dns.kebree.fr CNAME .
@@ -1511,8 +1511,6 @@ dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
-dns.simplylinux.ch CNAME .
-*.dns.simplylinux.ch CNAME .
 dns.sindominio.net CNAME .
 *.dns.sindominio.net CNAME .
 dns.sitdns.com CNAME .
@@ -1631,6 +1629,8 @@ dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
+dnswarden.com CNAME .
+*.dnswarden.com CNAME .
 dns.wargan.io CNAME .
 *.dns.wargan.io CNAME .
 dns.warpnine.de CNAME .
@@ -2107,8 +2107,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.dnswarden.com CNAME .
-*.ecs-doh.dnswarden.com CNAME .
+ecs-doh.darknet.to CNAME .
+*.ecs-doh.darknet.to CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -3553,8 +3553,6 @@ tiger.dns.qwer.pw CNAME .
 *.tiger.dns.qwer.pw CNAME .
 tikvpn.com CNAME .
 *.tikvpn.com CNAME .
-timedns.net CNAME .
-*.timedns.net CNAME .
 timmes.nl CNAME .
 *.timmes.nl CNAME .
 tj.jamesxue.xyz CNAME .
