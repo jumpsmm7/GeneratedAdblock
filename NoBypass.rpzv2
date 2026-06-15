@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606141631 ; Serial Number
+ 2606150608 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -9,6 +9,10 @@ $ORIGIN nobypass.rpz.
  )
  NS localhost
 
+003153.xyz A 0.0.0.0
+*.003153.xyz A 0.0.0.0
+003153.xyz AAAA ::
+*.003153.xyz AAAA ::
 012proxy.ga A 0.0.0.0
 *.012proxy.ga A 0.0.0.0
 012proxy.ga AAAA ::
@@ -25,6 +29,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -241,6 +249,10 @@ adguard.dekonix.ru A 0.0.0.0
 *.adguard.dekonix.ru A 0.0.0.0
 adguard.dekonix.ru AAAA ::
 *.adguard.dekonix.ru AAAA ::
+adguard.depieri.net A 0.0.0.0
+*.adguard.depieri.net A 0.0.0.0
+adguard.depieri.net AAAA ::
+*.adguard.depieri.net AAAA ::
 adguard-dns.com A 0.0.0.0
 *.adguard-dns.com A 0.0.0.0
 adguard-dns.com AAAA ::
@@ -289,6 +301,10 @@ adguard.johanliebert.top A 0.0.0.0
 *.adguard.johanliebert.top A 0.0.0.0
 adguard.johanliebert.top AAAA ::
 *.adguard.johanliebert.top AAAA ::
+adguard.kantinyoyok.xyz A 0.0.0.0
+*.adguard.kantinyoyok.xyz A 0.0.0.0
+adguard.kantinyoyok.xyz AAAA ::
+*.adguard.kantinyoyok.xyz AAAA ::
 adguard-kartoffel.zernico.de A 0.0.0.0
 *.adguard-kartoffel.zernico.de A 0.0.0.0
 adguard-kartoffel.zernico.de AAAA ::
@@ -373,6 +389,10 @@ adguard.zachitect.com A 0.0.0.0
 *.adguard.zachitect.com A 0.0.0.0
 adguard.zachitect.com AAAA ::
 *.adguard.zachitect.com AAAA ::
+adg.yybyy.wiki A 0.0.0.0
+*.adg.yybyy.wiki A 0.0.0.0
+adg.yybyy.wiki AAAA ::
+*.adg.yybyy.wiki AAAA ::
 ad.huyct.net A 0.0.0.0
 *.ad.huyct.net A 0.0.0.0
 ad.huyct.net AAAA ::
@@ -437,6 +457,10 @@ ag.apollohct.com A 0.0.0.0
 *.ag.apollohct.com A 0.0.0.0
 ag.apollohct.com AAAA ::
 *.ag.apollohct.com AAAA ::
+ag.brianlee.fun A 0.0.0.0
+*.ag.brianlee.fun A 0.0.0.0
+ag.brianlee.fun AAAA ::
+*.ag.brianlee.fun AAAA ::
 ag.ff0x.ca A 0.0.0.0
 *.ag.ff0x.ca A 0.0.0.0
 ag.ff0x.ca AAAA ::
@@ -505,6 +529,10 @@ americaproxy.info A 0.0.0.0
 *.americaproxy.info A 0.0.0.0
 americaproxy.info AAAA ::
 *.americaproxy.info AAAA ::
+amily.adguard.com A 0.0.0.0
+*.amily.adguard.com A 0.0.0.0
+amily.adguard.com AAAA ::
+*.amily.adguard.com AAAA ::
 ams01.dnscry.pt A 0.0.0.0
 *.ams01.dnscry.pt A 0.0.0.0
 ams01.dnscry.pt AAAA ::
@@ -1089,10 +1117,6 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -2037,6 +2061,10 @@ dns.farshidhakimy.de A 0.0.0.0
 *.dns.farshidhakimy.de A 0.0.0.0
 dns.farshidhakimy.de AAAA ::
 *.dns.farshidhakimy.de AAAA ::
+dns-fdarknet.to A 0.0.0.0
+*.dns-fdarknet.to A 0.0.0.0
+dns-fdarknet.to AAAA ::
+*.dns-fdarknet.to AAAA ::
 dns.fehlsprache.de A 0.0.0.0
 *.dns.fehlsprache.de A 0.0.0.0
 dns.fehlsprache.de AAAA ::
@@ -2089,6 +2117,10 @@ dns.foxyfy.net A 0.0.0.0
 *.dns.foxyfy.net A 0.0.0.0
 dns.foxyfy.net AAAA ::
 *.dns.foxyfy.net AAAA ::
+dns-free.link A 0.0.0.0
+*.dns-free.link A 0.0.0.0
+dns-free.link AAAA ::
+*.dns-free.link AAAA ::
 dns.freopc.fr A 0.0.0.0
 *.dns.freopc.fr A 0.0.0.0
 dns.freopc.fr AAAA ::
@@ -2361,10 +2393,10 @@ dns.karl.one A 0.0.0.0
 *.dns.karl.one A 0.0.0.0
 dns.karl.one AAAA ::
 *.dns.karl.one AAAA ::
-dns.kastner-online.de A 0.0.0.0
-*.dns.kastner-online.de A 0.0.0.0
-dns.kastner-online.de AAAA ::
-*.dns.kastner-online.de AAAA ::
+dns.kastner-onlinefirefox.dns.nextdns.io A 0.0.0.0
+*.dns.kastner-onlinefirefox.dns.nextdns.io A 0.0.0.0
+dns.kastner-onlinefirefox.dns.nextdns.io AAAA ::
+*.dns.kastner-onlinefirefox.dns.nextdns.io AAAA ::
 dns.kawa.tf A 0.0.0.0
 *.dns.kawa.tf A 0.0.0.0
 dns.kawa.tf AAAA ::
@@ -2385,10 +2417,10 @@ dns.kescher.at A 0.0.0.0
 *.dns.kescher.at A 0.0.0.0
 dns.kescher.at AAAA ::
 *.dns.kescher.at AAAA ::
-dns.kevi12vpx.com A 0.0.0.0
-*.dns.kevi12vpx.com A 0.0.0.0
-dns.kevi12vpx.com AAAA ::
-*.dns.kevi12vpx.com AAAA ::
+dns.keviland.com A 0.0.0.0
+*.dns.keviland.com A 0.0.0.0
+dns.keviland.com AAAA ::
+*.dns.keviland.com AAAA ::
 dns.keweon.center A 0.0.0.0
 *.dns.keweon.center A 0.0.0.0
 dns.keweon.center AAAA ::
@@ -2677,10 +2709,6 @@ dns.nodoa.me A 0.0.0.0
 *.dns.nodoa.me A 0.0.0.0
 dns.nodoa.me AAAA ::
 *.dns.nodoa.me AAAA ::
-dns-nosec.quad9.ndnswarden.com A 0.0.0.0
-*.dns-nosec.quad9.ndnswarden.com A 0.0.0.0
-dns-nosec.quad9.ndnswarden.com AAAA ::
-*.dns-nosec.quad9.ndnswarden.com AAAA ::
 dns-nosec.quad9.net A 0.0.0.0
 *.dns-nosec.quad9.net A 0.0.0.0
 dns-nosec.quad9.net AAAA ::
@@ -2985,6 +3013,10 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
+dns.simplylinux.ch A 0.0.0.0
+*.dns.simplylinux.ch A 0.0.0.0
+dns.simplylinux.ch AAAA ::
+*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -3209,10 +3241,10 @@ dns.vod11.xyz A 0.0.0.0
 *.dns.vod11.xyz A 0.0.0.0
 dns.vod11.xyz AAAA ::
 *.dns.vod11.xyz AAAA ::
-dnsvps.fammask.icloud.com A 0.0.0.0
-*.dnsvps.fammask.icloud.com A 0.0.0.0
-dnsvps.fammask.icloud.com AAAA ::
-*.dnsvps.fammask.icloud.com AAAA ::
+dnsvps.familiamv.net A 0.0.0.0
+*.dnsvps.familiamv.net A 0.0.0.0
+dnsvps.familiamv.net AAAA ::
+*.dnsvps.familiamv.net AAAA ::
 dns.w3ctag.org A 0.0.0.0
 *.dns.w3ctag.org A 0.0.0.0
 dns.w3ctag.org AAAA ::
@@ -3241,6 +3273,10 @@ dns.weixin.qq.com.cn A 0.0.0.0
 *.dns.weixin.qq.com.cn A 0.0.0.0
 dns.weixin.qq.com.cn AAAA ::
 *.dns.weixin.qq.com.cn AAAA ::
+dns.wibenson.cloud A 0.0.0.0
+*.dns.wibenson.cloud A 0.0.0.0
+dns.wibenson.cloud AAAA ::
+*.dns.wibenson.cloud AAAA ::
 dns.wugui.zone A 0.0.0.0
 *.dns.wugui.zone A 0.0.0.0
 dns.wugui.zone AAAA ::
@@ -4169,10 +4205,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.003153.xyz A 0.0.0.0
-*.ecs-doh.003153.xyz A 0.0.0.0
-ecs-doh.003153.xyz AAAA ::
-*.ecs-doh.003153.xyz AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4253,6 +4289,10 @@ extended.dns.mullvad.net A 0.0.0.0
 *.extended.dns.mullvad.net A 0.0.0.0
 extended.dns.mullvad.net AAAA ::
 *.extended.dns.mullvad.net AAAA ::
+externalmobiel.lekdijk.online A 0.0.0.0
+*.externalmobiel.lekdijk.online A 0.0.0.0
+externalmobiel.lekdijk.online AAAA ::
+*.externalmobiel.lekdijk.online AAAA ::
 eyg01.dnscry.pt A 0.0.0.0
 *.eyg01.dnscry.pt A 0.0.0.0
 eyg01.dnscry.pt AAAA ::
@@ -4925,10 +4965,6 @@ ikarosalpha.xyz A 0.0.0.0
 *.ikarosalpha.xyz A 0.0.0.0
 ikarosalpha.xyz AAAA ::
 *.ikarosalpha.xyz AAAA ::
-iliamv.net A 0.0.0.0
-*.iliamv.net A 0.0.0.0
-iliamv.net AAAA ::
-*.iliamv.net AAAA ::
 imperio.top A 0.0.0.0
 *.imperio.top A 0.0.0.0
 imperio.top AAAA ::
@@ -5193,10 +5229,6 @@ kz-pav-w-p-1.nashkan.net A 0.0.0.0
 *.kz-pav-w-p-1.nashkan.net A 0.0.0.0
 kz-pav-w-p-1.nashkan.net AAAA ::
 *.kz-pav-w-p-1.nashkan.net AAAA ::
-land.com A 0.0.0.0
-*.land.com A 0.0.0.0
-land.com AAAA ::
-*.land.com AAAA ::
 las01.dnscry.pt A 0.0.0.0
 *.las01.dnscry.pt A 0.0.0.0
 las01.dnscry.pt AAAA ::
