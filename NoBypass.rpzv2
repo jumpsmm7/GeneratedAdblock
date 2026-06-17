@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606161631 ; Serial Number
+ 2606170431 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -29,6 +29,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -245,6 +249,10 @@ adguard.dekonix.ru A 0.0.0.0
 *.adguard.dekonix.ru A 0.0.0.0
 adguard.dekonix.ru AAAA ::
 *.adguard.dekonix.ru AAAA ::
+adguard.depieri.net A 0.0.0.0
+*.adguard.depieri.net A 0.0.0.0
+adguard.depieri.net AAAA ::
+*.adguard.depieri.net AAAA ::
 adguard-dns.com A 0.0.0.0
 *.adguard-dns.com A 0.0.0.0
 adguard-dns.com AAAA ::
@@ -521,6 +529,10 @@ americaproxy.info A 0.0.0.0
 *.americaproxy.info A 0.0.0.0
 americaproxy.info AAAA ::
 *.americaproxy.info AAAA ::
+amily.adguard.com A 0.0.0.0
+*.amily.adguard.com A 0.0.0.0
+amily.adguard.com AAAA ::
+*.amily.adguard.com AAAA ::
 ams01.dnscry.pt A 0.0.0.0
 *.ams01.dnscry.pt A 0.0.0.0
 ams01.dnscry.pt AAAA ::
@@ -1105,6 +1117,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1189,10 +1205,6 @@ digi77.com A 0.0.0.0
 *.digi77.com A 0.0.0.0
 digi77.com AAAA ::
 *.digi77.com AAAA ::
-dn1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.dn1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-dn1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.dn1dot1dot1dot1.cloudflare-dns.com AAAA ::
 d.niaox.com A 0.0.0.0
 *.d.niaox.com A 0.0.0.0
 d.niaox.com AAAA ::
@@ -1841,10 +1853,6 @@ dns.dallinbryce.com A 0.0.0.0
 *.dns.dallinbryce.com A 0.0.0.0
 dns.dallinbryce.com AAAA ::
 *.dns.dallinbryce.com AAAA ::
-dns.darknet.to A 0.0.0.0
-*.dns.darknet.to A 0.0.0.0
-dns.darknet.to AAAA ::
-*.dns.darknet.to AAAA ::
 dns.datenquark.de A 0.0.0.0
 *.dns.datenquark.de A 0.0.0.0
 dns.datenquark.de AAAA ::
@@ -2029,6 +2037,10 @@ dns.extrawdw.net A 0.0.0.0
 *.dns.extrawdw.net A 0.0.0.0
 dns.extrawdw.net AAAA ::
 *.dns.extrawdw.net AAAA ::
+dns-f1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.dns-f1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+dns-f1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.dns-f1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns.f4a.fun A 0.0.0.0
 *.dns.f4a.fun A 0.0.0.0
 dns.f4a.fun AAAA ::
@@ -2109,6 +2121,10 @@ dns.foxyfy.net A 0.0.0.0
 *.dns.foxyfy.net A 0.0.0.0
 dns.foxyfy.net AAAA ::
 *.dns.foxyfy.net AAAA ::
+dns-free.link A 0.0.0.0
+*.dns-free.link A 0.0.0.0
+dns-free.link AAAA ::
+*.dns-free.link AAAA ::
 dns.freopc.fr A 0.0.0.0
 *.dns.freopc.fr A 0.0.0.0
 dns.freopc.fr AAAA ::
@@ -2389,6 +2405,10 @@ dns.kawa.tf A 0.0.0.0
 *.dns.kawa.tf A 0.0.0.0
 dns.kawa.tf AAAA ::
 *.dns.kawa.tf AAAA ::
+dns.kebree.fr A 0.0.0.0
+*.dns.kebree.fr A 0.0.0.0
+dns.kebree.fr AAAA ::
+*.dns.kebree.fr AAAA ::
 dns.kerekes.xyz A 0.0.0.0
 *.dns.kerekes.xyz A 0.0.0.0
 dns.kerekes.xyz AAAA ::
@@ -2521,10 +2541,6 @@ dns-malwaresec.nordthreatprotection.com A 0.0.0.0
 *.dns-malwaresec.nordthreatprotection.com A 0.0.0.0
 dns-malwaresec.nordthreatprotection.com AAAA ::
 *.dns-malwaresec.nordthreatprotection.com AAAA ::
-dns.maolaohei.xyz A 0.0.0.0
-*.dns.maolaohei.xyz A 0.0.0.0
-dns.maolaohei.xyz AAAA ::
-*.dns.maolaohei.xyz AAAA ::
 dns.marasov.id A 0.0.0.0
 *.dns.marasov.id A 0.0.0.0
 dns.marasov.id AAAA ::
@@ -3001,6 +3017,10 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
+dns.simplylinux.ch A 0.0.0.0
+*.dns.simplylinux.ch A 0.0.0.0
+dns.simplylinux.ch AAAA ::
+*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -5149,10 +5169,6 @@ kavkaz.monster A 0.0.0.0
 *.kavkaz.monster A 0.0.0.0
 kavkaz.monster AAAA ::
 *.kavkaz.monster AAAA ::
-kebree.fr A 0.0.0.0
-*.kebree.fr A 0.0.0.0
-kebree.fr AAAA ::
-*.kebree.fr AAAA ::
 kids.ns.nwps.fi A 0.0.0.0
 *.kids.ns.nwps.fi A 0.0.0.0
 kids.ns.nwps.fi AAAA ::
@@ -6077,10 +6093,10 @@ prointern.info A 0.0.0.0
 *.prointern.info A 0.0.0.0
 prointern.info AAAA ::
 *.prointern.info AAAA ::
-projecdns.dk A 0.0.0.0
-*.projecdns.dk A 0.0.0.0
-projecdns.dk AAAA ::
-*.projecdns.dk AAAA ::
+project-evoex.de A 0.0.0.0
+*.project-evoex.de A 0.0.0.0
+project-evoex.de AAAA ::
+*.project-evoex.de AAAA ::
 pro.shecan.ir A 0.0.0.0
 *.pro.shecan.ir A 0.0.0.0
 pro.shecan.ir AAAA ::
@@ -6769,10 +6785,6 @@ setupvpn.com A 0.0.0.0
 *.setupvpn.com A 0.0.0.0
 setupvpn.com AAAA ::
 *.setupvpn.com AAAA ::
-s-free.link A 0.0.0.0
-*.s-free.link A 0.0.0.0
-s-free.link AAAA ::
-*.s-free.link AAAA ::
 sg01.dns4me.net A 0.0.0.0
 *.sg01.dns4me.net A 0.0.0.0
 sg01.dns4me.net AAAA ::
@@ -7065,10 +7077,6 @@ testguard.meexx.de A 0.0.0.0
 *.testguard.meexx.de A 0.0.0.0
 testguard.meexx.de AAAA ::
 *.testguard.meexx.de AAAA ::
-t-evoex.de A 0.0.0.0
-*.t-evoex.de A 0.0.0.0
-t-evoex.de AAAA ::
-*.t-evoex.de AAAA ::
 thebestvpn.com A 0.0.0.0
 *.thebestvpn.com A 0.0.0.0
 thebestvpn.com AAAA ::
@@ -7405,10 +7413,6 @@ unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
 *.unicast.censurfridns.dk AAAA ::
-unicast.censurfrimask.icloud.com A 0.0.0.0
-*.unicast.censurfrimask.icloud.com A 0.0.0.0
-unicast.censurfrimask.icloud.com AAAA ::
-*.unicast.censurfrimask.icloud.com AAAA ::
 unicast.uncensoreddns.org A 0.0.0.0
 *.unicast.uncensoreddns.org A 0.0.0.0
 unicast.uncensoreddns.org AAAA ::
@@ -7737,10 +7741,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.com12vpx.com A 0.0.0.0
-*.whoisping.com12vpx.com A 0.0.0.0
-whoisping.com12vpx.com AAAA ::
-*.whoisping.com12vpx.com AAAA ::
+whoisping.com A 0.0.0.0
+*.whoisping.com A 0.0.0.0
+whoisping.com AAAA ::
+*.whoisping.com AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
