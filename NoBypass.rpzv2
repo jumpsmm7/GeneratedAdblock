@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606170431 ; Serial Number
+ 2606171643 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -545,6 +545,10 @@ aniscartujo.com A 0.0.0.0
 *.aniscartujo.com A 0.0.0.0
 aniscartujo.com AAAA ::
 *.aniscartujo.com AAAA ::
+an.net A 0.0.0.0
+*.an.net A 0.0.0.0
+an.net AAAA ::
+*.an.net AAAA ::
 anonine.com A 0.0.0.0
 *.anonine.com A 0.0.0.0
 anonine.com AAAA ::
@@ -1149,10 +1153,6 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
-dee.su A 0.0.0.0
-*.dee.su A 0.0.0.0
-dee.su AAAA ::
-*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1905,6 +1905,10 @@ dns.digitalsize.net A 0.0.0.0
 *.dns.digitalsize.net A 0.0.0.0
 dns.digitalsize.net AAAA ::
 *.dns.digitalsize.net AAAA ::
+dns.dk A 0.0.0.0
+*.dns.dk A 0.0.0.0
+dns.dk AAAA ::
+*.dns.dk AAAA ::
 dns.dns-53.com A 0.0.0.0
 *.dns.dns-53.com A 0.0.0.0
 dns.dns-53.com AAAA ::
@@ -2037,10 +2041,6 @@ dns.extrawdw.net A 0.0.0.0
 *.dns.extrawdw.net A 0.0.0.0
 dns.extrawdw.net AAAA ::
 *.dns.extrawdw.net AAAA ::
-dns-f1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.dns-f1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-dns-f1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.dns-f1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns.f4a.fun A 0.0.0.0
 *.dns.f4a.fun A 0.0.0.0
 dns.f4a.fun AAAA ::
@@ -2069,6 +2069,10 @@ dns.farshidhakimy.de A 0.0.0.0
 *.dns.farshidhakimy.de A 0.0.0.0
 dns.farshidhakimy.de AAAA ::
 *.dns.farshidhakimy.de AAAA ::
+dns-fdee.su A 0.0.0.0
+*.dns-fdee.su A 0.0.0.0
+dns-fdee.su AAAA ::
+*.dns-fdee.su AAAA ::
 dns.fehlsprache.de A 0.0.0.0
 *.dns.fehlsprache.de A 0.0.0.0
 dns.fehlsprache.de AAAA ::
@@ -2113,6 +2117,10 @@ dnsforge.de A 0.0.0.0
 *.dnsforge.de A 0.0.0.0
 dnsforge.de AAAA ::
 *.dnsforge.de AAAA ::
+dnsforge.depicbrowser.com A 0.0.0.0
+*.dnsforge.depicbrowser.com A 0.0.0.0
+dnsforge.depicbrowser.com AAAA ::
+*.dnsforge.depicbrowser.com AAAA ::
 dns.foximao.cn A 0.0.0.0
 *.dns.foximao.cn A 0.0.0.0
 dns.foximao.cn AAAA ::
@@ -2397,10 +2405,10 @@ dns.karl.one A 0.0.0.0
 *.dns.karl.one A 0.0.0.0
 dns.karl.one AAAA ::
 *.dns.karl.one AAAA ::
-dns.kastner-online.de A 0.0.0.0
-*.dns.kastner-online.de A 0.0.0.0
-dns.kastner-online.de AAAA ::
-*.dns.kastner-online.de AAAA ::
+dns.kastner-online1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.dns.kastner-online1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+dns.kastner-online1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.dns.kastner-online1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns.kawa.tf A 0.0.0.0
 *.dns.kawa.tf A 0.0.0.0
 dns.kawa.tf AAAA ::
@@ -3017,10 +3025,6 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
-dns.simplylinux.ch A 0.0.0.0
-*.dns.simplylinux.ch A 0.0.0.0
-dns.simplylinux.ch AAAA ::
-*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -4245,10 +4249,6 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
-epicbrowser.com A 0.0.0.0
-*.epicbrowser.com A 0.0.0.0
-epicbrowser.com AAAA ::
-*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4693,10 +4693,10 @@ google-public-dns-b.google.com A 0.0.0.0
 *.google-public-dns-b.google.com A 0.0.0.0
 google-public-dns-b.google.com AAAA ::
 *.google-public-dns-b.google.com AAAA ::
-goose.buckyfan.net A 0.0.0.0
-*.goose.buckyfan.net A 0.0.0.0
-goose.buckyfan.net AAAA ::
-*.goose.buckyfan.net AAAA ::
+goose.buckyfmask.icloud.com A 0.0.0.0
+*.goose.buckyfmask.icloud.com A 0.0.0.0
+goose.buckyfmask.icloud.com AAAA ::
+*.goose.buckyfmask.icloud.com AAAA ::
 goproxy.asia A 0.0.0.0
 *.goproxy.asia A 0.0.0.0
 goproxy.asia AAAA ::
@@ -6093,10 +6093,10 @@ prointern.info A 0.0.0.0
 *.prointern.info A 0.0.0.0
 prointern.info AAAA ::
 *.prointern.info AAAA ::
-project-evoex.de A 0.0.0.0
-*.project-evoex.de A 0.0.0.0
-project-evoex.de AAAA ::
-*.project-evoex.de AAAA ::
+projfirefox.dns.nextdns.io A 0.0.0.0
+*.projfirefox.dns.nextdns.io A 0.0.0.0
+projfirefox.dns.nextdns.io AAAA ::
+*.projfirefox.dns.nextdns.io AAAA ::
 pro.shecan.ir A 0.0.0.0
 *.pro.shecan.ir A 0.0.0.0
 pro.shecan.ir AAAA ::
@@ -7413,6 +7413,10 @@ unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
 *.unicast.censurfridns.dk AAAA ::
+unicast.censurfriect-evoex.de A 0.0.0.0
+*.unicast.censurfriect-evoex.de A 0.0.0.0
+unicast.censurfriect-evoex.de AAAA ::
+*.unicast.censurfriect-evoex.de AAAA ::
 unicast.uncensoreddns.org A 0.0.0.0
 *.unicast.uncensoreddns.org A 0.0.0.0
 unicast.uncensoreddns.org AAAA ::
