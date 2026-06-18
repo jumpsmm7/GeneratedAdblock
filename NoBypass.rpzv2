@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606180444 ; Serial Number
+ 2606181632 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -9,10 +9,6 @@ $ORIGIN nobypass.rpz.
  )
  NS localhost
 
-003153.xyz A 0.0.0.0
-*.003153.xyz A 0.0.0.0
-003153.xyz AAAA ::
-*.003153.xyz AAAA ::
 012proxy.ga A 0.0.0.0
 *.012proxy.ga A 0.0.0.0
 012proxy.ga AAAA ::
@@ -1117,6 +1113,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1901,6 +1901,10 @@ dns.digitalsize.net A 0.0.0.0
 *.dns.digitalsize.net A 0.0.0.0
 dns.digitalsize.net AAAA ::
 *.dns.digitalsize.net AAAA ::
+dns.dk A 0.0.0.0
+*.dns.dk A 0.0.0.0
+dns.dk AAAA ::
+*.dns.dk AAAA ::
 dns.dns-53.com A 0.0.0.0
 *.dns.dns-53.com A 0.0.0.0
 dns.dns-53.com AAAA ::
@@ -2061,10 +2065,14 @@ dns.farshidhakimy.de A 0.0.0.0
 *.dns.farshidhakimy.de A 0.0.0.0
 dns.farshidhakimy.de AAAA ::
 *.dns.farshidhakimy.de AAAA ::
-dns-fdarknet.to A 0.0.0.0
-*.dns-fdarknet.to A 0.0.0.0
-dns-fdarknet.to AAAA ::
-*.dns-fdarknet.to AAAA ::
+dns.faze.dev A 0.0.0.0
+*.dns.faze.dev A 0.0.0.0
+dns.faze.dev AAAA ::
+*.dns.faze.dev AAAA ::
+dns-fdnswarden.com A 0.0.0.0
+*.dns-fdnswarden.com A 0.0.0.0
+dns-fdnswarden.com AAAA ::
+*.dns-fdnswarden.com AAAA ::
 dns.fehlsprache.de A 0.0.0.0
 *.dns.fehlsprache.de A 0.0.0.0
 dns.fehlsprache.de AAAA ::
@@ -2101,10 +2109,10 @@ dns.flymc.cc A 0.0.0.0
 *.dns.flymc.cc A 0.0.0.0
 dns.flymc.cc AAAA ::
 *.dns.flymc.cc AAAA ::
-dnsforfamepicbrowser.com A 0.0.0.0
-*.dnsforfamepicbrowser.com A 0.0.0.0
-dnsforfamepicbrowser.com AAAA ::
-*.dnsforfamepicbrowser.com AAAA ::
+dnsforfamily.com A 0.0.0.0
+*.dnsforfamily.com A 0.0.0.0
+dnsforfamily.com AAAA ::
+*.dnsforfamily.com AAAA ::
 dnsforge.de A 0.0.0.0
 *.dnsforge.de A 0.0.0.0
 dnsforge.de AAAA ::
@@ -3017,6 +3025,10 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
+dns.simplylinux.ch A 0.0.0.0
+*.dns.simplylinux.ch A 0.0.0.0
+dns.simplylinux.ch AAAA ::
+*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -4205,14 +4217,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-e.com A 0.0.0.0
-*.e.com A 0.0.0.0
-e.com AAAA ::
-*.e.com AAAA ::
-ecs-doh.dnswarden.com A 0.0.0.0
-*.ecs-doh.dnswarden.com A 0.0.0.0
-ecs-doh.dnswarden.com AAAA ::
-*.ecs-doh.dnswarden.com AAAA ::
+ecs-doh.003153.xyz A 0.0.0.0
+*.ecs-doh.003153.xyz A 0.0.0.0
+ecs-doh.003153.xyz AAAA ::
+*.ecs-doh.003153.xyz AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4245,6 +4253,10 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
+epicbrowser.com A 0.0.0.0
+*.epicbrowser.com A 0.0.0.0
+epicbrowser.com AAAA ::
+*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4469,10 +4481,6 @@ fra02.dnscry.pt A 0.0.0.0
 *.fra02.dnscry.pt A 0.0.0.0
 fra02.dnscry.pt AAAA ::
 *.fra02.dnscry.pt AAAA ::
-fra1.eyecay.xyz A 0.0.0.0
-*.fra1.eyecay.xyz A 0.0.0.0
-fra1.eyecay.xyz AAAA ::
-*.fra1.eyecay.xyz AAAA ::
 fra-dns.bitdefender.net A 0.0.0.0
 *.fra-dns.bitdefender.net A 0.0.0.0
 fra-dns.bitdefender.net AAAA ::
@@ -4685,10 +4693,6 @@ google-public-dns-a.google.com A 0.0.0.0
 *.google-public-dns-a.google.com A 0.0.0.0
 google-public-dns-a.google.com AAAA ::
 *.google-public-dns-a.google.com AAAA ::
-google-public-dns-b.googl A 0.0.0.0
-*.google-public-dns-b.googl A 0.0.0.0
-google-public-dns-b.googl AAAA ::
-*.google-public-dns-b.googl AAAA ::
 google-public-dns-b.google.com A 0.0.0.0
 *.google-public-dns-b.google.com A 0.0.0.0
 google-public-dns-b.google.com AAAA ::
@@ -7409,6 +7413,10 @@ unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
 *.unicast.censurfridns.dk AAAA ::
+unicast.censurfrimask.icloud.com A 0.0.0.0
+*.unicast.censurfrimask.icloud.com A 0.0.0.0
+unicast.censurfrimask.icloud.com AAAA ::
+*.unicast.censurfrimask.icloud.com AAAA ::
 unicast.uncensoreddns.org A 0.0.0.0
 *.unicast.uncensoreddns.org A 0.0.0.0
 unicast.uncensoreddns.org AAAA ::
@@ -7737,10 +7745,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.comily.com A 0.0.0.0
-*.whoisping.comily.com A 0.0.0.0
-whoisping.comily.com AAAA ::
-*.whoisping.comily.com AAAA ::
+whoisping.com A 0.0.0.0
+*.whoisping.com A 0.0.0.0
+whoisping.com AAAA ::
+*.whoisping.com AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
