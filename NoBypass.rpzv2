@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606191628 ; Serial Number
+ 2606200428 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,6 +13,10 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
+012proxy.ga A 0.0.0.0
+*.012proxy.ga A 0.0.0.0
+012proxy.ga AAAA ::
+*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -25,6 +29,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -1101,10 +1109,6 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1189,18 +1193,14 @@ digi77.com A 0.0.0.0
 *.digi77.com A 0.0.0.0
 digi77.com AAAA ::
 *.digi77.com AAAA ::
-dn1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.dn1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-dn1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.dn1dot1dot1dot1.cloudflare-dns.com AAAA ::
+dndarknet.to A 0.0.0.0
+*.dndarknet.to A 0.0.0.0
+dndarknet.to AAAA ::
+*.dndarknet.to AAAA ::
 d.niaox.com A 0.0.0.0
 *.d.niaox.com A 0.0.0.0
 d.niaox.com AAAA ::
 *.d.niaox.com AAAA ::
-dns012proxy.ga A 0.0.0.0
-*.dns012proxy.ga A 0.0.0.0
-dns012proxy.ga AAAA ::
-*.dns012proxy.ga AAAA ::
 dns01.flm9.net A 0.0.0.0
 *.dns01.flm9.net A 0.0.0.0
 dns01.flm9.net AAAA ::
@@ -1245,6 +1245,10 @@ dns1.dnscrypt.ca A 0.0.0.0
 *.dns1.dnscrypt.ca A 0.0.0.0
 dns1.dnscrypt.ca AAAA ::
 *.dns1.dnscrypt.ca AAAA ::
+dns1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.dns1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+dns1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.dns1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns1.in-berlin.de A 0.0.0.0
 *.dns1.in-berlin.de A 0.0.0.0
 dns1.in-berlin.de AAAA ::
@@ -2001,10 +2005,10 @@ dns.eliv.kr A 0.0.0.0
 *.dns.eliv.kr A 0.0.0.0
 dns.eliv.kr AAAA ::
 *.dns.eliv.kr AAAA ::
-dnsenc.com A 0.0.0.0
-*.dnsenc.com A 0.0.0.0
-dnsenc.com AAAA ::
-*.dnsenc.com AAAA ::
+dnsenc.cmask.icloud.com A 0.0.0.0
+*.dnsenc.cmask.icloud.com A 0.0.0.0
+dnsenc.cmask.icloud.com AAAA ::
+*.dnsenc.cmask.icloud.com AAAA ::
 dns.engineer.web.id A 0.0.0.0
 *.dns.engineer.web.id A 0.0.0.0
 dns.engineer.web.id AAAA ::
@@ -2097,10 +2101,10 @@ dns.flymc.cc A 0.0.0.0
 *.dns.flymc.cc A 0.0.0.0
 dns.flymc.cc AAAA ::
 *.dns.flymc.cc AAAA ::
-dnsforfamily.co12vpx.com A 0.0.0.0
-*.dnsforfamily.co12vpx.com A 0.0.0.0
-dnsforfamily.co12vpx.com AAAA ::
-*.dnsforfamily.co12vpx.com AAAA ::
+dnsforfamily.com A 0.0.0.0
+*.dnsforfamily.com A 0.0.0.0
+dnsforfamily.com AAAA ::
+*.dnsforfamily.com AAAA ::
 dnsforge.de A 0.0.0.0
 *.dnsforge.de A 0.0.0.0
 dnsforge.de AAAA ::
@@ -2525,6 +2529,10 @@ dns-malwaresec.nordthreatprotection.com A 0.0.0.0
 *.dns-malwaresec.nordthreatprotection.com A 0.0.0.0
 dns-malwaresec.nordthreatprotection.com AAAA ::
 *.dns-malwaresec.nordthreatprotection.com AAAA ::
+dns.maolaohei.xyz A 0.0.0.0
+*.dns.maolaohei.xyz A 0.0.0.0
+dns.maolaohei.xyz AAAA ::
+*.dns.maolaohei.xyz AAAA ::
 dns.marasov.id A 0.0.0.0
 *.dns.marasov.id A 0.0.0.0
 dns.marasov.id AAAA ::
@@ -4261,10 +4269,6 @@ evn01.dnscry.pt A 0.0.0.0
 *.evn01.dnscry.pt A 0.0.0.0
 evn01.dnscry.pt AAAA ::
 *.evn01.dnscry.pt AAAA ::
-evoex.de A 0.0.0.0
-*.evoex.de A 0.0.0.0
-evoex.de AAAA ::
-*.evoex.de AAAA ::
 evyy.net A 0.0.0.0
 *.evyy.net A 0.0.0.0
 evyy.net AAAA ::
@@ -6077,10 +6081,10 @@ prointern.info A 0.0.0.0
 *.prointern.info A 0.0.0.0
 prointern.info AAAA ::
 *.prointern.info AAAA ::
-project-mask.icloud.com A 0.0.0.0
-*.project-mask.icloud.com A 0.0.0.0
-project-mask.icloud.com AAAA ::
-*.project-mask.icloud.com AAAA ::
+project-evoex.de A 0.0.0.0
+*.project-evoex.de A 0.0.0.0
+project-evoex.de AAAA ::
+*.project-evoex.de AAAA ::
 pro.shecan.ir A 0.0.0.0
 *.pro.shecan.ir A 0.0.0.0
 pro.shecan.ir AAAA ::
@@ -7089,6 +7093,10 @@ tikvpn.com A 0.0.0.0
 *.tikvpn.com A 0.0.0.0
 tikvpn.com AAAA ::
 *.tikvpn.com AAAA ::
+timedns.net A 0.0.0.0
+*.timedns.net A 0.0.0.0
+timedns.net AAAA ::
+*.timedns.net AAAA ::
 timmes.nl A 0.0.0.0
 *.timmes.nl A 0.0.0.0
 timmes.nl AAAA ::
