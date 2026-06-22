@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606220432 ; Serial Number
+ 2606221642 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -29,10 +29,6 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
-12vpx.com A 0.0.0.0
-*.12vpx.com A 0.0.0.0
-12vpx.com AAAA ::
-*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -93,10 +89,6 @@ $ORIGIN nobypass.rpz.
 *.5g.o0o.re A 0.0.0.0
 5g.o0o.re AAAA ::
 *.5g.o0o.re AAAA ::
-71.net A 0.0.0.0
-*.71.net A 0.0.0.0
-71.net AAAA ::
-*.71.net AAAA ::
 8888.google A 0.0.0.0
 *.8888.google A 0.0.0.0
 8888.google AAAA ::
@@ -253,6 +245,10 @@ adguard.dekonix.ru A 0.0.0.0
 *.adguard.dekonix.ru A 0.0.0.0
 adguard.dekonix.ru AAAA ::
 *.adguard.dekonix.ru AAAA ::
+adguard.depieri.net A 0.0.0.0
+*.adguard.depieri.net A 0.0.0.0
+adguard.depieri.net AAAA ::
+*.adguard.depieri.net AAAA ::
 adguard-dns.com A 0.0.0.0
 *.adguard-dns.com A 0.0.0.0
 adguard-dns.com AAAA ::
@@ -1097,10 +1093,6 @@ cynntex.fun A 0.0.0.0
 *.cynntex.fun A 0.0.0.0
 cynntex.fun AAAA ::
 *.cynntex.fun AAAA ::
-d1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.d1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-d1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.d1dot1dot1dot1.cloudflare-dns.com AAAA ::
 d2.shabi.icu A 0.0.0.0
 *.d2.shabi.icu A 0.0.0.0
 d2.shabi.icu AAAA ::
@@ -1121,10 +1113,6 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1153,10 +1141,6 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
-dee.su A 0.0.0.0
-*.dee.su A 0.0.0.0
-dee.su AAAA ::
-*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1209,10 +1193,6 @@ digi77.com A 0.0.0.0
 *.digi77.com A 0.0.0.0
 digi77.com AAAA ::
 *.digi77.com AAAA ::
-dmask.icloud.com A 0.0.0.0
-*.dmask.icloud.com A 0.0.0.0
-dmask.icloud.com AAAA ::
-*.dmask.icloud.com AAAA ::
 d.niaox.com A 0.0.0.0
 *.d.niaox.com A 0.0.0.0
 d.niaox.com AAAA ::
@@ -1665,14 +1645,14 @@ dns.butterfly87.sbs A 0.0.0.0
 *.dns.butterfly87.sbs A 0.0.0.0
 dns.butterfly87.sbs AAAA ::
 *.dns.butterfly87.sbs AAAA ::
-dnscache0.nsepicbrowser.com A 0.0.0.0
-*.dnscache0.nsepicbrowser.com A 0.0.0.0
-dnscache0.nsepicbrowser.com AAAA ::
-*.dnscache0.nsepicbrowser.com AAAA ::
-dnscache.e-utp.net A 0.0.0.0
-*.dnscache.e-utp.net A 0.0.0.0
-dnscache.e-utp.net AAAA ::
-*.dnscache.e-utp.net AAAA ::
+dnscache0.ns71.net A 0.0.0.0
+*.dnscache0.ns71.net A 0.0.0.0
+dnscache0.ns71.net AAAA ::
+*.dnscache0.ns71.net AAAA ::
+dnscache.edee.su A 0.0.0.0
+*.dnscache.edee.su A 0.0.0.0
+dnscache.edee.su AAAA ::
+*.dnscache.edee.su AAAA ::
 dns.cahlen.com A 0.0.0.0
 *.dns.cahlen.com A 0.0.0.0
 dns.cahlen.com AAAA ::
@@ -2405,6 +2385,10 @@ dns.karl.one A 0.0.0.0
 *.dns.karl.one A 0.0.0.0
 dns.karl.one AAAA ::
 *.dns.karl.one AAAA ::
+dns.kastner-online.de A 0.0.0.0
+*.dns.kastner-online.de A 0.0.0.0
+dns.kastner-online.de AAAA ::
+*.dns.kastner-online.de AAAA ::
 dns.kawa.tf A 0.0.0.0
 *.dns.kawa.tf A 0.0.0.0
 dns.kawa.tf AAAA ::
@@ -2545,10 +2529,6 @@ dns-malwaresec.nordthreatprotection.com A 0.0.0.0
 *.dns-malwaresec.nordthreatprotection.com A 0.0.0.0
 dns-malwaresec.nordthreatprotection.com AAAA ::
 *.dns-malwaresec.nordthreatprotection.com AAAA ::
-dns.maolaohei.xyz A 0.0.0.0
-*.dns.maolaohei.xyz A 0.0.0.0
-dns.maolaohei.xyz AAAA ::
-*.dns.maolaohei.xyz AAAA ::
 dns.marasov.id A 0.0.0.0
 *.dns.marasov.id A 0.0.0.0
 dns.marasov.id AAAA ::
@@ -3029,6 +3009,10 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
+dns.simplylinux.ch A 0.0.0.0
+*.dns.simplylinux.ch A 0.0.0.0
+dns.simplylinux.ch AAAA ::
+*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -4249,6 +4233,10 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
+epicbrowser.com A 0.0.0.0
+*.epicbrowser.com A 0.0.0.0
+epicbrowser.com AAAA ::
+*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4681,6 +4669,10 @@ glacius.top A 0.0.0.0
 *.glacius.top A 0.0.0.0
 glacius.top AAAA ::
 *.glacius.top AAAA ::
+google-public-dns-a.google.cdarknet.to A 0.0.0.0
+*.google-public-dns-a.google.cdarknet.to A 0.0.0.0
+google-public-dns-a.google.cdarknet.to AAAA ::
+*.google-public-dns-a.google.cdarknet.to AAAA ::
 google-public-dns-a.google.com A 0.0.0.0
 *.google-public-dns-a.google.com A 0.0.0.0
 google-public-dns-a.google.com AAAA ::
@@ -5693,14 +5685,6 @@ nsec.arnor.org A 0.0.0.0
 *.nsec.arnor.org A 0.0.0.0
 nsec.arnor.org AAAA ::
 *.nsec.arnor.org AAAA ::
-ns-family.adguard.com A 0.0.0.0
-*.ns-family.adguard.com A 0.0.0.0
-ns-family.adguard.com AAAA ::
-*.ns-family.adguard.com AAAA ::
-ns.kastner-online.de A 0.0.0.0
-*.ns.kastner-online.de A 0.0.0.0
-ns.kastner-online.de AAAA ::
-*.ns.kastner-online.de AAAA ::
 ns.mtsoln.com A 0.0.0.0
 *.ns.mtsoln.com A 0.0.0.0
 ns.mtsoln.com AAAA ::
@@ -6077,6 +6061,10 @@ privadovpn.com A 0.0.0.0
 *.privadovpn.com A 0.0.0.0
 privadovpn.com AAAA ::
 *.privadovpn.com AAAA ::
+private.canadianshield.cira12vpx.com A 0.0.0.0
+*.private.canadianshield.cira12vpx.com A 0.0.0.0
+private.canadianshield.cira12vpx.com AAAA ::
+*.private.canadianshield.cira12vpx.com AAAA ::
 private.canadianshield.cira.ca A 0.0.0.0
 *.private.canadianshield.cira.ca A 0.0.0.0
 private.canadianshield.cira.ca AAAA ::
@@ -7105,10 +7093,6 @@ tikvpn.com A 0.0.0.0
 *.tikvpn.com A 0.0.0.0
 tikvpn.com AAAA ::
 *.tikvpn.com AAAA ::
-timedns.net A 0.0.0.0
-*.timedns.net A 0.0.0.0
-timedns.net AAAA ::
-*.timedns.net AAAA ::
 timmes.nl A 0.0.0.0
 *.timmes.nl A 0.0.0.0
 timmes.nl AAAA ::
