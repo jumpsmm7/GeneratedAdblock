@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606221642 ; Serial Number
+ 2606230442 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -19,6 +19,8 @@ $ORIGIN nobypass.rpz.
 *.123000123.xyz CNAME .
 123-24.eport.gr CNAME .
 *.123-24.eport.gr CNAME .
+12vpx.com CNAME .
+*.12vpx.com CNAME .
 1a.ns.ozer.im CNAME .
 *.1a.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
@@ -575,6 +577,8 @@ de-dus.doh.sb CNAME .
 *.de-dus.doh.sb CNAME .
 deep-henchman-excuse.cfd CNAME .
 *.deep-henchman-excuse.cfd CNAME .
+dee.su CNAME .
+*.dee.su CNAME .
 de-f1.foxyfy.net CNAME .
 *.de-f1.foxyfy.net CNAME .
 defencevpn.com CNAME .
@@ -803,8 +807,8 @@ dns.bitservices.io CNAME .
 *.dns.bitservices.io CNAME .
 dns.blaumer.dev CNAME .
 *.dns.blaumer.dev CNAME .
-dnsblock.grisumedia.de CNAME .
-*.dnsblock.grisumedia.de CNAME .
+dnsblock.grisumfirefox.dns.nextdns.io CNAME .
+*.dnsblock.grisumfirefox.dns.nextdns.io CNAME .
 dns.blokada.org CNAME .
 *.dns.blokada.org CNAME .
 dns.bmwhocking.com CNAME .
@@ -829,8 +833,8 @@ dns.butterfly87.sbs CNAME .
 *.dns.butterfly87.sbs CNAME .
 dnscache0.ns71.net CNAME .
 *.dnscache0.ns71.net CNAME .
-dnscache.edee.su CNAME .
-*.dnscache.edee.su CNAME .
+dnscache.e-utp.net CNAME .
+*.dnscache.e-utp.net CNAME .
 dns.cahlen.com CNAME .
 *.dns.cahlen.com CNAME .
 dns.caliph.dev CNAME .
@@ -969,6 +973,8 @@ dns.dnssilo.top CNAME .
 *.dns.dnssilo.top CNAME .
 dns.dnswarden.com CNAME .
 *.dns.dnswarden.com CNAME .
+dns-dodarknet.to CNAME .
+*.dns-dodarknet.to CNAME .
 dnsdoh.art CNAME .
 *.dnsdoh.art CNAME .
 dns.doh.best CNAME .
@@ -1269,6 +1275,8 @@ dns.maitrekuc.fr CNAME .
 *.dns.maitrekuc.fr CNAME .
 dns-malwaresec.nordthreatprotection.com CNAME .
 *.dns-malwaresec.nordthreatprotection.com CNAME .
+dns.maolaohei.xyz CNAME .
+*.dns.maolaohei.xyz CNAME .
 dns.marasov.id CNAME .
 *.dns.marasov.id CNAME .
 dns.marbledfennec.net CNAME .
@@ -2109,6 +2117,8 @@ ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
+edia.de CNAME .
+*.edia.de CNAME .
 edns.233py.com CNAME .
 *.edns.233py.com CNAME .
 ee-tll.doh.sb CNAME .
@@ -2339,8 +2349,6 @@ gizlibaglanti.com CNAME .
 *.gizlibaglanti.com CNAME .
 glacius.top CNAME .
 *.glacius.top CNAME .
-google-public-dns-a.google.cdarknet.to CNAME .
-*.google-public-dns-a.google.cdarknet.to CNAME .
 google-public-dns-a.google.com CNAME .
 *.google-public-dns-a.google.com CNAME .
 google-public-dns-b.google.com CNAME .
@@ -3035,8 +3043,6 @@ privacy.plumedns.com CNAME .
 *.privacy.plumedns.com CNAME .
 privadovpn.com CNAME .
 *.privadovpn.com CNAME .
-private.canadianshield.cira12vpx.com CNAME .
-*.private.canadianshield.cira12vpx.com CNAME .
 private.canadianshield.cira.ca CNAME .
 *.private.canadianshield.cira.ca CNAME .
 privateinternetaccess.com CNAME .
@@ -3531,6 +3537,8 @@ takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
 tbs01.dnscry.pt CNAME .
 *.tbs01.dnscry.pt CNAME .
+t.dnsforfamily.com CNAME .
+*.t.dnsforfamily.com CNAME .
 tecdrive.site CNAME .
 *.tecdrive.site CNAME .
 tenta.com CNAME .

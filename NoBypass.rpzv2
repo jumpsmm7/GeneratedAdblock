@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606221642 ; Serial Number
+ 2606230442 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -29,6 +29,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -1141,6 +1145,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1597,10 +1605,10 @@ dns.blaumer.dev A 0.0.0.0
 *.dns.blaumer.dev A 0.0.0.0
 dns.blaumer.dev AAAA ::
 *.dns.blaumer.dev AAAA ::
-dnsblock.grisumedia.de A 0.0.0.0
-*.dnsblock.grisumedia.de A 0.0.0.0
-dnsblock.grisumedia.de AAAA ::
-*.dnsblock.grisumedia.de AAAA ::
+dnsblock.grisumfirefox.dns.nextdns.io A 0.0.0.0
+*.dnsblock.grisumfirefox.dns.nextdns.io A 0.0.0.0
+dnsblock.grisumfirefox.dns.nextdns.io AAAA ::
+*.dnsblock.grisumfirefox.dns.nextdns.io AAAA ::
 dns.blokada.org A 0.0.0.0
 *.dns.blokada.org A 0.0.0.0
 dns.blokada.org AAAA ::
@@ -1649,10 +1657,10 @@ dnscache0.ns71.net A 0.0.0.0
 *.dnscache0.ns71.net A 0.0.0.0
 dnscache0.ns71.net AAAA ::
 *.dnscache0.ns71.net AAAA ::
-dnscache.edee.su A 0.0.0.0
-*.dnscache.edee.su A 0.0.0.0
-dnscache.edee.su AAAA ::
-*.dnscache.edee.su AAAA ::
+dnscache.e-utp.net A 0.0.0.0
+*.dnscache.e-utp.net A 0.0.0.0
+dnscache.e-utp.net AAAA ::
+*.dnscache.e-utp.net AAAA ::
 dns.cahlen.com A 0.0.0.0
 *.dns.cahlen.com A 0.0.0.0
 dns.cahlen.com AAAA ::
@@ -1929,6 +1937,10 @@ dns.dnswarden.com A 0.0.0.0
 *.dns.dnswarden.com A 0.0.0.0
 dns.dnswarden.com AAAA ::
 *.dns.dnswarden.com AAAA ::
+dns-dodarknet.to A 0.0.0.0
+*.dns-dodarknet.to A 0.0.0.0
+dns-dodarknet.to AAAA ::
+*.dns-dodarknet.to AAAA ::
 dnsdoh.art A 0.0.0.0
 *.dnsdoh.art A 0.0.0.0
 dnsdoh.art AAAA ::
@@ -2529,6 +2541,10 @@ dns-malwaresec.nordthreatprotection.com A 0.0.0.0
 *.dns-malwaresec.nordthreatprotection.com A 0.0.0.0
 dns-malwaresec.nordthreatprotection.com AAAA ::
 *.dns-malwaresec.nordthreatprotection.com AAAA ::
+dns.maolaohei.xyz A 0.0.0.0
+*.dns.maolaohei.xyz A 0.0.0.0
+dns.maolaohei.xyz AAAA ::
+*.dns.maolaohei.xyz AAAA ::
 dns.marasov.id A 0.0.0.0
 *.dns.marasov.id A 0.0.0.0
 dns.marasov.id AAAA ::
@@ -4209,6 +4225,10 @@ edgy-dns.com A 0.0.0.0
 *.edgy-dns.com A 0.0.0.0
 edgy-dns.com AAAA ::
 *.edgy-dns.com AAAA ::
+edia.de A 0.0.0.0
+*.edia.de A 0.0.0.0
+edia.de AAAA ::
+*.edia.de AAAA ::
 edns.233py.com A 0.0.0.0
 *.edns.233py.com A 0.0.0.0
 edns.233py.com AAAA ::
@@ -4669,10 +4689,6 @@ glacius.top A 0.0.0.0
 *.glacius.top A 0.0.0.0
 glacius.top AAAA ::
 *.glacius.top AAAA ::
-google-public-dns-a.google.cdarknet.to A 0.0.0.0
-*.google-public-dns-a.google.cdarknet.to A 0.0.0.0
-google-public-dns-a.google.cdarknet.to AAAA ::
-*.google-public-dns-a.google.cdarknet.to AAAA ::
 google-public-dns-a.google.com A 0.0.0.0
 *.google-public-dns-a.google.com A 0.0.0.0
 google-public-dns-a.google.com AAAA ::
@@ -6061,10 +6077,6 @@ privadovpn.com A 0.0.0.0
 *.privadovpn.com A 0.0.0.0
 privadovpn.com AAAA ::
 *.privadovpn.com AAAA ::
-private.canadianshield.cira12vpx.com A 0.0.0.0
-*.private.canadianshield.cira12vpx.com A 0.0.0.0
-private.canadianshield.cira12vpx.com AAAA ::
-*.private.canadianshield.cira12vpx.com AAAA ::
 private.canadianshield.cira.ca A 0.0.0.0
 *.private.canadianshield.cira.ca A 0.0.0.0
 private.canadianshield.cira.ca AAAA ::
@@ -7053,6 +7065,10 @@ tbs01.dnscry.pt A 0.0.0.0
 *.tbs01.dnscry.pt A 0.0.0.0
 tbs01.dnscry.pt AAAA ::
 *.tbs01.dnscry.pt AAAA ::
+t.dnsforfamily.com A 0.0.0.0
+*.t.dnsforfamily.com A 0.0.0.0
+t.dnsforfamily.com AAAA ::
+*.t.dnsforfamily.com AAAA ::
 tecdrive.site A 0.0.0.0
 *.tecdrive.site A 0.0.0.0
 tecdrive.site AAAA ::
