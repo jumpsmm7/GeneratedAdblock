@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606230442 ; Serial Number
+ 2606231632 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -501,6 +501,10 @@ ag.marschi.de A 0.0.0.0
 *.ag.marschi.de A 0.0.0.0
 ag.marschi.de AAAA ::
 *.ag.marschi.de AAAA ::
+ag.me A 0.0.0.0
+*.ag.me A 0.0.0.0
+ag.me AAAA ::
+*.ag.me AAAA ::
 ahadns.net A 0.0.0.0
 *.ahadns.net A 0.0.0.0
 ahadns.net AAAA ::
@@ -1117,6 +1121,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1605,10 +1613,10 @@ dns.blaumer.dev A 0.0.0.0
 *.dns.blaumer.dev A 0.0.0.0
 dns.blaumer.dev AAAA ::
 *.dns.blaumer.dev AAAA ::
-dnsblock.grisumfirefox.dns.nextdns.io A 0.0.0.0
-*.dnsblock.grisumfirefox.dns.nextdns.io A 0.0.0.0
-dnsblock.grisumfirefox.dns.nextdns.io AAAA ::
-*.dnsblock.grisumfirefox.dns.nextdns.io AAAA ::
+dnsblock.grisumedia.de A 0.0.0.0
+*.dnsblock.grisumedia.de A 0.0.0.0
+dnsblock.grisumedia.de AAAA ::
+*.dnsblock.grisumedia.de AAAA ::
 dns.blokada.org A 0.0.0.0
 *.dns.blokada.org A 0.0.0.0
 dns.blokada.org AAAA ::
@@ -1937,10 +1945,6 @@ dns.dnswarden.com A 0.0.0.0
 *.dns.dnswarden.com A 0.0.0.0
 dns.dnswarden.com AAAA ::
 *.dns.dnswarden.com AAAA ::
-dns-dodarknet.to A 0.0.0.0
-*.dns-dodarknet.to A 0.0.0.0
-dns-dodarknet.to AAAA ::
-*.dns-dodarknet.to AAAA ::
 dnsdoh.art A 0.0.0.0
 *.dnsdoh.art A 0.0.0.0
 dnsdoh.art AAAA ::
@@ -2389,10 +2393,10 @@ dns.kapite.in A 0.0.0.0
 *.dns.kapite.in A 0.0.0.0
 dns.kapite.in AAAA ::
 *.dns.kapite.in AAAA ::
-dns.karadag.me A 0.0.0.0
-*.dns.karadag.me A 0.0.0.0
-dns.karadag.me AAAA ::
-*.dns.karadag.me AAAA ::
+dns.karadfirefox.dns.nextdns.io A 0.0.0.0
+*.dns.karadfirefox.dns.nextdns.io A 0.0.0.0
+dns.karadfirefox.dns.nextdns.io AAAA ::
+*.dns.karadfirefox.dns.nextdns.io AAAA ::
 dns.karl.one A 0.0.0.0
 *.dns.karl.one A 0.0.0.0
 dns.karl.one AAAA ::
@@ -2541,10 +2545,6 @@ dns-malwaresec.nordthreatprotection.com A 0.0.0.0
 *.dns-malwaresec.nordthreatprotection.com A 0.0.0.0
 dns-malwaresec.nordthreatprotection.com AAAA ::
 *.dns-malwaresec.nordthreatprotection.com AAAA ::
-dns.maolaohei.xyz A 0.0.0.0
-*.dns.maolaohei.xyz A 0.0.0.0
-dns.maolaohei.xyz AAAA ::
-*.dns.maolaohei.xyz AAAA ::
 dns.marasov.id A 0.0.0.0
 *.dns.marasov.id A 0.0.0.0
 dns.marasov.id AAAA ::
@@ -4225,10 +4225,6 @@ edgy-dns.com A 0.0.0.0
 *.edgy-dns.com A 0.0.0.0
 edgy-dns.com AAAA ::
 *.edgy-dns.com AAAA ::
-edia.de A 0.0.0.0
-*.edia.de A 0.0.0.0
-edia.de AAAA ::
-*.edia.de AAAA ::
 edns.233py.com A 0.0.0.0
 *.edns.233py.com A 0.0.0.0
 edns.233py.com AAAA ::
@@ -7065,10 +7061,6 @@ tbs01.dnscry.pt A 0.0.0.0
 *.tbs01.dnscry.pt A 0.0.0.0
 tbs01.dnscry.pt AAAA ::
 *.tbs01.dnscry.pt AAAA ::
-t.dnsforfamily.com A 0.0.0.0
-*.t.dnsforfamily.com A 0.0.0.0
-t.dnsforfamily.com AAAA ::
-*.t.dnsforfamily.com AAAA ::
 tecdrive.site A 0.0.0.0
 *.tecdrive.site A 0.0.0.0
 tecdrive.site AAAA ::
@@ -7109,6 +7101,10 @@ tikvpn.com A 0.0.0.0
 *.tikvpn.com A 0.0.0.0
 tikvpn.com AAAA ::
 *.tikvpn.com AAAA ::
+timedns.net A 0.0.0.0
+*.timedns.net A 0.0.0.0
+timedns.net AAAA ::
+*.timedns.net AAAA ::
 timmes.nl A 0.0.0.0
 *.timmes.nl A 0.0.0.0
 timmes.nl AAAA ::

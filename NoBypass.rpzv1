@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606230442 ; Serial Number
+ 2606231632 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -255,6 +255,8 @@ agh-yz.russel053.com CNAME .
 *.agh-yz.russel053.com CNAME .
 ag.marschi.de CNAME .
 *.ag.marschi.de CNAME .
+ag.me CNAME .
+*.ag.me CNAME .
 ahadns.net CNAME .
 *.ahadns.net CNAME .
 ahoj.email CNAME .
@@ -563,6 +565,8 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 darkness.is.my.waifu.cz CNAME .
 *.darkness.is.my.waifu.cz CNAME .
+darknet.to CNAME .
+*.darknet.to CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
@@ -807,8 +811,8 @@ dns.bitservices.io CNAME .
 *.dns.bitservices.io CNAME .
 dns.blaumer.dev CNAME .
 *.dns.blaumer.dev CNAME .
-dnsblock.grisumfirefox.dns.nextdns.io CNAME .
-*.dnsblock.grisumfirefox.dns.nextdns.io CNAME .
+dnsblock.grisumedia.de CNAME .
+*.dnsblock.grisumedia.de CNAME .
 dns.blokada.org CNAME .
 *.dns.blokada.org CNAME .
 dns.bmwhocking.com CNAME .
@@ -973,8 +977,6 @@ dns.dnssilo.top CNAME .
 *.dns.dnssilo.top CNAME .
 dns.dnswarden.com CNAME .
 *.dns.dnswarden.com CNAME .
-dns-dodarknet.to CNAME .
-*.dns-dodarknet.to CNAME .
 dnsdoh.art CNAME .
 *.dnsdoh.art CNAME .
 dns.doh.best CNAME .
@@ -1199,8 +1201,8 @@ dns.kamilszczepanski.com CNAME .
 *.dns.kamilszczepanski.com CNAME .
 dns.kapite.in CNAME .
 *.dns.kapite.in CNAME .
-dns.karadag.me CNAME .
-*.dns.karadag.me CNAME .
+dns.karadfirefox.dns.nextdns.io CNAME .
+*.dns.karadfirefox.dns.nextdns.io CNAME .
 dns.karl.one CNAME .
 *.dns.karl.one CNAME .
 dns.kastner-online.de CNAME .
@@ -1275,8 +1277,6 @@ dns.maitrekuc.fr CNAME .
 *.dns.maitrekuc.fr CNAME .
 dns-malwaresec.nordthreatprotection.com CNAME .
 *.dns-malwaresec.nordthreatprotection.com CNAME .
-dns.maolaohei.xyz CNAME .
-*.dns.maolaohei.xyz CNAME .
 dns.marasov.id CNAME .
 *.dns.marasov.id CNAME .
 dns.marbledfennec.net CNAME .
@@ -2117,8 +2117,6 @@ ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
-edia.de CNAME .
-*.edia.de CNAME .
 edns.233py.com CNAME .
 *.edns.233py.com CNAME .
 ee-tll.doh.sb CNAME .
@@ -3537,8 +3535,6 @@ takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
 tbs01.dnscry.pt CNAME .
 *.tbs01.dnscry.pt CNAME .
-t.dnsforfamily.com CNAME .
-*.t.dnsforfamily.com CNAME .
 tecdrive.site CNAME .
 *.tecdrive.site CNAME .
 tenta.com CNAME .
@@ -3559,6 +3555,8 @@ tiger.dns.qwer.pw CNAME .
 *.tiger.dns.qwer.pw CNAME .
 tikvpn.com CNAME .
 *.tikvpn.com CNAME .
+timedns.net CNAME .
+*.timedns.net CNAME .
 timmes.nl CNAME .
 *.timmes.nl CNAME .
 tj.jamesxue.xyz CNAME .
