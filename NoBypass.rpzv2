@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606231632 ; Serial Number
+ 2606240428 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,10 +13,6 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -29,10 +25,6 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
-12vpx.com A 0.0.0.0
-*.12vpx.com A 0.0.0.0
-12vpx.com AAAA ::
-*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -501,10 +493,6 @@ ag.marschi.de A 0.0.0.0
 *.ag.marschi.de A 0.0.0.0
 ag.marschi.de AAAA ::
 *.ag.marschi.de AAAA ::
-ag.me A 0.0.0.0
-*.ag.me A 0.0.0.0
-ag.me AAAA ::
-*.ag.me AAAA ::
 ahadns.net A 0.0.0.0
 *.ahadns.net A 0.0.0.0
 ahadns.net AAAA ::
@@ -705,6 +693,10 @@ awebproxy.com A 0.0.0.0
 *.awebproxy.com A 0.0.0.0
 awebproxy.com AAAA ::
 *.awebproxy.com AAAA ::
+axaxa.fun A 0.0.0.0
+*.axaxa.fun A 0.0.0.0
+axaxa.fun AAAA ::
+*.axaxa.fun AAAA ::
 azirevpn.com A 0.0.0.0
 *.azirevpn.com A 0.0.0.0
 azirevpn.com AAAA ::
@@ -1121,10 +1113,6 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1665,10 +1653,10 @@ dnscache0.ns71.net A 0.0.0.0
 *.dnscache0.ns71.net A 0.0.0.0
 dnscache0.ns71.net AAAA ::
 *.dnscache0.ns71.net AAAA ::
-dnscache.e-utp.net A 0.0.0.0
-*.dnscache.e-utp.net A 0.0.0.0
-dnscache.e-utp.net AAAA ::
-*.dnscache.e-utp.net AAAA ::
+dnscache.e-ut12vpx.com A 0.0.0.0
+*.dnscache.e-ut12vpx.com A 0.0.0.0
+dnscache.e-ut12vpx.com AAAA ::
+*.dnscache.e-ut12vpx.com AAAA ::
 dns.cahlen.com A 0.0.0.0
 *.dns.cahlen.com A 0.0.0.0
 dns.cahlen.com AAAA ::
@@ -1957,6 +1945,10 @@ dns-doh.dnsforfamily.com A 0.0.0.0
 *.dns-doh.dnsforfamily.com A 0.0.0.0
 dns-doh.dnsforfamily.com AAAA ::
 *.dns-doh.dnsforfamily.com AAAA ::
+dns-doh.dnsforfamily.darknet.to A 0.0.0.0
+*.dns-doh.dnsforfamily.darknet.to A 0.0.0.0
+dns-doh.dnsforfamily.darknet.to AAAA ::
+*.dns-doh.dnsforfamily.darknet.to AAAA ::
 dns-doh-no-safe-search.dnsforfamily.com A 0.0.0.0
 *.dns-doh-no-safe-search.dnsforfamily.com A 0.0.0.0
 dns-doh-no-safe-search.dnsforfamily.com AAAA ::
@@ -2265,10 +2257,6 @@ dns.home.daniil.it A 0.0.0.0
 *.dns.home.daniil.it A 0.0.0.0
 dns.home.daniil.it AAAA ::
 *.dns.home.daniil.it AAAA ::
-dns.hoody.com A 0.0.0.0
-*.dns.hoody.com A 0.0.0.0
-dns.hoody.com AAAA ::
-*.dns.hoody.com AAAA ::
 dns.horcrux.vip A 0.0.0.0
 *.dns.horcrux.vip A 0.0.0.0
 dns.horcrux.vip AAAA ::
@@ -2393,10 +2381,10 @@ dns.kapite.in A 0.0.0.0
 *.dns.kapite.in A 0.0.0.0
 dns.kapite.in AAAA ::
 *.dns.kapite.in AAAA ::
-dns.karadfirefox.dns.nextdns.io A 0.0.0.0
-*.dns.karadfirefox.dns.nextdns.io A 0.0.0.0
-dns.karadfirefox.dns.nextdns.io AAAA ::
-*.dns.karadfirefox.dns.nextdns.io AAAA ::
+dns.karadag.m012proxy.ga A 0.0.0.0
+*.dns.karadag.m012proxy.ga A 0.0.0.0
+dns.karadag.m012proxy.ga AAAA ::
+*.dns.karadag.m012proxy.ga AAAA ::
 dns.karl.one A 0.0.0.0
 *.dns.karl.one A 0.0.0.0
 dns.karl.one AAAA ::
@@ -2545,6 +2533,10 @@ dns-malwaresec.nordthreatprotection.com A 0.0.0.0
 *.dns-malwaresec.nordthreatprotection.com A 0.0.0.0
 dns-malwaresec.nordthreatprotection.com AAAA ::
 *.dns-malwaresec.nordthreatprotection.com AAAA ::
+dns.maolaohei.xyz A 0.0.0.0
+*.dns.maolaohei.xyz A 0.0.0.0
+dns.maolaohei.xyz AAAA ::
+*.dns.maolaohei.xyz AAAA ::
 dns.marasov.id A 0.0.0.0
 *.dns.marasov.id A 0.0.0.0
 dns.marasov.id AAAA ::
@@ -3025,10 +3017,6 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
-dns.simplylinux.ch A 0.0.0.0
-*.dns.simplylinux.ch A 0.0.0.0
-dns.simplylinux.ch AAAA ::
-*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -3305,6 +3293,10 @@ dns.xuming.studio A 0.0.0.0
 *.dns.xuming.studio A 0.0.0.0
 dns.xuming.studio AAAA ::
 *.dns.xuming.studio AAAA ::
+dns.xwdmw.xyz A 0.0.0.0
+*.dns.xwdmw.xyz A 0.0.0.0
+dns.xwdmw.xyz AAAA ::
+*.dns.xwdmw.xyz AAAA ::
 dns.yameenassotally.com A 0.0.0.0
 *.dns.yameenassotally.com A 0.0.0.0
 dns.yameenassotally.com AAAA ::
@@ -6021,6 +6013,10 @@ pm9352-bd.xyz A 0.0.0.0
 *.pm9352-bd.xyz A 0.0.0.0
 pm9352-bd.xyz AAAA ::
 *.pm9352-bd.xyz AAAA ::
+p.net A 0.0.0.0
+*.p.net A 0.0.0.0
+p.net AAAA ::
+*.p.net AAAA ::
 polaris.cx A 0.0.0.0
 *.polaris.cx A 0.0.0.0
 polaris.cx AAAA ::
@@ -6741,6 +6737,10 @@ secure-dns.pleumkungz.com A 0.0.0.0
 *.secure-dns.pleumkungz.com A 0.0.0.0
 secure-dns.pleumkungz.com AAAA ::
 *.secure-dns.pleumkungz.com AAAA ::
+securedns.vendorvista.xyz A 0.0.0.0
+*.securedns.vendorvista.xyz A 0.0.0.0
+securedns.vendorvista.xyz AAAA ::
+*.securedns.vendorvista.xyz AAAA ::
 secure.hafnova.com A 0.0.0.0
 *.secure.hafnova.com A 0.0.0.0
 secure.hafnova.com AAAA ::
