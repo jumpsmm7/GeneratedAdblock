@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606241628 ; Serial Number
+ 2606250428 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,10 +13,6 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -29,6 +25,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -1205,6 +1205,10 @@ d.niaox.com A 0.0.0.0
 *.d.niaox.com A 0.0.0.0
 d.niaox.com AAAA ::
 *.d.niaox.com AAAA ::
+dnmask.icloud.com A 0.0.0.0
+*.dnmask.icloud.com A 0.0.0.0
+dnmask.icloud.com AAAA ::
+*.dnmask.icloud.com AAAA ::
 dns01.flm9.net A 0.0.0.0
 *.dns01.flm9.net A 0.0.0.0
 dns01.flm9.net AAAA ::
@@ -1897,10 +1901,6 @@ dns.digitalsize.net A 0.0.0.0
 *.dns.digitalsize.net A 0.0.0.0
 dns.digitalsize.net AAAA ::
 *.dns.digitalsize.net AAAA ::
-dns.dk A 0.0.0.0
-*.dns.dk A 0.0.0.0
-dns.dk AAAA ::
-*.dns.dk AAAA ::
 dns.dns-53.com A 0.0.0.0
 *.dns.dns-53.com A 0.0.0.0
 dns.dns-53.com AAAA ::
@@ -1949,6 +1949,10 @@ dns-doh.dnsforfamily.com A 0.0.0.0
 *.dns-doh.dnsforfamily.com A 0.0.0.0
 dns-doh.dnsforfamily.com AAAA ::
 *.dns-doh.dnsforfamily.com AAAA ::
+dns-doh.dnsforfamily.dee.su A 0.0.0.0
+*.dns-doh.dnsforfamily.dee.su A 0.0.0.0
+dns-doh.dnsforfamily.dee.su AAAA ::
+*.dns-doh.dnsforfamily.dee.su AAAA ::
 dns-doh-no-safe-search.dnsforfamily.com A 0.0.0.0
 *.dns-doh-no-safe-search.dnsforfamily.com A 0.0.0.0
 dns-doh-no-safe-search.dnsforfamily.com AAAA ::
@@ -2005,10 +2009,6 @@ dns.eliv.kr A 0.0.0.0
 *.dns.eliv.kr A 0.0.0.0
 dns.eliv.kr AAAA ::
 *.dns.eliv.kr AAAA ::
-dnsenc.com A 0.0.0.0
-*.dnsenc.com A 0.0.0.0
-dnsenc.com AAAA ::
-*.dnsenc.com AAAA ::
 dns.engineer.web.id A 0.0.0.0
 *.dns.engineer.web.id A 0.0.0.0
 dns.engineer.web.id AAAA ::
@@ -2381,10 +2381,10 @@ dns.kapite.in A 0.0.0.0
 *.dns.kapite.in A 0.0.0.0
 dns.kapite.in AAAA ::
 *.dns.kapite.in AAAA ::
-dns.karadag.mmask.icloud.com A 0.0.0.0
-*.dns.karadag.mmask.icloud.com A 0.0.0.0
-dns.karadag.mmask.icloud.com AAAA ::
-*.dns.karadag.mmask.icloud.com AAAA ::
+dns.karadag.m012proxy.ga A 0.0.0.0
+*.dns.karadag.m012proxy.ga A 0.0.0.0
+dns.karadag.m012proxy.ga AAAA ::
+*.dns.karadag.m012proxy.ga AAAA ::
 dns.karl.one A 0.0.0.0
 *.dns.karl.one A 0.0.0.0
 dns.karl.one AAAA ::
@@ -3013,10 +3013,6 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
-dns.simplylinux.ch A 0.0.0.0
-*.dns.simplylinux.ch A 0.0.0.0
-dns.simplylinux.ch AAAA ::
-*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -3253,10 +3249,6 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
-dnswarden.com A 0.0.0.0
-*.dnswarden.com A 0.0.0.0
-dnswarden.com AAAA ::
-*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -3685,10 +3677,6 @@ doh-jp.blahdns.com A 0.0.0.0
 *.doh-jp.blahdns.com A 0.0.0.0
 doh-jp.blahdns.com AAAA ::
 *.doh-jp.blahdns.com AAAA ::
-doh.kekew.info A 0.0.0.0
-*.doh.kekew.info A 0.0.0.0
-doh.kekew.info AAAA ::
-*.doh.kekew.info AAAA ::
 doh.kel.pe A 0.0.0.0
 *.doh.kel.pe A 0.0.0.0
 doh.kel.pe AAAA ::
@@ -4209,10 +4197,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.12vpx.com A 0.0.0.0
-*.ecs-doh.12vpx.com A 0.0.0.0
-ecs-doh.12vpx.com AAAA ::
-*.ecs-doh.12vpx.com AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -6773,6 +6761,10 @@ seeproxy.me A 0.0.0.0
 *.seeproxy.me A 0.0.0.0
 seeproxy.me AAAA ::
 *.seeproxy.me AAAA ::
+senc.com A 0.0.0.0
+*.senc.com A 0.0.0.0
+senc.com AAAA ::
+*.senc.com AAAA ::
 seoul.dnsovertor.cc A 0.0.0.0
 *.seoul.dnsovertor.cc A 0.0.0.0
 seoul.dnsovertor.cc AAAA ::
@@ -7101,10 +7093,6 @@ tikvpn.com A 0.0.0.0
 *.tikvpn.com A 0.0.0.0
 tikvpn.com AAAA ::
 *.tikvpn.com AAAA ::
-timedns.net A 0.0.0.0
-*.timedns.net A 0.0.0.0
-timedns.net AAAA ::
-*.timedns.net AAAA ::
 timmes.nl A 0.0.0.0
 *.timmes.nl A 0.0.0.0
 timmes.nl AAAA ::
@@ -7409,10 +7397,6 @@ unfiltered.joindns4.eu A 0.0.0.0
 *.unfiltered.joindns4.eu A 0.0.0.0
 unfiltered.joindns4.eu AAAA ::
 *.unfiltered.joindns4.eu AAAA ::
-unicast.censurfricom A 0.0.0.0
-*.unicast.censurfricom A 0.0.0.0
-unicast.censurfricom AAAA ::
-*.unicast.censurfricom AAAA ::
 unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
@@ -7693,6 +7677,10 @@ v.recipes A 0.0.0.0
 *.v.recipes A 0.0.0.0
 v.recipes AAAA ::
 *.v.recipes AAAA ::
+vtcuong.site A 0.0.0.0
+*.vtcuong.site A 0.0.0.0
+vtcuong.site AAAA ::
+*.vtcuong.site AAAA ::
 vyprvpn.com A 0.0.0.0
 *.vyprvpn.com A 0.0.0.0
 vyprvpn.com AAAA ::
@@ -7745,10 +7733,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.comdee.su A 0.0.0.0
-*.whoisping.comdee.su A 0.0.0.0
-whoisping.comdee.su AAAA ::
-*.whoisping.comdee.su AAAA ::
+whoisping.com A 0.0.0.0
+*.whoisping.com A 0.0.0.0
+whoisping.com AAAA ::
+*.whoisping.com AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
