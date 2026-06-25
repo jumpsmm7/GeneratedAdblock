@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606250428 ; Serial Number
+ 2606251631 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -45,6 +45,10 @@ $ORIGIN nobypass.rpz.
 *.1freeproxy.pw A 0.0.0.0
 1freeproxy.pw AAAA ::
 *.1freeproxy.pw AAAA ::
+1.net A 0.0.0.0
+*.1.net A 0.0.0.0
+1.net AAAA ::
+*.1.net AAAA ::
 24tunnel.com A 0.0.0.0
 *.24tunnel.com A 0.0.0.0
 24tunnel.com AAAA ::
@@ -1117,10 +1121,6 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1205,10 +1205,6 @@ d.niaox.com A 0.0.0.0
 *.d.niaox.com A 0.0.0.0
 d.niaox.com AAAA ::
 *.d.niaox.com AAAA ::
-dnmask.icloud.com A 0.0.0.0
-*.dnmask.icloud.com A 0.0.0.0
-dnmask.icloud.com AAAA ::
-*.dnmask.icloud.com AAAA ::
 dns01.flm9.net A 0.0.0.0
 *.dns01.flm9.net A 0.0.0.0
 dns01.flm9.net AAAA ::
@@ -1653,10 +1649,10 @@ dns.butterfly87.sbs A 0.0.0.0
 *.dns.butterfly87.sbs A 0.0.0.0
 dns.butterfly87.sbs AAAA ::
 *.dns.butterfly87.sbs AAAA ::
-dnscache0.ns71.net A 0.0.0.0
-*.dnscache0.ns71.net A 0.0.0.0
-dnscache0.ns71.net AAAA ::
-*.dnscache0.ns71.net AAAA ::
+dnscache0.ns7012proxy.ga A 0.0.0.0
+*.dnscache0.ns7012proxy.ga A 0.0.0.0
+dnscache0.ns7012proxy.ga AAAA ::
+*.dnscache0.ns7012proxy.ga AAAA ::
 dnscache.e-utp.net A 0.0.0.0
 *.dnscache.e-utp.net A 0.0.0.0
 dnscache.e-utp.net AAAA ::
@@ -1949,10 +1945,6 @@ dns-doh.dnsforfamily.com A 0.0.0.0
 *.dns-doh.dnsforfamily.com A 0.0.0.0
 dns-doh.dnsforfamily.com AAAA ::
 *.dns-doh.dnsforfamily.com AAAA ::
-dns-doh.dnsforfamily.dee.su A 0.0.0.0
-*.dns-doh.dnsforfamily.dee.su A 0.0.0.0
-dns-doh.dnsforfamily.dee.su AAAA ::
-*.dns-doh.dnsforfamily.dee.su AAAA ::
 dns-doh-no-safe-search.dnsforfamily.com A 0.0.0.0
 *.dns-doh-no-safe-search.dnsforfamily.com A 0.0.0.0
 dns-doh-no-safe-search.dnsforfamily.com AAAA ::
@@ -2009,6 +2001,10 @@ dns.eliv.kr A 0.0.0.0
 *.dns.eliv.kr A 0.0.0.0
 dns.eliv.kr AAAA ::
 *.dns.eliv.kr AAAA ::
+dnsenc.com A 0.0.0.0
+*.dnsenc.com A 0.0.0.0
+dnsenc.com AAAA ::
+*.dnsenc.com AAAA ::
 dns.engineer.web.id A 0.0.0.0
 *.dns.engineer.web.id A 0.0.0.0
 dns.engineer.web.id AAAA ::
@@ -2381,10 +2377,10 @@ dns.kapite.in A 0.0.0.0
 *.dns.kapite.in A 0.0.0.0
 dns.kapite.in AAAA ::
 *.dns.kapite.in AAAA ::
-dns.karadag.m012proxy.ga A 0.0.0.0
-*.dns.karadag.m012proxy.ga A 0.0.0.0
-dns.karadag.m012proxy.ga AAAA ::
-*.dns.karadag.m012proxy.ga AAAA ::
+dns.karadag.mdarknet.to A 0.0.0.0
+*.dns.karadag.mdarknet.to A 0.0.0.0
+dns.karadag.mdarknet.to AAAA ::
+*.dns.karadag.mdarknet.to AAAA ::
 dns.karl.one A 0.0.0.0
 *.dns.karl.one A 0.0.0.0
 dns.karl.one AAAA ::
@@ -3013,6 +3009,10 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
+dns.simplylinux.ch A 0.0.0.0
+*.dns.simplylinux.ch A 0.0.0.0
+dns.simplylinux.ch AAAA ::
+*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -3249,6 +3249,10 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
+dnswarden.com A 0.0.0.0
+*.dnswarden.com A 0.0.0.0
+dnswarden.com AAAA ::
+*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -3677,6 +3681,10 @@ doh-jp.blahdns.com A 0.0.0.0
 *.doh-jp.blahdns.com A 0.0.0.0
 doh-jp.blahdns.com AAAA ::
 *.doh-jp.blahdns.com AAAA ::
+doh.kekew.info A 0.0.0.0
+*.doh.kekew.info A 0.0.0.0
+doh.kekew.info AAAA ::
+*.doh.kekew.info AAAA ::
 doh.kel.pe A 0.0.0.0
 *.doh.kel.pe A 0.0.0.0
 doh.kel.pe AAAA ::
@@ -4197,10 +4205,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.dnswarden.com A 0.0.0.0
-*.ecs-doh.dnswarden.com A 0.0.0.0
-ecs-doh.dnswarden.com AAAA ::
-*.ecs-doh.dnswarden.com AAAA ::
+ecs-doh.dee.su A 0.0.0.0
+*.ecs-doh.dee.su A 0.0.0.0
+ecs-doh.dee.su AAAA ::
+*.ecs-doh.dee.su AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4233,10 +4241,6 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
-epicbrowser.com A 0.0.0.0
-*.epicbrowser.com A 0.0.0.0
-epicbrowser.com AAAA ::
-*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4673,6 +4677,10 @@ google-public-dns-a.google.com A 0.0.0.0
 *.google-public-dns-a.google.com A 0.0.0.0
 google-public-dns-a.google.com AAAA ::
 *.google-public-dns-a.google.com AAAA ::
+google-public-dns-bepicbrowser.com A 0.0.0.0
+*.google-public-dns-bepicbrowser.com A 0.0.0.0
+google-public-dns-bepicbrowser.com AAAA ::
+*.google-public-dns-bepicbrowser.com AAAA ::
 google-public-dns-b.google.com A 0.0.0.0
 *.google-public-dns-b.google.com A 0.0.0.0
 google-public-dns-b.google.com AAAA ::
@@ -6069,10 +6077,10 @@ privatevpn.com A 0.0.0.0
 *.privatevpn.com A 0.0.0.0
 privatevpn.com AAAA ::
 *.privatevpn.com AAAA ::
-privatnas.servebeer.com A 0.0.0.0
-*.privatnas.servebeer.com A 0.0.0.0
-privatnas.servebeer.com AAAA ::
-*.privatnas.servebeer.com AAAA ::
+privatnadns.dk A 0.0.0.0
+*.privatnadns.dk A 0.0.0.0
+privatnadns.dk AAAA ::
+*.privatnadns.dk AAAA ::
 prointern.info A 0.0.0.0
 *.prointern.info A 0.0.0.0
 prointern.info AAAA ::
@@ -6761,10 +6769,6 @@ seeproxy.me A 0.0.0.0
 *.seeproxy.me A 0.0.0.0
 seeproxy.me AAAA ::
 *.seeproxy.me AAAA ::
-senc.com A 0.0.0.0
-*.senc.com A 0.0.0.0
-senc.com AAAA ::
-*.senc.com AAAA ::
 seoul.dnsovertor.cc A 0.0.0.0
 *.seoul.dnsovertor.cc A 0.0.0.0
 seoul.dnsovertor.cc AAAA ::
@@ -6921,6 +6925,10 @@ squidmall.vip A 0.0.0.0
 *.squidmall.vip A 0.0.0.0
 squidmall.vip AAAA ::
 *.squidmall.vip AAAA ::
+s.servebeer.com A 0.0.0.0
+*.s.servebeer.com A 0.0.0.0
+s.servebeer.com AAAA ::
+*.s.servebeer.com AAAA ::
 sslpro.eu A 0.0.0.0
 *.sslpro.eu A 0.0.0.0
 sslpro.eu AAAA ::
@@ -7401,6 +7409,10 @@ unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
 *.unicast.censurfridns.dk AAAA ::
+unicast.censurfri.google.com A 0.0.0.0
+*.unicast.censurfri.google.com A 0.0.0.0
+unicast.censurfri.google.com AAAA ::
+*.unicast.censurfri.google.com AAAA ::
 unicast.uncensoreddns.org A 0.0.0.0
 *.unicast.uncensoreddns.org A 0.0.0.0
 unicast.uncensoreddns.org AAAA ::
