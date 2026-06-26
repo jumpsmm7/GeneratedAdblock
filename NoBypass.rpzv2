@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606260431 ; Serial Number
+ 2606261631 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -45,10 +45,6 @@ $ORIGIN nobypass.rpz.
 *.1freeproxy.pw A 0.0.0.0
 1freeproxy.pw AAAA ::
 *.1freeproxy.pw AAAA ::
-1.net A 0.0.0.0
-*.1.net A 0.0.0.0
-1.net AAAA ::
-*.1.net AAAA ::
 24tunnel.com A 0.0.0.0
 *.24tunnel.com A 0.0.0.0
 24tunnel.com AAAA ::
@@ -265,10 +261,6 @@ adguard.ef67daisuki.club A 0.0.0.0
 *.adguard.ef67daisuki.club A 0.0.0.0
 adguard.ef67daisuki.club AAAA ::
 *.adguard.ef67daisuki.club AAAA ::
-adguard.gambini.org A 0.0.0.0
-*.adguard.gambini.org A 0.0.0.0
-adguard.gambini.org AAAA ::
-*.adguard.gambini.org AAAA ::
 adguard.gbrossi.com.br A 0.0.0.0
 *.adguard.gbrossi.com.br A 0.0.0.0
 adguard.gbrossi.com.br AAAA ::
@@ -1121,6 +1113,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1649,10 +1645,10 @@ dns.butterfly87.sbs A 0.0.0.0
 *.dns.butterfly87.sbs A 0.0.0.0
 dns.butterfly87.sbs AAAA ::
 *.dns.butterfly87.sbs AAAA ::
-dnscache0.ns7darknet.to A 0.0.0.0
-*.dnscache0.ns7darknet.to A 0.0.0.0
-dnscache0.ns7darknet.to AAAA ::
-*.dnscache0.ns7darknet.to AAAA ::
+dnscache0.ns71.net A 0.0.0.0
+*.dnscache0.ns71.net A 0.0.0.0
+dnscache0.ns71.net AAAA ::
+*.dnscache0.ns71.net AAAA ::
 dnscache.e-utp.net A 0.0.0.0
 *.dnscache.e-utp.net A 0.0.0.0
 dnscache.e-utp.net AAAA ::
@@ -1953,6 +1949,10 @@ dns-doh-no-safe-search.dnsforfamily.com A 0.0.0.0
 *.dns-doh-no-safe-search.dnsforfamily.com A 0.0.0.0
 dns-doh-no-safe-search.dnsforfamily.com AAAA ::
 *.dns-doh-no-safe-search.dnsforfamily.com AAAA ::
+dns-dot.dnsforfadee.su A 0.0.0.0
+*.dns-dot.dnsforfadee.su A 0.0.0.0
+dns-dot.dnsforfadee.su AAAA ::
+*.dns-dot.dnsforfadee.su AAAA ::
 dns-dot.dnsforfamily.com A 0.0.0.0
 *.dns-dot.dnsforfamily.com A 0.0.0.0
 dns-dot.dnsforfamily.com AAAA ::
@@ -2381,10 +2381,10 @@ dns.kapite.in A 0.0.0.0
 *.dns.kapite.in A 0.0.0.0
 dns.kapite.in AAAA ::
 *.dns.kapite.in AAAA ::
-dns.karadag.mdee.su A 0.0.0.0
-*.dns.karadag.mdee.su A 0.0.0.0
-dns.karadag.mdee.su AAAA ::
-*.dns.karadag.mdee.su AAAA ::
+dns.karadag.me A 0.0.0.0
+*.dns.karadag.me A 0.0.0.0
+dns.karadag.me AAAA ::
+*.dns.karadag.me AAAA ::
 dns.karl.one A 0.0.0.0
 *.dns.karl.one A 0.0.0.0
 dns.karl.one AAAA ::
@@ -3013,10 +3013,6 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
-dns.simplylinux.ch A 0.0.0.0
-*.dns.simplylinux.ch A 0.0.0.0
-dns.simplylinux.ch AAAA ::
-*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -4685,10 +4681,6 @@ google-public-dns-a.google.com A 0.0.0.0
 *.google-public-dns-a.google.com A 0.0.0.0
 google-public-dns-a.google.com AAAA ::
 *.google-public-dns-a.google.com AAAA ::
-google-public-dns-a.google.commask.icloud.com A 0.0.0.0
-*.google-public-dns-a.google.commask.icloud.com A 0.0.0.0
-google-public-dns-a.google.commask.icloud.com AAAA ::
-*.google-public-dns-a.google.commask.icloud.com AAAA ::
 google-public-dns-b.google.com A 0.0.0.0
 *.google-public-dns-b.google.com A 0.0.0.0
 google-public-dns-b.google.com AAAA ::
@@ -5141,10 +5133,6 @@ jp-tyo-w-p-1.nashkan.net A 0.0.0.0
 *.jp-tyo-w-p-1.nashkan.net A 0.0.0.0
 jp-tyo-w-p-1.nashkan.net AAAA ::
 *.jp-tyo-w-p-1.nashkan.net AAAA ::
-jurre-home.duckdns.org A 0.0.0.0
-*.jurre-home.duckdns.org A 0.0.0.0
-jurre-home.duckdns.org AAAA ::
-*.jurre-home.duckdns.org AAAA ::
 justhost.bedro.cloud A 0.0.0.0
 *.justhost.bedro.cloud A 0.0.0.0
 justhost.bedro.cloud AAAA ::
@@ -5221,10 +5209,6 @@ kr-sel.doh.sb A 0.0.0.0
 *.kr-sel.doh.sb A 0.0.0.0
 kr-sel.doh.sb AAAA ::
 *.kr-sel.doh.sb AAAA ::
-krtekvpn.duckdns.org A 0.0.0.0
-*.krtekvpn.duckdns.org A 0.0.0.0
-krtekvpn.duckdns.org AAAA ::
-*.krtekvpn.duckdns.org AAAA ::
 kx-97795-tr.xyz A 0.0.0.0
 *.kx-97795-tr.xyz A 0.0.0.0
 kx-97795-tr.xyz AAAA ::
@@ -5433,6 +5417,10 @@ mil01.dnscry.pt A 0.0.0.0
 *.mil01.dnscry.pt A 0.0.0.0
 mil01.dnscry.pt AAAA ::
 *.mil01.dnscry.pt AAAA ::
+mily.com A 0.0.0.0
+*.mily.com A 0.0.0.0
+mily.com AAAA ::
+*.mily.com AAAA ::
 miniprox.com A 0.0.0.0
 *.miniprox.com A 0.0.0.0
 miniprox.com AAAA ::
@@ -6077,10 +6065,6 @@ private.canadianshield.cira.ca A 0.0.0.0
 *.private.canadianshield.cira.ca A 0.0.0.0
 private.canadianshield.cira.ca AAAA ::
 *.private.canadianshield.cira.ca AAAA ::
-private.canadianshifirefox.dns.nextdns.io A 0.0.0.0
-*.private.canadianshifirefox.dns.nextdns.io A 0.0.0.0
-private.canadianshifirefox.dns.nextdns.io AAAA ::
-*.private.canadianshifirefox.dns.nextdns.io AAAA ::
 privateinternetaccess.com A 0.0.0.0
 *.privateinternetaccess.com A 0.0.0.0
 privateinternetaccess.com AAAA ::
@@ -6393,10 +6377,6 @@ public.ns.nwps.fi A 0.0.0.0
 *.public.ns.nwps.fi A 0.0.0.0
 public.ns.nwps.fi AAAA ::
 *.public.ns.nwps.fi AAAA ::
-punono.duckdns.org A 0.0.0.0
-*.punono.duckdns.org A 0.0.0.0
-punono.duckdns.org AAAA ::
-*.punono.duckdns.org AAAA ::
 puredns.org A 0.0.0.0
 *.puredns.org A 0.0.0.0
 puredns.org AAAA ::
@@ -7413,14 +7393,14 @@ unfiltered.joindns4.eu A 0.0.0.0
 *.unfiltered.joindns4.eu A 0.0.0.0
 unfiltered.joindns4.eu AAAA ::
 *.unfiltered.joindns4.eu AAAA ::
+unicast.censurfri12vpx.com A 0.0.0.0
+*.unicast.censurfri12vpx.com A 0.0.0.0
+unicast.censurfri12vpx.com AAAA ::
+*.unicast.censurfri12vpx.com AAAA ::
 unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
 *.unicast.censurfridns.dk AAAA ::
-unicast.censurfrield.cira.ca A 0.0.0.0
-*.unicast.censurfrield.cira.ca A 0.0.0.0
-unicast.censurfrield.cira.ca AAAA ::
-*.unicast.censurfrield.cira.ca AAAA ::
 unicast.uncensoreddns.org A 0.0.0.0
 *.unicast.uncensoreddns.org A 0.0.0.0
 unicast.uncensoreddns.org AAAA ::
@@ -7753,10 +7733,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.com12vpx.com A 0.0.0.0
-*.whoisping.com12vpx.com A 0.0.0.0
-whoisping.com12vpx.com AAAA ::
-*.whoisping.com12vpx.com AAAA ::
+whoisping.com A 0.0.0.0
+*.whoisping.com A 0.0.0.0
+whoisping.com AAAA ::
+*.whoisping.com AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
