@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2606300443 ; Serial Number
+ 2606301632 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,10 +13,6 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -1117,6 +1113,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1145,6 +1145,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1245,6 +1249,10 @@ dns1.dnscrypt.ca A 0.0.0.0
 *.dns1.dnscrypt.ca A 0.0.0.0
 dns1.dnscrypt.ca AAAA ::
 *.dns1.dnscrypt.ca AAAA ::
+dns.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.dns.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+dns.1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.dns.1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns1.in-berlin.de A 0.0.0.0
 *.dns1.in-berlin.de A 0.0.0.0
 dns1.in-berlin.de AAAA ::
@@ -1645,10 +1653,6 @@ dns.butterfly87.sbs A 0.0.0.0
 *.dns.butterfly87.sbs A 0.0.0.0
 dns.butterfly87.sbs AAAA ::
 *.dns.butterfly87.sbs AAAA ::
-dnscache0.ns71mask.icloud.com A 0.0.0.0
-*.dnscache0.ns71mask.icloud.com A 0.0.0.0
-dnscache0.ns71mask.icloud.com AAAA ::
-*.dnscache0.ns71mask.icloud.com AAAA ::
 dnscache.e-utp.net A 0.0.0.0
 *.dnscache.e-utp.net A 0.0.0.0
 dnscache.e-utp.net AAAA ::
@@ -1941,10 +1945,6 @@ dns-doh.dnsforfamily.com A 0.0.0.0
 *.dns-doh.dnsforfamily.com A 0.0.0.0
 dns-doh.dnsforfamily.com AAAA ::
 *.dns-doh.dnsforfamily.com AAAA ::
-dns-doh.dnsforfamily.dee.su A 0.0.0.0
-*.dns-doh.dnsforfamily.dee.su A 0.0.0.0
-dns-doh.dnsforfamily.dee.su AAAA ::
-*.dns-doh.dnsforfamily.dee.su AAAA ::
 dns-doh-no-safe-search.dnsforfamily.com A 0.0.0.0
 *.dns-doh-no-safe-search.dnsforfamily.com A 0.0.0.0
 dns-doh-no-safe-search.dnsforfamily.com AAAA ::
@@ -2193,10 +2193,6 @@ dns.google.com A 0.0.0.0
 *.dns.google.com A 0.0.0.0
 dns.google.com AAAA ::
 *.dns.google.com AAAA ::
-dns.green-ping.lol A 0.0.0.0
-*.dns.green-ping.lol A 0.0.0.0
-dns.green-ping.lol AAAA ::
-*.dns.green-ping.lol AAAA ::
 dns.grqu.de A 0.0.0.0
 *.dns.grqu.de A 0.0.0.0
 dns.grqu.de AAAA ::
@@ -2377,18 +2373,14 @@ dns.kapite.in A 0.0.0.0
 *.dns.kapite.in A 0.0.0.0
 dns.kapite.in AAAA ::
 *.dns.kapite.in AAAA ::
-dns.karadag.m12vpx.com A 0.0.0.0
-*.dns.karadag.m12vpx.com A 0.0.0.0
-dns.karadag.m12vpx.com AAAA ::
-*.dns.karadag.m12vpx.com AAAA ::
+dns.karadag.me A 0.0.0.0
+*.dns.karadag.me A 0.0.0.0
+dns.karadag.me AAAA ::
+*.dns.karadag.me AAAA ::
 dns.karl.one A 0.0.0.0
 *.dns.karl.one A 0.0.0.0
 dns.karl.one AAAA ::
 *.dns.karl.one AAAA ::
-dns.kastner-online.de A 0.0.0.0
-*.dns.kastner-online.de A 0.0.0.0
-dns.kastner-online.de AAAA ::
-*.dns.kastner-online.de AAAA ::
 dns.kawa.tf A 0.0.0.0
 *.dns.kawa.tf A 0.0.0.0
 dns.kawa.tf AAAA ::
@@ -3013,6 +3005,10 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
+dns.simplylinux.ch A 0.0.0.0
+*.dns.simplylinux.ch A 0.0.0.0
+dns.simplylinux.ch AAAA ::
+*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -3249,6 +3245,10 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
+dnswarden.com A 0.0.0.0
+*.dnswarden.com A 0.0.0.0
+dnswarden.com AAAA ::
+*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4205,10 +4205,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.dnswarden.com A 0.0.0.0
-*.ecs-doh.dnswarden.com A 0.0.0.0
-ecs-doh.dnswarden.com AAAA ::
-*.ecs-doh.dnswarden.com AAAA ::
+ecs-doh.012proxy.ga A 0.0.0.0
+*.ecs-doh.012proxy.ga A 0.0.0.0
+ecs-doh.012proxy.ga AAAA ::
+*.ecs-doh.012proxy.ga AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -5153,6 +5153,10 @@ kaiwu.xyz A 0.0.0.0
 *.kaiwu.xyz A 0.0.0.0
 kaiwu.xyz AAAA ::
 *.kaiwu.xyz AAAA ::
+kastner-online.de A 0.0.0.0
+*.kastner-online.de A 0.0.0.0
+kastner-online.de AAAA ::
+*.kastner-online.de AAAA ::
 kavkaz.monster A 0.0.0.0
 *.kavkaz.monster A 0.0.0.0
 kavkaz.monster AAAA ::
@@ -6025,10 +6029,6 @@ polisitogel.hair A 0.0.0.0
 *.polisitogel.hair A 0.0.0.0
 polisitogel.hair AAAA ::
 *.polisitogel.hair AAAA ::
-polisitogel.show A 0.0.0.0
-*.polisitogel.show A 0.0.0.0
-polisitogel.show AAAA ::
-*.polisitogel.show AAAA ::
 polisitogel.webcam A 0.0.0.0
 *.polisitogel.webcam A 0.0.0.0
 polisitogel.webcam AAAA ::
@@ -7661,6 +7661,10 @@ vpnoverview.com A 0.0.0.0
 *.vpnoverview.com A 0.0.0.0
 vpnoverview.com AAAA ::
 *.vpnoverview.com AAAA ::
+vpn.technicule.info A 0.0.0.0
+*.vpn.technicule.info A 0.0.0.0
+vpn.technicule.info AAAA ::
+*.vpn.technicule.info AAAA ::
 vpnunlimitedapp.com A 0.0.0.0
 *.vpnunlimitedapp.com A 0.0.0.0
 vpnunlimitedapp.com AAAA ::
@@ -7733,10 +7737,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.comdarknet.to A 0.0.0.0
-*.whoisping.comdarknet.to A 0.0.0.0
-whoisping.comdarknet.to AAAA ::
-*.whoisping.comdarknet.to AAAA ::
+whoisping.com12vpx.com A 0.0.0.0
+*.whoisping.com12vpx.com A 0.0.0.0
+whoisping.com12vpx.com AAAA ::
+*.whoisping.com12vpx.com AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
