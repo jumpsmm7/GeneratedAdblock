@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607010431 ; Serial Number
+ 2607011633 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,6 +13,10 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
+012proxy.ga A 0.0.0.0
+*.012proxy.ga A 0.0.0.0
+012proxy.ga AAAA ::
+*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -25,10 +29,6 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
-12vpx.com A 0.0.0.0
-*.12vpx.com A 0.0.0.0
-12vpx.com AAAA ::
-*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -1077,6 +1077,10 @@ crypto.sx A 0.0.0.0
 *.crypto.sx A 0.0.0.0
 crypto.sx AAAA ::
 *.crypto.sx AAAA ::
+cted.canadianshield.cira.ca A 0.0.0.0
+*.cted.canadianshield.cira.ca A 0.0.0.0
+cted.canadianshield.cira.ca AAAA ::
+*.cted.canadianshield.cira.ca AAAA ::
 cubedns.com A 0.0.0.0
 *.cubedns.com A 0.0.0.0
 cubedns.com AAAA ::
@@ -1117,10 +1121,6 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1205,14 +1205,14 @@ digi77.com A 0.0.0.0
 *.digi77.com A 0.0.0.0
 digi77.com AAAA ::
 *.digi77.com AAAA ::
+dn12vpx.com A 0.0.0.0
+*.dn12vpx.com A 0.0.0.0
+dn12vpx.com AAAA ::
+*.dn12vpx.com AAAA ::
 d.niaox.com A 0.0.0.0
 *.d.niaox.com A 0.0.0.0
 d.niaox.com AAAA ::
 *.d.niaox.com AAAA ::
-dns.012proxy.ga A 0.0.0.0
-*.dns.012proxy.ga A 0.0.0.0
-dns.012proxy.ga AAAA ::
-*.dns.012proxy.ga AAAA ::
 dns01.flm9.net A 0.0.0.0
 *.dns01.flm9.net A 0.0.0.0
 dns01.flm9.net AAAA ::
@@ -1949,14 +1949,14 @@ dns.doh.best A 0.0.0.0
 *.dns.doh.best A 0.0.0.0
 dns.doh.best AAAA ::
 *.dns.doh.best AAAA ::
-dns-doh.dnsforfamily.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.dns-doh.dnsforfamily.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-dns-doh.dnsforfamily.1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.dns-doh.dnsforfamily.1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns-doh.dnsforfamily.com A 0.0.0.0
 *.dns-doh.dnsforfamily.com A 0.0.0.0
 dns-doh.dnsforfamily.com AAAA ::
 *.dns-doh.dnsforfamily.com AAAA ::
+dns-doh.dnsforfamily.darknet.to A 0.0.0.0
+*.dns-doh.dnsforfamily.darknet.to A 0.0.0.0
+dns-doh.dnsforfamily.darknet.to AAAA ::
+*.dns-doh.dnsforfamily.darknet.to AAAA ::
 dns-doh-no-safe-search.dnsforfamily.com A 0.0.0.0
 *.dns-doh-no-safe-search.dnsforfamily.com A 0.0.0.0
 dns-doh-no-safe-search.dnsforfamily.com AAAA ::
@@ -2013,10 +2013,6 @@ dns.eliv.kr A 0.0.0.0
 *.dns.eliv.kr A 0.0.0.0
 dns.eliv.kr AAAA ::
 *.dns.eliv.kr AAAA ::
-dnsenc.com A 0.0.0.0
-*.dnsenc.com A 0.0.0.0
-dnsenc.com AAAA ::
-*.dnsenc.com AAAA ::
 dns.engineer.web.id A 0.0.0.0
 *.dns.engineer.web.id A 0.0.0.0
 dns.engineer.web.id AAAA ::
@@ -2365,10 +2361,6 @@ dns.jundev.org A 0.0.0.0
 *.dns.jundev.org A 0.0.0.0
 dns.jundev.org AAAA ::
 *.dns.jundev.org AAAA ::
-dns.jupitrdns.com A 0.0.0.0
-*.dns.jupitrdns.com A 0.0.0.0
-dns.jupitrdns.com AAAA ::
-*.dns.jupitrdns.com AAAA ::
 dns.justinnetworkingsolutions.com A 0.0.0.0
 *.dns.justinnetworkingsolutions.com A 0.0.0.0
 dns.justinnetworkingsolutions.com AAAA ::
@@ -2393,6 +2385,10 @@ dns.karl.one A 0.0.0.0
 *.dns.karl.one A 0.0.0.0
 dns.karl.one AAAA ::
 *.dns.karl.one AAAA ::
+dns.kastner-online.de A 0.0.0.0
+*.dns.kastner-online.de A 0.0.0.0
+dns.kastner-online.de AAAA ::
+*.dns.kastner-online.de AAAA ::
 dns.kawa.tf A 0.0.0.0
 *.dns.kawa.tf A 0.0.0.0
 dns.kawa.tf AAAA ::
@@ -3017,6 +3013,10 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
+dns.simplylinux.ch A 0.0.0.0
+*.dns.simplylinux.ch A 0.0.0.0
+dns.simplylinux.ch AAAA ::
+*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -4689,6 +4689,10 @@ google-public-dns-b.google.com A 0.0.0.0
 *.google-public-dns-b.google.com A 0.0.0.0
 google-public-dns-b.google.com AAAA ::
 *.google-public-dns-b.google.com AAAA ::
+google-public-dns-firefox.dns.nextdns.io A 0.0.0.0
+*.google-public-dns-firefox.dns.nextdns.io A 0.0.0.0
+google-public-dns-firefox.dns.nextdns.io AAAA ::
+*.google-public-dns-firefox.dns.nextdns.io AAAA ::
 goose.buckyfan.net A 0.0.0.0
 *.goose.buckyfan.net A 0.0.0.0
 goose.buckyfan.net AAAA ::
@@ -4869,6 +4873,10 @@ home27.duckdns.org A 0.0.0.0
 *.home27.duckdns.org A 0.0.0.0
 home27.duckdns.org AAAA ::
 *.home27.duckdns.org AAAA ::
+home.enjoymylife.net A 0.0.0.0
+*.home.enjoymylife.net A 0.0.0.0
+home.enjoymylife.net AAAA ::
+*.home.enjoymylife.net AAAA ::
 homeproxy.com A 0.0.0.0
 *.homeproxy.com A 0.0.0.0
 homeproxy.com AAAA ::
@@ -5157,10 +5165,6 @@ kaiwu.xyz A 0.0.0.0
 *.kaiwu.xyz A 0.0.0.0
 kaiwu.xyz AAAA ::
 *.kaiwu.xyz AAAA ::
-kastner-online.de A 0.0.0.0
-*.kastner-online.de A 0.0.0.0
-kastner-online.de AAAA ::
-*.kastner-online.de AAAA ::
 kavkaz.monster A 0.0.0.0
 *.kavkaz.monster A 0.0.0.0
 kavkaz.monster AAAA ::
@@ -6089,10 +6093,6 @@ pro.shecan.ir A 0.0.0.0
 *.pro.shecan.ir A 0.0.0.0
 pro.shecan.ir AAAA ::
 *.pro.shecan.ir AAAA ::
-protected.canadianshield.cifirefox.dns.nextdns.io A 0.0.0.0
-*.protected.canadianshield.cifirefox.dns.nextdns.io A 0.0.0.0
-protected.canadianshield.cifirefox.dns.nextdns.io AAAA ::
-*.protected.canadianshield.cifirefox.dns.nextdns.io AAAA ::
 protected.canadianshield.cira.ca A 0.0.0.0
 *.protected.canadianshield.cira.ca A 0.0.0.0
 protected.canadianshield.cira.ca AAAA ::
@@ -6101,6 +6101,10 @@ protective.joindns4.eu A 0.0.0.0
 *.protective.joindns4.eu A 0.0.0.0
 protective.joindns4.eu AAAA ::
 *.protective.joindns4.eu AAAA ::
+protedns.dk A 0.0.0.0
+*.protedns.dk A 0.0.0.0
+protedns.dk AAAA ::
+*.protedns.dk AAAA ::
 protonstatus.com A 0.0.0.0
 *.protonstatus.com A 0.0.0.0
 protonstatus.com AAAA ::
@@ -6441,10 +6445,6 @@ rabbithole.site A 0.0.0.0
 *.rabbithole.site A 0.0.0.0
 rabbithole.site AAAA ::
 *.rabbithole.site AAAA ::
-ra.ca A 0.0.0.0
-*.ra.ca A 0.0.0.0
-ra.ca AAAA ::
-*.ra.ca AAAA ::
 radmin-vpn.com A 0.0.0.0
 *.radmin-vpn.com A 0.0.0.0
 radmin-vpn.com AAAA ::
@@ -6773,6 +6773,10 @@ seeproxy.me A 0.0.0.0
 *.seeproxy.me A 0.0.0.0
 seeproxy.me AAAA ::
 *.seeproxy.me AAAA ::
+senc.com A 0.0.0.0
+*.senc.com A 0.0.0.0
+senc.com AAAA ::
+*.senc.com AAAA ::
 seoul.dnsovertor.cc A 0.0.0.0
 *.seoul.dnsovertor.cc A 0.0.0.0
 seoul.dnsovertor.cc AAAA ::
@@ -7101,10 +7105,6 @@ tikvpn.com A 0.0.0.0
 *.tikvpn.com A 0.0.0.0
 tikvpn.com AAAA ::
 *.tikvpn.com AAAA ::
-timedns.net A 0.0.0.0
-*.timedns.net A 0.0.0.0
-timedns.net AAAA ::
-*.timedns.net AAAA ::
 timmes.nl A 0.0.0.0
 *.timmes.nl A 0.0.0.0
 timmes.nl AAAA ::
@@ -7409,6 +7409,10 @@ unfiltered.joindns4.eu A 0.0.0.0
 *.unfiltered.joindns4.eu A 0.0.0.0
 unfiltered.joindns4.eu AAAA ::
 *.unfiltered.joindns4.eu AAAA ::
+unicast.censurfrib.google.com A 0.0.0.0
+*.unicast.censurfrib.google.com A 0.0.0.0
+unicast.censurfrib.google.com AAAA ::
+*.unicast.censurfrib.google.com AAAA ::
 unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
