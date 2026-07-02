@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607011633 ; Serial Number
+ 2607020432 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -29,6 +29,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -753,10 +757,6 @@ blackvpn.com A 0.0.0.0
 *.blackvpn.com A 0.0.0.0
 blackvpn.com AAAA ::
 *.blackvpn.com AAAA ::
-bl.eq.md A 0.0.0.0
-*.bl.eq.md A 0.0.0.0
-bl.eq.md AAAA ::
-*.bl.eq.md AAAA ::
 blewpass.com A 0.0.0.0
 *.blewpass.com A 0.0.0.0
 blewpass.com AAAA ::
@@ -1077,10 +1077,6 @@ crypto.sx A 0.0.0.0
 *.crypto.sx A 0.0.0.0
 crypto.sx AAAA ::
 *.crypto.sx AAAA ::
-cted.canadianshield.cira.ca A 0.0.0.0
-*.cted.canadianshield.cira.ca A 0.0.0.0
-cted.canadianshield.cira.ca AAAA ::
-*.cted.canadianshield.cira.ca AAAA ::
 cubedns.com A 0.0.0.0
 *.cubedns.com A 0.0.0.0
 cubedns.com AAAA ::
@@ -1149,10 +1145,6 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
-dee.su A 0.0.0.0
-*.dee.su A 0.0.0.0
-dee.su AAAA ::
-*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1205,10 +1197,10 @@ digi77.com A 0.0.0.0
 *.digi77.com A 0.0.0.0
 digi77.com AAAA ::
 *.digi77.com AAAA ::
-dn12vpx.com A 0.0.0.0
-*.dn12vpx.com A 0.0.0.0
-dn12vpx.com AAAA ::
-*.dn12vpx.com AAAA ::
+dndarknet.to A 0.0.0.0
+*.dndarknet.to A 0.0.0.0
+dndarknet.to AAAA ::
+*.dndarknet.to AAAA ::
 d.niaox.com A 0.0.0.0
 *.d.niaox.com A 0.0.0.0
 d.niaox.com AAAA ::
@@ -1953,10 +1945,6 @@ dns-doh.dnsforfamily.com A 0.0.0.0
 *.dns-doh.dnsforfamily.com A 0.0.0.0
 dns-doh.dnsforfamily.com AAAA ::
 *.dns-doh.dnsforfamily.com AAAA ::
-dns-doh.dnsforfamily.darknet.to A 0.0.0.0
-*.dns-doh.dnsforfamily.darknet.to A 0.0.0.0
-dns-doh.dnsforfamily.darknet.to AAAA ::
-*.dns-doh.dnsforfamily.darknet.to AAAA ::
 dns-doh-no-safe-search.dnsforfamily.com A 0.0.0.0
 *.dns-doh-no-safe-search.dnsforfamily.com A 0.0.0.0
 dns-doh-no-safe-search.dnsforfamily.com AAAA ::
@@ -2013,6 +2001,10 @@ dns.eliv.kr A 0.0.0.0
 *.dns.eliv.kr A 0.0.0.0
 dns.eliv.kr AAAA ::
 *.dns.eliv.kr AAAA ::
+dnsenc.com A 0.0.0.0
+*.dnsenc.com A 0.0.0.0
+dnsenc.com AAAA ::
+*.dnsenc.com AAAA ::
 dns.engineer.web.id A 0.0.0.0
 *.dns.engineer.web.id A 0.0.0.0
 dns.engineer.web.id AAAA ::
@@ -2389,10 +2381,10 @@ dns.kastner-online.de A 0.0.0.0
 *.dns.kastner-online.de A 0.0.0.0
 dns.kastner-online.de AAAA ::
 *.dns.kastner-online.de AAAA ::
-dns.kawa.tf A 0.0.0.0
-*.dns.kawa.tf A 0.0.0.0
-dns.kawa.tf AAAA ::
-*.dns.kawa.tf AAAA ::
+dns.kawa.dee.su A 0.0.0.0
+*.dns.kawa.dee.su A 0.0.0.0
+dns.kawa.dee.su AAAA ::
+*.dns.kawa.dee.su AAAA ::
 dns.kebree.fr A 0.0.0.0
 *.dns.kebree.fr A 0.0.0.0
 dns.kebree.fr AAAA ::
@@ -3013,10 +3005,6 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
-dns.simplylinux.ch A 0.0.0.0
-*.dns.simplylinux.ch A 0.0.0.0
-dns.simplylinux.ch AAAA ::
-*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -4689,10 +4677,6 @@ google-public-dns-b.google.com A 0.0.0.0
 *.google-public-dns-b.google.com A 0.0.0.0
 google-public-dns-b.google.com AAAA ::
 *.google-public-dns-b.google.com AAAA ::
-google-public-dns-firefox.dns.nextdns.io A 0.0.0.0
-*.google-public-dns-firefox.dns.nextdns.io A 0.0.0.0
-google-public-dns-firefox.dns.nextdns.io AAAA ::
-*.google-public-dns-firefox.dns.nextdns.io AAAA ::
 goose.buckyfan.net A 0.0.0.0
 *.goose.buckyfan.net A 0.0.0.0
 goose.buckyfan.net AAAA ::
@@ -6101,10 +6085,6 @@ protective.joindns4.eu A 0.0.0.0
 *.protective.joindns4.eu A 0.0.0.0
 protective.joindns4.eu AAAA ::
 *.protective.joindns4.eu AAAA ::
-protedns.dk A 0.0.0.0
-*.protedns.dk A 0.0.0.0
-protedns.dk AAAA ::
-*.protedns.dk AAAA ::
 protonstatus.com A 0.0.0.0
 *.protonstatus.com A 0.0.0.0
 protonstatus.com AAAA ::
@@ -6773,10 +6753,6 @@ seeproxy.me A 0.0.0.0
 *.seeproxy.me A 0.0.0.0
 seeproxy.me AAAA ::
 *.seeproxy.me AAAA ::
-senc.com A 0.0.0.0
-*.senc.com A 0.0.0.0
-senc.com AAAA ::
-*.senc.com AAAA ::
 seoul.dnsovertor.cc A 0.0.0.0
 *.seoul.dnsovertor.cc A 0.0.0.0
 seoul.dnsovertor.cc AAAA ::
@@ -6789,6 +6765,10 @@ setupvpn.com A 0.0.0.0
 *.setupvpn.com A 0.0.0.0
 setupvpn.com AAAA ::
 *.setupvpn.com AAAA ::
+sforge.de A 0.0.0.0
+*.sforge.de A 0.0.0.0
+sforge.de AAAA ::
+*.sforge.de AAAA ::
 sg01.dns4me.net A 0.0.0.0
 *.sg01.dns4me.net A 0.0.0.0
 sg01.dns4me.net AAAA ::
@@ -7409,10 +7389,6 @@ unfiltered.joindns4.eu A 0.0.0.0
 *.unfiltered.joindns4.eu A 0.0.0.0
 unfiltered.joindns4.eu AAAA ::
 *.unfiltered.joindns4.eu AAAA ::
-unicast.censurfrib.google.com A 0.0.0.0
-*.unicast.censurfrib.google.com A 0.0.0.0
-unicast.censurfrib.google.com AAAA ::
-*.unicast.censurfrib.google.com AAAA ::
 unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
@@ -7753,10 +7729,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.com A 0.0.0.0
-*.whoisping.com A 0.0.0.0
-whoisping.com AAAA ::
-*.whoisping.com AAAA ::
+whoisping.com1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.whoisping.com1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+whoisping.com1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.whoisping.com1dot1dot1dot1.cloudflare-dns.com AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
