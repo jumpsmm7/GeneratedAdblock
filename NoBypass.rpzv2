@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607021628 ; Serial Number
+ 2607030428 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -9,10 +9,10 @@ $ORIGIN nobypass.rpz.
  )
  NS localhost
 
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
+003153.xyz A 0.0.0.0
+*.003153.xyz A 0.0.0.0
+003153.xyz AAAA ::
+*.003153.xyz AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -1145,10 +1145,6 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
-dee.su A 0.0.0.0
-*.dee.su A 0.0.0.0
-dee.su AAAA ::
-*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1857,10 +1853,10 @@ dns.daw.dev A 0.0.0.0
 *.dns.daw.dev A 0.0.0.0
 dns.daw.dev AAAA ::
 *.dns.daw.dev AAAA ::
-dns-ddnswarden.com A 0.0.0.0
-*.dns-ddnswarden.com A 0.0.0.0
-dns-ddnswarden.com AAAA ::
-*.dns-ddnswarden.com AAAA ::
+dns-ddee.su A 0.0.0.0
+*.dns-ddee.su A 0.0.0.0
+dns-ddee.su AAAA ::
+*.dns-ddee.su AAAA ::
 dns.deadsec.net A 0.0.0.0
 *.dns.deadsec.net A 0.0.0.0
 dns.deadsec.net AAAA ::
@@ -2385,10 +2381,10 @@ dns.kastner-online.de A 0.0.0.0
 *.dns.kastner-online.de A 0.0.0.0
 dns.kastner-online.de AAAA ::
 *.dns.kastner-online.de AAAA ::
-dns.kawa.epicbrowser.com A 0.0.0.0
-*.dns.kawa.epicbrowser.com A 0.0.0.0
-dns.kawa.epicbrowser.com AAAA ::
-*.dns.kawa.epicbrowser.com AAAA ::
+dns.kawa.012proxy.ga A 0.0.0.0
+*.dns.kawa.012proxy.ga A 0.0.0.0
+dns.kawa.012proxy.ga AAAA ::
+*.dns.kawa.012proxy.ga AAAA ::
 dns.kebree.fr A 0.0.0.0
 *.dns.kebree.fr A 0.0.0.0
 dns.kebree.fr AAAA ::
@@ -2841,10 +2837,6 @@ dns-privacy.puregeni.us A 0.0.0.0
 *.dns-privacy.puregeni.us A 0.0.0.0
 dns-privacy.puregeni.us AAAA ::
 *.dns-privacy.puregeni.us AAAA ::
-dns.propheci.xyz A 0.0.0.0
-*.dns.propheci.xyz A 0.0.0.0
-dns.propheci.xyz AAAA ::
-*.dns.propheci.xyz AAAA ::
 dns.psociety.de A 0.0.0.0
 *.dns.psociety.de A 0.0.0.0
 dns.psociety.de AAAA ::
@@ -3249,6 +3241,10 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
+dnswarden.com A 0.0.0.0
+*.dnswarden.com A 0.0.0.0
+dnswarden.com AAAA ::
+*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4205,10 +4201,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.003153.xyz A 0.0.0.0
-*.ecs-doh.003153.xyz A 0.0.0.0
-ecs-doh.003153.xyz AAAA ::
-*.ecs-doh.003153.xyz AAAA ::
+ecs-doh.firefox.dns.nextdns.io A 0.0.0.0
+*.ecs-doh.firefox.dns.nextdns.io A 0.0.0.0
+ecs-doh.firefox.dns.nextdns.io AAAA ::
+*.ecs-doh.firefox.dns.nextdns.io AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4241,6 +4237,10 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
+epicbrowser.com A 0.0.0.0
+*.epicbrowser.com A 0.0.0.0
+epicbrowser.com AAAA ::
+*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -7089,10 +7089,6 @@ tikvpn.com A 0.0.0.0
 *.tikvpn.com A 0.0.0.0
 tikvpn.com AAAA ::
 *.tikvpn.com AAAA ::
-timedns.net A 0.0.0.0
-*.timedns.net A 0.0.0.0
-timedns.net AAAA ::
-*.timedns.net AAAA ::
 timmes.nl A 0.0.0.0
 *.timmes.nl A 0.0.0.0
 timmes.nl AAAA ::

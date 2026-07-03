@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607021628 ; Serial Number
+ 2607030428 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -9,8 +9,8 @@ $ORIGIN nobypass.rpz.
  )
  NS localhost
 
-012proxy.ga CNAME .
-*.012proxy.ga CNAME .
+003153.xyz CNAME .
+*.003153.xyz CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
@@ -577,8 +577,6 @@ de-dus.doh.sb CNAME .
 *.de-dus.doh.sb CNAME .
 deep-henchman-excuse.cfd CNAME .
 *.deep-henchman-excuse.cfd CNAME .
-dee.su CNAME .
-*.dee.su CNAME .
 de-f1.foxyfy.net CNAME .
 *.de-f1.foxyfy.net CNAME .
 defencevpn.com CNAME .
@@ -933,8 +931,8 @@ dns.david888.com CNAME .
 *.dns.david888.com CNAME .
 dns.daw.dev CNAME .
 *.dns.daw.dev CNAME .
-dns-ddnswarden.com CNAME .
-*.dns-ddnswarden.com CNAME .
+dns-ddee.su CNAME .
+*.dns-ddee.su CNAME .
 dns.deadsec.net CNAME .
 *.dns.deadsec.net CNAME .
 dns.decky.eu CNAME .
@@ -1197,8 +1195,8 @@ dns.karl.one CNAME .
 *.dns.karl.one CNAME .
 dns.kastner-online.de CNAME .
 *.dns.kastner-online.de CNAME .
-dns.kawa.epicbrowser.com CNAME .
-*.dns.kawa.epicbrowser.com CNAME .
+dns.kawa.012proxy.ga CNAME .
+*.dns.kawa.012proxy.ga CNAME .
 dns.kebree.fr CNAME .
 *.dns.kebree.fr CNAME .
 dns.kerekes.xyz CNAME .
@@ -1425,8 +1423,6 @@ dns.practicallyunhackable.com CNAME .
 *.dns.practicallyunhackable.com CNAME .
 dns-privacy.puregeni.us CNAME .
 *.dns-privacy.puregeni.us CNAME .
-dns.propheci.xyz CNAME .
-*.dns.propheci.xyz CNAME .
 dns.psociety.de CNAME .
 *.dns.psociety.de CNAME .
 dns.pub CNAME .
@@ -1629,6 +1625,8 @@ dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
+dnswarden.com CNAME .
+*.dnswarden.com CNAME .
 dns.wargan.io CNAME .
 *.dns.wargan.io CNAME .
 dns.warpnine.de CNAME .
@@ -2107,8 +2105,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.003153.xyz CNAME .
-*.ecs-doh.003153.xyz CNAME .
+ecs-doh.firefox.dns.nextdns.io CNAME .
+*.ecs-doh.firefox.dns.nextdns.io CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2125,6 +2123,8 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
+epicbrowser.com CNAME .
+*.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
 *.eropa.dnscepat.id CNAME .
 esel.stusta.mhn.de CNAME .
@@ -3549,8 +3549,6 @@ tiger.dns.qwer.pw CNAME .
 *.tiger.dns.qwer.pw CNAME .
 tikvpn.com CNAME .
 *.tikvpn.com CNAME .
-timedns.net CNAME .
-*.timedns.net CNAME .
 timmes.nl CNAME .
 *.timmes.nl CNAME .
 tj.jamesxue.xyz CNAME .
