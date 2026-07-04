@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607040443 ; Serial Number
+ 2607041632 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -1149,10 +1149,6 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
-dee.su A 0.0.0.0
-*.dee.su A 0.0.0.0
-dee.su AAAA ::
-*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1861,6 +1857,10 @@ dns.daw.dev A 0.0.0.0
 *.dns.daw.dev A 0.0.0.0
 dns.daw.dev AAAA ::
 *.dns.daw.dev AAAA ::
+dns-ddee.su A 0.0.0.0
+*.dns-ddee.su A 0.0.0.0
+dns-ddee.su AAAA ::
+*.dns-ddee.su AAAA ::
 dns.deadsec.net A 0.0.0.0
 *.dns.deadsec.net A 0.0.0.0
 dns.deadsec.net AAAA ::
@@ -2385,10 +2385,10 @@ dns.kastner-online.de A 0.0.0.0
 *.dns.kastner-online.de A 0.0.0.0
 dns.kastner-online.de AAAA ::
 *.dns.kastner-online.de AAAA ::
-dns.kawa.mask.icloud.com A 0.0.0.0
-*.dns.kawa.mask.icloud.com A 0.0.0.0
-dns.kawa.mask.icloud.com AAAA ::
-*.dns.kawa.mask.icloud.com AAAA ::
+dns.kawa.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.dns.kawa.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+dns.kawa.1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.dns.kawa.1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns.kebree.fr A 0.0.0.0
 *.dns.kebree.fr A 0.0.0.0
 dns.kebree.fr AAAA ::
@@ -3009,10 +3009,6 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
-dns.simplylinux.ch A 0.0.0.0
-*.dns.simplylinux.ch A 0.0.0.0
-dns.simplylinux.ch AAAA ::
-*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -4685,14 +4681,10 @@ google-public-dns-b.google.com A 0.0.0.0
 *.google-public-dns-b.google.com A 0.0.0.0
 google-public-dns-b.google.com AAAA ::
 *.google-public-dns-b.google.com AAAA ::
-google-public-dns-b.google.firefox.dns.nextdns.io A 0.0.0.0
-*.google-public-dns-b.google.firefox.dns.nextdns.io A 0.0.0.0
-google-public-dns-b.google.firefox.dns.nextdns.io AAAA ::
-*.google-public-dns-b.google.firefox.dns.nextdns.io AAAA ::
-goose.buckyfan.net A 0.0.0.0
-*.goose.buckyfan.net A 0.0.0.0
-goose.buckyfan.net AAAA ::
-*.goose.buckyfan.net AAAA ::
+goose.buckyfan.firefox.dns.nextdns.io A 0.0.0.0
+*.goose.buckyfan.firefox.dns.nextdns.io A 0.0.0.0
+goose.buckyfan.firefox.dns.nextdns.io AAAA ::
+*.goose.buckyfan.firefox.dns.nextdns.io AAAA ::
 goproxy.asia A 0.0.0.0
 *.goproxy.asia A 0.0.0.0
 goproxy.asia AAAA ::
@@ -5873,6 +5865,10 @@ o.rsaikat.com A 0.0.0.0
 *.o.rsaikat.com A 0.0.0.0
 o.rsaikat.com AAAA ::
 *.o.rsaikat.com AAAA ::
+ot.dnsforfamily.com A 0.0.0.0
+*.ot.dnsforfamily.com A 0.0.0.0
+ot.dnsforfamily.com AAAA ::
+*.ot.dnsforfamily.com AAAA ::
 overplay.net A 0.0.0.0
 *.overplay.net A 0.0.0.0
 overplay.net AAAA ::

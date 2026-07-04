@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607040443 ; Serial Number
+ 2607041632 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -579,8 +579,6 @@ de-dus.doh.sb CNAME .
 *.de-dus.doh.sb CNAME .
 deep-henchman-excuse.cfd CNAME .
 *.deep-henchman-excuse.cfd CNAME .
-dee.su CNAME .
-*.dee.su CNAME .
 de-f1.foxyfy.net CNAME .
 *.de-f1.foxyfy.net CNAME .
 defencevpn.com CNAME .
@@ -935,6 +933,8 @@ dns.david888.com CNAME .
 *.dns.david888.com CNAME .
 dns.daw.dev CNAME .
 *.dns.daw.dev CNAME .
+dns-ddee.su CNAME .
+*.dns-ddee.su CNAME .
 dns.deadsec.net CNAME .
 *.dns.deadsec.net CNAME .
 dns.decky.eu CNAME .
@@ -1197,8 +1197,8 @@ dns.karl.one CNAME .
 *.dns.karl.one CNAME .
 dns.kastner-online.de CNAME .
 *.dns.kastner-online.de CNAME .
-dns.kawa.mask.icloud.com CNAME .
-*.dns.kawa.mask.icloud.com CNAME .
+dns.kawa.1dot1dot1dot1.cloudflare-dns.com CNAME .
+*.dns.kawa.1dot1dot1dot1.cloudflare-dns.com CNAME .
 dns.kebree.fr CNAME .
 *.dns.kebree.fr CNAME .
 dns.kerekes.xyz CNAME .
@@ -1509,8 +1509,6 @@ dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
-dns.simplylinux.ch CNAME .
-*.dns.simplylinux.ch CNAME .
 dns.sindominio.net CNAME .
 *.dns.sindominio.net CNAME .
 dns.sitdns.com CNAME .
@@ -2347,10 +2345,8 @@ google-public-dns-a.google.com CNAME .
 *.google-public-dns-a.google.com CNAME .
 google-public-dns-b.google.com CNAME .
 *.google-public-dns-b.google.com CNAME .
-google-public-dns-b.google.firefox.dns.nextdns.io CNAME .
-*.google-public-dns-b.google.firefox.dns.nextdns.io CNAME .
-goose.buckyfan.net CNAME .
-*.goose.buckyfan.net CNAME .
+goose.buckyfan.firefox.dns.nextdns.io CNAME .
+*.goose.buckyfan.firefox.dns.nextdns.io CNAME .
 goproxy.asia CNAME .
 *.goproxy.asia CNAME .
 greatestfreeproxy.com CNAME .
@@ -2941,6 +2937,8 @@ ore-dns.bitdefender.net CNAME .
 *.ore-dns.bitdefender.net CNAME .
 o.rsaikat.com CNAME .
 *.o.rsaikat.com CNAME .
+ot.dnsforfamily.com CNAME .
+*.ot.dnsforfamily.com CNAME .
 overplay.net CNAME .
 *.overplay.net CNAME .
 ovpn.com CNAME .
