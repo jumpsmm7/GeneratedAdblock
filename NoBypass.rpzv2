@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607031628 ; Serial Number
+ 2607040443 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -1877,10 +1877,6 @@ dns.dekedin.me A 0.0.0.0
 *.dns.dekedin.me A 0.0.0.0
 dns.dekedin.me AAAA ::
 *.dns.dekedin.me AAAA ::
-dns-depicbrowser.com A 0.0.0.0
-*.dns-depicbrowser.com A 0.0.0.0
-dns-depicbrowser.com AAAA ::
-*.dns-depicbrowser.com AAAA ::
 dns.developer.li A 0.0.0.0
 *.dns.developer.li A 0.0.0.0
 dns.developer.li AAAA ::
@@ -1905,10 +1901,6 @@ dns.digitalsize.net A 0.0.0.0
 *.dns.digitalsize.net A 0.0.0.0
 dns.digitalsize.net AAAA ::
 *.dns.digitalsize.net AAAA ::
-dns.dk A 0.0.0.0
-*.dns.dk A 0.0.0.0
-dns.dk AAAA ::
-*.dns.dk AAAA ::
 dns.dns-53.com A 0.0.0.0
 *.dns.dns-53.com A 0.0.0.0
 dns.dns-53.com AAAA ::
@@ -2393,10 +2385,10 @@ dns.kastner-online.de A 0.0.0.0
 *.dns.kastner-online.de A 0.0.0.0
 dns.kastner-online.de AAAA ::
 *.dns.kastner-online.de AAAA ::
-dns.kawa.tf A 0.0.0.0
-*.dns.kawa.tf A 0.0.0.0
-dns.kawa.tf AAAA ::
-*.dns.kawa.tf AAAA ::
+dns.kawa.mask.icloud.com A 0.0.0.0
+*.dns.kawa.mask.icloud.com A 0.0.0.0
+dns.kawa.mask.icloud.com AAAA ::
+*.dns.kawa.mask.icloud.com AAAA ::
 dns.kebree.fr A 0.0.0.0
 *.dns.kebree.fr A 0.0.0.0
 dns.kebree.fr AAAA ::
@@ -2849,6 +2841,10 @@ dns-privacy.puregeni.us A 0.0.0.0
 *.dns-privacy.puregeni.us A 0.0.0.0
 dns-privacy.puregeni.us AAAA ::
 *.dns-privacy.puregeni.us AAAA ::
+dns.propheci.xyz A 0.0.0.0
+*.dns.propheci.xyz A 0.0.0.0
+dns.propheci.xyz AAAA ::
+*.dns.propheci.xyz AAAA ::
 dns.psociety.de A 0.0.0.0
 *.dns.psociety.de A 0.0.0.0
 dns.psociety.de AAAA ::
@@ -4245,6 +4241,10 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
+epicbrowser.com A 0.0.0.0
+*.epicbrowser.com A 0.0.0.0
+epicbrowser.com AAAA ::
+*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4685,6 +4685,10 @@ google-public-dns-b.google.com A 0.0.0.0
 *.google-public-dns-b.google.com A 0.0.0.0
 google-public-dns-b.google.com AAAA ::
 *.google-public-dns-b.google.com AAAA ::
+google-public-dns-b.google.firefox.dns.nextdns.io A 0.0.0.0
+*.google-public-dns-b.google.firefox.dns.nextdns.io A 0.0.0.0
+google-public-dns-b.google.firefox.dns.nextdns.io AAAA ::
+*.google-public-dns-b.google.firefox.dns.nextdns.io AAAA ::
 goose.buckyfan.net A 0.0.0.0
 *.goose.buckyfan.net A 0.0.0.0
 goose.buckyfan.net AAAA ::
@@ -5869,10 +5873,6 @@ o.rsaikat.com A 0.0.0.0
 *.o.rsaikat.com A 0.0.0.0
 o.rsaikat.com AAAA ::
 *.o.rsaikat.com AAAA ::
-ot.dnsforfamily.com A 0.0.0.0
-*.ot.dnsforfamily.com A 0.0.0.0
-ot.dnsforfamily.com AAAA ::
-*.ot.dnsforfamily.com AAAA ::
 overplay.net A 0.0.0.0
 *.overplay.net A 0.0.0.0
 overplay.net AAAA ::
@@ -6093,10 +6093,6 @@ protected.canadianshield.cira.ca A 0.0.0.0
 *.protected.canadianshield.cira.ca A 0.0.0.0
 protected.canadianshield.cira.ca AAAA ::
 *.protected.canadianshield.cira.ca AAAA ::
-protected.canadianshield.cira.cfirefox.dns.nextdns.io A 0.0.0.0
-*.protected.canadianshield.cira.cfirefox.dns.nextdns.io A 0.0.0.0
-protected.canadianshield.cira.cfirefox.dns.nextdns.io AAAA ::
-*.protected.canadianshield.cira.cfirefox.dns.nextdns.io AAAA ::
 protective.joindns4.eu A 0.0.0.0
 *.protective.joindns4.eu A 0.0.0.0
 protective.joindns4.eu AAAA ::
@@ -7097,10 +7093,6 @@ tikvpn.com A 0.0.0.0
 *.tikvpn.com A 0.0.0.0
 tikvpn.com AAAA ::
 *.tikvpn.com AAAA ::
-timedns.net A 0.0.0.0
-*.timedns.net A 0.0.0.0
-timedns.net AAAA ::
-*.timedns.net AAAA ::
 timmes.nl A 0.0.0.0
 *.timmes.nl A 0.0.0.0
 timmes.nl AAAA ::
@@ -7405,10 +7397,6 @@ unfiltered.joindns4.eu A 0.0.0.0
 *.unfiltered.joindns4.eu A 0.0.0.0
 unfiltered.joindns4.eu AAAA ::
 *.unfiltered.joindns4.eu AAAA ::
-unicast.censurfria A 0.0.0.0
-*.unicast.censurfria A 0.0.0.0
-unicast.censurfria AAAA ::
-*.unicast.censurfria AAAA ::
 unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
