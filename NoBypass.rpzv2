@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607041632 ; Serial Number
+ 2607050429 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,10 +13,6 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -1117,10 +1113,6 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1149,6 +1141,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1857,10 +1853,10 @@ dns.daw.dev A 0.0.0.0
 *.dns.daw.dev A 0.0.0.0
 dns.daw.dev AAAA ::
 *.dns.daw.dev AAAA ::
-dns-ddee.su A 0.0.0.0
-*.dns-ddee.su A 0.0.0.0
-dns-ddee.su AAAA ::
-*.dns-ddee.su AAAA ::
+dns-ddarknet.to A 0.0.0.0
+*.dns-ddarknet.to A 0.0.0.0
+dns-ddarknet.to AAAA ::
+*.dns-ddarknet.to AAAA ::
 dns.deadsec.net A 0.0.0.0
 *.dns.deadsec.net A 0.0.0.0
 dns.deadsec.net AAAA ::
@@ -2385,10 +2381,10 @@ dns.kastner-online.de A 0.0.0.0
 *.dns.kastner-online.de A 0.0.0.0
 dns.kastner-online.de AAAA ::
 *.dns.kastner-online.de AAAA ::
-dns.kawa.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.dns.kawa.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-dns.kawa.1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.dns.kawa.1dot1dot1dot1.cloudflare-dns.com AAAA ::
+dns.kawa.epicbrowser.com A 0.0.0.0
+*.dns.kawa.epicbrowser.com A 0.0.0.0
+dns.kawa.epicbrowser.com AAAA ::
+*.dns.kawa.epicbrowser.com AAAA ::
 dns.kebree.fr A 0.0.0.0
 *.dns.kebree.fr A 0.0.0.0
 dns.kebree.fr AAAA ::
@@ -3245,6 +3241,10 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
+dnswarden.com A 0.0.0.0
+*.dnswarden.com A 0.0.0.0
+dnswarden.com AAAA ::
+*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4201,10 +4201,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.dnswarden.com A 0.0.0.0
-*.ecs-doh.dnswarden.com A 0.0.0.0
-ecs-doh.dnswarden.com AAAA ::
-*.ecs-doh.dnswarden.com AAAA ::
+ecs-doh.012proxy.ga A 0.0.0.0
+*.ecs-doh.012proxy.ga A 0.0.0.0
+ecs-doh.012proxy.ga AAAA ::
+*.ecs-doh.012proxy.ga AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4237,10 +4237,6 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
-epicbrowser.com A 0.0.0.0
-*.epicbrowser.com A 0.0.0.0
-epicbrowser.com AAAA ::
-*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4681,10 +4677,10 @@ google-public-dns-b.google.com A 0.0.0.0
 *.google-public-dns-b.google.com A 0.0.0.0
 google-public-dns-b.google.com AAAA ::
 *.google-public-dns-b.google.com AAAA ::
-goose.buckyfan.firefox.dns.nextdns.io A 0.0.0.0
-*.goose.buckyfan.firefox.dns.nextdns.io A 0.0.0.0
-goose.buckyfan.firefox.dns.nextdns.io AAAA ::
-*.goose.buckyfan.firefox.dns.nextdns.io AAAA ::
+goose.buckyfan.net A 0.0.0.0
+*.goose.buckyfan.net A 0.0.0.0
+goose.buckyfan.net AAAA ::
+*.goose.buckyfan.net AAAA ::
 goproxy.asia A 0.0.0.0
 *.goproxy.asia A 0.0.0.0
 goproxy.asia AAAA ::
@@ -7089,6 +7085,10 @@ tikvpn.com A 0.0.0.0
 *.tikvpn.com A 0.0.0.0
 tikvpn.com AAAA ::
 *.tikvpn.com AAAA ::
+timedns.net A 0.0.0.0
+*.timedns.net A 0.0.0.0
+timedns.net AAAA ::
+*.timedns.net AAAA ::
 timmes.nl A 0.0.0.0
 *.timmes.nl A 0.0.0.0
 timmes.nl AAAA ::
@@ -7669,6 +7669,10 @@ vpnunlimited.com A 0.0.0.0
 *.vpnunlimited.com A 0.0.0.0
 vpnunlimited.com AAAA ::
 *.vpnunlimited.com AAAA ::
+vps.robotboard.de A 0.0.0.0
+*.vps.robotboard.de A 0.0.0.0
+vps.robotboard.de AAAA ::
+*.vps.robotboard.de AAAA ::
 vpsus3.pzhg.me A 0.0.0.0
 *.vpsus3.pzhg.me A 0.0.0.0
 vpsus3.pzhg.me AAAA ::
