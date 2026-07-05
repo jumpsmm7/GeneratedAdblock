@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607050429 ; Serial Number
+ 2607051629 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -561,6 +561,8 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 darkness.is.my.waifu.cz CNAME .
 *.darkness.is.my.waifu.cz CNAME .
+darknet.to CNAME .
+*.darknet.to CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
@@ -601,6 +603,8 @@ den01.dnscry.pt CNAME .
 *.den01.dnscry.pt CNAME .
 dfw02.dnscry.pt CNAME .
 *.dfw02.dnscry.pt CNAME .
+dianshield.cira.ca CNAME .
+*.dianshield.cira.ca CNAME .
 digi77.com CNAME .
 *.digi77.com CNAME .
 d.niaox.com CNAME .
@@ -913,6 +917,8 @@ dns.cybertonic.tech CNAME .
 *.dns.cybertonic.tech CNAME .
 dns.cynthialabs.net CNAME .
 *.dns.cynthialabs.net CNAME .
+dns-d1dot1dot1dot1.cloudflare-dns.com CNAME .
+*.dns-d1dot1dot1dot1.cloudflare-dns.com CNAME .
 dns.d365.in CNAME .
 *.dns.d365.in CNAME .
 dns.d4d.moe CNAME .
@@ -931,8 +937,6 @@ dns.david888.com CNAME .
 *.dns.david888.com CNAME .
 dns.daw.dev CNAME .
 *.dns.daw.dev CNAME .
-dns-ddarknet.to CNAME .
-*.dns-ddarknet.to CNAME .
 dns.deadsec.net CNAME .
 *.dns.deadsec.net CNAME .
 dns.decky.eu CNAME .
@@ -1507,6 +1511,8 @@ dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
+dns.simplylinux.ch CNAME .
+*.dns.simplylinux.ch CNAME .
 dns.sindominio.net CNAME .
 *.dns.sindominio.net CNAME .
 dns.sitdns.com CNAME .
@@ -2343,6 +2349,8 @@ google-public-dns-a.google.com CNAME .
 *.google-public-dns-a.google.com CNAME .
 google-public-dns-b.google.com CNAME .
 *.google-public-dns-b.google.com CNAME .
+google-public-dns-b.google.firefox.dns.nextdns.io CNAME .
+*.google-public-dns-b.google.firefox.dns.nextdns.io CNAME .
 goose.buckyfan.net CNAME .
 *.goose.buckyfan.net CNAME .
 goproxy.asia CNAME .
@@ -3047,6 +3055,8 @@ pro.shecan.ir CNAME .
 *.pro.shecan.ir CNAME .
 protected.canadianshield.cira.ca CNAME .
 *.protected.canadianshield.cira.ca CNAME .
+protected.canadns.dk CNAME .
+*.protected.canadns.dk CNAME .
 protective.joindns4.eu CNAME .
 *.protective.joindns4.eu CNAME .
 protonstatus.com CNAME .
@@ -3249,6 +3259,8 @@ resolv2.trash.net CNAME .
 *.resolv2.trash.net CNAME .
 resolv3.trash.net CNAME .
 *.resolv3.trash.net CNAME .
+resolve2.r9x.cc CNAME .
+*.resolve2.r9x.cc CNAME .
 resolver1.absolight.net CNAME .
 *.resolver1.absolight.net CNAME .
 resolver1-fs.opendns.com CNAME .
@@ -3701,6 +3713,8 @@ unfiltered.adguard-dns.com CNAME .
 *.unfiltered.adguard-dns.com CNAME .
 unfiltered.joindns4.eu CNAME .
 *.unfiltered.joindns4.eu CNAME .
+unicast.censurfricom CNAME .
+*.unicast.censurfricom CNAME .
 unicast.censurfridns.dk CNAME .
 *.unicast.censurfridns.dk CNAME .
 unicast.uncensoreddns.org CNAME .
