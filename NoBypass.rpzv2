@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607051629 ; Serial Number
+ 2607060432 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,6 +13,10 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
+012proxy.ga A 0.0.0.0
+*.012proxy.ga A 0.0.0.0
+012proxy.ga AAAA ::
+*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -1113,10 +1117,6 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1145,10 +1145,6 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
-dee.su A 0.0.0.0
-*.dee.su A 0.0.0.0
-dee.su AAAA ::
-*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1197,10 +1193,6 @@ dfw02.dnscry.pt A 0.0.0.0
 *.dfw02.dnscry.pt A 0.0.0.0
 dfw02.dnscry.pt AAAA ::
 *.dfw02.dnscry.pt AAAA ::
-dianshield.cira.ca A 0.0.0.0
-*.dianshield.cira.ca A 0.0.0.0
-dianshield.cira.ca AAAA ::
-*.dianshield.cira.ca AAAA ::
 digi77.com A 0.0.0.0
 *.digi77.com A 0.0.0.0
 digi77.com AAAA ::
@@ -1825,10 +1817,6 @@ dns.cynthialabs.net A 0.0.0.0
 *.dns.cynthialabs.net A 0.0.0.0
 dns.cynthialabs.net AAAA ::
 *.dns.cynthialabs.net AAAA ::
-dns-d1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.dns-d1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-dns-d1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.dns-d1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns.d365.in A 0.0.0.0
 *.dns.d365.in A 0.0.0.0
 dns.d365.in AAAA ::
@@ -1865,6 +1853,10 @@ dns.daw.dev A 0.0.0.0
 *.dns.daw.dev A 0.0.0.0
 dns.daw.dev AAAA ::
 *.dns.daw.dev AAAA ::
+dns-ddee.su A 0.0.0.0
+*.dns-ddee.su A 0.0.0.0
+dns-ddee.su AAAA ::
+*.dns-ddee.su AAAA ::
 dns.deadsec.net A 0.0.0.0
 *.dns.deadsec.net A 0.0.0.0
 dns.deadsec.net AAAA ::
@@ -2389,10 +2381,10 @@ dns.kastner-online.de A 0.0.0.0
 *.dns.kastner-online.de A 0.0.0.0
 dns.kastner-online.de AAAA ::
 *.dns.kastner-online.de AAAA ::
-dns.kawa.epicbrowser.com A 0.0.0.0
-*.dns.kawa.epicbrowser.com A 0.0.0.0
-dns.kawa.epicbrowser.com AAAA ::
-*.dns.kawa.epicbrowser.com AAAA ::
+dns.kawa.darknet.to A 0.0.0.0
+*.dns.kawa.darknet.to A 0.0.0.0
+dns.kawa.darknet.to AAAA ::
+*.dns.kawa.darknet.to AAAA ::
 dns.kebree.fr A 0.0.0.0
 *.dns.kebree.fr A 0.0.0.0
 dns.kebree.fr AAAA ::
@@ -3253,10 +3245,6 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
-dnswarden.com A 0.0.0.0
-*.dnswarden.com A 0.0.0.0
-dnswarden.com AAAA ::
-*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4213,10 +4201,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.012proxy.ga A 0.0.0.0
-*.ecs-doh.012proxy.ga A 0.0.0.0
-ecs-doh.012proxy.ga AAAA ::
-*.ecs-doh.012proxy.ga AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4249,6 +4237,10 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
+epicbrowser.com A 0.0.0.0
+*.epicbrowser.com A 0.0.0.0
+epicbrowser.com AAAA ::
+*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4689,10 +4681,6 @@ google-public-dns-b.google.com A 0.0.0.0
 *.google-public-dns-b.google.com A 0.0.0.0
 google-public-dns-b.google.com AAAA ::
 *.google-public-dns-b.google.com AAAA ::
-google-public-dns-b.google.firefox.dns.nextdns.io A 0.0.0.0
-*.google-public-dns-b.google.firefox.dns.nextdns.io A 0.0.0.0
-google-public-dns-b.google.firefox.dns.nextdns.io AAAA ::
-*.google-public-dns-b.google.firefox.dns.nextdns.io AAAA ::
 goose.buckyfan.net A 0.0.0.0
 *.goose.buckyfan.net A 0.0.0.0
 goose.buckyfan.net AAAA ::
@@ -6101,10 +6089,6 @@ protected.canadianshield.cira.ca A 0.0.0.0
 *.protected.canadianshield.cira.ca A 0.0.0.0
 protected.canadianshield.cira.ca AAAA ::
 *.protected.canadianshield.cira.ca AAAA ::
-protected.canadns.dk A 0.0.0.0
-*.protected.canadns.dk A 0.0.0.0
-protected.canadns.dk AAAA ::
-*.protected.canadns.dk AAAA ::
 protective.joindns4.eu A 0.0.0.0
 *.protective.joindns4.eu A 0.0.0.0
 protective.joindns4.eu AAAA ::
@@ -7417,10 +7401,6 @@ unfiltered.joindns4.eu A 0.0.0.0
 *.unfiltered.joindns4.eu A 0.0.0.0
 unfiltered.joindns4.eu AAAA ::
 *.unfiltered.joindns4.eu AAAA ::
-unicast.censurfricom A 0.0.0.0
-*.unicast.censurfricom A 0.0.0.0
-unicast.censurfricom AAAA ::
-*.unicast.censurfricom AAAA ::
 unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
