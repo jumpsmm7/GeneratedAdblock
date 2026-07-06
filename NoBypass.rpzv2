@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607060432 ; Serial Number
+ 2607061632 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,10 +13,6 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -1117,6 +1113,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1897,6 +1897,10 @@ dns.digitalsize.net A 0.0.0.0
 *.dns.digitalsize.net A 0.0.0.0
 dns.digitalsize.net AAAA ::
 *.dns.digitalsize.net AAAA ::
+dns.dk A 0.0.0.0
+*.dns.dk A 0.0.0.0
+dns.dk AAAA ::
+*.dns.dk AAAA ::
 dns.dns-53.com A 0.0.0.0
 *.dns.dns-53.com A 0.0.0.0
 dns.dns-53.com AAAA ::
@@ -2381,10 +2385,10 @@ dns.kastner-online.de A 0.0.0.0
 *.dns.kastner-online.de A 0.0.0.0
 dns.kastner-online.de AAAA ::
 *.dns.kastner-online.de AAAA ::
-dns.kawa.darknet.to A 0.0.0.0
-*.dns.kawa.darknet.to A 0.0.0.0
-dns.kawa.darknet.to AAAA ::
-*.dns.kawa.darknet.to AAAA ::
+dns.kawa.tf A 0.0.0.0
+*.dns.kawa.tf A 0.0.0.0
+dns.kawa.tf AAAA ::
+*.dns.kawa.tf AAAA ::
 dns.kebree.fr A 0.0.0.0
 *.dns.kebree.fr A 0.0.0.0
 dns.kebree.fr AAAA ::
@@ -3245,6 +3249,10 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
+dnswarden.com A 0.0.0.0
+*.dnswarden.com A 0.0.0.0
+dnswarden.com AAAA ::
+*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4201,10 +4209,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.dnswarden.com A 0.0.0.0
-*.ecs-doh.dnswarden.com A 0.0.0.0
-ecs-doh.dnswarden.com AAAA ::
-*.ecs-doh.dnswarden.com AAAA ::
+ecs-doh.mask.icloud.com A 0.0.0.0
+*.ecs-doh.mask.icloud.com A 0.0.0.0
+ecs-doh.mask.icloud.com AAAA ::
+*.ecs-doh.mask.icloud.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4677,6 +4685,10 @@ google-public-dns-a.google.com A 0.0.0.0
 *.google-public-dns-a.google.com A 0.0.0.0
 google-public-dns-a.google.com AAAA ::
 *.google-public-dns-a.google.com AAAA ::
+google-public-dns-b.google.012proxy.ga A 0.0.0.0
+*.google-public-dns-b.google.012proxy.ga A 0.0.0.0
+google-public-dns-b.google.012proxy.ga AAAA ::
+*.google-public-dns-b.google.012proxy.ga AAAA ::
 google-public-dns-b.google.com A 0.0.0.0
 *.google-public-dns-b.google.com A 0.0.0.0
 google-public-dns-b.google.com AAAA ::
@@ -6089,6 +6101,10 @@ protected.canadianshield.cira.ca A 0.0.0.0
 *.protected.canadianshield.cira.ca A 0.0.0.0
 protected.canadianshield.cira.ca AAAA ::
 *.protected.canadianshield.cira.ca AAAA ::
+protected.canafirefox.dns.nextdns.io A 0.0.0.0
+*.protected.canafirefox.dns.nextdns.io A 0.0.0.0
+protected.canafirefox.dns.nextdns.io AAAA ::
+*.protected.canafirefox.dns.nextdns.io AAAA ::
 protective.joindns4.eu A 0.0.0.0
 *.protective.joindns4.eu A 0.0.0.0
 protective.joindns4.eu AAAA ::
@@ -7401,6 +7417,10 @@ unfiltered.joindns4.eu A 0.0.0.0
 *.unfiltered.joindns4.eu A 0.0.0.0
 unfiltered.joindns4.eu AAAA ::
 *.unfiltered.joindns4.eu AAAA ::
+unicast.censurfridianshield.cira.ca A 0.0.0.0
+*.unicast.censurfridianshield.cira.ca A 0.0.0.0
+unicast.censurfridianshield.cira.ca AAAA ::
+*.unicast.censurfridianshield.cira.ca AAAA ::
 unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
