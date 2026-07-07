@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607061632 ; Serial Number
+ 2607070429 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,6 +13,10 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
+012proxy.ga A 0.0.0.0
+*.012proxy.ga A 0.0.0.0
+012proxy.ga AAAA ::
+*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -1093,6 +1097,10 @@ cynntex.fun A 0.0.0.0
 *.cynntex.fun A 0.0.0.0
 cynntex.fun AAAA ::
 *.cynntex.fun AAAA ::
+d1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.d1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+d1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.d1dot1dot1dot1.cloudflare-dns.com AAAA ::
 d2.shabi.icu A 0.0.0.0
 *.d2.shabi.icu A 0.0.0.0
 d2.shabi.icu AAAA ::
@@ -1113,18 +1121,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
 *.dart.kpsn.org AAAA ::
-darya.persiannit.net A 0.0.0.0
-*.darya.persiannit.net A 0.0.0.0
-darya.persiannit.net AAAA ::
-*.darya.persiannit.net AAAA ::
 d.bod.lol A 0.0.0.0
 *.d.bod.lol A 0.0.0.0
 d.bod.lol AAAA ::
@@ -1145,6 +1145,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1853,10 +1857,6 @@ dns.daw.dev A 0.0.0.0
 *.dns.daw.dev A 0.0.0.0
 dns.daw.dev AAAA ::
 *.dns.daw.dev AAAA ::
-dns-ddee.su A 0.0.0.0
-*.dns-ddee.su A 0.0.0.0
-dns-ddee.su AAAA ::
-*.dns-ddee.su AAAA ::
 dns.deadsec.net A 0.0.0.0
 *.dns.deadsec.net A 0.0.0.0
 dns.deadsec.net AAAA ::
@@ -1897,10 +1897,6 @@ dns.digitalsize.net A 0.0.0.0
 *.dns.digitalsize.net A 0.0.0.0
 dns.digitalsize.net AAAA ::
 *.dns.digitalsize.net AAAA ::
-dns.dk A 0.0.0.0
-*.dns.dk A 0.0.0.0
-dns.dk AAAA ::
-*.dns.dk AAAA ::
 dns.dns-53.com A 0.0.0.0
 *.dns.dns-53.com A 0.0.0.0
 dns.dns-53.com AAAA ::
@@ -2205,10 +2201,10 @@ dns.guard.io A 0.0.0.0
 *.dns.guard.io A 0.0.0.0
 dns.guard.io AAAA ::
 *.dns.guard.io AAAA ::
-dnsguard.pub A 0.0.0.0
-*.dnsguard.pub A 0.0.0.0
-dnsguard.pub AAAA ::
-*.dnsguard.pub AAAA ::
+dnsguard.pudarknet.to A 0.0.0.0
+*.dnsguard.pudarknet.to A 0.0.0.0
+dnsguard.pudarknet.to AAAA ::
+*.dnsguard.pudarknet.to AAAA ::
 dns.gutwe.in A 0.0.0.0
 *.dns.gutwe.in A 0.0.0.0
 dns.gutwe.in AAAA ::
@@ -3009,10 +3005,6 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
-dns.simplylinux.ch A 0.0.0.0
-*.dns.simplylinux.ch A 0.0.0.0
-dns.simplylinux.ch AAAA ::
-*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -3249,10 +3241,6 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
-dnswarden.com A 0.0.0.0
-*.dnswarden.com A 0.0.0.0
-dnswarden.com AAAA ::
-*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4209,10 +4197,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.mask.icloud.com A 0.0.0.0
-*.ecs-doh.mask.icloud.com A 0.0.0.0
-ecs-doh.mask.icloud.com AAAA ::
-*.ecs-doh.mask.icloud.com AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4685,10 +4673,6 @@ google-public-dns-a.google.com A 0.0.0.0
 *.google-public-dns-a.google.com A 0.0.0.0
 google-public-dns-a.google.com AAAA ::
 *.google-public-dns-a.google.com AAAA ::
-google-public-dns-b.google.012proxy.ga A 0.0.0.0
-*.google-public-dns-b.google.012proxy.ga A 0.0.0.0
-google-public-dns-b.google.012proxy.ga AAAA ::
-*.google-public-dns-b.google.012proxy.ga AAAA ::
 google-public-dns-b.google.com A 0.0.0.0
 *.google-public-dns-b.google.com A 0.0.0.0
 google-public-dns-b.google.com AAAA ::
@@ -4705,10 +4689,6 @@ greatestfreeproxy.com A 0.0.0.0
 *.greatestfreeproxy.com A 0.0.0.0
 greatestfreeproxy.com AAAA ::
 *.greatestfreeproxy.com AAAA ::
-greatideasforlife.lol A 0.0.0.0
-*.greatideasforlife.lol A 0.0.0.0
-greatideasforlife.lol AAAA ::
-*.greatideasforlife.lol AAAA ::
 gru01.dnscry.pt A 0.0.0.0
 *.gru01.dnscry.pt A 0.0.0.0
 gru01.dnscry.pt AAAA ::
@@ -5693,6 +5673,10 @@ nsec.arnor.org A 0.0.0.0
 *.nsec.arnor.org A 0.0.0.0
 nsec.arnor.org AAAA ::
 *.nsec.arnor.org AAAA ::
+ns-family.adguard.com A 0.0.0.0
+*.ns-family.adguard.com A 0.0.0.0
+ns-family.adguard.com AAAA ::
+*.ns-family.adguard.com AAAA ::
 ns.mtsoln.com A 0.0.0.0
 *.ns.mtsoln.com A 0.0.0.0
 ns.mtsoln.com AAAA ::
@@ -5877,10 +5861,6 @@ o.rsaikat.com A 0.0.0.0
 *.o.rsaikat.com A 0.0.0.0
 o.rsaikat.com AAAA ::
 *.o.rsaikat.com AAAA ::
-ot.dnsforfamily.com A 0.0.0.0
-*.ot.dnsforfamily.com A 0.0.0.0
-ot.dnsforfamily.com AAAA ::
-*.ot.dnsforfamily.com AAAA ::
 overplay.net A 0.0.0.0
 *.overplay.net A 0.0.0.0
 overplay.net AAAA ::
@@ -6101,10 +6081,6 @@ protected.canadianshield.cira.ca A 0.0.0.0
 *.protected.canadianshield.cira.ca A 0.0.0.0
 protected.canadianshield.cira.ca AAAA ::
 *.protected.canadianshield.cira.ca AAAA ::
-protected.canafirefox.dns.nextdns.io A 0.0.0.0
-*.protected.canafirefox.dns.nextdns.io A 0.0.0.0
-protected.canafirefox.dns.nextdns.io AAAA ::
-*.protected.canafirefox.dns.nextdns.io AAAA ::
 protective.joindns4.eu A 0.0.0.0
 *.protective.joindns4.eu A 0.0.0.0
 protective.joindns4.eu AAAA ::
@@ -7417,10 +7393,6 @@ unfiltered.joindns4.eu A 0.0.0.0
 *.unfiltered.joindns4.eu A 0.0.0.0
 unfiltered.joindns4.eu AAAA ::
 *.unfiltered.joindns4.eu AAAA ::
-unicast.censurfridianshield.cira.ca A 0.0.0.0
-*.unicast.censurfridianshield.cira.ca A 0.0.0.0
-unicast.censurfridianshield.cira.ca AAAA ::
-*.unicast.censurfridianshield.cira.ca AAAA ::
 unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
@@ -7765,10 +7737,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.com A 0.0.0.0
-*.whoisping.com A 0.0.0.0
-whoisping.com AAAA ::
-*.whoisping.com AAAA ::
+whoisping.comb A 0.0.0.0
+*.whoisping.comb A 0.0.0.0
+whoisping.comb AAAA ::
+*.whoisping.comb AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
