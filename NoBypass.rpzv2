@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607081629 ; Serial Number
+ 2607090435 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -9,6 +9,10 @@ $ORIGIN nobypass.rpz.
  )
  NS localhost
 
+003153.xyz A 0.0.0.0
+*.003153.xyz A 0.0.0.0
+003153.xyz AAAA ::
+*.003153.xyz AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -257,6 +261,10 @@ adguard.ef67daisuki.club A 0.0.0.0
 *.adguard.ef67daisuki.club A 0.0.0.0
 adguard.ef67daisuki.club AAAA ::
 *.adguard.ef67daisuki.club AAAA ::
+adguard.gambini.org A 0.0.0.0
+*.adguard.gambini.org A 0.0.0.0
+adguard.gambini.org AAAA ::
+*.adguard.gambini.org AAAA ::
 adguard.gbrossi.com.br A 0.0.0.0
 *.adguard.gbrossi.com.br A 0.0.0.0
 adguard.gbrossi.com.br AAAA ::
@@ -1109,10 +1117,6 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1941,10 +1945,6 @@ dns-doh-no-safe-search.dnsforfamily.com A 0.0.0.0
 *.dns-doh-no-safe-search.dnsforfamily.com A 0.0.0.0
 dns-doh-no-safe-search.dnsforfamily.com AAAA ::
 *.dns-doh-no-safe-search.dnsforfamily.com AAAA ::
-dns-dot.dnsfodnswarden.com A 0.0.0.0
-*.dns-dot.dnsfodnswarden.com A 0.0.0.0
-dns-dot.dnsfodnswarden.com AAAA ::
-*.dns-dot.dnsfodnswarden.com AAAA ::
 dns-dot.dnsforfamily.com A 0.0.0.0
 *.dns-dot.dnsforfamily.com A 0.0.0.0
 dns-dot.dnsforfamily.com AAAA ::
@@ -2093,10 +2093,6 @@ dns.flymc.cc A 0.0.0.0
 *.dns.flymc.cc A 0.0.0.0
 dns.flymc.cc AAAA ::
 *.dns.flymc.cc AAAA ::
-dnsforepicbrowser.com A 0.0.0.0
-*.dnsforepicbrowser.com A 0.0.0.0
-dnsforepicbrowser.com AAAA ::
-*.dnsforepicbrowser.com AAAA ::
 dnsforfamily.com A 0.0.0.0
 *.dnsforfamily.com A 0.0.0.0
 dnsforfamily.com AAAA ::
@@ -2357,10 +2353,6 @@ dns.justinnetworkingsolutions.com A 0.0.0.0
 *.dns.justinnetworkingsolutions.com A 0.0.0.0
 dns.justinnetworkingsolutions.com AAAA ::
 *.dns.justinnetworkingsolutions.com AAAA ::
-dns.k012proxy.ga A 0.0.0.0
-*.dns.k012proxy.ga A 0.0.0.0
-dns.k012proxy.ga AAAA ::
-*.dns.k012proxy.ga AAAA ::
 dns.k3nny.fr A 0.0.0.0
 *.dns.k3nny.fr A 0.0.0.0
 dns.k3nny.fr AAAA ::
@@ -2381,14 +2373,18 @@ dns.karl.one A 0.0.0.0
 *.dns.karl.one A 0.0.0.0
 dns.karl.one AAAA ::
 *.dns.karl.one AAAA ::
-dns.kastner-online.de A 0.0.0.0
-*.dns.kastner-online.de A 0.0.0.0
-dns.kastner-online.de AAAA ::
-*.dns.kastner-online.de AAAA ::
+dns.kastner-online.darknet.to A 0.0.0.0
+*.dns.kastner-online.darknet.to A 0.0.0.0
+dns.kastner-online.darknet.to AAAA ::
+*.dns.kastner-online.darknet.to AAAA ::
 dns.kawa.tf A 0.0.0.0
 *.dns.kawa.tf A 0.0.0.0
 dns.kawa.tf AAAA ::
 *.dns.kawa.tf AAAA ::
+dns.kebree.fr A 0.0.0.0
+*.dns.kebree.fr A 0.0.0.0
+dns.kebree.fr AAAA ::
+*.dns.kebree.fr AAAA ::
 dns.kerekes.xyz A 0.0.0.0
 *.dns.kerekes.xyz A 0.0.0.0
 dns.kerekes.xyz AAAA ::
@@ -4193,18 +4189,14 @@ easyhandshake.com A 0.0.0.0
 *.easyhandshake.com A 0.0.0.0
 easyhandshake.com AAAA ::
 *.easyhandshake.com AAAA ::
-ebree.fr A 0.0.0.0
-*.ebree.fr A 0.0.0.0
-ebree.fr AAAA ::
-*.ebree.fr AAAA ::
 echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.003153.xyz A 0.0.0.0
-*.ecs-doh.003153.xyz A 0.0.0.0
-ecs-doh.003153.xyz AAAA ::
-*.ecs-doh.003153.xyz AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4237,6 +4229,10 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
+epicbrowser.com A 0.0.0.0
+*.epicbrowser.com A 0.0.0.0
+epicbrowser.com AAAA ::
+*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4621,10 +4617,6 @@ geckovpn.xyz A 0.0.0.0
 *.geckovpn.xyz A 0.0.0.0
 geckovpn.xyz AAAA ::
 *.geckovpn.xyz AAAA ::
-ge.de A 0.0.0.0
-*.ge.de A 0.0.0.0
-ge.de AAAA ::
-*.ge.de AAAA ::
 geg01.dnscry.pt A 0.0.0.0
 *.geg01.dnscry.pt A 0.0.0.0
 geg01.dnscry.pt AAAA ::
@@ -4681,6 +4673,10 @@ google-public-dns-b.google.com A 0.0.0.0
 *.google-public-dns-b.google.com A 0.0.0.0
 google-public-dns-b.google.com AAAA ::
 *.google-public-dns-b.google.com AAAA ::
+google-public-dns-b.google.com012proxy.ga A 0.0.0.0
+*.google-public-dns-b.google.com012proxy.ga A 0.0.0.0
+google-public-dns-b.google.com012proxy.ga AAAA ::
+*.google-public-dns-b.google.com012proxy.ga AAAA ::
 goose.buckyfan.net A 0.0.0.0
 *.goose.buckyfan.net A 0.0.0.0
 goose.buckyfan.net AAAA ::
@@ -5129,6 +5125,10 @@ jp-tyo-w-p-1.nashkan.net A 0.0.0.0
 *.jp-tyo-w-p-1.nashkan.net A 0.0.0.0
 jp-tyo-w-p-1.nashkan.net AAAA ::
 *.jp-tyo-w-p-1.nashkan.net AAAA ::
+jurre-home.duckdns.org A 0.0.0.0
+*.jurre-home.duckdns.org A 0.0.0.0
+jurre-home.duckdns.org AAAA ::
+*.jurre-home.duckdns.org AAAA ::
 justhost.bedro.cloud A 0.0.0.0
 *.justhost.bedro.cloud A 0.0.0.0
 justhost.bedro.cloud AAAA ::
@@ -5205,6 +5205,10 @@ kr-sel.doh.sb A 0.0.0.0
 *.kr-sel.doh.sb A 0.0.0.0
 kr-sel.doh.sb AAAA ::
 *.kr-sel.doh.sb AAAA ::
+krtekvpn.duckdns.org A 0.0.0.0
+*.krtekvpn.duckdns.org A 0.0.0.0
+krtekvpn.duckdns.org AAAA ::
+*.krtekvpn.duckdns.org AAAA ::
 kx-97795-tr.xyz A 0.0.0.0
 *.kx-97795-tr.xyz A 0.0.0.0
 kx-97795-tr.xyz AAAA ::
@@ -5737,6 +5741,10 @@ odvr.nic.cz A 0.0.0.0
 *.odvr.nic.cz A 0.0.0.0
 odvr.nic.cz AAAA ::
 *.odvr.nic.cz AAAA ::
+oex.de A 0.0.0.0
+*.oex.de A 0.0.0.0
+oex.de AAAA ::
+*.oex.de AAAA ::
 omr01.dnscry.pt A 0.0.0.0
 *.omr01.dnscry.pt A 0.0.0.0
 omr01.dnscry.pt AAAA ::
@@ -6069,10 +6077,10 @@ prointern.info A 0.0.0.0
 *.prointern.info A 0.0.0.0
 prointern.info AAAA ::
 *.prointern.info AAAA ::
-project-evoex.de A 0.0.0.0
-*.project-evoex.de A 0.0.0.0
-project-evoex.de AAAA ::
-*.project-evoex.de AAAA ::
+project-evmask.icloud.com A 0.0.0.0
+*.project-evmask.icloud.com A 0.0.0.0
+project-evmask.icloud.com AAAA ::
+*.project-evmask.icloud.com AAAA ::
 pro.shecan.ir A 0.0.0.0
 *.pro.shecan.ir A 0.0.0.0
 pro.shecan.ir AAAA ::
@@ -6565,10 +6573,6 @@ revelio.top A 0.0.0.0
 *.revelio.top A 0.0.0.0
 revelio.top AAAA ::
 *.revelio.top AAAA ::
-rfamily.com A 0.0.0.0
-*.rfamily.com A 0.0.0.0
-rfamily.com AAAA ::
-*.rfamily.com AAAA ::
 rfree1.blue-shield.at A 0.0.0.0
 *.rfree1.blue-shield.at A 0.0.0.0
 rfree1.blue-shield.at AAAA ::
