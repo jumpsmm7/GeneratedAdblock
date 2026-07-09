@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607090435 ; Serial Number
+ 2607091633 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,6 +13,10 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
+012proxy.ga A 0.0.0.0
+*.012proxy.ga A 0.0.0.0
+012proxy.ga AAAA ::
+*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -1141,10 +1145,6 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
-dee.su A 0.0.0.0
-*.dee.su A 0.0.0.0
-dee.su AAAA ::
-*.dee.su AAAA ::
 de-f1.foxyfy.net A 0.0.0.0
 *.de-f1.foxyfy.net A 0.0.0.0
 de-f1.foxyfy.net AAAA ::
@@ -1937,6 +1937,10 @@ dns.doh.best A 0.0.0.0
 *.dns.doh.best A 0.0.0.0
 dns.doh.best AAAA ::
 *.dns.doh.best AAAA ::
+dns-doh.dnsforfamidarknet.to A 0.0.0.0
+*.dns-doh.dnsforfamidarknet.to A 0.0.0.0
+dns-doh.dnsforfamidarknet.to AAAA ::
+*.dns-doh.dnsforfamidarknet.to AAAA ::
 dns-doh.dnsforfamily.com A 0.0.0.0
 *.dns-doh.dnsforfamily.com A 0.0.0.0
 dns-doh.dnsforfamily.com AAAA ::
@@ -2093,10 +2097,6 @@ dns.flymc.cc A 0.0.0.0
 *.dns.flymc.cc A 0.0.0.0
 dns.flymc.cc AAAA ::
 *.dns.flymc.cc AAAA ::
-dnsforfamily.com A 0.0.0.0
-*.dnsforfamily.com A 0.0.0.0
-dnsforfamily.com AAAA ::
-*.dnsforfamily.com AAAA ::
 dnsforge.de A 0.0.0.0
 *.dnsforge.de A 0.0.0.0
 dnsforge.de AAAA ::
@@ -2373,10 +2373,10 @@ dns.karl.one A 0.0.0.0
 *.dns.karl.one A 0.0.0.0
 dns.karl.one AAAA ::
 *.dns.karl.one AAAA ::
-dns.kastner-online.darknet.to A 0.0.0.0
-*.dns.kastner-online.darknet.to A 0.0.0.0
-dns.kastner-online.darknet.to AAAA ::
-*.dns.kastner-online.darknet.to AAAA ::
+dns.kastner-online.epicbrowser.com A 0.0.0.0
+*.dns.kastner-online.epicbrowser.com A 0.0.0.0
+dns.kastner-online.epicbrowser.com AAAA ::
+*.dns.kastner-online.epicbrowser.com AAAA ::
 dns.kawa.tf A 0.0.0.0
 *.dns.kawa.tf A 0.0.0.0
 dns.kawa.tf AAAA ::
@@ -2529,6 +2529,10 @@ dns.marbledfennec.net A 0.0.0.0
 *.dns.marbledfennec.net A 0.0.0.0
 dns.marbledfennec.net AAAA ::
 *.dns.marbledfennec.net AAAA ::
+dnsmask.icloud.com A 0.0.0.0
+*.dnsmask.icloud.com A 0.0.0.0
+dnsmask.icloud.com AAAA ::
+*.dnsmask.icloud.com AAAA ::
 dns.mateo.ovh A 0.0.0.0
 *.dns.mateo.ovh A 0.0.0.0
 dns.mateo.ovh AAAA ::
@@ -3237,6 +3241,10 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
+dnswarden.com A 0.0.0.0
+*.dnswarden.com A 0.0.0.0
+dnswarden.com AAAA ::
+*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4193,10 +4201,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.dnswarden.com A 0.0.0.0
-*.ecs-doh.dnswarden.com A 0.0.0.0
-ecs-doh.dnswarden.com AAAA ::
-*.ecs-doh.dnswarden.com AAAA ::
+ecs-doh.dee.su A 0.0.0.0
+*.ecs-doh.dee.su A 0.0.0.0
+ecs-doh.dee.su AAAA ::
+*.ecs-doh.dee.su AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4229,10 +4237,6 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
-epicbrowser.com A 0.0.0.0
-*.epicbrowser.com A 0.0.0.0
-epicbrowser.com AAAA ::
-*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4445,6 +4449,10 @@ fnt01.dnscry.pt A 0.0.0.0
 *.fnt01.dnscry.pt A 0.0.0.0
 fnt01.dnscry.pt AAAA ::
 *.fnt01.dnscry.pt AAAA ::
+forfamily.com A 0.0.0.0
+*.forfamily.com A 0.0.0.0
+forfamily.com AAAA ::
+*.forfamily.com AAAA ::
 fr1.dnswarden.com A 0.0.0.0
 *.fr1.dnswarden.com A 0.0.0.0
 fr1.dnswarden.com AAAA ::
@@ -4673,10 +4681,6 @@ google-public-dns-b.google.com A 0.0.0.0
 *.google-public-dns-b.google.com A 0.0.0.0
 google-public-dns-b.google.com AAAA ::
 *.google-public-dns-b.google.com AAAA ::
-google-public-dns-b.google.com012proxy.ga A 0.0.0.0
-*.google-public-dns-b.google.com012proxy.ga A 0.0.0.0
-google-public-dns-b.google.com012proxy.ga AAAA ::
-*.google-public-dns-b.google.com012proxy.ga AAAA ::
 goose.buckyfan.net A 0.0.0.0
 *.goose.buckyfan.net A 0.0.0.0
 goose.buckyfan.net AAAA ::
@@ -5329,6 +5333,10 @@ lv1.nixnet.xyz A 0.0.0.0
 *.lv1.nixnet.xyz A 0.0.0.0
 lv1.nixnet.xyz AAAA ::
 *.lv1.nixnet.xyz AAAA ::
+ly.com A 0.0.0.0
+*.ly.com A 0.0.0.0
+ly.com AAAA ::
+*.ly.com AAAA ::
 mad01.dnscry.pt A 0.0.0.0
 *.mad01.dnscry.pt A 0.0.0.0
 mad01.dnscry.pt AAAA ::
@@ -5741,10 +5749,6 @@ odvr.nic.cz A 0.0.0.0
 *.odvr.nic.cz A 0.0.0.0
 odvr.nic.cz AAAA ::
 *.odvr.nic.cz AAAA ::
-oex.de A 0.0.0.0
-*.oex.de A 0.0.0.0
-oex.de AAAA ::
-*.oex.de AAAA ::
 omr01.dnscry.pt A 0.0.0.0
 *.omr01.dnscry.pt A 0.0.0.0
 omr01.dnscry.pt AAAA ::
@@ -6025,6 +6029,10 @@ polisitogel.hair A 0.0.0.0
 *.polisitogel.hair A 0.0.0.0
 polisitogel.hair AAAA ::
 *.polisitogel.hair AAAA ::
+polisitogel.show A 0.0.0.0
+*.polisitogel.show A 0.0.0.0
+polisitogel.show AAAA ::
+*.polisitogel.show AAAA ::
 polisitogel.webcam A 0.0.0.0
 *.polisitogel.webcam A 0.0.0.0
 polisitogel.webcam AAAA ::
@@ -6077,10 +6085,10 @@ prointern.info A 0.0.0.0
 *.prointern.info A 0.0.0.0
 prointern.info AAAA ::
 *.prointern.info AAAA ::
-project-evmask.icloud.com A 0.0.0.0
-*.project-evmask.icloud.com A 0.0.0.0
-project-evmask.icloud.com AAAA ::
-*.project-evmask.icloud.com AAAA ::
+project-evoex.de A 0.0.0.0
+*.project-evoex.de A 0.0.0.0
+project-evoex.de AAAA ::
+*.project-evoex.de AAAA ::
 pro.shecan.ir A 0.0.0.0
 *.pro.shecan.ir A 0.0.0.0
 pro.shecan.ir AAAA ::

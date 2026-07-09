@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607090435 ; Serial Number
+ 2607091633 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -11,6 +11,8 @@ $ORIGIN nobypass.rpz.
 
 003153.xyz CNAME .
 *.003153.xyz CNAME .
+012proxy.ga CNAME .
+*.012proxy.ga CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
@@ -575,8 +577,6 @@ de-dus.doh.sb CNAME .
 *.de-dus.doh.sb CNAME .
 deep-henchman-excuse.cfd CNAME .
 *.deep-henchman-excuse.cfd CNAME .
-dee.su CNAME .
-*.dee.su CNAME .
 de-f1.foxyfy.net CNAME .
 *.de-f1.foxyfy.net CNAME .
 defencevpn.com CNAME .
@@ -973,6 +973,8 @@ dnsdoh.art CNAME .
 *.dnsdoh.art CNAME .
 dns.doh.best CNAME .
 *.dns.doh.best CNAME .
+dns-doh.dnsforfamidarknet.to CNAME .
+*.dns-doh.dnsforfamidarknet.to CNAME .
 dns-doh.dnsforfamily.com CNAME .
 *.dns-doh.dnsforfamily.com CNAME .
 dns-doh-no-safe-search.dnsforfamily.com CNAME .
@@ -1051,8 +1053,6 @@ dns.flwagners.com CNAME .
 *.dns.flwagners.com CNAME .
 dns.flymc.cc CNAME .
 *.dns.flymc.cc CNAME .
-dnsforfamily.com CNAME .
-*.dnsforfamily.com CNAME .
 dnsforge.de CNAME .
 *.dnsforge.de CNAME .
 dns.foximao.cn CNAME .
@@ -1191,8 +1191,8 @@ dns.karadag.me CNAME .
 *.dns.karadag.me CNAME .
 dns.karl.one CNAME .
 *.dns.karl.one CNAME .
-dns.kastner-online.darknet.to CNAME .
-*.dns.kastner-online.darknet.to CNAME .
+dns.kastner-online.epicbrowser.com CNAME .
+*.dns.kastner-online.epicbrowser.com CNAME .
 dns.kawa.tf CNAME .
 *.dns.kawa.tf CNAME .
 dns.kebree.fr CNAME .
@@ -1269,6 +1269,8 @@ dns.marasov.id CNAME .
 *.dns.marasov.id CNAME .
 dns.marbledfennec.net CNAME .
 *.dns.marbledfennec.net CNAME .
+dnsmask.icloud.com CNAME .
+*.dnsmask.icloud.com CNAME .
 dns.mateo.ovh CNAME .
 *.dns.mateo.ovh CNAME .
 dns.mathewakhil.online CNAME .
@@ -1623,6 +1625,8 @@ dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
+dnswarden.com CNAME .
+*.dnswarden.com CNAME .
 dns.wargan.io CNAME .
 *.dns.wargan.io CNAME .
 dns.warpnine.de CNAME .
@@ -2101,8 +2105,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.dnswarden.com CNAME .
-*.ecs-doh.dnswarden.com CNAME .
+ecs-doh.dee.su CNAME .
+*.ecs-doh.dee.su CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2119,8 +2123,6 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
-epicbrowser.com CNAME .
-*.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
 *.eropa.dnscepat.id CNAME .
 esel.stusta.mhn.de CNAME .
@@ -2227,6 +2229,8 @@ flyvpn.com CNAME .
 *.flyvpn.com CNAME .
 fnt01.dnscry.pt CNAME .
 *.fnt01.dnscry.pt CNAME .
+forfamily.com CNAME .
+*.forfamily.com CNAME .
 fr1.dnswarden.com CNAME .
 *.fr1.dnswarden.com CNAME .
 fra01.dnscry.pt CNAME .
@@ -2341,8 +2345,6 @@ google-public-dns-a.google.com CNAME .
 *.google-public-dns-a.google.com CNAME .
 google-public-dns-b.google.com CNAME .
 *.google-public-dns-b.google.com CNAME .
-google-public-dns-b.google.com012proxy.ga CNAME .
-*.google-public-dns-b.google.com012proxy.ga CNAME .
 goose.buckyfan.net CNAME .
 *.goose.buckyfan.net CNAME .
 goproxy.asia CNAME .
@@ -2669,6 +2671,8 @@ luxembourg.privacy-dns.pw CNAME .
 *.luxembourg.privacy-dns.pw CNAME .
 lv1.nixnet.xyz CNAME .
 *.lv1.nixnet.xyz CNAME .
+ly.com CNAME .
+*.ly.com CNAME .
 mad01.dnscry.pt CNAME .
 *.mad01.dnscry.pt CNAME .
 maddw.com CNAME .
@@ -2875,8 +2879,6 @@ odoh.crypto.sx CNAME .
 *.odoh.crypto.sx CNAME .
 odvr.nic.cz CNAME .
 *.odvr.nic.cz CNAME .
-oex.de CNAME .
-*.oex.de CNAME .
 omr01.dnscry.pt CNAME .
 *.omr01.dnscry.pt CNAME .
 one.one.one.one CNAME .
@@ -3017,6 +3019,8 @@ polisitogel.contractors CNAME .
 *.polisitogel.contractors CNAME .
 polisitogel.hair CNAME .
 *.polisitogel.hair CNAME .
+polisitogel.show CNAME .
+*.polisitogel.show CNAME .
 polisitogel.webcam CNAME .
 *.polisitogel.webcam CNAME .
 pollproxy.info CNAME .
@@ -3043,8 +3047,8 @@ privatnas.servebeer.com CNAME .
 *.privatnas.servebeer.com CNAME .
 prointern.info CNAME .
 *.prointern.info CNAME .
-project-evmask.icloud.com CNAME .
-*.project-evmask.icloud.com CNAME .
+project-evoex.de CNAME .
+*.project-evoex.de CNAME .
 pro.shecan.ir CNAME .
 *.pro.shecan.ir CNAME .
 protected.canadianshield.cira.ca CNAME .
