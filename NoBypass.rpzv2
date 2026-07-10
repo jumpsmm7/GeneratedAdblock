@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607100443 ; Serial Number
+ 2607101643 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -1121,10 +1121,6 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1869,10 +1865,6 @@ dns.decloudus.com A 0.0.0.0
 *.dns.decloudus.com A 0.0.0.0
 dns.decloudus.com AAAA ::
 *.dns.decloudus.com AAAA ::
-dnsdee.su A 0.0.0.0
-*.dnsdee.su A 0.0.0.0
-dnsdee.su AAAA ::
-*.dnsdee.su AAAA ::
 dns.dekedin.me A 0.0.0.0
 *.dns.dekedin.me A 0.0.0.0
 dns.dekedin.me AAAA ::
@@ -1901,10 +1893,6 @@ dns.digitalsize.net A 0.0.0.0
 *.dns.digitalsize.net A 0.0.0.0
 dns.digitalsize.net AAAA ::
 *.dns.digitalsize.net AAAA ::
-dns.dk A 0.0.0.0
-*.dns.dk A 0.0.0.0
-dns.dk AAAA ::
-*.dns.dk AAAA ::
 dns.dns-53.com A 0.0.0.0
 *.dns.dns-53.com A 0.0.0.0
 dns.dns-53.com AAAA ::
@@ -1949,6 +1937,10 @@ dns.doh.best A 0.0.0.0
 *.dns.doh.best A 0.0.0.0
 dns.doh.best AAAA ::
 *.dns.doh.best AAAA ::
+dns-doh.dnsforfamidee.su A 0.0.0.0
+*.dns-doh.dnsforfamidee.su A 0.0.0.0
+dns-doh.dnsforfamidee.su AAAA ::
+*.dns-doh.dnsforfamidee.su AAAA ::
 dns-doh.dnsforfamily.com A 0.0.0.0
 *.dns-doh.dnsforfamily.com A 0.0.0.0
 dns-doh.dnsforfamily.com AAAA ::
@@ -2381,10 +2373,10 @@ dns.karl.one A 0.0.0.0
 *.dns.karl.one A 0.0.0.0
 dns.karl.one AAAA ::
 *.dns.karl.one AAAA ::
-dns.kastner-online.de A 0.0.0.0
-*.dns.kastner-online.de A 0.0.0.0
-dns.kastner-online.de AAAA ::
-*.dns.kastner-online.de AAAA ::
+dns.kastner-online.darknet.to A 0.0.0.0
+*.dns.kastner-online.darknet.to A 0.0.0.0
+dns.kastner-online.darknet.to AAAA ::
+*.dns.kastner-online.darknet.to AAAA ::
 dns.kawa.tf A 0.0.0.0
 *.dns.kawa.tf A 0.0.0.0
 dns.kawa.tf AAAA ::
@@ -2537,6 +2529,10 @@ dns.marbledfennec.net A 0.0.0.0
 *.dns.marbledfennec.net A 0.0.0.0
 dns.marbledfennec.net AAAA ::
 *.dns.marbledfennec.net AAAA ::
+dnsmask.icloud.com A 0.0.0.0
+*.dnsmask.icloud.com A 0.0.0.0
+dnsmask.icloud.com AAAA ::
+*.dnsmask.icloud.com AAAA ::
 dns.mateo.ovh A 0.0.0.0
 *.dns.mateo.ovh A 0.0.0.0
 dns.mateo.ovh AAAA ::
@@ -4685,10 +4681,10 @@ google-public-dns-b.google.com A 0.0.0.0
 *.google-public-dns-b.google.com A 0.0.0.0
 google-public-dns-b.google.com AAAA ::
 *.google-public-dns-b.google.com AAAA ::
-google-public-dns-b.google.commask.icloud.com A 0.0.0.0
-*.google-public-dns-b.google.commask.icloud.com A 0.0.0.0
-google-public-dns-b.google.commask.icloud.com AAAA ::
-*.google-public-dns-b.google.commask.icloud.com AAAA ::
+google-public-dns-b.google.comfirefox.dns.nextdns.io A 0.0.0.0
+*.google-public-dns-b.google.comfirefox.dns.nextdns.io A 0.0.0.0
+google-public-dns-b.google.comfirefox.dns.nextdns.io AAAA ::
+*.google-public-dns-b.google.comfirefox.dns.nextdns.io AAAA ::
 goose.buckyfan.net A 0.0.0.0
 *.goose.buckyfan.net A 0.0.0.0
 goose.buckyfan.net AAAA ::
@@ -5341,6 +5337,10 @@ lv1.nixnet.xyz A 0.0.0.0
 *.lv1.nixnet.xyz A 0.0.0.0
 lv1.nixnet.xyz AAAA ::
 *.lv1.nixnet.xyz AAAA ::
+ly.com A 0.0.0.0
+*.ly.com A 0.0.0.0
+ly.com AAAA ::
+*.ly.com AAAA ::
 mad01.dnscry.pt A 0.0.0.0
 *.mad01.dnscry.pt A 0.0.0.0
 mad01.dnscry.pt AAAA ::
@@ -6093,10 +6093,10 @@ project-evoex.de A 0.0.0.0
 *.project-evoex.de A 0.0.0.0
 project-evoex.de AAAA ::
 *.project-evoex.de AAAA ::
-pro.shefirefox.dns.nextdns.io A 0.0.0.0
-*.pro.shefirefox.dns.nextdns.io A 0.0.0.0
-pro.shefirefox.dns.nextdns.io AAAA ::
-*.pro.shefirefox.dns.nextdns.io AAAA ::
+pro.shecan.ir A 0.0.0.0
+*.pro.shecan.ir A 0.0.0.0
+pro.shecan.ir AAAA ::
+*.pro.shecan.ir AAAA ::
 protected.canadianshield.cira.ca A 0.0.0.0
 *.protected.canadianshield.cira.ca A 0.0.0.0
 protected.canadianshield.cira.ca AAAA ::
@@ -7409,10 +7409,6 @@ unfiltered.joindns4.eu A 0.0.0.0
 *.unfiltered.joindns4.eu A 0.0.0.0
 unfiltered.joindns4.eu AAAA ::
 *.unfiltered.joindns4.eu AAAA ::
-unicast.censurfrican.ir A 0.0.0.0
-*.unicast.censurfrican.ir A 0.0.0.0
-unicast.censurfrican.ir AAAA ::
-*.unicast.censurfrican.ir AAAA ::
 unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
