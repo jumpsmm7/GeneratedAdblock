@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607130433 ; Serial Number
+ 2607131634 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -29,6 +29,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -529,6 +533,10 @@ ams02.dnscry.pt A 0.0.0.0
 *.ams02.dnscry.pt A 0.0.0.0
 ams02.dnscry.pt AAAA ::
 *.ams02.dnscry.pt AAAA ::
+amv.net A 0.0.0.0
+*.amv.net A 0.0.0.0
+amv.net AAAA ::
+*.amv.net AAAA ::
 aniscartujo.com A 0.0.0.0
 *.aniscartujo.com A 0.0.0.0
 aniscartujo.com AAAA ::
@@ -2377,10 +2385,10 @@ dns.kernel-error.de A 0.0.0.0
 *.dns.kernel-error.de A 0.0.0.0
 dns.kernel-error.de AAAA ::
 *.dns.kernel-error.de AAAA ::
-dns.kescher12vpx.com A 0.0.0.0
-*.dns.kescher12vpx.com A 0.0.0.0
-dns.kescher12vpx.com AAAA ::
-*.dns.kescher12vpx.com AAAA ::
+dns.kescher1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.dns.kescher1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+dns.kescher1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.dns.kescher1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns.keviland.com A 0.0.0.0
 *.dns.keviland.com A 0.0.0.0
 dns.keviland.com AAAA ::
@@ -2825,10 +2833,10 @@ dns-public.ibakerserver.pt A 0.0.0.0
 *.dns-public.ibakerserver.pt A 0.0.0.0
 dns-public.ibakerserver.pt AAAA ::
 *.dns-public.ibakerserver.pt AAAA ::
-dnspub.restena.lumask.icloud.com A 0.0.0.0
-*.dnspub.restena.lumask.icloud.com A 0.0.0.0
-dnspub.restena.lumask.icloud.com AAAA ::
-*.dnspub.restena.lumask.icloud.com AAAA ::
+dnspub.restena.lu A 0.0.0.0
+*.dnspub.restena.lu A 0.0.0.0
+dnspub.restena.lu AAAA ::
+*.dnspub.restena.lu AAAA ::
 dns.pumpkinvrar.com A 0.0.0.0
 *.dns.pumpkinvrar.com A 0.0.0.0
 dns.pumpkinvrar.com AAAA ::
@@ -2977,10 +2985,6 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
-dns.simplylinux.ch A 0.0.0.0
-*.dns.simplylinux.ch A 0.0.0.0
-dns.simplylinux.ch AAAA ::
-*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -3201,10 +3205,10 @@ dns.vod11.xyz A 0.0.0.0
 *.dns.vod11.xyz A 0.0.0.0
 dns.vod11.xyz AAAA ::
 *.dns.vod11.xyz AAAA ::
-dnsvps.familiamv.net A 0.0.0.0
-*.dnsvps.familiamv.net A 0.0.0.0
-dnsvps.familiamv.net AAAA ::
-*.dnsvps.familiamv.net AAAA ::
+dnsvps.familidnswarden.com A 0.0.0.0
+*.dnsvps.familidnswarden.com A 0.0.0.0
+dnsvps.familidnswarden.com AAAA ::
+*.dnsvps.familidnswarden.com AAAA ::
 dns.w3ctag.org A 0.0.0.0
 *.dns.w3ctag.org A 0.0.0.0
 dns.w3ctag.org AAAA ::
@@ -3281,10 +3285,6 @@ dns.zfsystem.tech A 0.0.0.0
 *.dns.zfsystem.tech A 0.0.0.0
 dns.zfsystem.tech AAAA ::
 *.dns.zfsystem.tech AAAA ::
-dns.zui.lol A 0.0.0.0
-*.dns.zui.lol A 0.0.0.0
-dns.zui.lol AAAA ::
-*.dns.zui.lol AAAA ::
 dns.zzuhacker.cn A 0.0.0.0
 *.dns.zzuhacker.cn A 0.0.0.0
 dns.zzuhacker.cn AAAA ::
@@ -4165,10 +4165,6 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.dnswarden.com A 0.0.0.0
-*.ecs-doh.dnswarden.com A 0.0.0.0
-ecs-doh.dnswarden.com AAAA ::
-*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4701,10 +4697,10 @@ han01.dnscry.pt A 0.0.0.0
 *.han01.dnscry.pt A 0.0.0.0
 han01.dnscry.pt AAAA ::
 *.han01.dnscry.pt AAAA ::
-hard.dnsforge.de A 0.0.0.0
-*.hard.dnsforge.de A 0.0.0.0
-hard.dnsforge.de AAAA ::
-*.hard.dnsforge.de AAAA ::
+hard.dfirefox.dns.nextdns.io A 0.0.0.0
+*.hard.dfirefox.dns.nextdns.io A 0.0.0.0
+hard.dfirefox.dns.nextdns.io AAAA ::
+*.hard.dfirefox.dns.nextdns.io AAAA ::
 hel01.dnscry.pt A 0.0.0.0
 *.hel01.dnscry.pt A 0.0.0.0
 hel01.dnscry.pt AAAA ::
@@ -5645,6 +5641,10 @@ nsec.arnor.org A 0.0.0.0
 *.nsec.arnor.org A 0.0.0.0
 nsec.arnor.org AAAA ::
 *.nsec.arnor.org AAAA ::
+nsforge.de A 0.0.0.0
+*.nsforge.de A 0.0.0.0
+nsforge.de AAAA ::
+*.nsforge.de AAAA ::
 ns.mtsoln.com A 0.0.0.0
 *.ns.mtsoln.com A 0.0.0.0
 ns.mtsoln.com AAAA ::
