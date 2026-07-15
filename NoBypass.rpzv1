@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607150433 ; Serial Number
+ 2607151637 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -101,6 +101,8 @@ adg.jnorton.us CNAME .
 *.adg.jnorton.us CNAME .
 adg.khon.dev CNAME .
 *.adg.khon.dev CNAME .
+adg.rueiliu.space CNAME .
+*.adg.rueiliu.space CNAME .
 adg.tshost.no CNAME .
 *.adg.tshost.no CNAME .
 adguard1.jsanagustin.net CNAME .
@@ -1063,8 +1065,6 @@ dns.furrix.zone CNAME .
 *.dns.furrix.zone CNAME .
 dns.furrydns.de CNAME .
 *.dns.furrydns.de CNAME .
-dns.futuredns.me CNAME .
-*.dns.futuredns.me CNAME .
 dns.gamban.com CNAME .
 *.dns.gamban.com CNAME .
 dns.gayanalysing.co.uk CNAME .
@@ -1193,6 +1193,8 @@ dns.kescher.at CNAME .
 *.dns.kescher.at CNAME .
 dns.keviland.com CNAME .
 *.dns.keviland.com CNAME .
+dns.keweon.1dot1dot1dot1.cloudflare-dns.com CNAME .
+*.dns.keweon.1dot1dot1dot1.cloudflare-dns.com CNAME .
 dns.keweon.center CNAME .
 *.dns.keweon.center CNAME .
 dns.koala.us.to CNAME .
@@ -1211,8 +1213,6 @@ dns.kxy.ink CNAME .
 *.dns.kxy.ink CNAME .
 dns.l337.site CNAME .
 *.dns.l337.site CNAME .
-dns.labnekotest.site CNAME .
-*.dns.labnekotest.site CNAME .
 dns.larsdebruin.net CNAME .
 *.dns.larsdebruin.net CNAME .
 dns.lars-lehmann.net CNAME .
@@ -1227,8 +1227,6 @@ dns.lgprk.com CNAME .
 *.dns.lgprk.com CNAME .
 dns.liberador.net CNAME .
 *.dns.liberador.net CNAME .
-dns.lightmaster.pw CNAME .
-*.dns.lightmaster.pw CNAME .
 dns.lihj.me CNAME .
 *.dns.lihj.me CNAME .
 dns.linkr.ninja CNAME .
@@ -1249,8 +1247,8 @@ dns.lvolland.fr CNAME .
 *.dns.lvolland.fr CNAME .
 dns.maitrekuc.fr CNAME .
 *.dns.maitrekuc.fr CNAME .
-dns-malwaresec.nordthreatprodee.su CNAME .
-*.dns-malwaresec.nordthreatprodee.su CNAME .
+dns-malwardee.su CNAME .
+*.dns-malwardee.su CNAME .
 dns.marasov.id CNAME .
 *.dns.marasov.id CNAME .
 dns.marbledfennec.net CNAME .
@@ -1561,8 +1559,8 @@ dns-tls.bitwiseshift.net CNAME .
 *.dns-tls.bitwiseshift.net CNAME .
 dns.tls-data.de CNAME .
 *.dns.tls-data.de CNAME .
-dnstls.mobifirefox.dns.nextdns.io CNAME .
-*.dnstls.mobifirefox.dns.nextdns.io CNAME .
+dnstls.mobik.com CNAME .
+*.dnstls.mobik.com CNAME .
 dns.tracker.ink CNAME .
 *.dns.tracker.ink CNAME .
 dns.tryk.app CNAME .
@@ -2105,6 +2103,8 @@ epicbrowser.com CNAME .
 *.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
 *.eropa.dnscepat.id CNAME .
+esec.nordthreatprotection.com CNAME .
+*.esec.nordthreatprotection.com CNAME .
 esel.stusta.mhn.de CNAME .
 *.esel.stusta.mhn.de CNAME .
 es-ma.foxyfy.net CNAME .
@@ -2399,8 +2399,8 @@ hkg01.dnscry.pt CNAME .
 *.hkg01.dnscry.pt CNAME .
 hkg02.dnscry.pt CNAME .
 *.hkg02.dnscry.pt CNAME .
-hk-hkg.doh.sb CNAME .
-*.hk-hkg.doh.sb CNAME .
+hkmask.icloud.com CNAME .
+*.hkmask.icloud.com CNAME .
 hkname.freecdn.one CNAME .
 *.hkname.freecdn.one CNAME .
 hola.org CNAME .
@@ -2557,8 +2557,6 @@ kaiwu.xyz CNAME .
 *.kaiwu.xyz CNAME .
 kavkaz.monster CNAME .
 *.kavkaz.monster CNAME .
-k.com CNAME .
-*.k.com CNAME .
 kids.ns.nwps.fi CNAME .
 *.kids.ns.nwps.fi CNAME .
 kilabit.info CNAME .
@@ -2937,8 +2935,6 @@ parrotsec.org CNAME .
 *.parrotsec.org CNAME .
 pashagame456.com CNAME .
 *.pashagame456.com CNAME .
-pates.services.sfr.fr.casepp.sfr.fr CNAME .
-*.pates.services.sfr.fr.casepp.sfr.fr CNAME .
 paulo.nom.za CNAME .
 *.paulo.nom.za CNAME .
 pdns.faelix.net CNAME .
@@ -3853,8 +3849,8 @@ webunblocker.xyz CNAME .
 *.webunblocker.xyz CNAME .
 whoer.net CNAME .
 *.whoer.net CNAME .
-whoisping.comtection.com CNAME .
-*.whoisping.comtection.com CNAME .
+whoisping.com CNAME .
+*.whoisping.com CNAME .
 whonix.org CNAME .
 *.whonix.org CNAME .
 wikimedia-dns.org CNAME .

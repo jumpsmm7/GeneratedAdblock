@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607150433 ; Serial Number
+ 2607151637 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -193,6 +193,10 @@ adg.khon.dev A 0.0.0.0
 *.adg.khon.dev A 0.0.0.0
 adg.khon.dev AAAA ::
 *.adg.khon.dev AAAA ::
+adg.rueiliu.space A 0.0.0.0
+*.adg.rueiliu.space A 0.0.0.0
+adg.rueiliu.space AAAA ::
+*.adg.rueiliu.space AAAA ::
 adg.tshost.no A 0.0.0.0
 *.adg.tshost.no A 0.0.0.0
 adg.tshost.no AAAA ::
@@ -2117,10 +2121,6 @@ dns.furrydns.de A 0.0.0.0
 *.dns.furrydns.de A 0.0.0.0
 dns.furrydns.de AAAA ::
 *.dns.furrydns.de AAAA ::
-dns.futuredns.me A 0.0.0.0
-*.dns.futuredns.me A 0.0.0.0
-dns.futuredns.me AAAA ::
-*.dns.futuredns.me AAAA ::
 dns.gamban.com A 0.0.0.0
 *.dns.gamban.com A 0.0.0.0
 dns.gamban.com AAAA ::
@@ -2377,6 +2377,10 @@ dns.keviland.com A 0.0.0.0
 *.dns.keviland.com A 0.0.0.0
 dns.keviland.com AAAA ::
 *.dns.keviland.com AAAA ::
+dns.keweon.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.dns.keweon.1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+dns.keweon.1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.dns.keweon.1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns.keweon.center A 0.0.0.0
 *.dns.keweon.center A 0.0.0.0
 dns.keweon.center AAAA ::
@@ -2413,10 +2417,6 @@ dns.l337.site A 0.0.0.0
 *.dns.l337.site A 0.0.0.0
 dns.l337.site AAAA ::
 *.dns.l337.site AAAA ::
-dns.labnekotest.site A 0.0.0.0
-*.dns.labnekotest.site A 0.0.0.0
-dns.labnekotest.site AAAA ::
-*.dns.labnekotest.site AAAA ::
 dns.larsdebruin.net A 0.0.0.0
 *.dns.larsdebruin.net A 0.0.0.0
 dns.larsdebruin.net AAAA ::
@@ -2445,10 +2445,6 @@ dns.liberador.net A 0.0.0.0
 *.dns.liberador.net A 0.0.0.0
 dns.liberador.net AAAA ::
 *.dns.liberador.net AAAA ::
-dns.lightmaster.pw A 0.0.0.0
-*.dns.lightmaster.pw A 0.0.0.0
-dns.lightmaster.pw AAAA ::
-*.dns.lightmaster.pw AAAA ::
 dns.lihj.me A 0.0.0.0
 *.dns.lihj.me A 0.0.0.0
 dns.lihj.me AAAA ::
@@ -2489,10 +2485,10 @@ dns.maitrekuc.fr A 0.0.0.0
 *.dns.maitrekuc.fr A 0.0.0.0
 dns.maitrekuc.fr AAAA ::
 *.dns.maitrekuc.fr AAAA ::
-dns-malwaresec.nordthreatprodee.su A 0.0.0.0
-*.dns-malwaresec.nordthreatprodee.su A 0.0.0.0
-dns-malwaresec.nordthreatprodee.su AAAA ::
-*.dns-malwaresec.nordthreatprodee.su AAAA ::
+dns-malwardee.su A 0.0.0.0
+*.dns-malwardee.su A 0.0.0.0
+dns-malwardee.su AAAA ::
+*.dns-malwardee.su AAAA ::
 dns.marasov.id A 0.0.0.0
 *.dns.marasov.id A 0.0.0.0
 dns.marasov.id AAAA ::
@@ -3113,10 +3109,10 @@ dns.tls-data.de A 0.0.0.0
 *.dns.tls-data.de A 0.0.0.0
 dns.tls-data.de AAAA ::
 *.dns.tls-data.de AAAA ::
-dnstls.mobifirefox.dns.nextdns.io A 0.0.0.0
-*.dnstls.mobifirefox.dns.nextdns.io A 0.0.0.0
-dnstls.mobifirefox.dns.nextdns.io AAAA ::
-*.dnstls.mobifirefox.dns.nextdns.io AAAA ::
+dnstls.mobik.com A 0.0.0.0
+*.dnstls.mobik.com A 0.0.0.0
+dnstls.mobik.com AAAA ::
+*.dnstls.mobik.com AAAA ::
 dns.tracker.ink A 0.0.0.0
 *.dns.tracker.ink A 0.0.0.0
 dns.tracker.ink AAAA ::
@@ -4201,6 +4197,10 @@ eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
 *.eropa.dnscepat.id AAAA ::
+esec.nordthreatprotection.com A 0.0.0.0
+*.esec.nordthreatprotection.com A 0.0.0.0
+esec.nordthreatprotection.com AAAA ::
+*.esec.nordthreatprotection.com AAAA ::
 esel.stusta.mhn.de A 0.0.0.0
 *.esel.stusta.mhn.de A 0.0.0.0
 esel.stusta.mhn.de AAAA ::
@@ -4789,10 +4789,10 @@ hkg02.dnscry.pt A 0.0.0.0
 *.hkg02.dnscry.pt A 0.0.0.0
 hkg02.dnscry.pt AAAA ::
 *.hkg02.dnscry.pt AAAA ::
-hk-hkg.doh.sb A 0.0.0.0
-*.hk-hkg.doh.sb A 0.0.0.0
-hk-hkg.doh.sb AAAA ::
-*.hk-hkg.doh.sb AAAA ::
+hkmask.icloud.com A 0.0.0.0
+*.hkmask.icloud.com A 0.0.0.0
+hkmask.icloud.com AAAA ::
+*.hkmask.icloud.com AAAA ::
 hkname.freecdn.one A 0.0.0.0
 *.hkname.freecdn.one A 0.0.0.0
 hkname.freecdn.one AAAA ::
@@ -5105,10 +5105,6 @@ kavkaz.monster A 0.0.0.0
 *.kavkaz.monster A 0.0.0.0
 kavkaz.monster AAAA ::
 *.kavkaz.monster AAAA ::
-k.com A 0.0.0.0
-*.k.com A 0.0.0.0
-k.com AAAA ::
-*.k.com AAAA ::
 kids.ns.nwps.fi A 0.0.0.0
 *.kids.ns.nwps.fi A 0.0.0.0
 kids.ns.nwps.fi AAAA ::
@@ -5865,10 +5861,6 @@ pashagame456.com A 0.0.0.0
 *.pashagame456.com A 0.0.0.0
 pashagame456.com AAAA ::
 *.pashagame456.com AAAA ::
-pates.services.sfr.fr.casepp.sfr.fr A 0.0.0.0
-*.pates.services.sfr.fr.casepp.sfr.fr A 0.0.0.0
-pates.services.sfr.fr.casepp.sfr.fr AAAA ::
-*.pates.services.sfr.fr.casepp.sfr.fr AAAA ::
 paulo.nom.za A 0.0.0.0
 *.paulo.nom.za A 0.0.0.0
 paulo.nom.za AAAA ::
@@ -7697,10 +7689,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.comtection.com A 0.0.0.0
-*.whoisping.comtection.com A 0.0.0.0
-whoisping.comtection.com AAAA ::
-*.whoisping.comtection.com AAAA ::
+whoisping.com A 0.0.0.0
+*.whoisping.com A 0.0.0.0
+whoisping.com AAAA ::
+*.whoisping.com AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
