@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607190642 ; Serial Number
+ 2607200542 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -89,8 +89,6 @@ adb.timnichollsphotography.com CNAME .
 *.adb.timnichollsphotography.com CNAME .
 addns1.m-it.ro CNAME .
 *.addns1.m-it.ro CNAME .
-adfiltro.fun CNAME .
-*.adfiltro.fun CNAME .
 adfreedns.top CNAME .
 *.adfreedns.top CNAME .
 adfree.usableprivacy.net CNAME .
@@ -273,6 +271,8 @@ ams01.dnscry.pt CNAME .
 *.ams01.dnscry.pt CNAME .
 ams02.dnscry.pt CNAME .
 *.ams02.dnscry.pt CNAME .
+an01.dnscry.pt CNAME .
+*.an01.dnscry.pt CNAME .
 aniscartujo.com CNAME .
 *.aniscartujo.com CNAME .
 anonine.com CNAME .
@@ -565,6 +565,8 @@ dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 d.bod.lol CNAME .
 *.d.bod.lol CNAME .
+ddee.su CNAME .
+*.ddee.su CNAME .
 de01.dns4me.net CNAME .
 *.de01.dns4me.net CNAME .
 de.dns.privex.io CNAME .
@@ -573,8 +575,6 @@ de-dus.doh.sb CNAME .
 *.de-dus.doh.sb CNAME .
 deep-henchman-excuse.cfd CNAME .
 *.deep-henchman-excuse.cfd CNAME .
-dee.su CNAME .
-*.dee.su CNAME .
 defencevpn.com CNAME .
 *.defencevpn.com CNAME .
 defilter.us CNAME .
@@ -595,8 +595,6 @@ deic-ore.anycast.uncensoreddns.org CNAME .
 *.deic-ore.anycast.uncensoreddns.org CNAME .
 den01.dnscry.pt CNAME .
 *.den01.dnscry.pt CNAME .
-dfirefox.dns.nextdns.io CNAME .
-*.dfirefox.dns.nextdns.io CNAME .
 dfw02.dnscry.pt CNAME .
 *.dfw02.dnscry.pt CNAME .
 digi77.com CNAME .
@@ -1057,6 +1055,8 @@ dns.foximao.cn CNAME .
 *.dns.foximao.cn CNAME .
 dns.foxyfy.net CNAME .
 *.dns.foxyfy.net CNAME .
+dns-free.link CNAME .
+*.dns-free.link CNAME .
 dns.freopc.fr CNAME .
 *.dns.freopc.fr CNAME .
 dns.freyja.pw CNAME .
@@ -1069,6 +1069,8 @@ dns.furrix.zone CNAME .
 *.dns.furrix.zone CNAME .
 dns.furrydns.de CNAME .
 *.dns.furrydns.de CNAME .
+dns.futuredns.me CNAME .
+*.dns.futuredns.me CNAME .
 dns.gamban.com CNAME .
 *.dns.gamban.com CNAME .
 dns.gayanalysing.co.uk CNAME .
@@ -1173,8 +1175,6 @@ dns.jundev.org CNAME .
 *.dns.jundev.org CNAME .
 dns.justinnetworkingsolutions.com CNAME .
 *.dns.justinnetworkingsolutions.com CNAME .
-dns.k12vpx.com CNAME .
-*.dns.k12vpx.com CNAME .
 dns.k3nny.fr CNAME .
 *.dns.k3nny.fr CNAME .
 dns.kamilszczepanski.com CNAME .
@@ -1215,6 +1215,8 @@ dns.kxy.ink CNAME .
 *.dns.kxy.ink CNAME .
 dns.l337.site CNAME .
 *.dns.l337.site CNAME .
+dns.labnekotest.site CNAME .
+*.dns.labnekotest.site CNAME .
 dns.larsdebruin.net CNAME .
 *.dns.larsdebruin.net CNAME .
 dns.lars-lehmann.net CNAME .
@@ -1421,8 +1423,6 @@ dns-public.ibakerserver.pt CNAME .
 *.dns-public.ibakerserver.pt CNAME .
 dnspub.restena.lu CNAME .
 *.dnspub.restena.lu CNAME .
-dns.pumpkinvrar.com CNAME .
-*.dns.pumpkinvrar.com CNAME .
 dns.pumplex.com CNAME .
 *.dns.pumplex.com CNAME .
 dns.qrtz.club CNAME .
@@ -1495,6 +1495,8 @@ dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
+dns.simplylinux.ch CNAME .
+*.dns.simplylinux.ch CNAME .
 dns.sindominio.net CNAME .
 *.dns.sindominio.net CNAME .
 dns.skrep.eu CNAME .
@@ -2065,6 +2067,8 @@ draco.plan9-ns2.com CNAME .
 *.draco.plan9-ns2.com CNAME .
 droyd.top CNAME .
 *.droyd.top CNAME .
+drs.rustsword.com CNAME .
+*.drs.rustsword.com CNAME .
 d.toairs.com CNAME .
 *.d.toairs.com CNAME .
 dtw01.dnscry.pt CNAME .
@@ -2117,8 +2121,6 @@ eu1.dns.lavate.ch CNAME .
 *.eu1.dns.lavate.ch CNAME .
 eu.tri-dns.net CNAME .
 *.eu.tri-dns.net CNAME .
-eviland.com CNAME .
-*.eviland.com CNAME .
 evn01.dnscry.pt CNAME .
 *.evn01.dnscry.pt CNAME .
 evyy.net CNAME .
@@ -2347,10 +2349,10 @@ gva01.dnscry.pt CNAME .
 *.gva01.dnscry.pt CNAME .
 gztech.me CNAME .
 *.gztech.me CNAME .
+h12vpx.com CNAME .
+*.h12vpx.com CNAME .
 haf01.dnscry.pt CNAME .
 *.haf01.dnscry.pt CNAME .
-han01.dnscry.pt CNAME .
-*.han01.dnscry.pt CNAME .
 hard.dnsforge.de CNAME .
 *.hard.dnsforge.de CNAME .
 hel01.dnscry.pt CNAME .
@@ -2823,8 +2825,8 @@ ns.data.haus CNAME .
 *.ns.data.haus CNAME .
 nsec.arnor.org CNAME .
 *.nsec.arnor.org CNAME .
-ns-free.link CNAME .
-*.ns-free.link CNAME .
+ns.keviland.com CNAME .
+*.ns.keviland.com CNAME .
 ns.mtsoln.com CNAME .
 *.ns.mtsoln.com CNAME .
 ns.net.kg CNAME .
@@ -3169,6 +3171,8 @@ public-dns-a.dns.sb CNAME .
 *.public-dns-a.dns.sb CNAME .
 public-dns-b.dns.sb CNAME .
 *.public-dns-b.dns.sb CNAME .
+public-dns-b.dns.sbmask.icloud.com CNAME .
+*.public-dns-b.dns.sbmask.icloud.com CNAME .
 public.dns.iij.jp CNAME .
 *.public.dns.iij.jp CNAME .
 public.ns.nwps.fi CNAME .
@@ -3233,8 +3237,6 @@ resolv2.trash.net CNAME .
 *.resolv2.trash.net CNAME .
 resolv3.trash.net CNAME .
 *.resolv3.trash.net CNAME .
-resolve2.r9x.cc CNAME .
-*.resolve2.r9x.cc CNAME .
 resolver1.absolight.net CNAME .
 *.resolver1.absolight.net CNAME .
 resolver1-fs.opendns.com CNAME .
