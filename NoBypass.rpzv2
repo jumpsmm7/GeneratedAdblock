@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607201731 ; Serial Number
+ 2607211745 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -437,10 +437,6 @@ a.family.ns.dnslify.com A 0.0.0.0
 *.a.family.ns.dnslify.com A 0.0.0.0
 a.family.ns.dnslify.com AAAA ::
 *.a.family.ns.dnslify.com AAAA ::
-affcdn.net A 0.0.0.0
-*.affcdn.net A 0.0.0.0
-affcdn.net AAAA ::
-*.affcdn.net AAAA ::
 affsoft.cc A 0.0.0.0
 *.affsoft.cc A 0.0.0.0
 affsoft.cc AAAA ::
@@ -577,10 +573,6 @@ ant.dns.qwer.pw A 0.0.0.0
 *.ant.dns.qwer.pw A 0.0.0.0
 ant.dns.qwer.pw AAAA ::
 *.ant.dns.qwer.pw AAAA ::
-antivirus.bebasid.com A 0.0.0.0
-*.antivirus.bebasid.com A 0.0.0.0
-antivirus.bebasid.com AAAA ::
-*.antivirus.bebasid.com AAAA ::
 anycast.censurfridns.dk A 0.0.0.0
 *.anycast.censurfridns.dk A 0.0.0.0
 anycast.censurfridns.dk AAAA ::
@@ -1553,10 +1545,6 @@ dns.beardic.cn A 0.0.0.0
 *.dns.beardic.cn A 0.0.0.0
 dns.beardic.cn AAAA ::
 *.dns.beardic.cn AAAA ::
-dns.bebasid.com A 0.0.0.0
-*.dns.bebasid.com A 0.0.0.0
-dns.bebasid.com AAAA ::
-*.dns.bebasid.com AAAA ::
 dns.belnet.be A 0.0.0.0
 *.dns.belnet.be A 0.0.0.0
 dns.belnet.be AAAA ::
@@ -2125,6 +2113,10 @@ dns.furrydns.de A 0.0.0.0
 *.dns.furrydns.de A 0.0.0.0
 dns.furrydns.de AAAA ::
 *.dns.furrydns.de AAAA ::
+dns.futuredns.me A 0.0.0.0
+*.dns.futuredns.me A 0.0.0.0
+dns.futuredns.me AAAA ::
+*.dns.futuredns.me AAAA ::
 dns.gamban.com A 0.0.0.0
 *.dns.gamban.com A 0.0.0.0
 dns.gamban.com AAAA ::
@@ -2241,6 +2233,10 @@ dns.hotta.page A 0.0.0.0
 *.dns.hotta.page A 0.0.0.0
 dns.hotta.page AAAA ::
 *.dns.hotta.page AAAA ::
+dns.huas.me A 0.0.0.0
+*.dns.huas.me A 0.0.0.0
+dns.huas.me AAAA ::
+*.dns.huas.me AAAA ::
 dns.hujiayucc.cn A 0.0.0.0
 *.dns.hujiayucc.cn A 0.0.0.0
 dns.hujiayucc.cn AAAA ::
@@ -2445,10 +2441,6 @@ dns.liberador.net A 0.0.0.0
 *.dns.liberador.net A 0.0.0.0
 dns.liberador.net AAAA ::
 *.dns.liberador.net AAAA ::
-dns.lightmaster.pw A 0.0.0.0
-*.dns.lightmaster.pw A 0.0.0.0
-dns.lightmaster.pw AAAA ::
-*.dns.lightmaster.pw AAAA ::
 dns.lihj.me A 0.0.0.0
 *.dns.lihj.me A 0.0.0.0
 dns.lihj.me AAAA ::
@@ -2489,10 +2481,10 @@ dns.maitrekuc.fr A 0.0.0.0
 *.dns.maitrekuc.fr A 0.0.0.0
 dns.maitrekuc.fr AAAA ::
 *.dns.maitrekuc.fr AAAA ::
-dns-malwaresec.norfirefox.dns.nextdns.io A 0.0.0.0
-*.dns-malwaresec.norfirefox.dns.nextdns.io A 0.0.0.0
-dns-malwaresec.norfirefox.dns.nextdns.io AAAA ::
-*.dns-malwaresec.norfirefox.dns.nextdns.io AAAA ::
+dns-malwaresec.nordthreatprotection.com A 0.0.0.0
+*.dns-malwaresec.nordthreatprotection.com A 0.0.0.0
+dns-malwaresec.nordthreatprotection.com AAAA ::
+*.dns-malwaresec.nordthreatprotection.com AAAA ::
 dns.marasov.id A 0.0.0.0
 *.dns.marasov.id A 0.0.0.0
 dns.marasov.id AAAA ::
@@ -2669,6 +2661,10 @@ dns.nodoa.me A 0.0.0.0
 *.dns.nodoa.me A 0.0.0.0
 dns.nodoa.me AAAA ::
 *.dns.nodoa.me AAAA ::
+dns-nosec.qfirefox.dns.nextdns.io A 0.0.0.0
+*.dns-nosec.qfirefox.dns.nextdns.io A 0.0.0.0
+dns-nosec.qfirefox.dns.nextdns.io AAAA ::
+*.dns-nosec.qfirefox.dns.nextdns.io AAAA ::
 dns-nosec.quad9.net A 0.0.0.0
 *.dns-nosec.quad9.net A 0.0.0.0
 dns-nosec.quad9.net AAAA ::
@@ -3465,6 +3461,10 @@ doh.cleanbrowsing.org A 0.0.0.0
 *.doh.cleanbrowsing.org A 0.0.0.0
 doh.cleanbrowsing.org AAAA ::
 *.doh.cleanbrowsing.org AAAA ::
+doh.cnetwork.cloud A 0.0.0.0
+*.doh.cnetwork.cloud A 0.0.0.0
+doh.cnetwork.cloud AAAA ::
+*.doh.cnetwork.cloud AAAA ::
 doh.cornes.me A 0.0.0.0
 *.doh.cornes.me A 0.0.0.0
 doh.cornes.me AAAA ::
@@ -4117,14 +4117,6 @@ droyd.top A 0.0.0.0
 *.droyd.top A 0.0.0.0
 droyd.top AAAA ::
 *.droyd.top AAAA ::
-drs.rustsword.com A 0.0.0.0
-*.drs.rustsword.com A 0.0.0.0
-drs.rustsword.com AAAA ::
-*.drs.rustsword.com AAAA ::
-dthreatprotection.com A 0.0.0.0
-*.dthreatprotection.com A 0.0.0.0
-dthreatprotection.com AAAA ::
-*.dthreatprotection.com AAAA ::
 d.toairs.com A 0.0.0.0
 *.d.toairs.com A 0.0.0.0
 d.toairs.com AAAA ::
@@ -4673,6 +4665,10 @@ guardster.com A 0.0.0.0
 *.guardster.com A 0.0.0.0
 guardster.com AAAA ::
 *.guardster.com AAAA ::
+gustamadh.dynv6.net A 0.0.0.0
+*.gustamadh.dynv6.net A 0.0.0.0
+gustamadh.dynv6.net AAAA ::
+*.gustamadh.dynv6.net AAAA ::
 gva01.dnscry.pt A 0.0.0.0
 *.gva01.dnscry.pt A 0.0.0.0
 gva01.dnscry.pt AAAA ::
@@ -4937,10 +4933,6 @@ interncloud.info A 0.0.0.0
 *.interncloud.info A 0.0.0.0
 interncloud.info AAAA ::
 *.interncloud.info AAAA ::
-internetsehat.bebasid.com A 0.0.0.0
-*.internetsehat.bebasid.com A 0.0.0.0
-internetsehat.bebasid.com AAAA ::
-*.internetsehat.bebasid.com AAAA ::
 iow-dns.bitdefender.net A 0.0.0.0
 *.iow-dns.bitdefender.net A 0.0.0.0
 iow-dns.bitdefender.net AAAA ::
@@ -6765,6 +6757,10 @@ sg-w-p-1.nashkan.net A 0.0.0.0
 *.sg-w-p-1.nashkan.net A 0.0.0.0
 sg-w-p-1.nashkan.net AAAA ::
 *.sg-w-p-1.nashkan.net AAAA ::
+sg.yepdns.com A 0.0.0.0
+*.sg.yepdns.com A 0.0.0.0
+sg.yepdns.com AAAA ::
+*.sg.yepdns.com AAAA ::
 shield1.eranext.net A 0.0.0.0
 *.shield1.eranext.net A 0.0.0.0
 shield1.eranext.net AAAA ::
@@ -7205,6 +7201,10 @@ typaza.com A 0.0.0.0
 *.typaza.com A 0.0.0.0
 typaza.com AAAA ::
 *.typaza.com AAAA ::
+uad9.net A 0.0.0.0
+*.uad9.net A 0.0.0.0
+uad9.net AAAA ::
+*.uad9.net AAAA ::
 ueni.dyndns.org A 0.0.0.0
 *.ueni.dyndns.org A 0.0.0.0
 ueni.dyndns.org AAAA ::
