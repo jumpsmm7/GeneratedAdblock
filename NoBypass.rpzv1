@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607292141 ; Serial Number
+ 2607300857 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -101,8 +101,6 @@ adg.jnorton.us CNAME .
 *.adg.jnorton.us CNAME .
 adg.khon.dev CNAME .
 *.adg.khon.dev CNAME .
-adg.rueiliu.space CNAME .
-*.adg.rueiliu.space CNAME .
 adg.tshost.no CNAME .
 *.adg.tshost.no CNAME .
 adguard1.jsanagustin.net CNAME .
@@ -1075,8 +1073,6 @@ dns.furrix.zone CNAME .
 *.dns.furrix.zone CNAME .
 dns.furrydns.de CNAME .
 *.dns.furrydns.de CNAME .
-dns.futuredns.me CNAME .
-*.dns.futuredns.me CNAME .
 dns.gamban.com CNAME .
 *.dns.gamban.com CNAME .
 dns.gayanalysing.co.uk CNAME .
@@ -1091,6 +1087,8 @@ dns.girino.org CNAME .
 *.dns.girino.org CNAME .
 dns.glf.wtf CNAME .
 *.dns.glf.wtf CNAME .
+dns.glorydns.com CNAME .
+*.dns.glorydns.com CNAME .
 dns.gnb09.id CNAME .
 *.dns.gnb09.id CNAME .
 dns.goldplate.org CNAME .
@@ -1133,6 +1131,8 @@ dns.hostux.net CNAME .
 *.dns.hostux.net CNAME .
 dns.hotta.page CNAME .
 *.dns.hotta.page CNAME .
+dns.huas.me CNAME .
+*.dns.huas.me CNAME .
 dns.hujiayucc.cn CNAME .
 *.dns.hujiayucc.cn CNAME .
 dns.huseynov.work CNAME .
@@ -1491,8 +1491,6 @@ dns.sec511.com CNAME .
 *.dns.sec511.com CNAME .
 dns.sellan.fr CNAME .
 *.dns.sellan.fr CNAME .
-dnsse-noads.alekberg.net CNAME .
-*.dnsse-noads.alekberg.net CNAME .
 dns.sev.monster CNAME .
 *.dns.sev.monster CNAME .
 dns.shareworx.net CNAME .
@@ -1505,6 +1503,8 @@ dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
+dns.simplylinux.ch CNAME .
+*.dns.simplylinux.ch CNAME .
 dns.sindominio.net CNAME .
 *.dns.sindominio.net CNAME .
 dns.skrep.eu CNAME .
@@ -1749,6 +1749,8 @@ doh.chi.ahadns.net CNAME .
 *.doh.chi.ahadns.net CNAME .
 doh.cleanbrowsing.org CNAME .
 *.doh.cleanbrowsing.org CNAME .
+doh.cnetwork.cloud CNAME .
+*.doh.cnetwork.cloud CNAME .
 doh.cornes.me CNAME .
 *.doh.cornes.me CNAME .
 doh.cox.net CNAME .
@@ -2113,6 +2115,8 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
+epicbrowser.com CNAME .
+*.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
 *.eropa.dnscepat.id CNAME .
 esel.stusta.mhn.de CNAME .
@@ -2855,12 +2859,8 @@ odoh.cloudflare-dns.com CNAME .
 *.odoh.cloudflare-dns.com CNAME .
 odoh.crypto.sx CNAME .
 *.odoh.crypto.sx CNAME .
-odoh-target.alekberg.net CNAME .
-*.odoh-target.alekberg.net CNAME .
 odoh-target-noads.alekberg.net CNAME .
 *.odoh-target-noads.alekberg.net CNAME .
-odoh-target-noads-se.alekberg.net CNAME .
-*.odoh-target-noads-se.alekberg.net CNAME .
 odvr.nic.cz CNAME .
 *.odvr.nic.cz CNAME .
 omr01.dnscry.pt CNAME .
@@ -3859,8 +3859,8 @@ webunblocker.xyz CNAME .
 *.webunblocker.xyz CNAME .
 whoer.net CNAME .
 *.whoer.net CNAME .
-whoisping.comepicbrowser.com CNAME .
-*.whoisping.comepicbrowser.com CNAME .
+whoisping.com CNAME .
+*.whoisping.com CNAME .
 whonix.org CNAME .
 *.whonix.org CNAME .
 wikimedia-dns.org CNAME .
@@ -3909,6 +3909,8 @@ xitesite.com CNAME .
 *.xitesite.com CNAME .
 xn--durhre-yxa.de CNAME .
 *.xn--durhre-yxa.de CNAME .
+xorbiadns.com CNAME .
+*.xorbiadns.com CNAME .
 xvpn.io CNAME .
 *.xvpn.io CNAME .
 ychen.cf CNAME .
@@ -3937,8 +3939,6 @@ yul01.dnscry.pt CNAME .
 *.yul01.dnscry.pt CNAME .
 yunyun.is.my.waifu.cz CNAME .
 *.yunyun.is.my.waifu.cz CNAME .
-yuvelirtut.website CNAME .
-*.yuvelirtut.website CNAME .
 yvr01.dnscry.pt CNAME .
 *.yvr01.dnscry.pt CNAME .
 yxorproxy.com CNAME .

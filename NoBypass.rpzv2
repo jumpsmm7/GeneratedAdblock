@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607292141 ; Serial Number
+ 2607300857 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -193,10 +193,6 @@ adg.khon.dev A 0.0.0.0
 *.adg.khon.dev A 0.0.0.0
 adg.khon.dev AAAA ::
 *.adg.khon.dev AAAA ::
-adg.rueiliu.space A 0.0.0.0
-*.adg.rueiliu.space A 0.0.0.0
-adg.rueiliu.space AAAA ::
-*.adg.rueiliu.space AAAA ::
 adg.tshost.no A 0.0.0.0
 *.adg.tshost.no A 0.0.0.0
 adg.tshost.no AAAA ::
@@ -2141,10 +2137,6 @@ dns.furrydns.de A 0.0.0.0
 *.dns.furrydns.de A 0.0.0.0
 dns.furrydns.de AAAA ::
 *.dns.furrydns.de AAAA ::
-dns.futuredns.me A 0.0.0.0
-*.dns.futuredns.me A 0.0.0.0
-dns.futuredns.me AAAA ::
-*.dns.futuredns.me AAAA ::
 dns.gamban.com A 0.0.0.0
 *.dns.gamban.com A 0.0.0.0
 dns.gamban.com AAAA ::
@@ -2173,6 +2165,10 @@ dns.glf.wtf A 0.0.0.0
 *.dns.glf.wtf A 0.0.0.0
 dns.glf.wtf AAAA ::
 *.dns.glf.wtf AAAA ::
+dns.glorydns.com A 0.0.0.0
+*.dns.glorydns.com A 0.0.0.0
+dns.glorydns.com AAAA ::
+*.dns.glorydns.com AAAA ::
 dns.gnb09.id A 0.0.0.0
 *.dns.gnb09.id A 0.0.0.0
 dns.gnb09.id AAAA ::
@@ -2257,6 +2253,10 @@ dns.hotta.page A 0.0.0.0
 *.dns.hotta.page A 0.0.0.0
 dns.hotta.page AAAA ::
 *.dns.hotta.page AAAA ::
+dns.huas.me A 0.0.0.0
+*.dns.huas.me A 0.0.0.0
+dns.huas.me AAAA ::
+*.dns.huas.me AAAA ::
 dns.hujiayucc.cn A 0.0.0.0
 *.dns.hujiayucc.cn A 0.0.0.0
 dns.hujiayucc.cn AAAA ::
@@ -2973,10 +2973,6 @@ dns.sellan.fr A 0.0.0.0
 *.dns.sellan.fr A 0.0.0.0
 dns.sellan.fr AAAA ::
 *.dns.sellan.fr AAAA ::
-dnsse-noads.alekberg.net A 0.0.0.0
-*.dnsse-noads.alekberg.net A 0.0.0.0
-dnsse-noads.alekberg.net AAAA ::
-*.dnsse-noads.alekberg.net AAAA ::
 dns.sev.monster A 0.0.0.0
 *.dns.sev.monster A 0.0.0.0
 dns.sev.monster AAAA ::
@@ -3001,6 +2997,10 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
+dns.simplylinux.ch A 0.0.0.0
+*.dns.simplylinux.ch A 0.0.0.0
+dns.simplylinux.ch AAAA ::
+*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -3489,6 +3489,10 @@ doh.cleanbrowsing.org A 0.0.0.0
 *.doh.cleanbrowsing.org A 0.0.0.0
 doh.cleanbrowsing.org AAAA ::
 *.doh.cleanbrowsing.org AAAA ::
+doh.cnetwork.cloud A 0.0.0.0
+*.doh.cnetwork.cloud A 0.0.0.0
+doh.cnetwork.cloud AAAA ::
+*.doh.cnetwork.cloud AAAA ::
 doh.cornes.me A 0.0.0.0
 *.doh.cornes.me A 0.0.0.0
 doh.cornes.me AAAA ::
@@ -4217,6 +4221,10 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
+epicbrowser.com A 0.0.0.0
+*.epicbrowser.com A 0.0.0.0
+epicbrowser.com AAAA ::
+*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -5701,18 +5709,10 @@ odoh.crypto.sx A 0.0.0.0
 *.odoh.crypto.sx A 0.0.0.0
 odoh.crypto.sx AAAA ::
 *.odoh.crypto.sx AAAA ::
-odoh-target.alekberg.net A 0.0.0.0
-*.odoh-target.alekberg.net A 0.0.0.0
-odoh-target.alekberg.net AAAA ::
-*.odoh-target.alekberg.net AAAA ::
 odoh-target-noads.alekberg.net A 0.0.0.0
 *.odoh-target-noads.alekberg.net A 0.0.0.0
 odoh-target-noads.alekberg.net AAAA ::
 *.odoh-target-noads.alekberg.net AAAA ::
-odoh-target-noads-se.alekberg.net A 0.0.0.0
-*.odoh-target-noads-se.alekberg.net A 0.0.0.0
-odoh-target-noads-se.alekberg.net AAAA ::
-*.odoh-target-noads-se.alekberg.net AAAA ::
 odvr.nic.cz A 0.0.0.0
 *.odvr.nic.cz A 0.0.0.0
 odvr.nic.cz AAAA ::
@@ -7709,10 +7709,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.comepicbrowser.com A 0.0.0.0
-*.whoisping.comepicbrowser.com A 0.0.0.0
-whoisping.comepicbrowser.com AAAA ::
-*.whoisping.comepicbrowser.com AAAA ::
+whoisping.com A 0.0.0.0
+*.whoisping.com A 0.0.0.0
+whoisping.com AAAA ::
+*.whoisping.com AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
@@ -7809,6 +7809,10 @@ xn--durhre-yxa.de A 0.0.0.0
 *.xn--durhre-yxa.de A 0.0.0.0
 xn--durhre-yxa.de AAAA ::
 *.xn--durhre-yxa.de AAAA ::
+xorbiadns.com A 0.0.0.0
+*.xorbiadns.com A 0.0.0.0
+xorbiadns.com AAAA ::
+*.xorbiadns.com AAAA ::
 xvpn.io A 0.0.0.0
 *.xvpn.io A 0.0.0.0
 xvpn.io AAAA ::
@@ -7865,10 +7869,6 @@ yunyun.is.my.waifu.cz A 0.0.0.0
 *.yunyun.is.my.waifu.cz A 0.0.0.0
 yunyun.is.my.waifu.cz AAAA ::
 *.yunyun.is.my.waifu.cz AAAA ::
-yuvelirtut.website A 0.0.0.0
-*.yuvelirtut.website A 0.0.0.0
-yuvelirtut.website AAAA ::
-*.yuvelirtut.website AAAA ::
 yvr01.dnscry.pt A 0.0.0.0
 *.yvr01.dnscry.pt A 0.0.0.0
 yvr01.dnscry.pt AAAA ::
