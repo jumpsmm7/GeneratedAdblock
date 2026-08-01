@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2607311750 ; Serial Number
+ 2608010530 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -267,8 +267,6 @@ airvpn.org CNAME .
 *.airvpn.org CNAME .
 all.dns.mullvad.net CNAME .
 *.all.dns.mullvad.net CNAME .
-alleesph.online CNAME .
-*.alleesph.online CNAME .
 allunblocked.com CNAME .
 *.allunblocked.com CNAME .
 alpha-dns.quad9.net CNAME .
@@ -493,8 +491,6 @@ chuncheon.dnsovertor.cc CNAME .
 *.chuncheon.dnsovertor.cc CNAME .
 citizenvpn.com CNAME .
 *.citizenvpn.com CNAME .
-ck.tw CNAME .
-*.ck.tw CNAME .
 cleanbrowsing.org CNAME .
 *.cleanbrowsing.org CNAME .
 clean.dnsforge.de CNAME .
@@ -567,6 +563,8 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 darkness.is.my.waifu.cz CNAME .
 *.darkness.is.my.waifu.cz CNAME .
+darknet.to CNAME .
+*.darknet.to CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
@@ -979,6 +977,8 @@ dns-doh.dnsforfamily.com CNAME .
 *.dns-doh.dnsforfamily.com CNAME .
 dns-doh-no-safe-search.dnsforfamily.com CNAME .
 *.dns-doh-no-safe-search.dnsforfamily.com CNAME .
+dns-dot.dnsforfamask.icloud.com CNAME .
+*.dns-dot.dnsforfamask.icloud.com CNAME .
 dns-dot.dnsforfamily.com CNAME .
 *.dns-dot.dnsforfamily.com CNAME .
 dns.dotnet.win CNAME .
@@ -1055,8 +1055,6 @@ dns.flymc.cc CNAME .
 *.dns.flymc.cc CNAME .
 dnsforfamily.com CNAME .
 *.dnsforfamily.com CNAME .
-dnsforg1dot1dot1dot1.cloudflare-dns.com CNAME .
-*.dnsforg1dot1dot1dot1.cloudflare-dns.com CNAME .
 dnsforge.de CNAME .
 *.dnsforge.de CNAME .
 dns.foximao.cn CNAME .
@@ -1077,6 +1075,8 @@ dns.furrix.zone CNAME .
 *.dns.furrix.zone CNAME .
 dns.furrydns.de CNAME .
 *.dns.furrydns.de CNAME .
+dns.futuredns.me CNAME .
+*.dns.futuredns.me CNAME .
 dns.gamban.com CNAME .
 *.dns.gamban.com CNAME .
 dns.gayanalysing.co.uk CNAME .
@@ -1135,8 +1135,6 @@ dns.hostux.net CNAME .
 *.dns.hostux.net CNAME .
 dns.hotta.page CNAME .
 *.dns.hotta.page CNAME .
-dns.huas.me CNAME .
-*.dns.huas.me CNAME .
 dns.hujiayucc.cn CNAME .
 *.dns.hujiayucc.cn CNAME .
 dns.huseynov.work CNAME .
@@ -1225,6 +1223,8 @@ dns.kxy.ink CNAME .
 *.dns.kxy.ink CNAME .
 dns.l337.site CNAME .
 *.dns.l337.site CNAME .
+dns.labnekotest.site CNAME .
+*.dns.labnekotest.site CNAME .
 dns.larsdebruin.net CNAME .
 *.dns.larsdebruin.net CNAME .
 dns.lars-lehmann.net CNAME .
@@ -1347,6 +1347,8 @@ dns.njal.la CNAME .
 *.dns.njal.la CNAME .
 dnsnl.alekberg.net CNAME .
 *.dnsnl.alekberg.net CNAME .
+dnsnl-noads.alekberg.net CNAME .
+*.dnsnl-noads.alekberg.net CNAME .
 dns.nodoa.me CNAME .
 *.dns.nodoa.me CNAME .
 dns-nosec.quad9.net CNAME .
@@ -1493,6 +1495,8 @@ dns.sec511.com CNAME .
 *.dns.sec511.com CNAME .
 dns.sellan.fr CNAME .
 *.dns.sellan.fr CNAME .
+dnsse-noads.alekberg.net CNAME .
+*.dnsse-noads.alekberg.net CNAME .
 dns.sev.monster CNAME .
 *.dns.sev.monster CNAME .
 dns.shareworx.net CNAME .
@@ -1753,8 +1757,6 @@ doh.chi.ahadns.net CNAME .
 *.doh.chi.ahadns.net CNAME .
 doh.cleanbrowsing.org CNAME .
 *.doh.cleanbrowsing.org CNAME .
-doh.cnetwork.cloud CNAME .
-*.doh.cnetwork.cloud CNAME .
 doh.cornes.me CNAME .
 *.doh.cornes.me CNAME .
 doh.cox.net CNAME .
@@ -2105,8 +2107,6 @@ ecs-doh.dnswarden.com CNAME .
 *.ecs-doh.dnswarden.com CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
-e.de CNAME .
-*.e.de CNAME .
 edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 edns.233py.com CNAME .
@@ -2357,6 +2357,8 @@ guardianvpn.net CNAME .
 *.guardianvpn.net CNAME .
 guardster.com CNAME .
 *.guardster.com CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 gva01.dnscry.pt CNAME .
 *.gva01.dnscry.pt CNAME .
 gztech.me CNAME .
@@ -2375,8 +2377,8 @@ helloworld.cx CNAME .
 *.helloworld.cx CNAME .
 hfgx.shop CNAME .
 *.hfgx.shop CNAME .
-h.gjridarknet.to CNAME .
-*.h.gjridarknet.to CNAME .
+h.gjrick.tw CNAME .
+*.h.gjrick.tw CNAME .
 hiddendigital.info CNAME .
 *.hiddendigital.info CNAME .
 hiddendragon.site CNAME .
@@ -2707,6 +2709,8 @@ mikezhang.xyz CNAME .
 *.mikezhang.xyz CNAME .
 mil01.dnscry.pt CNAME .
 *.mil01.dnscry.pt CNAME .
+mily.com CNAME .
+*.mily.com CNAME .
 miniprox.com CNAME .
 *.miniprox.com CNAME .
 miniprox.info CNAME .
@@ -2867,6 +2871,8 @@ odoh.cloudflare-dns.com CNAME .
 *.odoh.cloudflare-dns.com CNAME .
 odoh.crypto.sx CNAME .
 *.odoh.crypto.sx CNAME .
+odoh-target-se.alekberg.net CNAME .
+*.odoh-target-se.alekberg.net CNAME .
 odvr.nic.cz CNAME .
 *.odvr.nic.cz CNAME .
 omr01.dnscry.pt CNAME .
