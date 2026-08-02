@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608010530 ; Serial Number
+ 2608020553 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -173,10 +173,6 @@ addns1.m-it.ro A 0.0.0.0
 *.addns1.m-it.ro A 0.0.0.0
 addns1.m-it.ro AAAA ::
 *.addns1.m-it.ro AAAA ::
-adfiltro.fun A 0.0.0.0
-*.adfiltro.fun A 0.0.0.0
-adfiltro.fun AAAA ::
-*.adfiltro.fun AAAA ::
 adfreedns.top A 0.0.0.0
 *.adfreedns.top A 0.0.0.0
 adfreedns.top AAAA ::
@@ -445,10 +441,6 @@ a.family.ns.dnslify.com A 0.0.0.0
 *.a.family.ns.dnslify.com A 0.0.0.0
 a.family.ns.dnslify.com AAAA ::
 *.a.family.ns.dnslify.com AAAA ::
-affcdn.net A 0.0.0.0
-*.affcdn.net A 0.0.0.0
-affcdn.net AAAA ::
-*.affcdn.net AAAA ::
 affsoft.cc A 0.0.0.0
 *.affsoft.cc A 0.0.0.0
 affsoft.cc AAAA ::
@@ -621,6 +613,10 @@ arashi.net.eu.org A 0.0.0.0
 *.arashi.net.eu.org A 0.0.0.0
 arashi.net.eu.org AAAA ::
 *.arashi.net.eu.org AAAA ::
+ard.com A 0.0.0.0
+*.ard.com A 0.0.0.0
+ard.com AAAA ::
+*.ard.com AAAA ::
 area51.mywire.org A 0.0.0.0
 *.area51.mywire.org A 0.0.0.0
 area51.mywire.org AAAA ::
@@ -1757,10 +1753,6 @@ dns.colorfreedom.org A 0.0.0.0
 *.dns.colorfreedom.org A 0.0.0.0
 dns.colorfreedom.org AAAA ::
 *.dns.colorfreedom.org AAAA ::
-dns.comeonjames.club A 0.0.0.0
-*.dns.comeonjames.club A 0.0.0.0
-dns.comeonjames.club AAAA ::
-*.dns.comeonjames.club AAAA ::
 dns.comff.net A 0.0.0.0
 *.dns.comff.net A 0.0.0.0
 dns.comff.net AAAA ::
@@ -1945,10 +1937,6 @@ dns-doh-no-safe-search.dnsforfamily.com A 0.0.0.0
 *.dns-doh-no-safe-search.dnsforfamily.com A 0.0.0.0
 dns-doh-no-safe-search.dnsforfamily.com AAAA ::
 *.dns-doh-no-safe-search.dnsforfamily.com AAAA ::
-dns-dot.dnsforfamask.icloud.com A 0.0.0.0
-*.dns-dot.dnsforfamask.icloud.com A 0.0.0.0
-dns-dot.dnsforfamask.icloud.com AAAA ::
-*.dns-dot.dnsforfamask.icloud.com AAAA ::
 dns-dot.dnsforfamily.com A 0.0.0.0
 *.dns-dot.dnsforfamily.com A 0.0.0.0
 dns-dot.dnsforfamily.com AAAA ::
@@ -2049,6 +2037,10 @@ dns-family.adguard.com A 0.0.0.0
 *.dns-family.adguard.com A 0.0.0.0
 dns-family.adguard.com AAAA ::
 *.dns-family.adguard.com AAAA ::
+dns-family.adgumask.icloud.com A 0.0.0.0
+*.dns-family.adgumask.icloud.com A 0.0.0.0
+dns-family.adgumask.icloud.com AAAA ::
+*.dns-family.adgumask.icloud.com AAAA ::
 dns.fancyorg.at A 0.0.0.0
 *.dns.fancyorg.at A 0.0.0.0
 dns.fancyorg.at AAAA ::
@@ -2141,10 +2133,6 @@ dns.furrydns.de A 0.0.0.0
 *.dns.furrydns.de A 0.0.0.0
 dns.furrydns.de AAAA ::
 *.dns.furrydns.de AAAA ::
-dns.futuredns.me A 0.0.0.0
-*.dns.futuredns.me A 0.0.0.0
-dns.futuredns.me AAAA ::
-*.dns.futuredns.me AAAA ::
 dns.gamban.com A 0.0.0.0
 *.dns.gamban.com A 0.0.0.0
 dns.gamban.com AAAA ::
@@ -2437,10 +2425,6 @@ dns.l337.site A 0.0.0.0
 *.dns.l337.site A 0.0.0.0
 dns.l337.site AAAA ::
 *.dns.l337.site AAAA ::
-dns.labnekotest.site A 0.0.0.0
-*.dns.labnekotest.site A 0.0.0.0
-dns.labnekotest.site AAAA ::
-*.dns.labnekotest.site AAAA ::
 dns.larsdebruin.net A 0.0.0.0
 *.dns.larsdebruin.net A 0.0.0.0
 dns.larsdebruin.net AAAA ::
@@ -2685,10 +2669,6 @@ dnsnl.alekberg.net A 0.0.0.0
 *.dnsnl.alekberg.net A 0.0.0.0
 dnsnl.alekberg.net AAAA ::
 *.dnsnl.alekberg.net AAAA ::
-dnsnl-noads.alekberg.net A 0.0.0.0
-*.dnsnl-noads.alekberg.net A 0.0.0.0
-dnsnl-noads.alekberg.net AAAA ::
-*.dnsnl-noads.alekberg.net AAAA ::
 dns.nodoa.me A 0.0.0.0
 *.dns.nodoa.me A 0.0.0.0
 dns.nodoa.me AAAA ::
@@ -2981,10 +2961,6 @@ dns.sellan.fr A 0.0.0.0
 *.dns.sellan.fr A 0.0.0.0
 dns.sellan.fr AAAA ::
 *.dns.sellan.fr AAAA ::
-dnsse-noads.alekberg.net A 0.0.0.0
-*.dnsse-noads.alekberg.net A 0.0.0.0
-dnsse-noads.alekberg.net AAAA ::
-*.dnsse-noads.alekberg.net AAAA ::
 dns.sev.monster A 0.0.0.0
 *.dns.sev.monster A 0.0.0.0
 dns.sev.monster AAAA ::
@@ -3317,10 +3293,6 @@ dns.zfsystem.tech A 0.0.0.0
 *.dns.zfsystem.tech A 0.0.0.0
 dns.zfsystem.tech AAAA ::
 *.dns.zfsystem.tech AAAA ::
-dns.zui.lol A 0.0.0.0
-*.dns.zui.lol A 0.0.0.0
-dns.zui.lol AAAA ::
-*.dns.zui.lol AAAA ::
 dns.zzuhacker.cn A 0.0.0.0
 *.dns.zzuhacker.cn A 0.0.0.0
 dns.zzuhacker.cn AAAA ::
@@ -3505,6 +3477,10 @@ doh.cleanbrowsing.org A 0.0.0.0
 *.doh.cleanbrowsing.org A 0.0.0.0
 doh.cleanbrowsing.org AAAA ::
 *.doh.cleanbrowsing.org AAAA ::
+doh.cnetwork.cloud A 0.0.0.0
+*.doh.cnetwork.cloud A 0.0.0.0
+doh.cnetwork.cloud AAAA ::
+*.doh.cnetwork.cloud AAAA ::
 doh.cornes.me A 0.0.0.0
 *.doh.cornes.me A 0.0.0.0
 doh.cornes.me AAAA ::
@@ -4157,6 +4133,10 @@ droyd.top A 0.0.0.0
 *.droyd.top A 0.0.0.0
 droyd.top AAAA ::
 *.droyd.top AAAA ::
+drs.rustsword.com A 0.0.0.0
+*.drs.rustsword.com A 0.0.0.0
+drs.rustsword.com AAAA ::
+*.drs.rustsword.com AAAA ::
 d.toairs.com A 0.0.0.0
 *.d.toairs.com A 0.0.0.0
 d.toairs.com AAAA ::
@@ -5409,10 +5389,6 @@ mil01.dnscry.pt A 0.0.0.0
 *.mil01.dnscry.pt A 0.0.0.0
 mil01.dnscry.pt AAAA ::
 *.mil01.dnscry.pt AAAA ::
-mily.com A 0.0.0.0
-*.mily.com A 0.0.0.0
-mily.com AAAA ::
-*.mily.com AAAA ::
 miniprox.com A 0.0.0.0
 *.miniprox.com A 0.0.0.0
 miniprox.com AAAA ::
@@ -5733,6 +5709,10 @@ odoh.crypto.sx A 0.0.0.0
 *.odoh.crypto.sx A 0.0.0.0
 odoh.crypto.sx AAAA ::
 *.odoh.crypto.sx AAAA ::
+odoh-target-noads-se.alekberg.net A 0.0.0.0
+*.odoh-target-noads-se.alekberg.net A 0.0.0.0
+odoh-target-noads-se.alekberg.net AAAA ::
+*.odoh-target-noads-se.alekberg.net AAAA ::
 odoh-target-se.alekberg.net A 0.0.0.0
 *.odoh-target-se.alekberg.net A 0.0.0.0
 odoh-target-se.alekberg.net AAAA ::
@@ -7093,6 +7073,10 @@ tj.jamesxue.xyz A 0.0.0.0
 *.tj.jamesxue.xyz A 0.0.0.0
 tj.jamesxue.xyz AAAA ::
 *.tj.jamesxue.xyz AAAA ::
+tk31z.com A 0.0.0.0
+*.tk31z.com A 0.0.0.0
+tk31z.com AAAA ::
+*.tk31z.com AAAA ::
 tky-dns.bitdefender.net A 0.0.0.0
 *.tky-dns.bitdefender.net A 0.0.0.0
 tky-dns.bitdefender.net AAAA ::
