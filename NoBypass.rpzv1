@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608020553 ; Serial Number
+ 2608021813 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -91,6 +91,8 @@ adb.timnichollsphotography.com CNAME .
 *.adb.timnichollsphotography.com CNAME .
 addns1.m-it.ro CNAME .
 *.addns1.m-it.ro CNAME .
+adfiltro.fun CNAME .
+*.adfiltro.fun CNAME .
 adfreedns.top CNAME .
 *.adfreedns.top CNAME .
 adfree.usableprivacy.net CNAME .
@@ -123,8 +125,6 @@ adguard.bonsirven.eu CNAME .
 *.adguard.bonsirven.eu CNAME .
 adguard.dantynes.cyou CNAME .
 *.adguard.dantynes.cyou CNAME .
-adguard.dekonix.ru CNAME .
-*.adguard.dekonix.ru CNAME .
 adguard.depieri.net CNAME .
 *.adguard.depieri.net CNAME .
 adguard-dns.com CNAME .
@@ -311,8 +311,6 @@ arashi.eu.org CNAME .
 *.arashi.eu.org CNAME .
 arashi.net.eu.org CNAME .
 *.arashi.net.eu.org CNAME .
-ard.com CNAME .
-*.ard.com CNAME .
 area51.mywire.org CNAME .
 *.area51.mywire.org CNAME .
 armorrush.eu.org CNAME .
@@ -1023,8 +1021,6 @@ dns.falkenthal.org CNAME .
 *.dns.falkenthal.org CNAME .
 dns-family.adguard.com CNAME .
 *.dns-family.adguard.com CNAME .
-dns-family.adgumask.icloud.com CNAME .
-*.dns-family.adgumask.icloud.com CNAME .
 dns.fancyorg.at CNAME .
 *.dns.fancyorg.at CNAME .
 dns.farshidhakimy.de CNAME .
@@ -1339,6 +1335,8 @@ dns.njal.la CNAME .
 *.dns.njal.la CNAME .
 dnsnl.alekberg.net CNAME .
 *.dnsnl.alekberg.net CNAME .
+dnsnl-noads.alekberg.net CNAME .
+*.dnsnl-noads.alekberg.net CNAME .
 dns.nodoa.me CNAME .
 *.dns.nodoa.me CNAME .
 dns-nosec.quad9.net CNAME .
@@ -1485,6 +1483,8 @@ dns.sec511.com CNAME .
 *.dns.sec511.com CNAME .
 dns.sellan.fr CNAME .
 *.dns.sellan.fr CNAME .
+dnsse-noads.alekberg.net CNAME .
+*.dnsse-noads.alekberg.net CNAME .
 dns.sev.monster CNAME .
 *.dns.sev.monster CNAME .
 dns.shareworx.net CNAME .
@@ -1497,8 +1497,6 @@ dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
-dns.simplylinux.ch CNAME .
-*.dns.simplylinux.ch CNAME .
 dns.sindominio.net CNAME .
 *.dns.sindominio.net CNAME .
 dns.skrep.eu CNAME .
@@ -2071,8 +2069,6 @@ draco.plan9-ns2.com CNAME .
 *.draco.plan9-ns2.com CNAME .
 droyd.top CNAME .
 *.droyd.top CNAME .
-drs.rustsword.com CNAME .
-*.drs.rustsword.com CNAME .
 d.toairs.com CNAME .
 *.d.toairs.com CNAME .
 dtw01.dnscry.pt CNAME .
@@ -2799,8 +2795,6 @@ ns1.qquack.org CNAME .
 *.ns1.qquack.org CNAME .
 ns1.recursive.dnsbycomodo.com CNAME .
 *.ns1.recursive.dnsbycomodo.com CNAME .
-ns1.sc-lezhi.com CNAME .
-*.ns1.sc-lezhi.com CNAME .
 ns2.4netguides.org CNAME .
 *.ns2.4netguides.org CNAME .
 ns2.dnsprivacy.at CNAME .
@@ -2859,10 +2853,6 @@ odoh.cloudflare-dns.com CNAME .
 *.odoh.cloudflare-dns.com CNAME .
 odoh.crypto.sx CNAME .
 *.odoh.crypto.sx CNAME .
-odoh-target-noads-se.alekberg.net CNAME .
-*.odoh-target-noads-se.alekberg.net CNAME .
-odoh-target-se.alekberg.net CNAME .
-*.odoh-target-se.alekberg.net CNAME .
 odvr.nic.cz CNAME .
 *.odvr.nic.cz CNAME .
 omr01.dnscry.pt CNAME .
@@ -3909,6 +3899,8 @@ xitesite.com CNAME .
 *.xitesite.com CNAME .
 xn--durhre-yxa.de CNAME .
 *.xn--durhre-yxa.de CNAME .
+xorbiadns.com CNAME .
+*.xorbiadns.com CNAME .
 xvpn.io CNAME .
 *.xvpn.io CNAME .
 ychen.cf CNAME .
