@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608021814 ; Serial Number
+ 2608030845 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -173,10 +173,6 @@ addns1.m-it.ro A 0.0.0.0
 *.addns1.m-it.ro A 0.0.0.0
 addns1.m-it.ro AAAA ::
 *.addns1.m-it.ro AAAA ::
-adfiltro.fun A 0.0.0.0
-*.adfiltro.fun A 0.0.0.0
-adfiltro.fun AAAA ::
-*.adfiltro.fun AAAA ::
 adfreedns.top A 0.0.0.0
 *.adfreedns.top A 0.0.0.0
 adfreedns.top AAAA ::
@@ -197,6 +193,10 @@ adg.khon.dev A 0.0.0.0
 *.adg.khon.dev A 0.0.0.0
 adg.khon.dev AAAA ::
 *.adg.khon.dev AAAA ::
+adg.rueiliu.space A 0.0.0.0
+*.adg.rueiliu.space A 0.0.0.0
+adg.rueiliu.space AAAA ::
+*.adg.rueiliu.space AAAA ::
 adg.tshost.no A 0.0.0.0
 *.adg.tshost.no A 0.0.0.0
 adg.tshost.no AAAA ::
@@ -441,6 +441,10 @@ a.family.ns.dnslify.com A 0.0.0.0
 *.a.family.ns.dnslify.com A 0.0.0.0
 a.family.ns.dnslify.com AAAA ::
 *.a.family.ns.dnslify.com AAAA ::
+affcdn.net A 0.0.0.0
+*.affcdn.net A 0.0.0.0
+affcdn.net AAAA ::
+*.affcdn.net AAAA ::
 affsoft.cc A 0.0.0.0
 *.affsoft.cc A 0.0.0.0
 affsoft.cc AAAA ::
@@ -529,6 +533,10 @@ americaproxy.info A 0.0.0.0
 *.americaproxy.info A 0.0.0.0
 americaproxy.info AAAA ::
 *.americaproxy.info AAAA ::
+amily.adguard.com A 0.0.0.0
+*.amily.adguard.com A 0.0.0.0
+amily.adguard.com AAAA ::
+*.amily.adguard.com AAAA ::
 ams01.dnscry.pt A 0.0.0.0
 *.ams01.dnscry.pt A 0.0.0.0
 ams01.dnscry.pt AAAA ::
@@ -1109,10 +1117,6 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1749,6 +1753,10 @@ dns.colorfreedom.org A 0.0.0.0
 *.dns.colorfreedom.org A 0.0.0.0
 dns.colorfreedom.org AAAA ::
 *.dns.colorfreedom.org AAAA ::
+dns.comeonjames.club A 0.0.0.0
+*.dns.comeonjames.club A 0.0.0.0
+dns.comeonjames.club AAAA ::
+*.dns.comeonjames.club AAAA ::
 dns.comff.net A 0.0.0.0
 *.dns.comff.net A 0.0.0.0
 dns.comff.net AAAA ::
@@ -2045,6 +2053,10 @@ dns.faze.dev A 0.0.0.0
 *.dns.faze.dev A 0.0.0.0
 dns.faze.dev AAAA ::
 *.dns.faze.dev AAAA ::
+dns-fdarknet.to A 0.0.0.0
+*.dns-fdarknet.to A 0.0.0.0
+dns-fdarknet.to AAAA ::
+*.dns-fdarknet.to AAAA ::
 dns.fehlsprache.de A 0.0.0.0
 *.dns.fehlsprache.de A 0.0.0.0
 dns.fehlsprache.de AAAA ::
@@ -2445,6 +2457,10 @@ dns.liberador.net A 0.0.0.0
 *.dns.liberador.net A 0.0.0.0
 dns.liberador.net AAAA ::
 *.dns.liberador.net AAAA ::
+dns.lightmaster.pw A 0.0.0.0
+*.dns.lightmaster.pw A 0.0.0.0
+dns.lightmaster.pw AAAA ::
+*.dns.lightmaster.pw AAAA ::
 dns.lihj.me A 0.0.0.0
 *.dns.lihj.me A 0.0.0.0
 dns.lihj.me AAAA ::
@@ -2661,10 +2677,6 @@ dnsnl.alekberg.net A 0.0.0.0
 *.dnsnl.alekberg.net A 0.0.0.0
 dnsnl.alekberg.net AAAA ::
 *.dnsnl.alekberg.net AAAA ::
-dnsnl-noads.alekberg.net A 0.0.0.0
-*.dnsnl-noads.alekberg.net A 0.0.0.0
-dnsnl-noads.alekberg.net AAAA ::
-*.dnsnl-noads.alekberg.net AAAA ::
 dns.nodoa.me A 0.0.0.0
 *.dns.nodoa.me A 0.0.0.0
 dns.nodoa.me AAAA ::
@@ -2713,10 +2725,6 @@ dns.oliviertv.co.za A 0.0.0.0
 *.dns.oliviertv.co.za A 0.0.0.0
 dns.oliviertv.co.za AAAA ::
 *.dns.oliviertv.co.za AAAA ::
-dns.olpploiopkuyhiopsfrt.info A 0.0.0.0
-*.dns.olpploiopkuyhiopsfrt.info A 0.0.0.0
-dns.olpploiopkuyhiopsfrt.info AAAA ::
-*.dns.olpploiopkuyhiopsfrt.info AAAA ::
 dns.opendns.com A 0.0.0.0
 *.dns.opendns.com A 0.0.0.0
 dns.opendns.com AAAA ::
@@ -2957,10 +2965,6 @@ dns.sellan.fr A 0.0.0.0
 *.dns.sellan.fr A 0.0.0.0
 dns.sellan.fr AAAA ::
 *.dns.sellan.fr AAAA ::
-dnsse-noads.alekberg.net A 0.0.0.0
-*.dnsse-noads.alekberg.net A 0.0.0.0
-dnsse-noads.alekberg.net AAAA ::
-*.dnsse-noads.alekberg.net AAAA ::
 dns.sev.monster A 0.0.0.0
 *.dns.sev.monster A 0.0.0.0
 dns.sev.monster AAAA ::
@@ -3217,6 +3221,10 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
+dnswarden.com A 0.0.0.0
+*.dnswarden.com A 0.0.0.0
+dnswarden.com AAAA ::
+*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4169,10 +4177,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.dnswarden.com A 0.0.0.0
-*.ecs-doh.dnswarden.com A 0.0.0.0
-ecs-doh.dnswarden.com AAAA ::
-*.ecs-doh.dnswarden.com AAAA ::
+ecs-doh.epicbrowser.com A 0.0.0.0
+*.ecs-doh.epicbrowser.com A 0.0.0.0
+ecs-doh.epicbrowser.com AAAA ::
+*.ecs-doh.epicbrowser.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4205,10 +4213,6 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
-epicbrowser.com A 0.0.0.0
-*.epicbrowser.com A 0.0.0.0
-epicbrowser.com AAAA ::
-*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4581,10 +4585,6 @@ gb-lon-w-p-2.nashkan.net A 0.0.0.0
 *.gb-lon-w-p-2.nashkan.net A 0.0.0.0
 gb-lon-w-p-2.nashkan.net AAAA ::
 *.gb-lon-w-p-2.nashkan.net AAAA ::
-gclouddns.com A 0.0.0.0
-*.gclouddns.com A 0.0.0.0
-gclouddns.com AAAA ::
-*.gclouddns.com AAAA ::
 geckovpn.xyz A 0.0.0.0
 *.geckovpn.xyz A 0.0.0.0
 geckovpn.xyz AAAA ::
@@ -5697,6 +5697,22 @@ odoh.crypto.sx A 0.0.0.0
 *.odoh.crypto.sx A 0.0.0.0
 odoh.crypto.sx AAAA ::
 *.odoh.crypto.sx AAAA ::
+odoh-target.alekberg.net A 0.0.0.0
+*.odoh-target.alekberg.net A 0.0.0.0
+odoh-target.alekberg.net AAAA ::
+*.odoh-target.alekberg.net AAAA ::
+odoh-target-noads.alekberg.net A 0.0.0.0
+*.odoh-target-noads.alekberg.net A 0.0.0.0
+odoh-target-noads.alekberg.net AAAA ::
+*.odoh-target-noads.alekberg.net AAAA ::
+odoh-target-noads-se.alekberg.net A 0.0.0.0
+*.odoh-target-noads-se.alekberg.net A 0.0.0.0
+odoh-target-noads-se.alekberg.net AAAA ::
+*.odoh-target-noads-se.alekberg.net AAAA ::
+odoh-target-se.alekberg.net A 0.0.0.0
+*.odoh-target-se.alekberg.net A 0.0.0.0
+odoh-target-se.alekberg.net AAAA ::
+*.odoh-target-se.alekberg.net AAAA ::
 odvr.nic.cz A 0.0.0.0
 *.odvr.nic.cz A 0.0.0.0
 odvr.nic.cz AAAA ::
@@ -7053,10 +7069,6 @@ tj.jamesxue.xyz A 0.0.0.0
 *.tj.jamesxue.xyz A 0.0.0.0
 tj.jamesxue.xyz AAAA ::
 *.tj.jamesxue.xyz AAAA ::
-tk31z.com A 0.0.0.0
-*.tk31z.com A 0.0.0.0
-tk31z.com AAAA ::
-*.tk31z.com AAAA ::
 tky-dns.bitdefender.net A 0.0.0.0
 *.tky-dns.bitdefender.net A 0.0.0.0
 tky-dns.bitdefender.net AAAA ::
@@ -7645,6 +7657,10 @@ vyprvpn.com A 0.0.0.0
 *.vyprvpn.com A 0.0.0.0
 vyprvpn.com AAAA ::
 *.vyprvpn.com AAAA ::
+wantaquddin.com A 0.0.0.0
+*.wantaquddin.com A 0.0.0.0
+wantaquddin.com AAAA ::
+*.wantaquddin.com AAAA ::
 waw01.dnscry.pt A 0.0.0.0
 *.waw01.dnscry.pt A 0.0.0.0
 waw01.dnscry.pt AAAA ::
