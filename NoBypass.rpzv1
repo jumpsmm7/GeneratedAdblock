@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608051850 ; Serial Number
+ 2608060806 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -103,8 +103,6 @@ adg.jnorton.us CNAME .
 *.adg.jnorton.us CNAME .
 adg.khon.dev CNAME .
 *.adg.khon.dev CNAME .
-adg.rueiliu.space CNAME .
-*.adg.rueiliu.space CNAME .
 adg.tshost.no CNAME .
 *.adg.tshost.no CNAME .
 adguard1.jsanagustin.net CNAME .
@@ -595,8 +593,6 @@ deic-ore.anycast.uncensoreddns.org CNAME .
 *.deic-ore.anycast.uncensoreddns.org CNAME .
 den01.dnscry.pt CNAME .
 *.den01.dnscry.pt CNAME .
-dfirefox.dns.nextdns.io CNAME .
-*.dfirefox.dns.nextdns.io CNAME .
 dfw02.dnscry.pt CNAME .
 *.dfw02.dnscry.pt CNAME .
 digi77.com CNAME .
@@ -977,8 +973,6 @@ dns.dotnet.win CNAME .
 *.dns.dotnet.win CNAME .
 dns.dremaxx.de CNAME .
 *.dns.dremaxx.de CNAME .
-dns.dyn1.de CNAME .
-*.dns.dyn1.de CNAME .
 dns.dynx.pro CNAME .
 *.dns.dynx.pro CNAME .
 dns.east.comss.one CNAME .
@@ -1053,6 +1047,8 @@ dns.foximao.cn CNAME .
 *.dns.foximao.cn CNAME .
 dns.foxyfy.net CNAME .
 *.dns.foxyfy.net CNAME .
+dns-free.link CNAME .
+*.dns-free.link CNAME .
 dns.freopc.fr CNAME .
 *.dns.freopc.fr CNAME .
 dns.freyja.pw CNAME .
@@ -1065,8 +1061,6 @@ dns.furrix.zone CNAME .
 *.dns.furrix.zone CNAME .
 dns.furrydns.de CNAME .
 *.dns.furrydns.de CNAME .
-dns.futuredns.me CNAME .
-*.dns.futuredns.me CNAME .
 dns.gamban.com CNAME .
 *.dns.gamban.com CNAME .
 dns.gayanalysing.co.uk CNAME .
@@ -1229,8 +1223,6 @@ dns.lgprk.com CNAME .
 *.dns.lgprk.com CNAME .
 dns.liberador.net CNAME .
 *.dns.liberador.net CNAME .
-dns.lightmaster.pw CNAME .
-*.dns.lightmaster.pw CNAME .
 dns.lihj.me CNAME .
 *.dns.lihj.me CNAME .
 dns.linkr.ninja CNAME .
@@ -1653,6 +1645,8 @@ dns.zemows.industries CNAME .
 *.dns.zemows.industries CNAME .
 dns.zfsystem.tech CNAME .
 *.dns.zfsystem.tech CNAME .
+dns.zui.lol CNAME .
+*.dns.zui.lol CNAME .
 dns.zzuhacker.cn CNAME .
 *.dns.zzuhacker.cn CNAME .
 do-39574-tr.xyz CNAME .
@@ -1745,6 +1739,8 @@ doh.chi.ahadns.net CNAME .
 *.doh.chi.ahadns.net CNAME .
 doh.cleanbrowsing.org CNAME .
 *.doh.cleanbrowsing.org CNAME .
+doh.cnetwork.cloud CNAME .
+*.doh.cnetwork.cloud CNAME .
 doh.cornes.me CNAME .
 *.doh.cornes.me CNAME .
 doh.cox.net CNAME .
@@ -2819,8 +2815,6 @@ ns.data.haus CNAME .
 *.ns.data.haus CNAME .
 nsec.arnor.org CNAME .
 *.nsec.arnor.org CNAME .
-ns-free.link CNAME .
-*.ns-free.link CNAME .
 ns.mtsoln.com CNAME .
 *.ns.mtsoln.com CNAME .
 ns.net.kg CNAME .
@@ -2851,10 +2845,6 @@ odoh.cloudflare-dns.com CNAME .
 *.odoh.cloudflare-dns.com CNAME .
 odoh.crypto.sx CNAME .
 *.odoh.crypto.sx CNAME .
-odoh-target.alekberg.net CNAME .
-*.odoh-target.alekberg.net CNAME .
-odoh-target-noads-se.alekberg.net CNAME .
-*.odoh-target-noads-se.alekberg.net CNAME .
 odvr.nic.cz CNAME .
 *.odvr.nic.cz CNAME .
 omr01.dnscry.pt CNAME .
@@ -3529,6 +3519,8 @@ timmes.nl CNAME .
 *.timmes.nl CNAME .
 tj.jamesxue.xyz CNAME .
 *.tj.jamesxue.xyz CNAME .
+tk31z.com CNAME .
+*.tk31z.com CNAME .
 tky-dns.bitdefender.net CNAME .
 *.tky-dns.bitdefender.net CNAME .
 tll01.dnscry.pt CNAME .
@@ -3893,8 +3885,6 @@ xitesite.com CNAME .
 *.xitesite.com CNAME .
 xn--durhre-yxa.de CNAME .
 *.xn--durhre-yxa.de CNAME .
-xorbiadns.com CNAME .
-*.xorbiadns.com CNAME .
 xvpn.io CNAME .
 *.xvpn.io CNAME .
 ychen.cf CNAME .
