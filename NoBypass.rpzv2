@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608130609 ; Serial Number
+ 2608141636 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,6 +13,10 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
+012proxy.ga A 0.0.0.0
+*.012proxy.ga A 0.0.0.0
+012proxy.ga AAAA ::
+*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -1101,6 +1105,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1725,10 +1733,6 @@ dns.colorfreedom.org A 0.0.0.0
 *.dns.colorfreedom.org A 0.0.0.0
 dns.colorfreedom.org AAAA ::
 *.dns.colorfreedom.org AAAA ::
-dns.comeonjames.club A 0.0.0.0
-*.dns.comeonjames.club A 0.0.0.0
-dns.comeonjames.club AAAA ::
-*.dns.comeonjames.club AAAA ::
 dns.comff.net A 0.0.0.0
 *.dns.comff.net A 0.0.0.0
 dns.comff.net AAAA ::
@@ -2105,10 +2109,6 @@ dns.furrydns.de A 0.0.0.0
 *.dns.furrydns.de A 0.0.0.0
 dns.furrydns.de AAAA ::
 *.dns.furrydns.de AAAA ::
-dns.futuredns.me A 0.0.0.0
-*.dns.futuredns.me A 0.0.0.0
-dns.futuredns.me AAAA ::
-*.dns.futuredns.me AAAA ::
 dns.gamban.com A 0.0.0.0
 *.dns.gamban.com A 0.0.0.0
 dns.gamban.com AAAA ::
@@ -2657,22 +2657,22 @@ dnsnl.alekberg.net A 0.0.0.0
 *.dnsnl.alekberg.net A 0.0.0.0
 dnsnl.alekberg.net AAAA ::
 *.dnsnl.alekberg.net AAAA ::
-dnsnl-noads.ale A 0.0.0.0
-*.dnsnl-noads.ale A 0.0.0.0
-dnsnl-noads.ale AAAA ::
-*.dnsnl-noads.ale AAAA ::
+dnsnl-noads.alekberg.net A 0.0.0.0
+*.dnsnl-noads.alekberg.net A 0.0.0.0
+dnsnl-noads.alekberg.net AAAA ::
+*.dnsnl-noads.alekberg.net AAAA ::
 dns.nodoa.me A 0.0.0.0
 *.dns.nodoa.me A 0.0.0.0
 dns.nodoa.me AAAA ::
 *.dns.nodoa.me AAAA ::
+dns-nosec.qu1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.dns-nosec.qu1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+dns-nosec.qu1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.dns-nosec.qu1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns-nosec.quad9.net A 0.0.0.0
 *.dns-nosec.quad9.net A 0.0.0.0
 dns-nosec.quad9.net AAAA ::
 *.dns-nosec.quad9.net AAAA ::
-dns-nosec.qudarknet.to A 0.0.0.0
-*.dns-nosec.qudarknet.to A 0.0.0.0
-dns-nosec.qudarknet.to AAAA ::
-*.dns-nosec.qudarknet.to AAAA ::
 dns.novali.date A 0.0.0.0
 *.dns.novali.date A 0.0.0.0
 dns.novali.date AAAA ::
@@ -2989,10 +2989,6 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
-dns.simplylinux.ch A 0.0.0.0
-*.dns.simplylinux.ch A 0.0.0.0
-dns.simplylinux.ch AAAA ::
-*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -3225,10 +3221,6 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
-dnswarden.com A 0.0.0.0
-*.dnswarden.com A 0.0.0.0
-dnswarden.com AAAA ::
-*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -3873,10 +3865,6 @@ doh.technochat.in A 0.0.0.0
 *.doh.technochat.in A 0.0.0.0
 doh.technochat.in AAAA ::
 *.doh.technochat.in AAAA ::
-doh.thio.me A 0.0.0.0
-*.doh.thio.me A 0.0.0.0
-doh.thio.me AAAA ::
-*.doh.thio.me AAAA ::
 doh.this.web.id A 0.0.0.0
 *.doh.this.web.id A 0.0.0.0
 doh.this.web.id AAAA ::
@@ -4185,10 +4173,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.epicbrowser.com A 0.0.0.0
-*.ecs-doh.epicbrowser.com A 0.0.0.0
-ecs-doh.epicbrowser.com AAAA ::
-*.ecs-doh.epicbrowser.com AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4221,6 +4209,10 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
+epicbrowser.com A 0.0.0.0
+*.epicbrowser.com A 0.0.0.0
+epicbrowser.com AAAA ::
+*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -5125,10 +5117,6 @@ kavkaz.monster A 0.0.0.0
 *.kavkaz.monster A 0.0.0.0
 kavkaz.monster AAAA ::
 *.kavkaz.monster AAAA ::
-kberg.net A 0.0.0.0
-*.kberg.net A 0.0.0.0
-kberg.net AAAA ::
-*.kberg.net AAAA ::
 kids.ns.nwps.fi A 0.0.0.0
 *.kids.ns.nwps.fi A 0.0.0.0
 kids.ns.nwps.fi AAAA ::
@@ -5697,18 +5685,6 @@ odoh.crypto.sx A 0.0.0.0
 *.odoh.crypto.sx A 0.0.0.0
 odoh.crypto.sx AAAA ::
 *.odoh.crypto.sx AAAA ::
-odoh-target.alekberg.net A 0.0.0.0
-*.odoh-target.alekberg.net A 0.0.0.0
-odoh-target.alekberg.net AAAA ::
-*.odoh-target.alekberg.net AAAA ::
-odoh-target-noads.alekberg.net A 0.0.0.0
-*.odoh-target-noads.alekberg.net A 0.0.0.0
-odoh-target-noads.alekberg.net AAAA ::
-*.odoh-target-noads.alekberg.net AAAA ::
-odoh-target-noads-se.alekberg.net A 0.0.0.0
-*.odoh-target-noads-se.alekberg.net A 0.0.0.0
-odoh-target-noads-se.alekberg.net AAAA ::
-*.odoh-target-noads-se.alekberg.net AAAA ::
 odoh-target-se.alekberg.net A 0.0.0.0
 *.odoh-target-se.alekberg.net A 0.0.0.0
 odoh-target-se.alekberg.net AAAA ::
@@ -7345,10 +7321,6 @@ unfiltered.joindns4.eu A 0.0.0.0
 *.unfiltered.joindns4.eu A 0.0.0.0
 unfiltered.joindns4.eu AAAA ::
 *.unfiltered.joindns4.eu AAAA ::
-unicast.censurfri012proxy.ga A 0.0.0.0
-*.unicast.censurfri012proxy.ga A 0.0.0.0
-unicast.censurfri012proxy.ga AAAA ::
-*.unicast.censurfri012proxy.ga AAAA ::
 unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
@@ -7645,10 +7617,6 @@ vyprvpn.com A 0.0.0.0
 *.vyprvpn.com A 0.0.0.0
 vyprvpn.com AAAA ::
 *.vyprvpn.com AAAA ::
-wantaquddin.com A 0.0.0.0
-*.wantaquddin.com A 0.0.0.0
-wantaquddin.com AAAA ::
-*.wantaquddin.com AAAA ::
 waw01.dnscry.pt A 0.0.0.0
 *.waw01.dnscry.pt A 0.0.0.0
 waw01.dnscry.pt AAAA ::
@@ -7693,10 +7661,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.comdns.dk A 0.0.0.0
-*.whoisping.comdns.dk A 0.0.0.0
-whoisping.comdns.dk AAAA ::
-*.whoisping.comdns.dk AAAA ::
+whoisping.com A 0.0.0.0
+*.whoisping.com A 0.0.0.0
+whoisping.com AAAA ::
+*.whoisping.com AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
