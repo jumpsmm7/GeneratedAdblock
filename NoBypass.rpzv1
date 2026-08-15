@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608150439 ; Serial Number
+ 2608151653 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -11,6 +11,8 @@ $ORIGIN nobypass.rpz.
 
 003153.xyz CNAME .
 *.003153.xyz CNAME .
+012proxy.ga CNAME .
+*.012proxy.ga CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
@@ -257,8 +259,6 @@ ahoj.email CNAME .
 *.ahoj.email CNAME .
 airvpn.org CNAME .
 *.airvpn.org CNAME .
-ala.us.to CNAME .
-*.ala.us.to CNAME .
 all.dns.mullvad.net CNAME .
 *.all.dns.mullvad.net CNAME .
 alleesph.online CNAME .
@@ -1193,8 +1193,8 @@ dns.keviland.com CNAME .
 *.dns.keviland.com CNAME .
 dns.keweon.center CNAME .
 *.dns.keweon.center CNAME .
-dns.kodnswarden.com CNAME .
-*.dns.kodnswarden.com CNAME .
+dns.koala.us.to CNAME .
+*.dns.koala.us.to CNAME .
 dns.korzhyk.pp.ua CNAME .
 *.dns.korzhyk.pp.ua CNAME .
 dns.kosan.moe CNAME .
@@ -1339,8 +1339,6 @@ dnsnl-noads.alekberg.net CNAME .
 *.dnsnl-noads.alekberg.net CNAME .
 dns.nodoa.me CNAME .
 *.dns.nodoa.me CNAME .
-dns-nosec.qu1dot1dot1dot1.cloudflare-dns.com CNAME .
-*.dns-nosec.qu1dot1dot1dot1.cloudflare-dns.com CNAME .
 dns-nosec.quad9.net CNAME .
 *.dns-nosec.quad9.net CNAME .
 dns.novali.date CNAME .
@@ -1501,8 +1499,6 @@ dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
-dns.simplylinux.ch CNAME .
-*.dns.simplylinux.ch CNAME .
 dns.sindominio.net CNAME .
 *.dns.sindominio.net CNAME .
 dns.skrep.eu CNAME .
@@ -2097,8 +2093,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.ad9.net CNAME .
-*.ecs-doh.ad9.net CNAME .
+ecs-doh.dnswarden.com CNAME .
+*.ecs-doh.dnswarden.com CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2339,8 +2335,8 @@ goproxy.asia CNAME .
 *.goproxy.asia CNAME .
 greatestfreeproxy.com CNAME .
 *.greatestfreeproxy.com CNAME .
-greatideasforlife.012proxy.ga CNAME .
-*.greatideasforlife.012proxy.ga CNAME .
+greatideasforlife.lol CNAME .
+*.greatideasforlife.lol CNAME .
 guardianapp.com CNAME .
 *.guardianapp.com CNAME .
 guardian-vpn.com CNAME .
@@ -2349,8 +2345,6 @@ guardianvpn.net CNAME .
 *.guardianvpn.net CNAME .
 guardster.com CNAME .
 *.guardster.com CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 gva01.dnscry.pt CNAME .
 *.gva01.dnscry.pt CNAME .
 gztech.me CNAME .
