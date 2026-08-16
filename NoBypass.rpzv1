@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608151653 ; Serial Number
+ 2608160454 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -65,6 +65,8 @@ aceproxy.com CNAME .
 *.aceproxy.com CNAME .
 acevpn.com CNAME .
 *.acevpn.com CNAME .
+ad9.net CNAME .
+*.ad9.net CNAME .
 ada.openbld.net CNAME .
 *.ada.openbld.net CNAME .
 adb.aadityakushwaha.com CNAME .
@@ -569,8 +571,6 @@ de-dus.doh.sb CNAME .
 *.de-dus.doh.sb CNAME .
 deep-henchman-excuse.cfd CNAME .
 *.deep-henchman-excuse.cfd CNAME .
-dee.su CNAME .
-*.dee.su CNAME .
 defencevpn.com CNAME .
 *.defencevpn.com CNAME .
 defilter.us CNAME .
@@ -1335,12 +1335,14 @@ dns.njal.la CNAME .
 *.dns.njal.la CNAME .
 dnsnl.alekberg.net CNAME .
 *.dnsnl.alekberg.net CNAME .
-dnsnl-noads.alekberg.net CNAME .
-*.dnsnl-noads.alekberg.net CNAME .
+dnsnl-noads.ale1dot1dot1dot1.cloudflare-dns.com CNAME .
+*.dnsnl-noads.ale1dot1dot1dot1.cloudflare-dns.com CNAME .
 dns.nodoa.me CNAME .
 *.dns.nodoa.me CNAME .
 dns-nosec.quad9.net CNAME .
 *.dns-nosec.quad9.net CNAME .
+dns-nosec.qudee.su CNAME .
+*.dns-nosec.qudee.su CNAME .
 dns.novali.date CNAME .
 *.dns.novali.date CNAME .
 dns.novg.net CNAME .
@@ -1499,6 +1501,8 @@ dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
+dns.simplylinux.ch CNAME .
+*.dns.simplylinux.ch CNAME .
 dns.sindominio.net CNAME .
 *.dns.sindominio.net CNAME .
 dns.skrep.eu CNAME .
@@ -2111,8 +2115,6 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
-epicbrowser.com CNAME .
-*.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
 *.eropa.dnscepat.id CNAME .
 esel.stusta.mhn.de CNAME .
@@ -2335,8 +2337,8 @@ goproxy.asia CNAME .
 *.goproxy.asia CNAME .
 greatestfreeproxy.com CNAME .
 *.greatestfreeproxy.com CNAME .
-greatideasforlife.lol CNAME .
-*.greatideasforlife.lol CNAME .
+greatideasforlife.epicbrowser.com CNAME .
+*.greatideasforlife.epicbrowser.com CNAME .
 guardianapp.com CNAME .
 *.guardianapp.com CNAME .
 guardian-vpn.com CNAME .
@@ -2345,6 +2347,8 @@ guardianvpn.net CNAME .
 *.guardianvpn.net CNAME .
 guardster.com CNAME .
 *.guardster.com CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 gva01.dnscry.pt CNAME .
 *.gva01.dnscry.pt CNAME .
 gztech.me CNAME .
@@ -2563,6 +2567,8 @@ kaiwu.xyz CNAME .
 *.kaiwu.xyz CNAME .
 kavkaz.monster CNAME .
 *.kavkaz.monster CNAME .
+kberg.net CNAME .
+*.kberg.net CNAME .
 kids.ns.nwps.fi CNAME .
 *.kids.ns.nwps.fi CNAME .
 kilabit.info CNAME .

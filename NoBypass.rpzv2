@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608151653 ; Serial Number
+ 2608160454 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -121,6 +121,10 @@ acevpn.com A 0.0.0.0
 *.acevpn.com A 0.0.0.0
 acevpn.com AAAA ::
 *.acevpn.com AAAA ::
+ad9.net A 0.0.0.0
+*.ad9.net A 0.0.0.0
+ad9.net AAAA ::
+*.ad9.net AAAA ::
 ada.openbld.net A 0.0.0.0
 *.ada.openbld.net A 0.0.0.0
 ada.openbld.net AAAA ::
@@ -1129,10 +1133,6 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
-dee.su A 0.0.0.0
-*.dee.su A 0.0.0.0
-dee.su AAAA ::
-*.dee.su AAAA ::
 defencevpn.com A 0.0.0.0
 *.defencevpn.com A 0.0.0.0
 defencevpn.com AAAA ::
@@ -2661,10 +2661,10 @@ dnsnl.alekberg.net A 0.0.0.0
 *.dnsnl.alekberg.net A 0.0.0.0
 dnsnl.alekberg.net AAAA ::
 *.dnsnl.alekberg.net AAAA ::
-dnsnl-noads.alekberg.net A 0.0.0.0
-*.dnsnl-noads.alekberg.net A 0.0.0.0
-dnsnl-noads.alekberg.net AAAA ::
-*.dnsnl-noads.alekberg.net AAAA ::
+dnsnl-noads.ale1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.dnsnl-noads.ale1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+dnsnl-noads.ale1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.dnsnl-noads.ale1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns.nodoa.me A 0.0.0.0
 *.dns.nodoa.me A 0.0.0.0
 dns.nodoa.me AAAA ::
@@ -2673,6 +2673,10 @@ dns-nosec.quad9.net A 0.0.0.0
 *.dns-nosec.quad9.net A 0.0.0.0
 dns-nosec.quad9.net AAAA ::
 *.dns-nosec.quad9.net AAAA ::
+dns-nosec.qudee.su A 0.0.0.0
+*.dns-nosec.qudee.su A 0.0.0.0
+dns-nosec.qudee.su AAAA ::
+*.dns-nosec.qudee.su AAAA ::
 dns.novali.date A 0.0.0.0
 *.dns.novali.date A 0.0.0.0
 dns.novali.date AAAA ::
@@ -2989,6 +2993,10 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
+dns.simplylinux.ch A 0.0.0.0
+*.dns.simplylinux.ch A 0.0.0.0
+dns.simplylinux.ch AAAA ::
+*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -4213,10 +4221,6 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
-epicbrowser.com A 0.0.0.0
-*.epicbrowser.com A 0.0.0.0
-epicbrowser.com AAAA ::
-*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4661,10 +4665,10 @@ greatestfreeproxy.com A 0.0.0.0
 *.greatestfreeproxy.com A 0.0.0.0
 greatestfreeproxy.com AAAA ::
 *.greatestfreeproxy.com AAAA ::
-greatideasforlife.lol A 0.0.0.0
-*.greatideasforlife.lol A 0.0.0.0
-greatideasforlife.lol AAAA ::
-*.greatideasforlife.lol AAAA ::
+greatideasforlife.epicbrowser.com A 0.0.0.0
+*.greatideasforlife.epicbrowser.com A 0.0.0.0
+greatideasforlife.epicbrowser.com AAAA ::
+*.greatideasforlife.epicbrowser.com AAAA ::
 guardianapp.com A 0.0.0.0
 *.guardianapp.com A 0.0.0.0
 guardianapp.com AAAA ::
@@ -4681,6 +4685,10 @@ guardster.com A 0.0.0.0
 *.guardster.com A 0.0.0.0
 guardster.com AAAA ::
 *.guardster.com AAAA ::
+gustamadh.dynv6.net A 0.0.0.0
+*.gustamadh.dynv6.net A 0.0.0.0
+gustamadh.dynv6.net AAAA ::
+*.gustamadh.dynv6.net AAAA ::
 gva01.dnscry.pt A 0.0.0.0
 *.gva01.dnscry.pt A 0.0.0.0
 gva01.dnscry.pt AAAA ::
@@ -5117,6 +5125,10 @@ kavkaz.monster A 0.0.0.0
 *.kavkaz.monster A 0.0.0.0
 kavkaz.monster AAAA ::
 *.kavkaz.monster AAAA ::
+kberg.net A 0.0.0.0
+*.kberg.net A 0.0.0.0
+kberg.net AAAA ::
+*.kberg.net AAAA ::
 kids.ns.nwps.fi A 0.0.0.0
 *.kids.ns.nwps.fi A 0.0.0.0
 kids.ns.nwps.fi AAAA ::
