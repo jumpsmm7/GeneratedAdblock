@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608161658 ; Serial Number
+ 2608170503 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -917,10 +917,6 @@ cdn.0ms.dev A 0.0.0.0
 *.cdn.0ms.dev A 0.0.0.0
 cdn.0ms.dev AAAA ::
 *.cdn.0ms.dev AAAA ::
-c-dns-b.google.com A 0.0.0.0
-*.c-dns-b.google.com A 0.0.0.0
-c-dns-b.google.com AAAA ::
-*.c-dns-b.google.com AAAA ::
 celo.net A 0.0.0.0
 *.celo.net A 0.0.0.0
 celo.net AAAA ::
@@ -1109,6 +1105,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -2177,6 +2177,10 @@ dns.guardmydns.com A 0.0.0.0
 *.dns.guardmydns.com A 0.0.0.0
 dns.guardmydns.com AAAA ::
 *.dns.guardmydns.com AAAA ::
+dnsguard.pub A 0.0.0.0
+*.dnsguard.pub A 0.0.0.0
+dnsguard.pub AAAA ::
+*.dnsguard.pub AAAA ::
 dns.gutwe.in A 0.0.0.0
 *.dns.gutwe.in A 0.0.0.0
 dns.gutwe.in AAAA ::
@@ -2357,10 +2361,6 @@ dns.kebree.fr A 0.0.0.0
 *.dns.kebree.fr A 0.0.0.0
 dns.kebree.fr AAAA ::
 *.dns.kebree.fr AAAA ::
-dns.kedarknet.to A 0.0.0.0
-*.dns.kedarknet.to A 0.0.0.0
-dns.kedarknet.to AAAA ::
-*.dns.kedarknet.to AAAA ::
 dns.kerekes.xyz A 0.0.0.0
 *.dns.kerekes.xyz A 0.0.0.0
 dns.kerekes.xyz AAAA ::
@@ -2489,10 +2489,10 @@ dns.maitrekuc.fr A 0.0.0.0
 *.dns.maitrekuc.fr A 0.0.0.0
 dns.maitrekuc.fr AAAA ::
 *.dns.maitrekuc.fr AAAA ::
-dns-malwaresec.nordthreatprotectio1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.dns-malwaresec.nordthreatprotectio1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-dns-malwaresec.nordthreatprotectio1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.dns-malwaresec.nordthreatprotectio1dot1dot1dot1.cloudflare-dns.com AAAA ::
+dns-malwaresec.nordthreatprotectiofirefox.dns.nextdns.io A 0.0.0.0
+*.dns-malwaresec.nordthreatprotectiofirefox.dns.nextdns.io A 0.0.0.0
+dns-malwaresec.nordthreatprotectiofirefox.dns.nextdns.io AAAA ::
+*.dns-malwaresec.nordthreatprotectiofirefox.dns.nextdns.io AAAA ::
 dns.marasov.id A 0.0.0.0
 *.dns.marasov.id A 0.0.0.0
 dns.marasov.id AAAA ::
@@ -2501,10 +2501,6 @@ dns.marbledfennec.net A 0.0.0.0
 *.dns.marbledfennec.net A 0.0.0.0
 dns.marbledfennec.net AAAA ::
 *.dns.marbledfennec.net AAAA ::
-dnsmask.icloud.com A 0.0.0.0
-*.dnsmask.icloud.com A 0.0.0.0
-dnsmask.icloud.com AAAA ::
-*.dnsmask.icloud.com AAAA ::
 dns.mateo.ovh A 0.0.0.0
 *.dns.mateo.ovh A 0.0.0.0
 dns.mateo.ovh AAAA ::
@@ -4229,6 +4225,10 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
+epicbrowser.com A 0.0.0.0
+*.epicbrowser.com A 0.0.0.0
+epicbrowser.com AAAA ::
+*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4661,10 +4661,6 @@ google-public-dns-b.google.com A 0.0.0.0
 *.google-public-dns-b.google.com A 0.0.0.0
 google-public-dns-b.google.com AAAA ::
 *.google-public-dns-b.google.com AAAA ::
-google-publiepicbrowser.com A 0.0.0.0
-*.google-publiepicbrowser.com A 0.0.0.0
-google-publiepicbrowser.com AAAA ::
-*.google-publiepicbrowser.com AAAA ::
 goose.buckyfan.net A 0.0.0.0
 *.goose.buckyfan.net A 0.0.0.0
 goose.buckyfan.net AAAA ::
@@ -4693,10 +4689,6 @@ guardianvpn.net A 0.0.0.0
 *.guardianvpn.net A 0.0.0.0
 guardianvpn.net AAAA ::
 *.guardianvpn.net AAAA ::
-guard.pub A 0.0.0.0
-*.guard.pub A 0.0.0.0
-guard.pub AAAA ::
-*.guard.pub AAAA ::
 guardster.com A 0.0.0.0
 *.guardster.com A 0.0.0.0
 guardster.com AAAA ::
@@ -7701,10 +7693,6 @@ webunblocker.xyz A 0.0.0.0
 *.webunblocker.xyz A 0.0.0.0
 webunblocker.xyz AAAA ::
 *.webunblocker.xyz AAAA ::
-weon.center A 0.0.0.0
-*.weon.center A 0.0.0.0
-weon.center AAAA ::
-*.weon.center AAAA ::
 whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::

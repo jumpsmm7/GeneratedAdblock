@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608161658 ; Serial Number
+ 2608170503 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -463,8 +463,6 @@ c.cicitt.ch CNAME .
 *.c.cicitt.ch CNAME .
 cdn.0ms.dev CNAME .
 *.cdn.0ms.dev CNAME .
-c-dns-b.google.com CNAME .
-*.c-dns-b.google.com CNAME .
 celo.net CNAME .
 *.celo.net CNAME .
 cfdjb.org CNAME .
@@ -559,6 +557,8 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 darkness.is.my.waifu.cz CNAME .
 *.darkness.is.my.waifu.cz CNAME .
+darknet.to CNAME .
+*.darknet.to CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
@@ -1093,6 +1093,8 @@ dns.guard.io CNAME .
 *.dns.guard.io CNAME .
 dns.guardmydns.com CNAME .
 *.dns.guardmydns.com CNAME .
+dnsguard.pub CNAME .
+*.dnsguard.pub CNAME .
 dns.gutwe.in CNAME .
 *.dns.gutwe.in CNAME .
 dns.ha-dvin.pp.ua CNAME .
@@ -1183,8 +1185,6 @@ dns.kawa.tf CNAME .
 *.dns.kawa.tf CNAME .
 dns.kebree.fr CNAME .
 *.dns.kebree.fr CNAME .
-dns.kedarknet.to CNAME .
-*.dns.kedarknet.to CNAME .
 dns.kerekes.xyz CNAME .
 *.dns.kerekes.xyz CNAME .
 dns.kernel-error.de CNAME .
@@ -1249,14 +1249,12 @@ dns.lvolland.fr CNAME .
 *.dns.lvolland.fr CNAME .
 dns.maitrekuc.fr CNAME .
 *.dns.maitrekuc.fr CNAME .
-dns-malwaresec.nordthreatprotectio1dot1dot1dot1.cloudflare-dns.com CNAME .
-*.dns-malwaresec.nordthreatprotectio1dot1dot1dot1.cloudflare-dns.com CNAME .
+dns-malwaresec.nordthreatprotectiofirefox.dns.nextdns.io CNAME .
+*.dns-malwaresec.nordthreatprotectiofirefox.dns.nextdns.io CNAME .
 dns.marasov.id CNAME .
 *.dns.marasov.id CNAME .
 dns.marbledfennec.net CNAME .
 *.dns.marbledfennec.net CNAME .
-dnsmask.icloud.com CNAME .
-*.dnsmask.icloud.com CNAME .
 dns.mateo.ovh CNAME .
 *.dns.mateo.ovh CNAME .
 dns.mathewakhil.online CNAME .
@@ -2119,6 +2117,8 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
+epicbrowser.com CNAME .
+*.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
 *.eropa.dnscepat.id CNAME .
 esel.stusta.mhn.de CNAME .
@@ -2335,8 +2335,6 @@ google-public-dns-a.google.com CNAME .
 *.google-public-dns-a.google.com CNAME .
 google-public-dns-b.google.com CNAME .
 *.google-public-dns-b.google.com CNAME .
-google-publiepicbrowser.com CNAME .
-*.google-publiepicbrowser.com CNAME .
 goose.buckyfan.net CNAME .
 *.goose.buckyfan.net CNAME .
 goproxy.asia CNAME .
@@ -2351,8 +2349,6 @@ guardian-vpn.com CNAME .
 *.guardian-vpn.com CNAME .
 guardianvpn.net CNAME .
 *.guardianvpn.net CNAME .
-guard.pub CNAME .
-*.guard.pub CNAME .
 guardster.com CNAME .
 *.guardster.com CNAME .
 gustamadh.dynv6.net CNAME .
@@ -3855,8 +3851,6 @@ websurfproxy.me CNAME .
 *.websurfproxy.me CNAME .
 webunblocker.xyz CNAME .
 *.webunblocker.xyz CNAME .
-weon.center CNAME .
-*.weon.center CNAME .
 whoer.net CNAME .
 *.whoer.net CNAME .
 whoisping.com CNAME .
