@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608180502 ; Serial Number
+ 2608181659 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -9,6 +9,10 @@ $ORIGIN nobypass.rpz.
  )
  NS localhost
 
+003153.xyz A 0.0.0.0
+*.003153.xyz A 0.0.0.0
+003153.xyz AAAA ::
+*.003153.xyz AAAA ::
 012proxy.ga A 0.0.0.0
 *.012proxy.ga A 0.0.0.0
 012proxy.ga AAAA ::
@@ -97,10 +101,6 @@ $ORIGIN nobypass.rpz.
 *.99proxy.com A 0.0.0.0
 99proxy.com AAAA ::
 *.99proxy.com AAAA ::
-9.net A 0.0.0.0
-*.9.net A 0.0.0.0
-9.net AAAA ::
-*.9.net AAAA ::
 abe01.dnscry.pt A 0.0.0.0
 *.abe01.dnscry.pt A 0.0.0.0
 abe01.dnscry.pt AAAA ::
@@ -153,6 +153,10 @@ adblock.indianets.net A 0.0.0.0
 *.adblock.indianets.net A 0.0.0.0
 adblock.indianets.net AAAA ::
 *.adblock.indianets.net AAAA ::
+adblock.krctech.dev A 0.0.0.0
+*.adblock.krctech.dev A 0.0.0.0
+adblock.krctech.dev AAAA ::
+*.adblock.krctech.dev AAAA ::
 adblock.leenit.kr A 0.0.0.0
 *.adblock.leenit.kr A 0.0.0.0
 adblock.leenit.kr AAAA ::
@@ -661,10 +665,6 @@ atris.cyou A 0.0.0.0
 *.atris.cyou A 0.0.0.0
 atris.cyou AAAA ::
 *.atris.cyou AAAA ::
-at-wie-w-p-1.nashkan.net A 0.0.0.0
-*.at-wie-w-p-1.nashkan.net A 0.0.0.0
-at-wie-w-p-1.nashkan.net AAAA ::
-*.at-wie-w-p-1.nashkan.net AAAA ::
 au01.dns4me.net A 0.0.0.0
 *.au01.dns4me.net A 0.0.0.0
 au01.dns4me.net AAAA ::
@@ -1109,10 +1109,6 @@ darya.persiannit.net A 0.0.0.0
 *.darya.persiannit.net A 0.0.0.0
 darya.persiannit.net AAAA ::
 *.darya.persiannit.net AAAA ::
-ddee.su A 0.0.0.0
-*.ddee.su A 0.0.0.0
-ddee.su AAAA ::
-*.ddee.su AAAA ::
 de01.dns4me.net A 0.0.0.0
 *.de01.dns4me.net A 0.0.0.0
 de01.dns4me.net AAAA ::
@@ -1129,6 +1125,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 defencevpn.com A 0.0.0.0
 *.defencevpn.com A 0.0.0.0
 defencevpn.com AAAA ::
@@ -2377,10 +2377,10 @@ dns.keweon.center A 0.0.0.0
 *.dns.keweon.center A 0.0.0.0
 dns.keweon.center AAAA ::
 *.dns.keweon.center AAAA ::
-dns.koala.us.to A 0.0.0.0
-*.dns.koala.us.to A 0.0.0.0
-dns.koala.us.to AAAA ::
-*.dns.koala.us.to AAAA ::
+dns.koala.us.dnswarden.com A 0.0.0.0
+*.dns.koala.us.dnswarden.com A 0.0.0.0
+dns.koala.us.dnswarden.com AAAA ::
+*.dns.koala.us.dnswarden.com AAAA ::
 dns.korzhyk.pp.ua A 0.0.0.0
 *.dns.korzhyk.pp.ua A 0.0.0.0
 dns.korzhyk.pp.ua AAAA ::
@@ -2669,6 +2669,10 @@ dnsnl.alekberg.net A 0.0.0.0
 *.dnsnl.alekberg.net A 0.0.0.0
 dnsnl.alekberg.net AAAA ::
 *.dnsnl.alekberg.net AAAA ::
+dnsnl-noads.alekberg.net A 0.0.0.0
+*.dnsnl-noads.alekberg.net A 0.0.0.0
+dnsnl-noads.alekberg.net AAAA ::
+*.dnsnl-noads.alekberg.net AAAA ::
 dns.nodoa.me A 0.0.0.0
 *.dns.nodoa.me A 0.0.0.0
 dns.nodoa.me AAAA ::
@@ -2677,10 +2681,10 @@ dns-nosec.quad9.net A 0.0.0.0
 *.dns-nosec.quad9.net A 0.0.0.0
 dns-nosec.quad9.net AAAA ::
 *.dns-nosec.quad9.net AAAA ::
-dns-nosec.quaddnswarden.com A 0.0.0.0
-*.dns-nosec.quaddnswarden.com A 0.0.0.0
-dns-nosec.quaddnswarden.com AAAA ::
-*.dns-nosec.quaddnswarden.com AAAA ::
+dns-nosec.quad9.netdarknet.to A 0.0.0.0
+*.dns-nosec.quad9.netdarknet.to A 0.0.0.0
+dns-nosec.quad9.netdarknet.to AAAA ::
+*.dns-nosec.quad9.netdarknet.to AAAA ::
 dns.novali.date A 0.0.0.0
 *.dns.novali.date A 0.0.0.0
 dns.novali.date AAAA ::
@@ -4181,10 +4185,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.003153.xyz A 0.0.0.0
-*.ecs-doh.003153.xyz A 0.0.0.0
-ecs-doh.003153.xyz AAAA ::
-*.ecs-doh.003153.xyz AAAA ::
+ecs-doh.firefox.dns.nextdns.io A 0.0.0.0
+*.ecs-doh.firefox.dns.nextdns.io A 0.0.0.0
+ecs-doh.firefox.dns.nextdns.io AAAA ::
+*.ecs-doh.firefox.dns.nextdns.io AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4545,10 +4549,6 @@ freeyoutube.net A 0.0.0.0
 *.freeyoutube.net A 0.0.0.0
 freeyoutube.net AAAA ::
 *.freeyoutube.net AAAA ::
-fr-gra-w-p-1.nashkan.net A 0.0.0.0
-*.fr-gra-w-p-1.nashkan.net A 0.0.0.0
-fr-gra-w-p-1.nashkan.net AAAA ::
-*.fr-gra-w-p-1.nashkan.net AAAA ::
 frog.dns.qwer.pw A 0.0.0.0
 *.frog.dns.qwer.pw A 0.0.0.0
 frog.dns.qwer.pw AAAA ::
@@ -4653,10 +4653,10 @@ google-public-dns-b.google.com A 0.0.0.0
 *.google-public-dns-b.google.com A 0.0.0.0
 google-public-dns-b.google.com AAAA ::
 *.google-public-dns-b.google.com AAAA ::
-goose.buckyfadarknet.to A 0.0.0.0
-*.goose.buckyfadarknet.to A 0.0.0.0
-goose.buckyfadarknet.to AAAA ::
-*.goose.buckyfadarknet.to AAAA ::
+goose.buckyfan.net A 0.0.0.0
+*.goose.buckyfan.net A 0.0.0.0
+goose.buckyfan.net AAAA ::
+*.goose.buckyfan.net AAAA ::
 goproxy.asia A 0.0.0.0
 *.goproxy.asia A 0.0.0.0
 goproxy.asia AAAA ::
@@ -5537,10 +5537,6 @@ nl-dro-w-p-1.nashkan.net A 0.0.0.0
 *.nl-dro-w-p-1.nashkan.net A 0.0.0.0
 nl-dro-w-p-1.nashkan.net AAAA ::
 *.nl-dro-w-p-1.nashkan.net AAAA ::
-n.net A 0.0.0.0
-*.n.net A 0.0.0.0
-n.net AAAA ::
-*.n.net AAAA ::
 noads.imbuffering.com A 0.0.0.0
 *.noads.imbuffering.com A 0.0.0.0
 noads.imbuffering.com AAAA ::
@@ -5649,10 +5645,6 @@ ns.net.kg A 0.0.0.0
 *.ns.net.kg A 0.0.0.0
 ns.net.kg AAAA ::
 *.ns.net.kg AAAA ::
-nsnl-noads.alekberg.net A 0.0.0.0
-*.nsnl-noads.alekberg.net A 0.0.0.0
-nsnl-noads.alekberg.net AAAA ::
-*.nsnl-noads.alekberg.net AAAA ::
 ns.nwps.fi A 0.0.0.0
 *.ns.nwps.fi A 0.0.0.0
 ns.nwps.fi AAAA ::
@@ -6061,10 +6053,6 @@ protected.canadianshield.cira.ca A 0.0.0.0
 *.protected.canadianshield.cira.ca A 0.0.0.0
 protected.canadianshield.cira.ca AAAA ::
 *.protected.canadianshield.cira.ca AAAA ::
-protected.firefox.dns.nextdns.io A 0.0.0.0
-*.protected.firefox.dns.nextdns.io A 0.0.0.0
-protected.firefox.dns.nextdns.io AAAA ::
-*.protected.firefox.dns.nextdns.io AAAA ::
 protective.joindns4.eu A 0.0.0.0
 *.protective.joindns4.eu A 0.0.0.0
 protective.joindns4.eu AAAA ::
@@ -7357,10 +7345,10 @@ unfiltered.joindns4.eu A 0.0.0.0
 *.unfiltered.joindns4.eu A 0.0.0.0
 unfiltered.joindns4.eu AAAA ::
 *.unfiltered.joindns4.eu AAAA ::
-unicast.censurfricanadianshield.cira.ca A 0.0.0.0
-*.unicast.censurfricanadianshield.cira.ca A 0.0.0.0
-unicast.censurfricanadianshield.cira.ca AAAA ::
-*.unicast.censurfricanadianshield.cira.ca AAAA ::
+unicast.censurfri A 0.0.0.0
+*.unicast.censurfri A 0.0.0.0
+unicast.censurfri AAAA ::
+*.unicast.censurfri AAAA ::
 unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::

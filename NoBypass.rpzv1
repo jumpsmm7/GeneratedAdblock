@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608180502 ; Serial Number
+ 2608181659 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -9,6 +9,8 @@ $ORIGIN nobypass.rpz.
  )
  NS localhost
 
+003153.xyz CNAME .
+*.003153.xyz CNAME .
 012proxy.ga CNAME .
 *.012proxy.ga CNAME .
 0ms.dev CNAME .
@@ -53,8 +55,6 @@ $ORIGIN nobypass.rpz.
 *.8888.google CNAME .
 99proxy.com CNAME .
 *.99proxy.com CNAME .
-9.net CNAME .
-*.9.net CNAME .
 abe01.dnscry.pt CNAME .
 *.abe01.dnscry.pt CNAME .
 abel.waringer-atg.de CNAME .
@@ -81,6 +81,8 @@ adblockersite.com CNAME .
 *.adblockersite.com CNAME .
 adblock.indianets.net CNAME .
 *.adblock.indianets.net CNAME .
+adblock.krctech.dev CNAME .
+*.adblock.krctech.dev CNAME .
 adblock.leenit.kr CNAME .
 *.adblock.leenit.kr CNAME .
 adblock.mydns.network CNAME .
@@ -335,8 +337,6 @@ at.pzhg.me CNAME .
 *.at.pzhg.me CNAME .
 atris.cyou CNAME .
 *.atris.cyou CNAME .
-at-wie-w-p-1.nashkan.net CNAME .
-*.at-wie-w-p-1.nashkan.net CNAME .
 au01.dns4me.net CNAME .
 *.au01.dns4me.net CNAME .
 au02.dns4me.net CNAME .
@@ -559,8 +559,6 @@ dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
 *.darya.persiannit.net CNAME .
-ddee.su CNAME .
-*.ddee.su CNAME .
 de01.dns4me.net CNAME .
 *.de01.dns4me.net CNAME .
 de.dns.privex.io CNAME .
@@ -569,6 +567,8 @@ de-dus.doh.sb CNAME .
 *.de-dus.doh.sb CNAME .
 deep-henchman-excuse.cfd CNAME .
 *.deep-henchman-excuse.cfd CNAME .
+dee.su CNAME .
+*.dee.su CNAME .
 defencevpn.com CNAME .
 *.defencevpn.com CNAME .
 defilter.us CNAME .
@@ -1193,8 +1193,8 @@ dns.keviland.com CNAME .
 *.dns.keviland.com CNAME .
 dns.keweon.center CNAME .
 *.dns.keweon.center CNAME .
-dns.koala.us.to CNAME .
-*.dns.koala.us.to CNAME .
+dns.koala.us.dnswarden.com CNAME .
+*.dns.koala.us.dnswarden.com CNAME .
 dns.korzhyk.pp.ua CNAME .
 *.dns.korzhyk.pp.ua CNAME .
 dns.kosan.moe CNAME .
@@ -1339,12 +1339,14 @@ dns.njal.la CNAME .
 *.dns.njal.la CNAME .
 dnsnl.alekberg.net CNAME .
 *.dnsnl.alekberg.net CNAME .
+dnsnl-noads.alekberg.net CNAME .
+*.dnsnl-noads.alekberg.net CNAME .
 dns.nodoa.me CNAME .
 *.dns.nodoa.me CNAME .
 dns-nosec.quad9.net CNAME .
 *.dns-nosec.quad9.net CNAME .
-dns-nosec.quaddnswarden.com CNAME .
-*.dns-nosec.quaddnswarden.com CNAME .
+dns-nosec.quad9.netdarknet.to CNAME .
+*.dns-nosec.quad9.netdarknet.to CNAME .
 dns.novali.date CNAME .
 *.dns.novali.date CNAME .
 dns.novg.net CNAME .
@@ -2095,8 +2097,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.003153.xyz CNAME .
-*.ecs-doh.003153.xyz CNAME .
+ecs-doh.firefox.dns.nextdns.io CNAME .
+*.ecs-doh.firefox.dns.nextdns.io CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2277,8 +2279,6 @@ freeyouproxytube.com CNAME .
 *.freeyouproxytube.com CNAME .
 freeyoutube.net CNAME .
 *.freeyoutube.net CNAME .
-fr-gra-w-p-1.nashkan.net CNAME .
-*.fr-gra-w-p-1.nashkan.net CNAME .
 frog.dns.qwer.pw CNAME .
 *.frog.dns.qwer.pw CNAME .
 fuchur.pentament.de CNAME .
@@ -2331,8 +2331,8 @@ google-public-dns-a.google.com CNAME .
 *.google-public-dns-a.google.com CNAME .
 google-public-dns-b.google.com CNAME .
 *.google-public-dns-b.google.com CNAME .
-goose.buckyfadarknet.to CNAME .
-*.goose.buckyfadarknet.to CNAME .
+goose.buckyfan.net CNAME .
+*.goose.buckyfan.net CNAME .
 goproxy.asia CNAME .
 *.goproxy.asia CNAME .
 greatestfreeproxy.com CNAME .
@@ -2773,8 +2773,6 @@ nl-dro-w-f-1.nashkan.net CNAME .
 *.nl-dro-w-f-1.nashkan.net CNAME .
 nl-dro-w-p-1.nashkan.net CNAME .
 *.nl-dro-w-p-1.nashkan.net CNAME .
-n.net CNAME .
-*.n.net CNAME .
 noads.imbuffering.com CNAME .
 *.noads.imbuffering.com CNAME .
 noads.joindns4.eu CNAME .
@@ -2829,8 +2827,6 @@ ns.mtsoln.com CNAME .
 *.ns.mtsoln.com CNAME .
 ns.net.kg CNAME .
 *.ns.net.kg CNAME .
-nsnl-noads.alekberg.net CNAME .
-*.nsnl-noads.alekberg.net CNAME .
 ns.nwps.fi CNAME .
 *.ns.nwps.fi CNAME .
 ns.ral9005.org CNAME .
@@ -3035,8 +3031,6 @@ pro.shecan.ir CNAME .
 *.pro.shecan.ir CNAME .
 protected.canadianshield.cira.ca CNAME .
 *.protected.canadianshield.cira.ca CNAME .
-protected.firefox.dns.nextdns.io CNAME .
-*.protected.firefox.dns.nextdns.io CNAME .
 protective.joindns4.eu CNAME .
 *.protective.joindns4.eu CNAME .
 protonstatus.com CNAME .
@@ -3683,8 +3677,8 @@ unfiltered.adguard-dns.com CNAME .
 *.unfiltered.adguard-dns.com CNAME .
 unfiltered.joindns4.eu CNAME .
 *.unfiltered.joindns4.eu CNAME .
-unicast.censurfricanadianshield.cira.ca CNAME .
-*.unicast.censurfricanadianshield.cira.ca CNAME .
+unicast.censurfri CNAME .
+*.unicast.censurfri CNAME .
 unicast.censurfridns.dk CNAME .
 *.unicast.censurfridns.dk CNAME .
 unicast.uncensoreddns.org CNAME .
