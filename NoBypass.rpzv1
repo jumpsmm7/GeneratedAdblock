@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608201718 ; Serial Number
+ 2608210524 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -9,8 +9,6 @@ $ORIGIN nobypass.rpz.
  )
  NS localhost
 
-003153.xyz CNAME .
-*.003153.xyz CNAME .
 012proxy.ga CNAME .
 *.012proxy.ga CNAME .
 0ms.dev CNAME .
@@ -305,6 +303,8 @@ anycast.uncensoreddns.org CNAME .
 *.anycast.uncensoreddns.org CNAME .
 a.passcloud.xyz CNAME .
 *.a.passcloud.xyz CNAME .
+apps.com CNAME .
+*.apps.com CNAME .
 aqua.is.my.waifu.cz CNAME .
 *.aqua.is.my.waifu.cz CNAME .
 arashi.eu.org CNAME .
@@ -553,6 +553,8 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 darkness.is.my.waifu.cz CNAME .
 *.darkness.is.my.waifu.cz CNAME .
+darknet.to CNAME .
+*.darknet.to CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
@@ -565,8 +567,6 @@ de-dus.doh.sb CNAME .
 *.de-dus.doh.sb CNAME .
 deep-henchman-excuse.cfd CNAME .
 *.deep-henchman-excuse.cfd CNAME .
-dee.su CNAME .
-*.dee.su CNAME .
 defencevpn.com CNAME .
 *.defencevpn.com CNAME .
 defilter.us CNAME .
@@ -697,6 +697,8 @@ dns.aaflalo.me CNAME .
 *.dns.aaflalo.me CNAME .
 dns.aa.net.uk CNAME .
 *.dns.aa.net.uk CNAME .
+dns.aaytorr.com CNAME .
+*.dns.aaytorr.com CNAME .
 dns.abdullahabas.de CNAME .
 *.dns.abdullahabas.de CNAME .
 dns.adguard.com CNAME .
@@ -863,8 +865,6 @@ dns.coderoria.com CNAME .
 *.dns.coderoria.com CNAME .
 dns.colorfreedom.org CNAME .
 *.dns.colorfreedom.org CNAME .
-dns.comeonjames.club CNAME .
-*.dns.comeonjames.club CNAME .
 dns.comff.net CNAME .
 *.dns.comff.net CNAME .
 dns.comss.one CNAME .
@@ -1019,8 +1019,6 @@ dns.ffnw.de CNAME .
 *.dns.ffnw.de CNAME .
 dns.filipccz.eu CNAME .
 *.dns.filipccz.eu CNAME .
-dnsfirefox.dns.nextdns.io CNAME .
-*.dnsfirefox.dns.nextdns.io CNAME .
 dns.fizz.studio CNAME .
 *.dns.fizz.studio CNAME .
 dns.flatuslifir.is CNAME .
@@ -1193,6 +1191,8 @@ dns.korzhyk.pp.ua CNAME .
 *.dns.korzhyk.pp.ua CNAME .
 dns.kosan.moe CNAME .
 *.dns.kosan.moe CNAME .
+dns.kugoepicbrowser.com CNAME .
+*.dns.kugoepicbrowser.com CNAME .
 dns.kukal.cz CNAME .
 *.dns.kukal.cz CNAME .
 dns.kusoneko.moe CNAME .
@@ -1335,8 +1335,8 @@ dnsnl-noads.alekberg.net CNAME .
 *.dnsnl-noads.alekberg.net CNAME .
 dns.nodoa.me CNAME .
 *.dns.nodoa.me CNAME .
-dns-nosec.darknet.to CNAME .
-*.dns-nosec.darknet.to CNAME .
+dns-nosec.dee.su CNAME .
+*.dns-nosec.dee.su CNAME .
 dns-nosec.quad9.net CNAME .
 *.dns-nosec.quad9.net CNAME .
 dns.novali.date CNAME .
@@ -1483,6 +1483,8 @@ dns-secondary.cloudnx.cloud CNAME .
 *.dns-secondary.cloudnx.cloud CNAME .
 dns.sellan.fr CNAME .
 *.dns.sellan.fr CNAME .
+dnsse-noads.alekberg.net CNAME .
+*.dnsse-noads.alekberg.net CNAME .
 dns.sev.monster CNAME .
 *.dns.sev.monster CNAME .
 dns.shareworx.net CNAME .
@@ -1611,6 +1613,8 @@ dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
+dnswarden.com CNAME .
+*.dnswarden.com CNAME .
 dns.wargan.io CNAME .
 *.dns.wargan.io CNAME .
 dns.warma.me CNAME .
@@ -2087,8 +2091,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.dnswarden.com CNAME .
-*.ecs-doh.dnswarden.com CNAME .
+ecs-doh.003153.xyz CNAME .
+*.ecs-doh.003153.xyz CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2105,8 +2109,6 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
-epicbrowser.com CNAME .
-*.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
 *.eropa.dnscepat.id CNAME .
 esel.stusta.mhn.de CNAME .
@@ -2341,8 +2343,8 @@ gustamadh.dynv6.net CNAME .
 *.gustamadh.dynv6.net CNAME .
 gva01.dnscry.pt CNAME .
 *.gva01.dnscry.pt CNAME .
-gztech.me CNAME .
-*.gztech.me CNAME .
+gztech.mask.icloud.com CNAME .
+*.gztech.mask.icloud.com CNAME .
 haf01.dnscry.pt CNAME .
 *.haf01.dnscry.pt CNAME .
 han01.dnscry.pt CNAME .
@@ -2847,6 +2849,8 @@ odoh-target.alekberg.net CNAME .
 *.odoh-target.alekberg.net CNAME .
 odoh-target-noads.alekberg.net CNAME .
 *.odoh-target-noads.alekberg.net CNAME .
+odoh-target-noads-se.alekberg.net CNAME .
+*.odoh-target-noads-se.alekberg.net CNAME .
 odoh-target-se.alekberg.net CNAME .
 *.odoh-target-se.alekberg.net CNAME .
 odvr.nic.cz CNAME .
