@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608210524 ; Serial Number
+ 2608220538 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -9,6 +9,10 @@ $ORIGIN nobypass.rpz.
  )
  NS localhost
 
+003153.xyz A 0.0.0.0
+*.003153.xyz A 0.0.0.0
+003153.xyz AAAA ::
+*.003153.xyz AAAA ::
 012proxy.ga A 0.0.0.0
 *.012proxy.ga A 0.0.0.0
 012proxy.ga AAAA ::
@@ -193,6 +197,10 @@ adg.khon.dev A 0.0.0.0
 *.adg.khon.dev A 0.0.0.0
 adg.khon.dev AAAA ::
 *.adg.khon.dev AAAA ::
+adg.rueiliu.space A 0.0.0.0
+*.adg.rueiliu.space A 0.0.0.0
+adg.rueiliu.space AAAA ::
+*.adg.rueiliu.space AAAA ::
 adg.tshost.no A 0.0.0.0
 *.adg.tshost.no A 0.0.0.0
 adg.tshost.no AAAA ::
@@ -597,10 +605,6 @@ a.passcloud.xyz A 0.0.0.0
 *.a.passcloud.xyz A 0.0.0.0
 a.passcloud.xyz AAAA ::
 *.a.passcloud.xyz AAAA ::
-apps.com A 0.0.0.0
-*.apps.com A 0.0.0.0
-apps.com AAAA ::
-*.apps.com AAAA ::
 aqua.is.my.waifu.cz A 0.0.0.0
 *.aqua.is.my.waifu.cz A 0.0.0.0
 aqua.is.my.waifu.cz AAAA ::
@@ -1125,6 +1129,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 defencevpn.com A 0.0.0.0
 *.defencevpn.com A 0.0.0.0
 defencevpn.com AAAA ::
@@ -2101,10 +2109,6 @@ dns.furrydns.de A 0.0.0.0
 *.dns.furrydns.de A 0.0.0.0
 dns.furrydns.de AAAA ::
 *.dns.furrydns.de AAAA ::
-dns.futuredns.me A 0.0.0.0
-*.dns.futuredns.me A 0.0.0.0
-dns.futuredns.me AAAA ::
-*.dns.futuredns.me AAAA ::
 dns.gamban.com A 0.0.0.0
 *.dns.gamban.com A 0.0.0.0
 dns.gamban.com AAAA ::
@@ -2221,6 +2225,10 @@ dns.hotta.page A 0.0.0.0
 *.dns.hotta.page A 0.0.0.0
 dns.hotta.page AAAA ::
 *.dns.hotta.page AAAA ::
+dns.huas.me A 0.0.0.0
+*.dns.huas.me A 0.0.0.0
+dns.huas.me AAAA ::
+*.dns.huas.me AAAA ::
 dns.hujiayucc.cn A 0.0.0.0
 *.dns.hujiayucc.cn A 0.0.0.0
 dns.hujiayucc.cn AAAA ::
@@ -2285,6 +2293,10 @@ dns.jhangy.us A 0.0.0.0
 *.dns.jhangy.us A 0.0.0.0
 dns.jhangy.us AAAA ::
 *.dns.jhangy.us AAAA ::
+dns.jichi.io A 0.0.0.0
+*.dns.jichi.io A 0.0.0.0
+dns.jichi.io AAAA ::
+*.dns.jichi.io AAAA ::
 dns.jinwoo.dev A 0.0.0.0
 *.dns.jinwoo.dev A 0.0.0.0
 dns.jinwoo.dev AAAA ::
@@ -2373,10 +2385,10 @@ dns.kosan.moe A 0.0.0.0
 *.dns.kosan.moe A 0.0.0.0
 dns.kosan.moe AAAA ::
 *.dns.kosan.moe AAAA ::
-dns.kugoepicbrowser.com A 0.0.0.0
-*.dns.kugoepicbrowser.com A 0.0.0.0
-dns.kugoepicbrowser.com AAAA ::
-*.dns.kugoepicbrowser.com AAAA ::
+dns.kugoapps.com A 0.0.0.0
+*.dns.kugoapps.com A 0.0.0.0
+dns.kugoapps.com AAAA ::
+*.dns.kugoapps.com AAAA ::
 dns.kukal.cz A 0.0.0.0
 *.dns.kukal.cz A 0.0.0.0
 dns.kukal.cz AAAA ::
@@ -2429,10 +2441,6 @@ dns.liberador.net A 0.0.0.0
 *.dns.liberador.net A 0.0.0.0
 dns.liberador.net AAAA ::
 *.dns.liberador.net AAAA ::
-dns.lightmaster.pw A 0.0.0.0
-*.dns.lightmaster.pw A 0.0.0.0
-dns.lightmaster.pw AAAA ::
-*.dns.lightmaster.pw AAAA ::
 dns.lihj.me A 0.0.0.0
 *.dns.lihj.me A 0.0.0.0
 dns.lihj.me AAAA ::
@@ -2661,10 +2669,6 @@ dns.nodoa.me A 0.0.0.0
 *.dns.nodoa.me A 0.0.0.0
 dns.nodoa.me AAAA ::
 *.dns.nodoa.me AAAA ::
-dns-nosec.dee.su A 0.0.0.0
-*.dns-nosec.dee.su A 0.0.0.0
-dns-nosec.dee.su AAAA ::
-*.dns-nosec.dee.su AAAA ::
 dns-nosec.quad9.net A 0.0.0.0
 *.dns-nosec.quad9.net A 0.0.0.0
 dns-nosec.quad9.net AAAA ::
@@ -3217,10 +3221,6 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
-dnswarden.com A 0.0.0.0
-*.dnswarden.com A 0.0.0.0
-dnswarden.com AAAA ::
-*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -3293,10 +3293,6 @@ dns.zfsystem.tech A 0.0.0.0
 *.dns.zfsystem.tech A 0.0.0.0
 dns.zfsystem.tech AAAA ::
 *.dns.zfsystem.tech AAAA ::
-dns.zui.lol A 0.0.0.0
-*.dns.zui.lol A 0.0.0.0
-dns.zui.lol AAAA ::
-*.dns.zui.lol AAAA ::
 dns.zzuhacker.cn A 0.0.0.0
 *.dns.zzuhacker.cn A 0.0.0.0
 dns.zzuhacker.cn AAAA ::
@@ -3861,10 +3857,6 @@ doh.technochat.in A 0.0.0.0
 *.doh.technochat.in A 0.0.0.0
 doh.technochat.in AAAA ::
 *.doh.technochat.in AAAA ::
-doh.thio.me A 0.0.0.0
-*.doh.thio.me A 0.0.0.0
-doh.thio.me AAAA ::
-*.doh.thio.me AAAA ::
 doh.this.web.id A 0.0.0.0
 *.doh.this.web.id A 0.0.0.0
 doh.this.web.id AAAA ::
@@ -4173,10 +4165,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.003153.xyz A 0.0.0.0
-*.ecs-doh.003153.xyz A 0.0.0.0
-ecs-doh.003153.xyz AAAA ::
-*.ecs-doh.003153.xyz AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4209,6 +4201,10 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
+epicbrowser.com A 0.0.0.0
+*.epicbrowser.com A 0.0.0.0
+epicbrowser.com AAAA ::
+*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4677,10 +4673,10 @@ gva01.dnscry.pt A 0.0.0.0
 *.gva01.dnscry.pt A 0.0.0.0
 gva01.dnscry.pt AAAA ::
 *.gva01.dnscry.pt AAAA ::
-gztech.mask.icloud.com A 0.0.0.0
-*.gztech.mask.icloud.com A 0.0.0.0
-gztech.mask.icloud.com AAAA ::
-*.gztech.mask.icloud.com AAAA ::
+gztech.me A 0.0.0.0
+*.gztech.me A 0.0.0.0
+gztech.me AAAA ::
+*.gztech.me AAAA ::
 haf01.dnscry.pt A 0.0.0.0
 *.haf01.dnscry.pt A 0.0.0.0
 haf01.dnscry.pt AAAA ::
@@ -6349,10 +6345,6 @@ qqmcfw.tech A 0.0.0.0
 *.qqmcfw.tech A 0.0.0.0
 qqmcfw.tech AAAA ::
 *.qqmcfw.tech AAAA ::
-quad9.net A 0.0.0.0
-*.quad9.net A 0.0.0.0
-quad9.net AAAA ::
-*.quad9.net AAAA ::
 qual.cuprum.ru A 0.0.0.0
 *.qual.cuprum.ru A 0.0.0.0
 qual.cuprum.ru AAAA ::
