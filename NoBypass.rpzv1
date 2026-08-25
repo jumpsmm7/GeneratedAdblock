@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608250602 ; Serial Number
+ 2608251840 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -859,6 +859,8 @@ dns.coderoria.com CNAME .
 *.dns.coderoria.com CNAME .
 dns.colorfreedom.org CNAME .
 *.dns.colorfreedom.org CNAME .
+dns.comeonjames.club CNAME .
+*.dns.comeonjames.club CNAME .
 dns.comff.net CNAME .
 *.dns.comff.net CNAME .
 dns.comss.one CNAME .
@@ -1075,6 +1077,8 @@ dns.grqu.de CNAME .
 *.dns.grqu.de CNAME .
 dns.guard.io CNAME .
 *.dns.guard.io CNAME .
+dns.guardmydns.com CNAME .
+*.dns.guardmydns.com CNAME .
 dnsguard.pub CNAME .
 *.dnsguard.pub CNAME .
 dns.gutwe.in CNAME .
@@ -1197,8 +1201,8 @@ dns.larsdebruin.net CNAME .
 *.dns.larsdebruin.net CNAME .
 dns.lars-lehmann.net CNAME .
 *.dns.lars-lehmann.net CNAME .
-dns.lefirefox.dns.nextdns.io CNAME .
-*.dns.lefirefox.dns.nextdns.io CNAME .
+dns.lepilleur.com CNAME .
+*.dns.lepilleur.com CNAME .
 dns.lermer.nl CNAME .
 *.dns.lermer.nl CNAME .
 dns.levonet.sk CNAME .
@@ -1461,8 +1465,8 @@ dnsse.alekberg.net CNAME .
 *.dnsse.alekberg.net CNAME .
 dns.sec511.com CNAME .
 *.dns.sec511.com CNAME .
-dns-secondamask.icloud.com CNAME .
-*.dns-secondamask.icloud.com CNAME .
+dns-seconda1dot1dot1dot1.cloudflare-dns.com CNAME .
+*.dns-seconda1dot1dot1dot1.cloudflare-dns.com CNAME .
 dns.sellan.fr CNAME .
 *.dns.sellan.fr CNAME .
 dnsse-noads.alekberg.net CNAME .
@@ -1911,6 +1915,8 @@ doh.sz-dns.com CNAME .
 *.doh.sz-dns.com CNAME .
 doh.technochat.in CNAME .
 *.doh.technochat.in CNAME .
+doh.thio.me CNAME .
+*.doh.thio.me CNAME .
 doh.this.web.id CNAME .
 *.doh.this.web.id CNAME .
 doh.tiarap.org CNAME .
@@ -2943,8 +2949,6 @@ pihole.aws.ketan.dev CNAME .
 *.pihole.aws.ketan.dev CNAME .
 pihole.datamatter.co.za CNAME .
 *.pihole.datamatter.co.za CNAME .
-pilleur.com CNAME .
-*.pilleur.com CNAME .
 pinkproxy.xyz CNAME .
 *.pinkproxy.xyz CNAME .
 pixelprivacy.com CNAME .

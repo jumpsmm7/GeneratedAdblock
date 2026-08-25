@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608250602 ; Serial Number
+ 2608251840 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -1709,6 +1709,10 @@ dns.colorfreedom.org A 0.0.0.0
 *.dns.colorfreedom.org A 0.0.0.0
 dns.colorfreedom.org AAAA ::
 *.dns.colorfreedom.org AAAA ::
+dns.comeonjames.club A 0.0.0.0
+*.dns.comeonjames.club A 0.0.0.0
+dns.comeonjames.club AAAA ::
+*.dns.comeonjames.club AAAA ::
 dns.comff.net A 0.0.0.0
 *.dns.comff.net A 0.0.0.0
 dns.comff.net AAAA ::
@@ -2141,6 +2145,10 @@ dns.guard.io A 0.0.0.0
 *.dns.guard.io A 0.0.0.0
 dns.guard.io AAAA ::
 *.dns.guard.io AAAA ::
+dns.guardmydns.com A 0.0.0.0
+*.dns.guardmydns.com A 0.0.0.0
+dns.guardmydns.com AAAA ::
+*.dns.guardmydns.com AAAA ::
 dnsguard.pub A 0.0.0.0
 *.dnsguard.pub A 0.0.0.0
 dnsguard.pub AAAA ::
@@ -2385,10 +2393,10 @@ dns.lars-lehmann.net A 0.0.0.0
 *.dns.lars-lehmann.net A 0.0.0.0
 dns.lars-lehmann.net AAAA ::
 *.dns.lars-lehmann.net AAAA ::
-dns.lefirefox.dns.nextdns.io A 0.0.0.0
-*.dns.lefirefox.dns.nextdns.io A 0.0.0.0
-dns.lefirefox.dns.nextdns.io AAAA ::
-*.dns.lefirefox.dns.nextdns.io AAAA ::
+dns.lepilleur.com A 0.0.0.0
+*.dns.lepilleur.com A 0.0.0.0
+dns.lepilleur.com AAAA ::
+*.dns.lepilleur.com AAAA ::
 dns.lermer.nl A 0.0.0.0
 *.dns.lermer.nl A 0.0.0.0
 dns.lermer.nl AAAA ::
@@ -2913,10 +2921,10 @@ dns.sec511.com A 0.0.0.0
 *.dns.sec511.com A 0.0.0.0
 dns.sec511.com AAAA ::
 *.dns.sec511.com AAAA ::
-dns-secondamask.icloud.com A 0.0.0.0
-*.dns-secondamask.icloud.com A 0.0.0.0
-dns-secondamask.icloud.com AAAA ::
-*.dns-secondamask.icloud.com AAAA ::
+dns-seconda1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.dns-seconda1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+dns-seconda1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.dns-seconda1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns.sellan.fr A 0.0.0.0
 *.dns.sellan.fr A 0.0.0.0
 dns.sellan.fr AAAA ::
@@ -3813,6 +3821,10 @@ doh.technochat.in A 0.0.0.0
 *.doh.technochat.in A 0.0.0.0
 doh.technochat.in AAAA ::
 *.doh.technochat.in AAAA ::
+doh.thio.me A 0.0.0.0
+*.doh.thio.me A 0.0.0.0
+doh.thio.me AAAA ::
+*.doh.thio.me AAAA ::
 doh.this.web.id A 0.0.0.0
 *.doh.this.web.id A 0.0.0.0
 doh.this.web.id AAAA ::
@@ -5877,10 +5889,6 @@ pihole.datamatter.co.za A 0.0.0.0
 *.pihole.datamatter.co.za A 0.0.0.0
 pihole.datamatter.co.za AAAA ::
 *.pihole.datamatter.co.za AAAA ::
-pilleur.com A 0.0.0.0
-*.pilleur.com A 0.0.0.0
-pilleur.com AAAA ::
-*.pilleur.com AAAA ::
 pinkproxy.xyz A 0.0.0.0
 *.pinkproxy.xyz A 0.0.0.0
 pinkproxy.xyz AAAA ::
