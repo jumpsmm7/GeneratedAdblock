@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608240557 ; Serial Number
+ 2608250602 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -29,6 +29,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -169,10 +173,6 @@ addns1.m-it.ro A 0.0.0.0
 *.addns1.m-it.ro A 0.0.0.0
 addns1.m-it.ro AAAA ::
 *.addns1.m-it.ro AAAA ::
-adfiltro.fun A 0.0.0.0
-*.adfiltro.fun A 0.0.0.0
-adfiltro.fun AAAA ::
-*.adfiltro.fun AAAA ::
 adfreedns.top A 0.0.0.0
 *.adfreedns.top A 0.0.0.0
 adfreedns.top AAAA ::
@@ -433,10 +433,6 @@ a.family.ns.dnslify.com A 0.0.0.0
 *.a.family.ns.dnslify.com A 0.0.0.0
 a.family.ns.dnslify.com AAAA ::
 *.a.family.ns.dnslify.com AAAA ::
-affcdn.net A 0.0.0.0
-*.affcdn.net A 0.0.0.0
-affcdn.net AAAA ::
-*.affcdn.net AAAA ::
 affsoft.cc A 0.0.0.0
 *.affsoft.cc A 0.0.0.0
 affsoft.cc AAAA ::
@@ -509,10 +505,6 @@ all.dns.mullvad.net A 0.0.0.0
 *.all.dns.mullvad.net A 0.0.0.0
 all.dns.mullvad.net AAAA ::
 *.all.dns.mullvad.net AAAA ::
-alleesph.online A 0.0.0.0
-*.alleesph.online A 0.0.0.0
-alleesph.online AAAA ::
-*.alleesph.online AAAA ::
 allunblocked.com A 0.0.0.0
 *.allunblocked.com A 0.0.0.0
 allunblocked.com AAAA ::
@@ -1089,6 +1081,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1113,6 +1109,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 defencevpn.com A 0.0.0.0
 *.defencevpn.com A 0.0.0.0
 defencevpn.com AAAA ::
@@ -1373,6 +1373,10 @@ dns.aa.net.uk A 0.0.0.0
 *.dns.aa.net.uk A 0.0.0.0
 dns.aa.net.uk AAAA ::
 *.dns.aa.net.uk AAAA ::
+dns.aaytorr.com A 0.0.0.0
+*.dns.aaytorr.com A 0.0.0.0
+dns.aaytorr.com AAAA ::
+*.dns.aaytorr.com AAAA ::
 dns.abdullahabas.de A 0.0.0.0
 *.dns.abdullahabas.de A 0.0.0.0
 dns.abdullahabas.de AAAA ::
@@ -1705,10 +1709,6 @@ dns.colorfreedom.org A 0.0.0.0
 *.dns.colorfreedom.org A 0.0.0.0
 dns.colorfreedom.org AAAA ::
 *.dns.colorfreedom.org AAAA ::
-dns.comeonjames.club A 0.0.0.0
-*.dns.comeonjames.club A 0.0.0.0
-dns.comeonjames.club AAAA ::
-*.dns.comeonjames.club AAAA ::
 dns.comff.net A 0.0.0.0
 *.dns.comff.net A 0.0.0.0
 dns.comff.net AAAA ::
@@ -2141,10 +2141,6 @@ dns.guard.io A 0.0.0.0
 *.dns.guard.io A 0.0.0.0
 dns.guard.io AAAA ::
 *.dns.guard.io AAAA ::
-dns.guardmydns.com A 0.0.0.0
-*.dns.guardmydns.com A 0.0.0.0
-dns.guardmydns.com AAAA ::
-*.dns.guardmydns.com AAAA ::
 dnsguard.pub A 0.0.0.0
 *.dnsguard.pub A 0.0.0.0
 dnsguard.pub AAAA ::
@@ -2321,10 +2317,6 @@ dns.kawa.tf A 0.0.0.0
 *.dns.kawa.tf A 0.0.0.0
 dns.kawa.tf AAAA ::
 *.dns.kawa.tf AAAA ::
-dns.kdee.su A 0.0.0.0
-*.dns.kdee.su A 0.0.0.0
-dns.kdee.su AAAA ::
-*.dns.kdee.su AAAA ::
 dns.kebree.fr A 0.0.0.0
 *.dns.kebree.fr A 0.0.0.0
 dns.kebree.fr AAAA ::
@@ -2373,6 +2365,10 @@ dns.kusoneko.moe A 0.0.0.0
 *.dns.kusoneko.moe A 0.0.0.0
 dns.kusoneko.moe AAAA ::
 *.dns.kusoneko.moe AAAA ::
+dns.kuuhaku.moe A 0.0.0.0
+*.dns.kuuhaku.moe A 0.0.0.0
+dns.kuuhaku.moe AAAA ::
+*.dns.kuuhaku.moe AAAA ::
 dns.kxy.ink A 0.0.0.0
 *.dns.kxy.ink A 0.0.0.0
 dns.kxy.ink AAAA ::
@@ -2381,10 +2377,6 @@ dns.l337.site A 0.0.0.0
 *.dns.l337.site A 0.0.0.0
 dns.l337.site AAAA ::
 *.dns.l337.site AAAA ::
-dns.labnekotest.site A 0.0.0.0
-*.dns.labnekotest.site A 0.0.0.0
-dns.labnekotest.site AAAA ::
-*.dns.labnekotest.site AAAA ::
 dns.larsdebruin.net A 0.0.0.0
 *.dns.larsdebruin.net A 0.0.0.0
 dns.larsdebruin.net AAAA ::
@@ -2393,10 +2385,10 @@ dns.lars-lehmann.net A 0.0.0.0
 *.dns.lars-lehmann.net A 0.0.0.0
 dns.lars-lehmann.net AAAA ::
 *.dns.lars-lehmann.net AAAA ::
-dns.lepilleur.com A 0.0.0.0
-*.dns.lepilleur.com A 0.0.0.0
-dns.lepilleur.com AAAA ::
-*.dns.lepilleur.com AAAA ::
+dns.lefirefox.dns.nextdns.io A 0.0.0.0
+*.dns.lefirefox.dns.nextdns.io A 0.0.0.0
+dns.lefirefox.dns.nextdns.io AAAA ::
+*.dns.lefirefox.dns.nextdns.io AAAA ::
 dns.lermer.nl A 0.0.0.0
 *.dns.lermer.nl A 0.0.0.0
 dns.lermer.nl AAAA ::
@@ -2921,10 +2913,10 @@ dns.sec511.com A 0.0.0.0
 *.dns.sec511.com A 0.0.0.0
 dns.sec511.com AAAA ::
 *.dns.sec511.com AAAA ::
-dns-secondary.cloudnx.cloud A 0.0.0.0
-*.dns-secondary.cloudnx.cloud A 0.0.0.0
-dns-secondary.cloudnx.cloud AAAA ::
-*.dns-secondary.cloudnx.cloud AAAA ::
+dns-secondamask.icloud.com A 0.0.0.0
+*.dns-secondamask.icloud.com A 0.0.0.0
+dns-secondamask.icloud.com AAAA ::
+*.dns-secondamask.icloud.com AAAA ::
 dns.sellan.fr A 0.0.0.0
 *.dns.sellan.fr A 0.0.0.0
 dns.sellan.fr AAAA ::
@@ -3177,10 +3169,10 @@ dns.vod11.xyz A 0.0.0.0
 *.dns.vod11.xyz A 0.0.0.0
 dns.vod11.xyz AAAA ::
 *.dns.vod11.xyz AAAA ::
-dnsvps.famdarknet.to A 0.0.0.0
-*.dnsvps.famdarknet.to A 0.0.0.0
-dnsvps.famdarknet.to AAAA ::
-*.dnsvps.famdarknet.to AAAA ::
+dnsvps.familiamv.net A 0.0.0.0
+*.dnsvps.familiamv.net A 0.0.0.0
+dnsvps.familiamv.net AAAA ::
+*.dnsvps.familiamv.net AAAA ::
 dns.w3ctag.org A 0.0.0.0
 *.dns.w3ctag.org A 0.0.0.0
 dns.w3ctag.org AAAA ::
@@ -3189,10 +3181,6 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
-dnswarden.com A 0.0.0.0
-*.dnswarden.com A 0.0.0.0
-dnswarden.com AAAA ::
-*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4089,10 +4077,6 @@ droyd.top A 0.0.0.0
 *.droyd.top A 0.0.0.0
 droyd.top AAAA ::
 *.droyd.top AAAA ::
-drs.rustsword.com A 0.0.0.0
-*.drs.rustsword.com A 0.0.0.0
-drs.rustsword.com AAAA ::
-*.drs.rustsword.com AAAA ::
 d.toairs.com A 0.0.0.0
 *.d.toairs.com A 0.0.0.0
 d.toairs.com AAAA ::
@@ -4133,10 +4117,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.mask.icloud.com A 0.0.0.0
-*.ecs-doh.mask.icloud.com A 0.0.0.0
-ecs-doh.mask.icloud.com AAAA ::
-*.ecs-doh.mask.icloud.com AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4873,10 +4857,6 @@ ikarosalpha.xyz A 0.0.0.0
 *.ikarosalpha.xyz A 0.0.0.0
 ikarosalpha.xyz AAAA ::
 *.ikarosalpha.xyz AAAA ::
-iliamv.net A 0.0.0.0
-*.iliamv.net A 0.0.0.0
-iliamv.net AAAA ::
-*.iliamv.net AAAA ::
 imperio.top A 0.0.0.0
 *.imperio.top A 0.0.0.0
 imperio.top AAAA ::
@@ -5897,6 +5877,10 @@ pihole.datamatter.co.za A 0.0.0.0
 *.pihole.datamatter.co.za A 0.0.0.0
 pihole.datamatter.co.za AAAA ::
 *.pihole.datamatter.co.za AAAA ::
+pilleur.com A 0.0.0.0
+*.pilleur.com A 0.0.0.0
+pilleur.com AAAA ::
+*.pilleur.com AAAA ::
 pinkproxy.xyz A 0.0.0.0
 *.pinkproxy.xyz A 0.0.0.0
 pinkproxy.xyz AAAA ::
@@ -6317,10 +6301,10 @@ qqmcfw.tech A 0.0.0.0
 *.qqmcfw.tech A 0.0.0.0
 qqmcfw.tech AAAA ::
 *.qqmcfw.tech AAAA ::
-qual12vpx.com A 0.0.0.0
-*.qual12vpx.com A 0.0.0.0
-qual12vpx.com AAAA ::
-*.qual12vpx.com AAAA ::
+qual.cuprum.ru A 0.0.0.0
+*.qual.cuprum.ru A 0.0.0.0
+qual.cuprum.ru AAAA ::
+*.qual.cuprum.ru AAAA ::
 query.hdns.io A 0.0.0.0
 *.query.hdns.io A 0.0.0.0
 query.hdns.io AAAA ::
@@ -6557,6 +6541,10 @@ rx.techomespace.com A 0.0.0.0
 *.rx.techomespace.com A 0.0.0.0
 rx.techomespace.com AAAA ::
 *.rx.techomespace.com AAAA ::
+ry.cloudnx.cloud A 0.0.0.0
+*.ry.cloudnx.cloud A 0.0.0.0
+ry.cloudnx.cloud AAAA ::
+*.ry.cloudnx.cloud AAAA ::
 sa01.dns4me.net A 0.0.0.0
 *.sa01.dns4me.net A 0.0.0.0
 sa01.dns4me.net AAAA ::
@@ -6745,6 +6733,10 @@ sink.nolo.ltd A 0.0.0.0
 *.sink.nolo.ltd A 0.0.0.0
 sink.nolo.ltd AAAA ::
 *.sink.nolo.ltd AAAA ::
+sitdns.com A 0.0.0.0
+*.sitdns.com A 0.0.0.0
+sitdns.com AAAA ::
+*.sitdns.com AAAA ::
 site2unblock.com A 0.0.0.0
 *.site2unblock.com A 0.0.0.0
 site2unblock.com AAAA ::
@@ -7417,10 +7409,6 @@ utunnel.io A 0.0.0.0
 *.utunnel.io A 0.0.0.0
 utunnel.io AAAA ::
 *.utunnel.io AAAA ::
-uuhaku.moe A 0.0.0.0
-*.uuhaku.moe A 0.0.0.0
-uuhaku.moe AAAA ::
-*.uuhaku.moe AAAA ::
 uvpn.me A 0.0.0.0
 *.uvpn.me A 0.0.0.0
 uvpn.me AAAA ::
@@ -7809,6 +7797,10 @@ yunyun.is.my.waifu.cz A 0.0.0.0
 *.yunyun.is.my.waifu.cz A 0.0.0.0
 yunyun.is.my.waifu.cz AAAA ::
 *.yunyun.is.my.waifu.cz AAAA ::
+yuvelirtut.website A 0.0.0.0
+*.yuvelirtut.website A 0.0.0.0
+yuvelirtut.website AAAA ::
+*.yuvelirtut.website AAAA ::
 yvr01.dnscry.pt A 0.0.0.0
 *.yvr01.dnscry.pt A 0.0.0.0
 yvr01.dnscry.pt AAAA ::
