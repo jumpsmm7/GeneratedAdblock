@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608251840 ; Serial Number
+ 2608261637 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -167,6 +167,8 @@ adguard.marto.si CNAME .
 *.adguard.marto.si CNAME .
 adguard.meddy94.de CNAME .
 *.adguard.meddy94.de CNAME .
+adguard.mrmartian.co CNAME .
+*.adguard.mrmartian.co CNAME .
 adguard.neon0404.space CNAME .
 *.adguard.neon0404.space CNAME .
 adguard.onlyfriends.info CNAME .
@@ -255,6 +257,8 @@ ahoj.email CNAME .
 *.ahoj.email CNAME .
 airvpn.org CNAME .
 *.airvpn.org CNAME .
+aku.moe CNAME .
+*.aku.moe CNAME .
 all.dns.mullvad.net CNAME .
 *.all.dns.mullvad.net CNAME .
 allunblocked.com CNAME .
@@ -925,6 +929,8 @@ dns.digitale-gesellschaft.ch CNAME .
 *.dns.digitale-gesellschaft.ch CNAME .
 dns.digitalsize.net CNAME .
 *.dns.digitalsize.net CNAME .
+dns.dk CNAME .
+*.dns.dk CNAME .
 dns.dns-53.com CNAME .
 *.dns.dns-53.com CNAME .
 dns.dns-53.uk CNAME .
@@ -1191,8 +1197,8 @@ dns.kukal.cz CNAME .
 *.dns.kukal.cz CNAME .
 dns.kusoneko.moe CNAME .
 *.dns.kusoneko.moe CNAME .
-dns.kuuhaku.moe CNAME .
-*.dns.kuuhaku.moe CNAME .
+dns.kuuhmask.icloud.com CNAME .
+*.dns.kuuhmask.icloud.com CNAME .
 dns.kxy.ink CNAME .
 *.dns.kxy.ink CNAME .
 dns.l337.site CNAME .
@@ -1401,8 +1407,8 @@ dns.psociety.de CNAME .
 *.dns.psociety.de CNAME .
 dns.pub CNAME .
 *.dns.pub CNAME .
-dns-public.ibakerserver.pt CNAME .
-*.dns-public.ibakerserver.pt CNAME .
+dns-public.ibaker1dot1dot1dot1.cloudflare-dns.com CNAME .
+*.dns-public.ibaker1dot1dot1dot1.cloudflare-dns.com CNAME .
 dnspub.restena.lu CNAME .
 *.dnspub.restena.lu CNAME .
 dns.pumpkinvrar.com CNAME .
@@ -1465,8 +1471,8 @@ dnsse.alekberg.net CNAME .
 *.dnsse.alekberg.net CNAME .
 dns.sec511.com CNAME .
 *.dns.sec511.com CNAME .
-dns-seconda1dot1dot1dot1.cloudflare-dns.com CNAME .
-*.dns-seconda1dot1dot1dot1.cloudflare-dns.com CNAME .
+dns-secondary.cloudnx.cloud CNAME .
+*.dns-secondary.cloudnx.cloud CNAME .
 dns.sellan.fr CNAME .
 *.dns.sellan.fr CNAME .
 dnsse-noads.alekberg.net CNAME .
@@ -1607,8 +1613,8 @@ dns.warpnine.de CNAME .
 *.dns.warpnine.de CNAME .
 dns.watch CNAME .
 *.dns.watch CNAME .
-dnswebvsn.com CNAME .
-*.dnswebvsn.com CNAME .
+dnswebvsn.comepicbrowser.com CNAME .
+*.dnswebvsn.comepicbrowser.com CNAME .
 dns.weixin.qq.com.cn CNAME .
 *.dns.weixin.qq.com.cn CNAME .
 dns.wibenson.cloud CNAME .
@@ -2087,8 +2093,6 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
-epicbrowser.com CNAME .
-*.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
 *.eropa.dnscepat.id CNAME .
 esel.stusta.mhn.de CNAME .
@@ -2379,10 +2383,10 @@ hitian.me CNAME .
 *.hitian.me CNAME .
 hk2.ooroot.com CNAME .
 *.hk2.ooroot.com CNAME .
-hkg01.dnscry.pt CNAME .
-*.hkg01.dnscry.pt CNAME .
 hkg02.dnscry.pt CNAME .
 *.hkg02.dnscry.pt CNAME .
+hkg0firefox.dns.nextdns.io CNAME .
+*.hkg0firefox.dns.nextdns.io CNAME .
 hk-hkg.doh.sb CNAME .
 *.hk-hkg.doh.sb CNAME .
 hkname.freecdn.one CNAME .
@@ -3279,8 +3283,6 @@ rusvpn.com CNAME .
 *.rusvpn.com CNAME .
 rx.techomespace.com CNAME .
 *.rx.techomespace.com CNAME .
-ry.cloudnx.cloud CNAME .
-*.ry.cloudnx.cloud CNAME .
 sa01.dns4me.net CNAME .
 *.sa01.dns4me.net CNAME .
 safe.dns.yandex.ru CNAME .
@@ -3341,6 +3343,8 @@ seoul.dnsovertor.cc CNAME .
 *.seoul.dnsovertor.cc CNAME .
 serverfriend.altervista.org CNAME .
 *.serverfriend.altervista.org CNAME .
+server.pt CNAME .
+*.server.pt CNAME .
 setupvpn.com CNAME .
 *.setupvpn.com CNAME .
 sg01.dns4me.net CNAME .
@@ -3653,6 +3657,8 @@ unfiltered.adguard-dns.com CNAME .
 *.unfiltered.adguard-dns.com CNAME .
 unfiltered.joindns4.eu CNAME .
 *.unfiltered.joindns4.eu CNAME .
+unicast.censurfri1.dnscry.pt CNAME .
+*.unicast.censurfri1.dnscry.pt CNAME .
 unicast.censurfridns.dk CNAME .
 *.unicast.censurfridns.dk CNAME .
 unicast.uncensoreddns.org CNAME .
@@ -3861,6 +3867,8 @@ www.muxyuji.ru CNAME .
 *.www.muxyuji.ru CNAME .
 www.unasw.eu CNAME .
 *.www.unasw.eu CNAME .
+www.zburger.top CNAME .
+*.www.zburger.top CNAME .
 wyx.cloud CNAME .
 *.wyx.cloud CNAME .
 xbcpb668.com CNAME .

@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608251840 ; Serial Number
+ 2608261637 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -325,6 +325,10 @@ adguard.meddy94.de A 0.0.0.0
 *.adguard.meddy94.de A 0.0.0.0
 adguard.meddy94.de AAAA ::
 *.adguard.meddy94.de AAAA ::
+adguard.mrmartian.co A 0.0.0.0
+*.adguard.mrmartian.co A 0.0.0.0
+adguard.mrmartian.co AAAA ::
+*.adguard.mrmartian.co AAAA ::
 adguard.neon0404.space A 0.0.0.0
 *.adguard.neon0404.space A 0.0.0.0
 adguard.neon0404.space AAAA ::
@@ -501,6 +505,10 @@ airvpn.org A 0.0.0.0
 *.airvpn.org A 0.0.0.0
 airvpn.org AAAA ::
 *.airvpn.org AAAA ::
+aku.moe A 0.0.0.0
+*.aku.moe A 0.0.0.0
+aku.moe AAAA ::
+*.aku.moe AAAA ::
 all.dns.mullvad.net A 0.0.0.0
 *.all.dns.mullvad.net A 0.0.0.0
 all.dns.mullvad.net AAAA ::
@@ -1841,6 +1849,10 @@ dns.digitalsize.net A 0.0.0.0
 *.dns.digitalsize.net A 0.0.0.0
 dns.digitalsize.net AAAA ::
 *.dns.digitalsize.net AAAA ::
+dns.dk A 0.0.0.0
+*.dns.dk A 0.0.0.0
+dns.dk AAAA ::
+*.dns.dk AAAA ::
 dns.dns-53.com A 0.0.0.0
 *.dns.dns-53.com A 0.0.0.0
 dns.dns-53.com AAAA ::
@@ -2373,10 +2385,10 @@ dns.kusoneko.moe A 0.0.0.0
 *.dns.kusoneko.moe A 0.0.0.0
 dns.kusoneko.moe AAAA ::
 *.dns.kusoneko.moe AAAA ::
-dns.kuuhaku.moe A 0.0.0.0
-*.dns.kuuhaku.moe A 0.0.0.0
-dns.kuuhaku.moe AAAA ::
-*.dns.kuuhaku.moe AAAA ::
+dns.kuuhmask.icloud.com A 0.0.0.0
+*.dns.kuuhmask.icloud.com A 0.0.0.0
+dns.kuuhmask.icloud.com AAAA ::
+*.dns.kuuhmask.icloud.com AAAA ::
 dns.kxy.ink A 0.0.0.0
 *.dns.kxy.ink A 0.0.0.0
 dns.kxy.ink AAAA ::
@@ -2793,10 +2805,10 @@ dns.pub A 0.0.0.0
 *.dns.pub A 0.0.0.0
 dns.pub AAAA ::
 *.dns.pub AAAA ::
-dns-public.ibakerserver.pt A 0.0.0.0
-*.dns-public.ibakerserver.pt A 0.0.0.0
-dns-public.ibakerserver.pt AAAA ::
-*.dns-public.ibakerserver.pt AAAA ::
+dns-public.ibaker1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.dns-public.ibaker1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+dns-public.ibaker1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.dns-public.ibaker1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dnspub.restena.lu A 0.0.0.0
 *.dnspub.restena.lu A 0.0.0.0
 dnspub.restena.lu AAAA ::
@@ -2921,10 +2933,10 @@ dns.sec511.com A 0.0.0.0
 *.dns.sec511.com A 0.0.0.0
 dns.sec511.com AAAA ::
 *.dns.sec511.com AAAA ::
-dns-seconda1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.dns-seconda1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-dns-seconda1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.dns-seconda1dot1dot1dot1.cloudflare-dns.com AAAA ::
+dns-secondary.cloudnx.cloud A 0.0.0.0
+*.dns-secondary.cloudnx.cloud A 0.0.0.0
+dns-secondary.cloudnx.cloud AAAA ::
+*.dns-secondary.cloudnx.cloud AAAA ::
 dns.sellan.fr A 0.0.0.0
 *.dns.sellan.fr A 0.0.0.0
 dns.sellan.fr AAAA ::
@@ -3205,10 +3217,10 @@ dns.watch A 0.0.0.0
 *.dns.watch A 0.0.0.0
 dns.watch AAAA ::
 *.dns.watch AAAA ::
-dnswebvsn.com A 0.0.0.0
-*.dnswebvsn.com A 0.0.0.0
-dnswebvsn.com AAAA ::
-*.dnswebvsn.com AAAA ::
+dnswebvsn.comepicbrowser.com A 0.0.0.0
+*.dnswebvsn.comepicbrowser.com A 0.0.0.0
+dnswebvsn.comepicbrowser.com AAAA ::
+*.dnswebvsn.comepicbrowser.com AAAA ::
 dns.weixin.qq.com.cn A 0.0.0.0
 *.dns.weixin.qq.com.cn A 0.0.0.0
 dns.weixin.qq.com.cn AAAA ::
@@ -4165,10 +4177,6 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
-epicbrowser.com A 0.0.0.0
-*.epicbrowser.com A 0.0.0.0
-epicbrowser.com AAAA ::
-*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4749,14 +4757,14 @@ hk2.ooroot.com A 0.0.0.0
 *.hk2.ooroot.com A 0.0.0.0
 hk2.ooroot.com AAAA ::
 *.hk2.ooroot.com AAAA ::
-hkg01.dnscry.pt A 0.0.0.0
-*.hkg01.dnscry.pt A 0.0.0.0
-hkg01.dnscry.pt AAAA ::
-*.hkg01.dnscry.pt AAAA ::
 hkg02.dnscry.pt A 0.0.0.0
 *.hkg02.dnscry.pt A 0.0.0.0
 hkg02.dnscry.pt AAAA ::
 *.hkg02.dnscry.pt AAAA ::
+hkg0firefox.dns.nextdns.io A 0.0.0.0
+*.hkg0firefox.dns.nextdns.io A 0.0.0.0
+hkg0firefox.dns.nextdns.io AAAA ::
+*.hkg0firefox.dns.nextdns.io AAAA ::
 hk-hkg.doh.sb A 0.0.0.0
 *.hk-hkg.doh.sb A 0.0.0.0
 hk-hkg.doh.sb AAAA ::
@@ -6549,10 +6557,6 @@ rx.techomespace.com A 0.0.0.0
 *.rx.techomespace.com A 0.0.0.0
 rx.techomespace.com AAAA ::
 *.rx.techomespace.com AAAA ::
-ry.cloudnx.cloud A 0.0.0.0
-*.ry.cloudnx.cloud A 0.0.0.0
-ry.cloudnx.cloud AAAA ::
-*.ry.cloudnx.cloud AAAA ::
 sa01.dns4me.net A 0.0.0.0
 *.sa01.dns4me.net A 0.0.0.0
 sa01.dns4me.net AAAA ::
@@ -6673,6 +6677,10 @@ serverfriend.altervista.org A 0.0.0.0
 *.serverfriend.altervista.org A 0.0.0.0
 serverfriend.altervista.org AAAA ::
 *.serverfriend.altervista.org AAAA ::
+server.pt A 0.0.0.0
+*.server.pt A 0.0.0.0
+server.pt AAAA ::
+*.server.pt AAAA ::
 setupvpn.com A 0.0.0.0
 *.setupvpn.com A 0.0.0.0
 setupvpn.com AAAA ::
@@ -7297,6 +7305,10 @@ unfiltered.joindns4.eu A 0.0.0.0
 *.unfiltered.joindns4.eu A 0.0.0.0
 unfiltered.joindns4.eu AAAA ::
 *.unfiltered.joindns4.eu AAAA ::
+unicast.censurfri1.dnscry.pt A 0.0.0.0
+*.unicast.censurfri1.dnscry.pt A 0.0.0.0
+unicast.censurfri1.dnscry.pt AAAA ::
+*.unicast.censurfri1.dnscry.pt AAAA ::
 unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
@@ -7713,6 +7725,10 @@ www.unasw.eu A 0.0.0.0
 *.www.unasw.eu A 0.0.0.0
 www.unasw.eu AAAA ::
 *.www.unasw.eu AAAA ::
+www.zburger.top A 0.0.0.0
+*.www.zburger.top A 0.0.0.0
+www.zburger.top AAAA ::
+*.www.zburger.top AAAA ::
 wyx.cloud A 0.0.0.0
 *.wyx.cloud A 0.0.0.0
 wyx.cloud AAAA ::
