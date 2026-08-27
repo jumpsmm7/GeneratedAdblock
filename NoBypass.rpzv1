@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608270438 ; Serial Number
+ 2608271640 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -9,6 +9,8 @@ $ORIGIN nobypass.rpz.
  )
  NS localhost
 
+003153.xyz CNAME .
+*.003153.xyz CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
@@ -17,8 +19,6 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr CNAME .
 1a.ns.ozer.im CNAME .
 *.1a.ns.ozer.im CNAME .
-1.dnscry.pt CNAME .
-*.1.dnscry.pt CNAME .
 1.dns.noridev.moe CNAME .
 *.1.dns.noridev.moe CNAME .
 1dot1dot1dot1.cloudflare-dns.com CNAME .
@@ -1191,8 +1191,8 @@ dns.kukal.cz CNAME .
 *.dns.kukal.cz CNAME .
 dns.kusoneko.moe CNAME .
 *.dns.kusoneko.moe CNAME .
-dns.kuuh012proxy.ga CNAME .
-*.dns.kuuh012proxy.ga CNAME .
+dns.kuuhfirefox.dns.nextdns.io CNAME .
+*.dns.kuuhfirefox.dns.nextdns.io CNAME .
 dns.kxy.ink CNAME .
 *.dns.kxy.ink CNAME .
 dns.l337.site CNAME .
@@ -1401,8 +1401,8 @@ dns.psociety.de CNAME .
 *.dns.psociety.de CNAME .
 dns.pub CNAME .
 *.dns.pub CNAME .
-dns-public.ibakerdnswarden.com CNAME .
-*.dns-public.ibakerdnswarden.com CNAME .
+dns-public.ibaker012proxy.ga CNAME .
+*.dns-public.ibaker012proxy.ga CNAME .
 dnspub.restena.lu CNAME .
 *.dnspub.restena.lu CNAME .
 dns.pumpkinvrar.com CNAME .
@@ -1599,6 +1599,8 @@ dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
+dnswarden.com CNAME .
+*.dnswarden.com CNAME .
 dns.wargan.io CNAME .
 *.dns.wargan.io CNAME .
 dns.warma.me CNAME .
@@ -2069,8 +2071,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.003153.xyz CNAME .
-*.ecs-doh.003153.xyz CNAME .
+ecs-doh.12vpx.com CNAME .
+*.ecs-doh.12vpx.com CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2379,8 +2381,8 @@ hitian.me CNAME .
 *.hitian.me CNAME .
 hk2.ooroot.com CNAME .
 *.hk2.ooroot.com CNAME .
-hkg012vpx.com CNAME .
-*.hkg012vpx.com CNAME .
+hkg01.dnscry.pt CNAME .
+*.hkg01.dnscry.pt CNAME .
 hkg02.dnscry.pt CNAME .
 *.hkg02.dnscry.pt CNAME .
 hk-hkg.doh.sb CNAME .
@@ -3339,8 +3341,6 @@ seoul.dnsovertor.cc CNAME .
 *.seoul.dnsovertor.cc CNAME .
 serverfriend.altervista.org CNAME .
 *.serverfriend.altervista.org CNAME .
-server.pt CNAME .
-*.server.pt CNAME .
 setupvpn.com CNAME .
 *.setupvpn.com CNAME .
 sg01.dns4me.net CNAME .
@@ -3825,8 +3825,8 @@ webunblocker.xyz CNAME .
 *.webunblocker.xyz CNAME .
 whoer.net CNAME .
 *.whoer.net CNAME .
-whoisping.com CNAME .
-*.whoisping.com CNAME .
+whoisping.comserver.pt CNAME .
+*.whoisping.comserver.pt CNAME .
 whonix.org CNAME .
 *.whonix.org CNAME .
 wikimedia-dns.org CNAME .

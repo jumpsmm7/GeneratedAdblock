@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608270438 ; Serial Number
+ 2608271640 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -9,6 +9,10 @@ $ORIGIN nobypass.rpz.
  )
  NS localhost
 
+003153.xyz A 0.0.0.0
+*.003153.xyz A 0.0.0.0
+003153.xyz AAAA ::
+*.003153.xyz AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -25,10 +29,6 @@ $ORIGIN nobypass.rpz.
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
 *.1a.ns.ozer.im AAAA ::
-1.dnscry.pt A 0.0.0.0
-*.1.dnscry.pt A 0.0.0.0
-1.dnscry.pt AAAA ::
-*.1.dnscry.pt AAAA ::
 1.dns.noridev.moe A 0.0.0.0
 *.1.dns.noridev.moe A 0.0.0.0
 1.dns.noridev.moe AAAA ::
@@ -2373,10 +2373,10 @@ dns.kusoneko.moe A 0.0.0.0
 *.dns.kusoneko.moe A 0.0.0.0
 dns.kusoneko.moe AAAA ::
 *.dns.kusoneko.moe AAAA ::
-dns.kuuh012proxy.ga A 0.0.0.0
-*.dns.kuuh012proxy.ga A 0.0.0.0
-dns.kuuh012proxy.ga AAAA ::
-*.dns.kuuh012proxy.ga AAAA ::
+dns.kuuhfirefox.dns.nextdns.io A 0.0.0.0
+*.dns.kuuhfirefox.dns.nextdns.io A 0.0.0.0
+dns.kuuhfirefox.dns.nextdns.io AAAA ::
+*.dns.kuuhfirefox.dns.nextdns.io AAAA ::
 dns.kxy.ink A 0.0.0.0
 *.dns.kxy.ink A 0.0.0.0
 dns.kxy.ink AAAA ::
@@ -2793,10 +2793,10 @@ dns.pub A 0.0.0.0
 *.dns.pub A 0.0.0.0
 dns.pub AAAA ::
 *.dns.pub AAAA ::
-dns-public.ibakerdnswarden.com A 0.0.0.0
-*.dns-public.ibakerdnswarden.com A 0.0.0.0
-dns-public.ibakerdnswarden.com AAAA ::
-*.dns-public.ibakerdnswarden.com AAAA ::
+dns-public.ibaker012proxy.ga A 0.0.0.0
+*.dns-public.ibaker012proxy.ga A 0.0.0.0
+dns-public.ibaker012proxy.ga AAAA ::
+*.dns-public.ibaker012proxy.ga AAAA ::
 dnspub.restena.lu A 0.0.0.0
 *.dnspub.restena.lu A 0.0.0.0
 dnspub.restena.lu AAAA ::
@@ -3189,6 +3189,10 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
+dnswarden.com A 0.0.0.0
+*.dnswarden.com A 0.0.0.0
+dnswarden.com AAAA ::
+*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4129,10 +4133,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.003153.xyz A 0.0.0.0
-*.ecs-doh.003153.xyz A 0.0.0.0
-ecs-doh.003153.xyz AAAA ::
-*.ecs-doh.003153.xyz AAAA ::
+ecs-doh.12vpx.com A 0.0.0.0
+*.ecs-doh.12vpx.com A 0.0.0.0
+ecs-doh.12vpx.com AAAA ::
+*.ecs-doh.12vpx.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4749,10 +4753,10 @@ hk2.ooroot.com A 0.0.0.0
 *.hk2.ooroot.com A 0.0.0.0
 hk2.ooroot.com AAAA ::
 *.hk2.ooroot.com AAAA ::
-hkg012vpx.com A 0.0.0.0
-*.hkg012vpx.com A 0.0.0.0
-hkg012vpx.com AAAA ::
-*.hkg012vpx.com AAAA ::
+hkg01.dnscry.pt A 0.0.0.0
+*.hkg01.dnscry.pt A 0.0.0.0
+hkg01.dnscry.pt AAAA ::
+*.hkg01.dnscry.pt AAAA ::
 hkg02.dnscry.pt A 0.0.0.0
 *.hkg02.dnscry.pt A 0.0.0.0
 hkg02.dnscry.pt AAAA ::
@@ -6669,10 +6673,6 @@ serverfriend.altervista.org A 0.0.0.0
 *.serverfriend.altervista.org A 0.0.0.0
 serverfriend.altervista.org AAAA ::
 *.serverfriend.altervista.org AAAA ::
-server.pt A 0.0.0.0
-*.server.pt A 0.0.0.0
-server.pt AAAA ::
-*.server.pt AAAA ::
 setupvpn.com A 0.0.0.0
 *.setupvpn.com A 0.0.0.0
 setupvpn.com AAAA ::
@@ -7641,10 +7641,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.com A 0.0.0.0
-*.whoisping.com A 0.0.0.0
-whoisping.com AAAA ::
-*.whoisping.com AAAA ::
+whoisping.comserver.pt A 0.0.0.0
+*.whoisping.comserver.pt A 0.0.0.0
+whoisping.comserver.pt AAAA ::
+*.whoisping.comserver.pt AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
