@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608261637 ; Serial Number
+ 2608270438 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -9,14 +9,6 @@ $ORIGIN nobypass.rpz.
  )
  NS localhost
 
-003153.xyz A 0.0.0.0
-*.003153.xyz A 0.0.0.0
-003153.xyz AAAA ::
-*.003153.xyz AAAA ::
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -29,14 +21,14 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
-12vpx.com A 0.0.0.0
-*.12vpx.com A 0.0.0.0
-12vpx.com AAAA ::
-*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
 *.1a.ns.ozer.im AAAA ::
+1.dnscry.pt A 0.0.0.0
+*.1.dnscry.pt A 0.0.0.0
+1.dnscry.pt AAAA ::
+*.1.dnscry.pt AAAA ::
 1.dns.noridev.moe A 0.0.0.0
 *.1.dns.noridev.moe A 0.0.0.0
 1.dns.noridev.moe AAAA ::
@@ -1849,10 +1841,6 @@ dns.digitalsize.net A 0.0.0.0
 *.dns.digitalsize.net A 0.0.0.0
 dns.digitalsize.net AAAA ::
 *.dns.digitalsize.net AAAA ::
-dns.dk A 0.0.0.0
-*.dns.dk A 0.0.0.0
-dns.dk AAAA ::
-*.dns.dk AAAA ::
 dns.dns-53.com A 0.0.0.0
 *.dns.dns-53.com A 0.0.0.0
 dns.dns-53.com AAAA ::
@@ -2385,10 +2373,10 @@ dns.kusoneko.moe A 0.0.0.0
 *.dns.kusoneko.moe A 0.0.0.0
 dns.kusoneko.moe AAAA ::
 *.dns.kusoneko.moe AAAA ::
-dns.kuuhmask.icloud.com A 0.0.0.0
-*.dns.kuuhmask.icloud.com A 0.0.0.0
-dns.kuuhmask.icloud.com AAAA ::
-*.dns.kuuhmask.icloud.com AAAA ::
+dns.kuuh012proxy.ga A 0.0.0.0
+*.dns.kuuh012proxy.ga A 0.0.0.0
+dns.kuuh012proxy.ga AAAA ::
+*.dns.kuuh012proxy.ga AAAA ::
 dns.kxy.ink A 0.0.0.0
 *.dns.kxy.ink A 0.0.0.0
 dns.kxy.ink AAAA ::
@@ -2805,10 +2793,10 @@ dns.pub A 0.0.0.0
 *.dns.pub A 0.0.0.0
 dns.pub AAAA ::
 *.dns.pub AAAA ::
-dns-public.ibaker1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.dns-public.ibaker1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-dns-public.ibaker1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.dns-public.ibaker1dot1dot1dot1.cloudflare-dns.com AAAA ::
+dns-public.ibakerdnswarden.com A 0.0.0.0
+*.dns-public.ibakerdnswarden.com A 0.0.0.0
+dns-public.ibakerdnswarden.com AAAA ::
+*.dns-public.ibakerdnswarden.com AAAA ::
 dnspub.restena.lu A 0.0.0.0
 *.dnspub.restena.lu A 0.0.0.0
 dnspub.restena.lu AAAA ::
@@ -3217,10 +3205,10 @@ dns.watch A 0.0.0.0
 *.dns.watch A 0.0.0.0
 dns.watch AAAA ::
 *.dns.watch AAAA ::
-dnswebvsn.comepicbrowser.com A 0.0.0.0
-*.dnswebvsn.comepicbrowser.com A 0.0.0.0
-dnswebvsn.comepicbrowser.com AAAA ::
-*.dnswebvsn.comepicbrowser.com AAAA ::
+dnswebvsn.com A 0.0.0.0
+*.dnswebvsn.com A 0.0.0.0
+dnswebvsn.com AAAA ::
+*.dnswebvsn.com AAAA ::
 dns.weixin.qq.com.cn A 0.0.0.0
 *.dns.weixin.qq.com.cn A 0.0.0.0
 dns.weixin.qq.com.cn AAAA ::
@@ -4141,10 +4129,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.dnswarden.com A 0.0.0.0
-*.ecs-doh.dnswarden.com A 0.0.0.0
-ecs-doh.dnswarden.com AAAA ::
-*.ecs-doh.dnswarden.com AAAA ::
+ecs-doh.003153.xyz A 0.0.0.0
+*.ecs-doh.003153.xyz A 0.0.0.0
+ecs-doh.003153.xyz AAAA ::
+*.ecs-doh.003153.xyz AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4177,6 +4165,10 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
+epicbrowser.com A 0.0.0.0
+*.epicbrowser.com A 0.0.0.0
+epicbrowser.com AAAA ::
+*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4757,14 +4749,14 @@ hk2.ooroot.com A 0.0.0.0
 *.hk2.ooroot.com A 0.0.0.0
 hk2.ooroot.com AAAA ::
 *.hk2.ooroot.com AAAA ::
+hkg012vpx.com A 0.0.0.0
+*.hkg012vpx.com A 0.0.0.0
+hkg012vpx.com AAAA ::
+*.hkg012vpx.com AAAA ::
 hkg02.dnscry.pt A 0.0.0.0
 *.hkg02.dnscry.pt A 0.0.0.0
 hkg02.dnscry.pt AAAA ::
 *.hkg02.dnscry.pt AAAA ::
-hkg0firefox.dns.nextdns.io A 0.0.0.0
-*.hkg0firefox.dns.nextdns.io A 0.0.0.0
-hkg0firefox.dns.nextdns.io AAAA ::
-*.hkg0firefox.dns.nextdns.io AAAA ::
 hk-hkg.doh.sb A 0.0.0.0
 *.hk-hkg.doh.sb A 0.0.0.0
 hk-hkg.doh.sb AAAA ::
@@ -7305,10 +7297,6 @@ unfiltered.joindns4.eu A 0.0.0.0
 *.unfiltered.joindns4.eu A 0.0.0.0
 unfiltered.joindns4.eu AAAA ::
 *.unfiltered.joindns4.eu AAAA ::
-unicast.censurfri1.dnscry.pt A 0.0.0.0
-*.unicast.censurfri1.dnscry.pt A 0.0.0.0
-unicast.censurfri1.dnscry.pt AAAA ::
-*.unicast.censurfri1.dnscry.pt AAAA ::
 unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
