@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608271640 ; Serial Number
+ 2608280452 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,6 +13,10 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
+012proxy.ga A 0.0.0.0
+*.012proxy.ga A 0.0.0.0
+012proxy.ga AAAA ::
+*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -25,6 +29,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -497,10 +505,6 @@ airvpn.org A 0.0.0.0
 *.airvpn.org A 0.0.0.0
 airvpn.org AAAA ::
 *.airvpn.org AAAA ::
-aku.moe A 0.0.0.0
-*.aku.moe A 0.0.0.0
-aku.moe AAAA ::
-*.aku.moe AAAA ::
 all.dns.mullvad.net A 0.0.0.0
 *.all.dns.mullvad.net A 0.0.0.0
 all.dns.mullvad.net AAAA ::
@@ -2117,10 +2121,6 @@ dns.glf.wtf A 0.0.0.0
 *.dns.glf.wtf A 0.0.0.0
 dns.glf.wtf AAAA ::
 *.dns.glf.wtf AAAA ::
-dns.glorydns.com A 0.0.0.0
-*.dns.glorydns.com A 0.0.0.0
-dns.glorydns.com AAAA ::
-*.dns.glorydns.com AAAA ::
 dns.gnb09.id A 0.0.0.0
 *.dns.gnb09.id A 0.0.0.0
 dns.gnb09.id AAAA ::
@@ -2373,14 +2373,14 @@ dns.kusoneko.moe A 0.0.0.0
 *.dns.kusoneko.moe A 0.0.0.0
 dns.kusoneko.moe AAAA ::
 *.dns.kusoneko.moe AAAA ::
-dns.kuuhfirefox.dns.nextdns.io A 0.0.0.0
-*.dns.kuuhfirefox.dns.nextdns.io A 0.0.0.0
-dns.kuuhfirefox.dns.nextdns.io AAAA ::
-*.dns.kuuhfirefox.dns.nextdns.io AAAA ::
-dns.kxy.ink A 0.0.0.0
-*.dns.kxy.ink A 0.0.0.0
-dns.kxy.ink AAAA ::
-*.dns.kxy.ink AAAA ::
+dns.kuuhaku.moe A 0.0.0.0
+*.dns.kuuhaku.moe A 0.0.0.0
+dns.kuuhaku.moe AAAA ::
+*.dns.kuuhaku.moe AAAA ::
+dns.kxy.ifirefox.dns.nextdns.io A 0.0.0.0
+*.dns.kxy.ifirefox.dns.nextdns.io A 0.0.0.0
+dns.kxy.ifirefox.dns.nextdns.io AAAA ::
+*.dns.kxy.ifirefox.dns.nextdns.io AAAA ::
 dns.l337.site A 0.0.0.0
 *.dns.l337.site A 0.0.0.0
 dns.l337.site AAAA ::
@@ -2793,10 +2793,10 @@ dns.pub A 0.0.0.0
 *.dns.pub A 0.0.0.0
 dns.pub AAAA ::
 *.dns.pub AAAA ::
-dns-public.ibaker012proxy.ga A 0.0.0.0
-*.dns-public.ibaker012proxy.ga A 0.0.0.0
-dns-public.ibaker012proxy.ga AAAA ::
-*.dns-public.ibaker012proxy.ga AAAA ::
+dns-public.ibakermask.icloud.com A 0.0.0.0
+*.dns-public.ibakermask.icloud.com A 0.0.0.0
+dns-public.ibakermask.icloud.com AAAA ::
+*.dns-public.ibakermask.icloud.com AAAA ::
 dnspub.restena.lu A 0.0.0.0
 *.dnspub.restena.lu A 0.0.0.0
 dnspub.restena.lu AAAA ::
@@ -3189,10 +3189,6 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
-dnswarden.com A 0.0.0.0
-*.dnswarden.com A 0.0.0.0
-dnswarden.com AAAA ::
-*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4133,10 +4129,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.12vpx.com A 0.0.0.0
-*.ecs-doh.12vpx.com A 0.0.0.0
-ecs-doh.12vpx.com AAAA ::
-*.ecs-doh.12vpx.com AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -6673,6 +6669,10 @@ serverfriend.altervista.org A 0.0.0.0
 *.serverfriend.altervista.org A 0.0.0.0
 serverfriend.altervista.org AAAA ::
 *.serverfriend.altervista.org AAAA ::
+server.pt A 0.0.0.0
+*.server.pt A 0.0.0.0
+server.pt AAAA ::
+*.server.pt AAAA ::
 setupvpn.com A 0.0.0.0
 *.setupvpn.com A 0.0.0.0
 setupvpn.com AAAA ::
@@ -7641,10 +7641,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.comserver.pt A 0.0.0.0
-*.whoisping.comserver.pt A 0.0.0.0
-whoisping.comserver.pt AAAA ::
-*.whoisping.comserver.pt AAAA ::
+whoisping.com A 0.0.0.0
+*.whoisping.com A 0.0.0.0
+whoisping.com AAAA ::
+*.whoisping.com AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::

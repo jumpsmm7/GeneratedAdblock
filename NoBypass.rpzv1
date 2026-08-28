@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608271640 ; Serial Number
+ 2608280452 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -11,12 +11,16 @@ $ORIGIN nobypass.rpz.
 
 003153.xyz CNAME .
 *.003153.xyz CNAME .
+012proxy.ga CNAME .
+*.012proxy.ga CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
 *.123000123.xyz CNAME .
 123-24.eport.gr CNAME .
 *.123-24.eport.gr CNAME .
+12vpx.com CNAME .
+*.12vpx.com CNAME .
 1a.ns.ozer.im CNAME .
 *.1a.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
@@ -253,8 +257,6 @@ ahoj.email CNAME .
 *.ahoj.email CNAME .
 airvpn.org CNAME .
 *.airvpn.org CNAME .
-aku.moe CNAME .
-*.aku.moe CNAME .
 all.dns.mullvad.net CNAME .
 *.all.dns.mullvad.net CNAME .
 allunblocked.com CNAME .
@@ -1063,8 +1065,6 @@ dns.girino.org CNAME .
 *.dns.girino.org CNAME .
 dns.glf.wtf CNAME .
 *.dns.glf.wtf CNAME .
-dns.glorydns.com CNAME .
-*.dns.glorydns.com CNAME .
 dns.gnb09.id CNAME .
 *.dns.gnb09.id CNAME .
 dns.goldplate.org CNAME .
@@ -1191,10 +1191,10 @@ dns.kukal.cz CNAME .
 *.dns.kukal.cz CNAME .
 dns.kusoneko.moe CNAME .
 *.dns.kusoneko.moe CNAME .
-dns.kuuhfirefox.dns.nextdns.io CNAME .
-*.dns.kuuhfirefox.dns.nextdns.io CNAME .
-dns.kxy.ink CNAME .
-*.dns.kxy.ink CNAME .
+dns.kuuhaku.moe CNAME .
+*.dns.kuuhaku.moe CNAME .
+dns.kxy.ifirefox.dns.nextdns.io CNAME .
+*.dns.kxy.ifirefox.dns.nextdns.io CNAME .
 dns.l337.site CNAME .
 *.dns.l337.site CNAME .
 dns.larsdebruin.net CNAME .
@@ -1401,8 +1401,8 @@ dns.psociety.de CNAME .
 *.dns.psociety.de CNAME .
 dns.pub CNAME .
 *.dns.pub CNAME .
-dns-public.ibaker012proxy.ga CNAME .
-*.dns-public.ibaker012proxy.ga CNAME .
+dns-public.ibakermask.icloud.com CNAME .
+*.dns-public.ibakermask.icloud.com CNAME .
 dnspub.restena.lu CNAME .
 *.dnspub.restena.lu CNAME .
 dns.pumpkinvrar.com CNAME .
@@ -1599,8 +1599,6 @@ dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
-dnswarden.com CNAME .
-*.dnswarden.com CNAME .
 dns.wargan.io CNAME .
 *.dns.wargan.io CNAME .
 dns.warma.me CNAME .
@@ -2071,8 +2069,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.12vpx.com CNAME .
-*.ecs-doh.12vpx.com CNAME .
+ecs-doh.dnswarden.com CNAME .
+*.ecs-doh.dnswarden.com CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -3341,6 +3339,8 @@ seoul.dnsovertor.cc CNAME .
 *.seoul.dnsovertor.cc CNAME .
 serverfriend.altervista.org CNAME .
 *.serverfriend.altervista.org CNAME .
+server.pt CNAME .
+*.server.pt CNAME .
 setupvpn.com CNAME .
 *.setupvpn.com CNAME .
 sg01.dns4me.net CNAME .
@@ -3825,8 +3825,8 @@ webunblocker.xyz CNAME .
 *.webunblocker.xyz CNAME .
 whoer.net CNAME .
 *.whoer.net CNAME .
-whoisping.comserver.pt CNAME .
-*.whoisping.comserver.pt CNAME .
+whoisping.com CNAME .
+*.whoisping.com CNAME .
 whonix.org CNAME .
 *.whonix.org CNAME .
 wikimedia-dns.org CNAME .
