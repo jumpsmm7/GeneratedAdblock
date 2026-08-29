@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608281653 ; Serial Number
+ 2608290458 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,10 +13,6 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -29,10 +25,6 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
-12vpx.com A 0.0.0.0
-*.12vpx.com A 0.0.0.0
-12vpx.com AAAA ::
-*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -729,10 +721,6 @@ b-ii.com A 0.0.0.0
 *.b-ii.com A 0.0.0.0
 b-ii.com AAAA ::
 *.b-ii.com AAAA ::
-biying.flymlc.com A 0.0.0.0
-*.biying.flymlc.com A 0.0.0.0
-biying.flymlc.com AAAA ::
-*.biying.flymlc.com AAAA ::
 blackhole.myon.lu A 0.0.0.0
 *.blackhole.myon.lu A 0.0.0.0
 blackhole.myon.lu AAAA ::
@@ -1065,6 +1053,10 @@ cynntex.fun A 0.0.0.0
 *.cynntex.fun A 0.0.0.0
 cynntex.fun AAAA ::
 *.cynntex.fun AAAA ::
+d12vpx.com A 0.0.0.0
+*.d12vpx.com A 0.0.0.0
+d12vpx.com AAAA ::
+*.d12vpx.com AAAA ::
 d2.shabi.icu A 0.0.0.0
 *.d2.shabi.icu A 0.0.0.0
 d2.shabi.icu AAAA ::
@@ -2385,10 +2377,6 @@ dns.larsdebruin.net A 0.0.0.0
 *.dns.larsdebruin.net A 0.0.0.0
 dns.larsdebruin.net AAAA ::
 *.dns.larsdebruin.net AAAA ::
-dns.lars-lehmann.net A 0.0.0.0
-*.dns.lars-lehmann.net A 0.0.0.0
-dns.lars-lehmann.net AAAA ::
-*.dns.lars-lehmann.net AAAA ::
 dns.lepilleur.com A 0.0.0.0
 *.dns.lepilleur.com A 0.0.0.0
 dns.lepilleur.com AAAA ::
@@ -2817,6 +2805,10 @@ dns.quiet.rocks A 0.0.0.0
 *.dns.quiet.rocks A 0.0.0.0
 dns.quiet.rocks AAAA ::
 *.dns.quiet.rocks AAAA ::
+dns.qwer.pw A 0.0.0.0
+*.dns.qwer.pw A 0.0.0.0
+dns.qwer.pw AAAA ::
+*.dns.qwer.pw AAAA ::
 dns.rabbitdns.org A 0.0.0.0
 *.dns.rabbitdns.org A 0.0.0.0
 dns.rabbitdns.org AAAA ::
@@ -2917,10 +2909,10 @@ dns.sec511.com A 0.0.0.0
 *.dns.sec511.com A 0.0.0.0
 dns.sec511.com AAAA ::
 *.dns.sec511.com AAAA ::
-dns-secondary.cloudnx.cloud A 0.0.0.0
-*.dns-secondary.cloudnx.cloud A 0.0.0.0
-dns-secondary.cloudnx.cloud AAAA ::
-*.dns-secondary.cloudnx.cloud AAAA ::
+dns-secodarknet.to A 0.0.0.0
+*.dns-secodarknet.to A 0.0.0.0
+dns-secodarknet.to AAAA ::
+*.dns-secodarknet.to AAAA ::
 dns.sellan.fr A 0.0.0.0
 *.dns.sellan.fr A 0.0.0.0
 dns.sellan.fr AAAA ::
@@ -2941,10 +2933,6 @@ dns.shecan.ir A 0.0.0.0
 *.dns.shecan.ir A 0.0.0.0
 dns.shecan.ir AAAA ::
 *.dns.shecan.ir AAAA ::
-dns.sheggi.ch A 0.0.0.0
-*.dns.sheggi.ch A 0.0.0.0
-dns.sheggi.ch AAAA ::
-*.dns.sheggi.ch AAAA ::
 dns.silen.org A 0.0.0.0
 *.dns.silen.org A 0.0.0.0
 dns.silen.org AAAA ::
@@ -3185,10 +3173,6 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
-dnswarden.com A 0.0.0.0
-*.dnswarden.com A 0.0.0.0
-dnswarden.com AAAA ::
-*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -3273,10 +3257,10 @@ do.dnscrypt.uk A 0.0.0.0
 *.do.dnscrypt.uk A 0.0.0.0
 do.dnscrypt.uk AAAA ::
 *.do.dnscrypt.uk AAAA ::
-dog.dns.qwer.pw A 0.0.0.0
-*.dog.dns.qwer.pw A 0.0.0.0
-dog.dns.qwer.pw AAAA ::
-*.dog.dns.qwer.pw AAAA ::
+dog.012proxy.ga A 0.0.0.0
+*.dog.012proxy.ga A 0.0.0.0
+dog.012proxy.ga AAAA ::
+*.dog.012proxy.ga AAAA ::
 doh003.280blocker.net A 0.0.0.0
 *.doh003.280blocker.net A 0.0.0.0
 doh003.280blocker.net AAAA ::
@@ -3821,6 +3805,10 @@ doh.technochat.in A 0.0.0.0
 *.doh.technochat.in A 0.0.0.0
 doh.technochat.in AAAA ::
 *.doh.technochat.in AAAA ::
+doh.thio.me A 0.0.0.0
+*.doh.thio.me A 0.0.0.0
+doh.thio.me AAAA ::
+*.doh.thio.me AAAA ::
 doh.this.web.id A 0.0.0.0
 *.doh.this.web.id A 0.0.0.0
 doh.this.web.id AAAA ::
@@ -4125,10 +4113,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.darknet.to A 0.0.0.0
-*.ecs-doh.darknet.to A 0.0.0.0
-ecs-doh.darknet.to AAAA ::
-*.ecs-doh.darknet.to AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -5421,6 +5409,10 @@ naw01.dnscry.pt A 0.0.0.0
 *.naw01.dnscry.pt A 0.0.0.0
 naw01.dnscry.pt AAAA ::
 *.naw01.dnscry.pt AAAA ::
+ndary.cloudnx.cloud A 0.0.0.0
+*.ndary.cloudnx.cloud A 0.0.0.0
+ndary.cloudnx.cloud AAAA ::
+*.ndary.cloudnx.cloud AAAA ::
 ndns.233py.com A 0.0.0.0
 *.ndns.233py.com A 0.0.0.0
 ndns.233py.com AAAA ::
@@ -5577,6 +5569,10 @@ nsec.arnor.org A 0.0.0.0
 *.nsec.arnor.org A 0.0.0.0
 nsec.arnor.org AAAA ::
 *.nsec.arnor.org AAAA ::
+ns.lars-lehmann.net A 0.0.0.0
+*.ns.lars-lehmann.net A 0.0.0.0
+ns.lars-lehmann.net AAAA ::
+*.ns.lars-lehmann.net AAAA ::
 ns.mtsoln.com A 0.0.0.0
 *.ns.mtsoln.com A 0.0.0.0
 ns.mtsoln.com AAAA ::
@@ -5825,10 +5821,6 @@ pashagame456.com A 0.0.0.0
 *.pashagame456.com A 0.0.0.0
 pashagame456.com AAAA ::
 *.pashagame456.com AAAA ::
-pates.services.sfr.fr.casepp.sfr.fr A 0.0.0.0
-*.pates.services.sfr.fr.casepp.sfr.fr A 0.0.0.0
-pates.services.sfr.fr.casepp.sfr.fr AAAA ::
-*.pates.services.sfr.fr.casepp.sfr.fr AAAA ::
 paulo.nom.za A 0.0.0.0
 *.paulo.nom.za A 0.0.0.0
 paulo.nom.za AAAA ::
@@ -7801,6 +7793,10 @@ yunyun.is.my.waifu.cz A 0.0.0.0
 *.yunyun.is.my.waifu.cz A 0.0.0.0
 yunyun.is.my.waifu.cz AAAA ::
 *.yunyun.is.my.waifu.cz AAAA ::
+yuvelirtut.website A 0.0.0.0
+*.yuvelirtut.website A 0.0.0.0
+yuvelirtut.website AAAA ::
+*.yuvelirtut.website AAAA ::
 yvr01.dnscry.pt A 0.0.0.0
 *.yvr01.dnscry.pt A 0.0.0.0
 yvr01.dnscry.pt AAAA ::

@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608281653 ; Serial Number
+ 2608290458 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -11,16 +11,12 @@ $ORIGIN nobypass.rpz.
 
 003153.xyz CNAME .
 *.003153.xyz CNAME .
-012proxy.ga CNAME .
-*.012proxy.ga CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
 *.123000123.xyz CNAME .
 123-24.eport.gr CNAME .
 *.123-24.eport.gr CNAME .
-12vpx.com CNAME .
-*.12vpx.com CNAME .
 1a.ns.ozer.im CNAME .
 *.1a.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
@@ -369,8 +365,6 @@ b.family.ns.dnslify.com CNAME .
 *.b.family.ns.dnslify.com CNAME .
 b-ii.com CNAME .
 *.b-ii.com CNAME .
-biying.flymlc.com CNAME .
-*.biying.flymlc.com CNAME .
 blackhole.myon.lu CNAME .
 *.blackhole.myon.lu CNAME .
 blackvpn.com CNAME .
@@ -537,6 +531,8 @@ cyberghostvpn.com CNAME .
 *.cyberghostvpn.com CNAME .
 cynntex.fun CNAME .
 *.cynntex.fun CNAME .
+d12vpx.com CNAME .
+*.d12vpx.com CNAME .
 d2.shabi.icu CNAME .
 *.d2.shabi.icu CNAME .
 d.adguard-dns.com CNAME .
@@ -1197,8 +1193,6 @@ dns.l337.site CNAME .
 *.dns.l337.site CNAME .
 dns.larsdebruin.net CNAME .
 *.dns.larsdebruin.net CNAME .
-dns.lars-lehmann.net CNAME .
-*.dns.lars-lehmann.net CNAME .
 dns.lepilleur.com CNAME .
 *.dns.lepilleur.com CNAME .
 dns.lermer.nl CNAME .
@@ -1413,6 +1407,8 @@ dns.quad9.net CNAME .
 *.dns.quad9.net CNAME .
 dns.quiet.rocks CNAME .
 *.dns.quiet.rocks CNAME .
+dns.qwer.pw CNAME .
+*.dns.qwer.pw CNAME .
 dns.rabbitdns.org CNAME .
 *.dns.rabbitdns.org CNAME .
 dns.rayanbab.com CNAME .
@@ -1463,8 +1459,8 @@ dnsse.alekberg.net CNAME .
 *.dnsse.alekberg.net CNAME .
 dns.sec511.com CNAME .
 *.dns.sec511.com CNAME .
-dns-secondary.cloudnx.cloud CNAME .
-*.dns-secondary.cloudnx.cloud CNAME .
+dns-secodarknet.to CNAME .
+*.dns-secodarknet.to CNAME .
 dns.sellan.fr CNAME .
 *.dns.sellan.fr CNAME .
 dnsse-noads.alekberg.net CNAME .
@@ -1475,8 +1471,6 @@ dns.shareworx.net CNAME .
 *.dns.shareworx.net CNAME .
 dns.shecan.ir CNAME .
 *.dns.shecan.ir CNAME .
-dns.sheggi.ch CNAME .
-*.dns.sheggi.ch CNAME .
 dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
@@ -1597,8 +1591,6 @@ dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
-dnswarden.com CNAME .
-*.dnswarden.com CNAME .
 dns.wargan.io CNAME .
 *.dns.wargan.io CNAME .
 dns.warma.me CNAME .
@@ -1641,8 +1633,8 @@ do-39574-tr.xyz CNAME .
 *.do-39574-tr.xyz CNAME .
 do.dnscrypt.uk CNAME .
 *.do.dnscrypt.uk CNAME .
-dog.dns.qwer.pw CNAME .
-*.dog.dns.qwer.pw CNAME .
+dog.012proxy.ga CNAME .
+*.dog.012proxy.ga CNAME .
 doh003.280blocker.net CNAME .
 *.doh003.280blocker.net CNAME .
 doh-01.spectrum.com CNAME .
@@ -1915,6 +1907,8 @@ doh.sz-dns.com CNAME .
 *.doh.sz-dns.com CNAME .
 doh.technochat.in CNAME .
 *.doh.technochat.in CNAME .
+doh.thio.me CNAME .
+*.doh.thio.me CNAME .
 doh.this.web.id CNAME .
 *.doh.this.web.id CNAME .
 doh.tiarap.org CNAME .
@@ -2067,8 +2061,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.darknet.to CNAME .
-*.ecs-doh.darknet.to CNAME .
+ecs-doh.dnswarden.com CNAME .
+*.ecs-doh.dnswarden.com CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2715,6 +2709,8 @@ nat64.tuxis.nl CNAME .
 *.nat64.tuxis.nl CNAME .
 naw01.dnscry.pt CNAME .
 *.naw01.dnscry.pt CNAME .
+ndary.cloudnx.cloud CNAME .
+*.ndary.cloudnx.cloud CNAME .
 ndns.233py.com CNAME .
 *.ndns.233py.com CNAME .
 netcup.mismat.ch CNAME .
@@ -2793,6 +2789,8 @@ ns.data.haus CNAME .
 *.ns.data.haus CNAME .
 nsec.arnor.org CNAME .
 *.nsec.arnor.org CNAME .
+ns.lars-lehmann.net CNAME .
+*.ns.lars-lehmann.net CNAME .
 ns.mtsoln.com CNAME .
 *.ns.mtsoln.com CNAME .
 ns.net.kg CNAME .
@@ -2917,8 +2915,6 @@ parrotsec.org CNAME .
 *.parrotsec.org CNAME .
 pashagame456.com CNAME .
 *.pashagame456.com CNAME .
-pates.services.sfr.fr.casepp.sfr.fr CNAME .
-*.pates.services.sfr.fr.casepp.sfr.fr CNAME .
 paulo.nom.za CNAME .
 *.paulo.nom.za CNAME .
 pdns.faelix.net CNAME .
@@ -3905,6 +3901,8 @@ yul01.dnscry.pt CNAME .
 *.yul01.dnscry.pt CNAME .
 yunyun.is.my.waifu.cz CNAME .
 *.yunyun.is.my.waifu.cz CNAME .
+yuvelirtut.website CNAME .
+*.yuvelirtut.website CNAME .
 yvr01.dnscry.pt CNAME .
 *.yvr01.dnscry.pt CNAME .
 yxorproxy.com CNAME .
