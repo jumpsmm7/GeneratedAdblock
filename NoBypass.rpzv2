@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608290458 ; Serial Number
+ 2608291711 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,6 +13,10 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
+012proxy.ga A 0.0.0.0
+*.012proxy.ga A 0.0.0.0
+012proxy.ga AAAA ::
+*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -25,6 +29,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -1053,10 +1061,6 @@ cynntex.fun A 0.0.0.0
 *.cynntex.fun A 0.0.0.0
 cynntex.fun AAAA ::
 *.cynntex.fun AAAA ::
-d12vpx.com A 0.0.0.0
-*.d12vpx.com A 0.0.0.0
-d12vpx.com AAAA ::
-*.d12vpx.com AAAA ::
 d2.shabi.icu A 0.0.0.0
 *.d2.shabi.icu A 0.0.0.0
 d2.shabi.icu AAAA ::
@@ -1085,6 +1089,10 @@ darya.persiannit.net A 0.0.0.0
 *.darya.persiannit.net A 0.0.0.0
 darya.persiannit.net AAAA ::
 *.darya.persiannit.net AAAA ::
+ddnswarden.com A 0.0.0.0
+*.ddnswarden.com A 0.0.0.0
+ddnswarden.com AAAA ::
+*.ddnswarden.com AAAA ::
 de01.dns4me.net A 0.0.0.0
 *.de01.dns4me.net A 0.0.0.0
 de01.dns4me.net AAAA ::
@@ -2805,10 +2813,6 @@ dns.quiet.rocks A 0.0.0.0
 *.dns.quiet.rocks A 0.0.0.0
 dns.quiet.rocks AAAA ::
 *.dns.quiet.rocks AAAA ::
-dns.qwer.pw A 0.0.0.0
-*.dns.qwer.pw A 0.0.0.0
-dns.qwer.pw AAAA ::
-*.dns.qwer.pw AAAA ::
 dns.rabbitdns.org A 0.0.0.0
 *.dns.rabbitdns.org A 0.0.0.0
 dns.rabbitdns.org AAAA ::
@@ -3257,10 +3261,10 @@ do.dnscrypt.uk A 0.0.0.0
 *.do.dnscrypt.uk A 0.0.0.0
 do.dnscrypt.uk AAAA ::
 *.do.dnscrypt.uk AAAA ::
-dog.012proxy.ga A 0.0.0.0
-*.dog.012proxy.ga A 0.0.0.0
-dog.012proxy.ga AAAA ::
-*.dog.012proxy.ga AAAA ::
+dog.dns.qwer.pw A 0.0.0.0
+*.dog.dns.qwer.pw A 0.0.0.0
+dog.dns.qwer.pw AAAA ::
+*.dog.dns.qwer.pw AAAA ::
 doh003.280blocker.net A 0.0.0.0
 *.doh003.280blocker.net A 0.0.0.0
 doh003.280blocker.net AAAA ::
@@ -4113,10 +4117,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.dnswarden.com A 0.0.0.0
-*.ecs-doh.dnswarden.com A 0.0.0.0
-ecs-doh.dnswarden.com AAAA ::
-*.ecs-doh.dnswarden.com AAAA ::
+ecs-doh.mask.icloud.com A 0.0.0.0
+*.ecs-doh.mask.icloud.com A 0.0.0.0
+ecs-doh.mask.icloud.com AAAA ::
+*.ecs-doh.mask.icloud.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
