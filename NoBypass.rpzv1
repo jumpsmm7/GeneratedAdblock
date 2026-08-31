@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608301706 ; Serial Number
+ 2608310511 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -19,6 +19,8 @@ $ORIGIN nobypass.rpz.
 *.123000123.xyz CNAME .
 123-24.eport.gr CNAME .
 *.123-24.eport.gr CNAME .
+12vpx.com CNAME .
+*.12vpx.com CNAME .
 1a.ns.ozer.im CNAME .
 *.1a.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
@@ -543,8 +545,6 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 darkness.is.my.waifu.cz CNAME .
 *.darkness.is.my.waifu.cz CNAME .
-darknet.to CNAME .
-*.darknet.to CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
@@ -557,8 +557,6 @@ de-dus.doh.sb CNAME .
 *.de-dus.doh.sb CNAME .
 deep-henchman-excuse.cfd CNAME .
 *.deep-henchman-excuse.cfd CNAME .
-dee.su CNAME .
-*.dee.su CNAME .
 defencevpn.com CNAME .
 *.defencevpn.com CNAME .
 defilter.us CNAME .
@@ -1191,8 +1189,8 @@ dns.kusoneko.moe CNAME .
 *.dns.kusoneko.moe CNAME .
 dns.kuuhaku.moe CNAME .
 *.dns.kuuhaku.moe CNAME .
-dns.kxy.ink CNAME .
-*.dns.kxy.ink CNAME .
+dns.kxy.indee.su CNAME .
+*.dns.kxy.indee.su CNAME .
 dns.l337.site CNAME .
 *.dns.l337.site CNAME .
 dns.larsdebruin.net CNAME .
@@ -1463,8 +1461,8 @@ dnsse.alekberg.net CNAME .
 *.dnsse.alekberg.net CNAME .
 dns.sec511.com CNAME .
 *.dns.sec511.com CNAME .
-dns-seco12vpx.com CNAME .
-*.dns-seco12vpx.com CNAME .
+dns-secondary.cloudnx.cloud CNAME .
+*.dns-secondary.cloudnx.cloud CNAME .
 dns.sellan.fr CNAME .
 *.dns.sellan.fr CNAME .
 dnsse-noads.alekberg.net CNAME .
@@ -2381,8 +2379,8 @@ hkg02.dnscry.pt CNAME .
 *.hkg02.dnscry.pt CNAME .
 hk-hkg.doh.sb CNAME .
 *.hk-hkg.doh.sb CNAME .
-hkname.freecdn.one CNAME .
-*.hkname.freecdn.one CNAME .
+hknadarknet.to CNAME .
+*.hknadarknet.to CNAME .
 hola.org CNAME .
 *.hola.org CNAME .
 hole.elbschloss.xyz CNAME .
@@ -2647,6 +2645,8 @@ masters-of-cloud.de CNAME .
 *.masters-of-cloud.de CNAME .
 max.rethinkdns.com CNAME .
 *.max.rethinkdns.com CNAME .
+me.freecdn.one CNAME .
+*.me.freecdn.one CNAME .
 meganerd.nl CNAME .
 *.meganerd.nl CNAME .
 megaproxy.com CNAME .
@@ -2713,8 +2713,6 @@ nat64.tuxis.nl CNAME .
 *.nat64.tuxis.nl CNAME .
 naw01.dnscry.pt CNAME .
 *.naw01.dnscry.pt CNAME .
-ndary.cloudnx.cloud CNAME .
-*.ndary.cloudnx.cloud CNAME .
 ndns.233py.com CNAME .
 *.ndns.233py.com CNAME .
 netcup.mismat.ch CNAME .

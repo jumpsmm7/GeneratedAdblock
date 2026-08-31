@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2608301706 ; Serial Number
+ 2608310511 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -29,6 +29,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -1077,10 +1081,6 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
-darknet.to A 0.0.0.0
-*.darknet.to A 0.0.0.0
-darknet.to AAAA ::
-*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1105,10 +1105,6 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
-dee.su A 0.0.0.0
-*.dee.su A 0.0.0.0
-dee.su AAAA ::
-*.dee.su AAAA ::
 defencevpn.com A 0.0.0.0
 *.defencevpn.com A 0.0.0.0
 defencevpn.com AAAA ::
@@ -2373,10 +2369,10 @@ dns.kuuhaku.moe A 0.0.0.0
 *.dns.kuuhaku.moe A 0.0.0.0
 dns.kuuhaku.moe AAAA ::
 *.dns.kuuhaku.moe AAAA ::
-dns.kxy.ink A 0.0.0.0
-*.dns.kxy.ink A 0.0.0.0
-dns.kxy.ink AAAA ::
-*.dns.kxy.ink AAAA ::
+dns.kxy.indee.su A 0.0.0.0
+*.dns.kxy.indee.su A 0.0.0.0
+dns.kxy.indee.su AAAA ::
+*.dns.kxy.indee.su AAAA ::
 dns.l337.site A 0.0.0.0
 *.dns.l337.site A 0.0.0.0
 dns.l337.site AAAA ::
@@ -2917,10 +2913,10 @@ dns.sec511.com A 0.0.0.0
 *.dns.sec511.com A 0.0.0.0
 dns.sec511.com AAAA ::
 *.dns.sec511.com AAAA ::
-dns-seco12vpx.com A 0.0.0.0
-*.dns-seco12vpx.com A 0.0.0.0
-dns-seco12vpx.com AAAA ::
-*.dns-seco12vpx.com AAAA ::
+dns-secondary.cloudnx.cloud A 0.0.0.0
+*.dns-secondary.cloudnx.cloud A 0.0.0.0
+dns-secondary.cloudnx.cloud AAAA ::
+*.dns-secondary.cloudnx.cloud AAAA ::
 dns.sellan.fr A 0.0.0.0
 *.dns.sellan.fr A 0.0.0.0
 dns.sellan.fr AAAA ::
@@ -4753,10 +4749,10 @@ hk-hkg.doh.sb A 0.0.0.0
 *.hk-hkg.doh.sb A 0.0.0.0
 hk-hkg.doh.sb AAAA ::
 *.hk-hkg.doh.sb AAAA ::
-hkname.freecdn.one A 0.0.0.0
-*.hkname.freecdn.one A 0.0.0.0
-hkname.freecdn.one AAAA ::
-*.hkname.freecdn.one AAAA ::
+hknadarknet.to A 0.0.0.0
+*.hknadarknet.to A 0.0.0.0
+hknadarknet.to AAAA ::
+*.hknadarknet.to AAAA ::
 hola.org A 0.0.0.0
 *.hola.org A 0.0.0.0
 hola.org AAAA ::
@@ -5285,6 +5281,10 @@ max.rethinkdns.com A 0.0.0.0
 *.max.rethinkdns.com A 0.0.0.0
 max.rethinkdns.com AAAA ::
 *.max.rethinkdns.com AAAA ::
+me.freecdn.one A 0.0.0.0
+*.me.freecdn.one A 0.0.0.0
+me.freecdn.one AAAA ::
+*.me.freecdn.one AAAA ::
 meganerd.nl A 0.0.0.0
 *.meganerd.nl A 0.0.0.0
 meganerd.nl AAAA ::
@@ -5417,10 +5417,6 @@ naw01.dnscry.pt A 0.0.0.0
 *.naw01.dnscry.pt A 0.0.0.0
 naw01.dnscry.pt AAAA ::
 *.naw01.dnscry.pt AAAA ::
-ndary.cloudnx.cloud A 0.0.0.0
-*.ndary.cloudnx.cloud A 0.0.0.0
-ndary.cloudnx.cloud AAAA ::
-*.ndary.cloudnx.cloud AAAA ::
 ndns.233py.com A 0.0.0.0
 *.ndns.233py.com A 0.0.0.0
 ndns.233py.com AAAA ::
