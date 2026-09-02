@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2609010543 ; Serial Number
+ 2609020526 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,6 +13,10 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
+012proxy.ga A 0.0.0.0
+*.012proxy.ga A 0.0.0.0
+012proxy.ga AAAA ::
+*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -25,6 +29,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -85,10 +93,6 @@ $ORIGIN nobypass.rpz.
 *.5g.o0o.re A 0.0.0.0
 5g.o0o.re AAAA ::
 *.5g.o0o.re AAAA ::
-7.duckdns.org A 0.0.0.0
-*.7.duckdns.org A 0.0.0.0
-7.duckdns.org AAAA ::
-*.7.duckdns.org AAAA ::
 8888.google A 0.0.0.0
 *.8888.google A 0.0.0.0
 8888.google AAAA ::
@@ -1149,6 +1153,10 @@ digi77.com A 0.0.0.0
 *.digi77.com A 0.0.0.0
 digi77.com AAAA ::
 *.digi77.com AAAA ::
+dnfirefox.dns.nextdns.io A 0.0.0.0
+*.dnfirefox.dns.nextdns.io A 0.0.0.0
+dnfirefox.dns.nextdns.io AAAA ::
+*.dnfirefox.dns.nextdns.io AAAA ::
 dns01.flm9.net A 0.0.0.0
 *.dns01.flm9.net A 0.0.0.0
 dns01.flm9.net AAAA ::
@@ -1741,6 +1749,10 @@ dns.csswg.org A 0.0.0.0
 *.dns.csswg.org A 0.0.0.0
 dns.csswg.org AAAA ::
 *.dns.csswg.org AAAA ::
+dns.cwlys.com A 0.0.0.0
+*.dns.cwlys.com A 0.0.0.0
+dns.cwlys.com AAAA ::
+*.dns.cwlys.com AAAA ::
 dns-cybersec.nordthreatprotection.com A 0.0.0.0
 *.dns-cybersec.nordthreatprotection.com A 0.0.0.0
 dns-cybersec.nordthreatprotection.com AAAA ::
@@ -1829,10 +1841,6 @@ dns.digitalsize.net A 0.0.0.0
 *.dns.digitalsize.net A 0.0.0.0
 dns.digitalsize.net AAAA ::
 *.dns.digitalsize.net AAAA ::
-dns.dk A 0.0.0.0
-*.dns.dk A 0.0.0.0
-dns.dk AAAA ::
-*.dns.dk AAAA ::
 dns.dns-53.com A 0.0.0.0
 *.dns.dns-53.com A 0.0.0.0
 dns.dns-53.com AAAA ::
@@ -1913,10 +1921,6 @@ dns.eddi.net A 0.0.0.0
 *.dns.eddi.net A 0.0.0.0
 dns.eddi.net AAAA ::
 *.dns.eddi.net AAAA ::
-dns.edgeburnmedia.com A 0.0.0.0
-*.dns.edgeburnmedia.com A 0.0.0.0
-dns.edgeburnmedia.com AAAA ::
-*.dns.edgeburnmedia.com AAAA ::
 dns.edgy.network A 0.0.0.0
 *.dns.edgy.network A 0.0.0.0
 dns.edgy.network AAAA ::
@@ -2137,10 +2141,6 @@ dns.guard.io A 0.0.0.0
 *.dns.guard.io A 0.0.0.0
 dns.guard.io AAAA ::
 *.dns.guard.io AAAA ::
-dns.guardmydns.com A 0.0.0.0
-*.dns.guardmydns.com A 0.0.0.0
-dns.guardmydns.com AAAA ::
-*.dns.guardmydns.com AAAA ::
 dnsguard.pub A 0.0.0.0
 *.dnsguard.pub A 0.0.0.0
 dnsguard.pub AAAA ::
@@ -2385,18 +2385,14 @@ dns.lars-lehmann.net A 0.0.0.0
 *.dns.lars-lehmann.net A 0.0.0.0
 dns.lars-lehmann.net AAAA ::
 *.dns.lars-lehmann.net AAAA ::
-dns.lep12vpx.com A 0.0.0.0
-*.dns.lep12vpx.com A 0.0.0.0
-dns.lep12vpx.com AAAA ::
-*.dns.lep12vpx.com AAAA ::
+dns.lepilleur.com A 0.0.0.0
+*.dns.lepilleur.com A 0.0.0.0
+dns.lepilleur.com AAAA ::
+*.dns.lepilleur.com AAAA ::
 dns.lermer.nl A 0.0.0.0
 *.dns.lermer.nl A 0.0.0.0
 dns.lermer.nl AAAA ::
 *.dns.lermer.nl AAAA ::
-dns.levonet.sk A 0.0.0.0
-*.dns.levonet.sk A 0.0.0.0
-dns.levonet.sk AAAA ::
-*.dns.levonet.sk AAAA ::
 dns.lgprk.com A 0.0.0.0
 *.dns.lgprk.com A 0.0.0.0
 dns.lgprk.com AAAA ::
@@ -2625,10 +2621,6 @@ dnsnl.alekberg.net A 0.0.0.0
 *.dnsnl.alekberg.net A 0.0.0.0
 dnsnl.alekberg.net AAAA ::
 *.dnsnl.alekberg.net AAAA ::
-dnsnl-noads.alekberg.net A 0.0.0.0
-*.dnsnl-noads.alekberg.net A 0.0.0.0
-dnsnl-noads.alekberg.net AAAA ::
-*.dnsnl-noads.alekberg.net AAAA ::
 dns.nodoa.me A 0.0.0.0
 *.dns.nodoa.me A 0.0.0.0
 dns.nodoa.me AAAA ::
@@ -2921,10 +2913,6 @@ dns.sellan.fr A 0.0.0.0
 *.dns.sellan.fr A 0.0.0.0
 dns.sellan.fr AAAA ::
 *.dns.sellan.fr AAAA ::
-dnsse-noads.alekberg.net A 0.0.0.0
-*.dnsse-noads.alekberg.net A 0.0.0.0
-dnsse-noads.alekberg.net AAAA ::
-*.dnsse-noads.alekberg.net AAAA ::
 dns.sev.monster A 0.0.0.0
 *.dns.sev.monster A 0.0.0.0
 dns.sev.monster AAAA ::
@@ -3081,10 +3069,10 @@ dns-tls.bitwiseshift.net A 0.0.0.0
 *.dns-tls.bitwiseshift.net A 0.0.0.0
 dns-tls.bitwiseshift.net AAAA ::
 *.dns-tls.bitwiseshift.net AAAA ::
-dns-tls.bitwiseshift.netfirefox.dns.nextdns.io A 0.0.0.0
-*.dns-tls.bitwiseshift.netfirefox.dns.nextdns.io A 0.0.0.0
-dns-tls.bitwiseshift.netfirefox.dns.nextdns.io AAAA ::
-*.dns-tls.bitwiseshift.netfirefox.dns.nextdns.io AAAA ::
+dns-tls.bitwiseshift.netmask.icloud.com A 0.0.0.0
+*.dns-tls.bitwiseshift.netmask.icloud.com A 0.0.0.0
+dns-tls.bitwiseshift.netmask.icloud.com AAAA ::
+*.dns-tls.bitwiseshift.netmask.icloud.com AAAA ::
 dns.tls-data.de A 0.0.0.0
 *.dns.tls-data.de A 0.0.0.0
 dns.tls-data.de AAAA ::
@@ -3585,6 +3573,10 @@ doh.infracell.net A 0.0.0.0
 *.doh.infracell.net A 0.0.0.0
 doh.infracell.net AAAA ::
 *.doh.infracell.net AAAA ::
+doh-ipv6.crypto.epicbrowser.com A 0.0.0.0
+*.doh-ipv6.crypto.epicbrowser.com A 0.0.0.0
+doh-ipv6.crypto.epicbrowser.com AAAA ::
+*.doh-ipv6.crypto.epicbrowser.com AAAA ::
 doh-ipv6.crypto.sx A 0.0.0.0
 *.doh-ipv6.crypto.sx A 0.0.0.0
 doh-ipv6.crypto.sx AAAA ::
@@ -4149,10 +4141,6 @@ englandproxy.co.uk A 0.0.0.0
 *.englandproxy.co.uk A 0.0.0.0
 englandproxy.co.uk AAAA ::
 *.englandproxy.co.uk AAAA ::
-epicbrowser.com A 0.0.0.0
-*.epicbrowser.com A 0.0.0.0
-epicbrowser.com AAAA ::
-*.epicbrowser.com AAAA ::
 eropa.dnscepat.id A 0.0.0.0
 *.eropa.dnscepat.id A 0.0.0.0
 eropa.dnscepat.id AAAA ::
@@ -4517,10 +4505,6 @@ gb-lon-w-p-2.nashkan.net A 0.0.0.0
 *.gb-lon-w-p-2.nashkan.net A 0.0.0.0
 gb-lon-w-p-2.nashkan.net AAAA ::
 *.gb-lon-w-p-2.nashkan.net AAAA ::
-gclouddns.com A 0.0.0.0
-*.gclouddns.com A 0.0.0.0
-gclouddns.com AAAA ::
-*.gclouddns.com AAAA ::
 geckovpn.xyz A 0.0.0.0
 *.geckovpn.xyz A 0.0.0.0
 geckovpn.xyz AAAA ::
@@ -4757,10 +4741,10 @@ hole.elbschloss.xyz A 0.0.0.0
 *.hole.elbschloss.xyz A 0.0.0.0
 hole.elbschloss.xyz AAAA ::
 *.hole.elbschloss.xyz AAAA ::
-home2012proxy.ga A 0.0.0.0
-*.home2012proxy.ga A 0.0.0.0
-home2012proxy.ga AAAA ::
-*.home2012proxy.ga AAAA ::
+home27.duckdns.org A 0.0.0.0
+*.home27.duckdns.org A 0.0.0.0
+home27.duckdns.org AAAA ::
+*.home27.duckdns.org AAAA ::
 homeproxy.com A 0.0.0.0
 *.homeproxy.com A 0.0.0.0
 homeproxy.com AAAA ::
@@ -4853,10 +4837,6 @@ ikarosalpha.xyz A 0.0.0.0
 *.ikarosalpha.xyz A 0.0.0.0
 ikarosalpha.xyz AAAA ::
 *.ikarosalpha.xyz AAAA ::
-illeur.com A 0.0.0.0
-*.illeur.com A 0.0.0.0
-illeur.com AAAA ::
-*.illeur.com AAAA ::
 imperio.top A 0.0.0.0
 *.imperio.top A 0.0.0.0
 imperio.top AAAA ::
@@ -5629,22 +5609,6 @@ odoh.crypto.sx A 0.0.0.0
 *.odoh.crypto.sx A 0.0.0.0
 odoh.crypto.sx AAAA ::
 *.odoh.crypto.sx AAAA ::
-odoh-target.alekberg.net A 0.0.0.0
-*.odoh-target.alekberg.net A 0.0.0.0
-odoh-target.alekberg.net AAAA ::
-*.odoh-target.alekberg.net AAAA ::
-odoh-target-noads.alekberg.net A 0.0.0.0
-*.odoh-target-noads.alekberg.net A 0.0.0.0
-odoh-target-noads.alekberg.net AAAA ::
-*.odoh-target-noads.alekberg.net AAAA ::
-odoh-target-noads-se.alekberg.net A 0.0.0.0
-*.odoh-target-noads-se.alekberg.net A 0.0.0.0
-odoh-target-noads-se.alekberg.net AAAA ::
-*.odoh-target-noads-se.alekberg.net AAAA ::
-odoh-target-se.alekberg.net A 0.0.0.0
-*.odoh-target-se.alekberg.net A 0.0.0.0
-odoh-target-se.alekberg.net AAAA ::
-*.odoh-target-se.alekberg.net AAAA ::
 odvr.nic.cz A 0.0.0.0
 *.odvr.nic.cz A 0.0.0.0
 odvr.nic.cz AAAA ::
@@ -6753,6 +6717,10 @@ slc01.dnscry.pt A 0.0.0.0
 *.slc01.dnscry.pt A 0.0.0.0
 slc01.dnscry.pt AAAA ::
 *.slc01.dnscry.pt AAAA ::
+s.levonet.sk A 0.0.0.0
+*.s.levonet.sk A 0.0.0.0
+s.levonet.sk AAAA ::
+*.s.levonet.sk AAAA ::
 sm2.doh.pub A 0.0.0.0
 *.sm2.doh.pub A 0.0.0.0
 sm2.doh.pub AAAA ::
@@ -7009,10 +6977,6 @@ tls-dns-u.odvr.dns-oarc.net A 0.0.0.0
 *.tls-dns-u.odvr.dns-oarc.net A 0.0.0.0
 tls-dns-u.odvr.dns-oarc.net AAAA ::
 *.tls-dns-u.odvr.dns-oarc.net AAAA ::
-tlz.asia A 0.0.0.0
-*.tlz.asia A 0.0.0.0
-tlz.asia AAAA ::
-*.tlz.asia AAAA ::
 tomatoproxy.eu A 0.0.0.0
 *.tomatoproxy.eu A 0.0.0.0
 tomatoproxy.eu AAAA ::
@@ -7289,10 +7253,6 @@ unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
 *.unicast.censurfridns.dk AAAA ::
-unicast.censurfrimask.icloud.com A 0.0.0.0
-*.unicast.censurfrimask.icloud.com A 0.0.0.0
-unicast.censurfrimask.icloud.com AAAA ::
-*.unicast.censurfrimask.icloud.com AAAA ::
 unicast.uncensoreddns.org A 0.0.0.0
 *.unicast.uncensoreddns.org A 0.0.0.0
 unicast.uncensoreddns.org AAAA ::
