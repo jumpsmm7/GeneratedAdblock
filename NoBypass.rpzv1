@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2609020526 ; Serial Number
+ 2609030520 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -19,8 +19,6 @@ $ORIGIN nobypass.rpz.
 *.123000123.xyz CNAME .
 123-24.eport.gr CNAME .
 *.123-24.eport.gr CNAME .
-12vpx.com CNAME .
-*.12vpx.com CNAME .
 1a.ns.ozer.im CNAME .
 *.1a.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
@@ -555,8 +553,6 @@ de-dus.doh.sb CNAME .
 *.de-dus.doh.sb CNAME .
 deep-henchman-excuse.cfd CNAME .
 *.deep-henchman-excuse.cfd CNAME .
-dee.su CNAME .
-*.dee.su CNAME .
 defencevpn.com CNAME .
 *.defencevpn.com CNAME .
 defilter.us CNAME .
@@ -581,8 +577,6 @@ dfw02.dnscry.pt CNAME .
 *.dfw02.dnscry.pt CNAME .
 digi77.com CNAME .
 *.digi77.com CNAME .
-dnfirefox.dns.nextdns.io CNAME .
-*.dnfirefox.dns.nextdns.io CNAME .
 dns01.flm9.net CNAME .
 *.dns01.flm9.net CNAME .
 dns0.eu CNAME .
@@ -879,8 +873,6 @@ dns.csaonline.de CNAME .
 *.dns.csaonline.de CNAME .
 dns.csswg.org CNAME .
 *.dns.csswg.org CNAME .
-dns.cwlys.com CNAME .
-*.dns.cwlys.com CNAME .
 dns-cybersec.nordthreatprotection.com CNAME .
 *.dns-cybersec.nordthreatprotection.com CNAME .
 dns.cybertonic.tech CNAME .
@@ -1201,6 +1193,8 @@ dns.lepilleur.com CNAME .
 *.dns.lepilleur.com CNAME .
 dns.lermer.nl CNAME .
 *.dns.lermer.nl CNAME .
+dns.levonet.sk CNAME .
+*.dns.levonet.sk CNAME .
 dns.lgprk.com CNAME .
 *.dns.lgprk.com CNAME .
 dns.liberador.net CNAME .
@@ -1539,8 +1533,8 @@ dns.tipsy.coffee CNAME .
 *.dns.tipsy.coffee CNAME .
 dns-tls.bitwiseshift.net CNAME .
 *.dns-tls.bitwiseshift.net CNAME .
-dns-tls.bitwiseshift.netmask.icloud.com CNAME .
-*.dns-tls.bitwiseshift.netmask.icloud.com CNAME .
+dns-tls.bitwiseshift.netdee.su CNAME .
+*.dns-tls.bitwiseshift.netdee.su CNAME .
 dns.tls-data.de CNAME .
 *.dns.tls-data.de CNAME .
 dnstls.mobik.com CNAME .
@@ -1589,6 +1583,8 @@ dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
+dnswarden.com CNAME .
+*.dnswarden.com CNAME .
 dns.wargan.io CNAME .
 *.dns.wargan.io CNAME .
 dns.warma.me CNAME .
@@ -1791,8 +1787,6 @@ doh.in.ahadns.net CNAME .
 *.doh.in.ahadns.net CNAME .
 doh.infracell.net CNAME .
 *.doh.infracell.net CNAME .
-doh-ipv6.crypto.epicbrowser.com CNAME .
-*.doh-ipv6.crypto.epicbrowser.com CNAME .
 doh-ipv6.crypto.sx CNAME .
 *.doh-ipv6.crypto.sx CNAME .
 doh.it.ahadns.net CNAME .
@@ -1905,6 +1899,8 @@ doh.sz-dns.com CNAME .
 *.doh.sz-dns.com CNAME .
 doh.technochat.in CNAME .
 *.doh.technochat.in CNAME .
+doh.thio.me CNAME .
+*.doh.thio.me CNAME .
 doh.this.web.id CNAME .
 *.doh.this.web.id CNAME .
 doh.tiarap.org CNAME .
@@ -2057,8 +2053,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.dnswarden.com CNAME .
-*.ecs-doh.dnswarden.com CNAME .
+ecs-doh.12vpx.com CNAME .
+*.ecs-doh.12vpx.com CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2075,6 +2071,8 @@ encrypt.me CNAME .
 *.encrypt.me CNAME .
 englandproxy.co.uk CNAME .
 *.englandproxy.co.uk CNAME .
+epicbrowser.com CNAME .
+*.epicbrowser.com CNAME .
 eropa.dnscepat.id CNAME .
 *.eropa.dnscepat.id CNAME .
 esel.stusta.mhn.de CNAME .
@@ -3363,8 +3361,6 @@ sky.rethinkdns.com CNAME .
 *.sky.rethinkdns.com CNAME .
 slc01.dnscry.pt CNAME .
 *.slc01.dnscry.pt CNAME .
-s.levonet.sk CNAME .
-*.s.levonet.sk CNAME .
 sm2.doh.pub CNAME .
 *.sm2.doh.pub CNAME .
 smartdnsproxy.com CNAME .
