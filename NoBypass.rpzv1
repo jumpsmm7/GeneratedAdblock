@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2609040516 ; Serial Number
+ 2609041714 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -19,6 +19,8 @@ $ORIGIN nobypass.rpz.
 *.123000123.xyz CNAME .
 123-24.eport.gr CNAME .
 *.123-24.eport.gr CNAME .
+12vpx.com CNAME .
+*.12vpx.com CNAME .
 1a.ns.ozer.im CNAME .
 *.1a.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
@@ -539,6 +541,8 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 darkness.is.my.waifu.cz CNAME .
 *.darkness.is.my.waifu.cz CNAME .
+darknet.to CNAME .
+*.darknet.to CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
@@ -683,8 +687,6 @@ dns.aaflalo.me CNAME .
 *.dns.aaflalo.me CNAME .
 dns.aa.net.uk CNAME .
 *.dns.aa.net.uk CNAME .
-dns.aaytorr.com CNAME .
-*.dns.aaytorr.com CNAME .
 dns.abdullahabas.de CNAME .
 *.dns.abdullahabas.de CNAME .
 dns.adguard.com CNAME .
@@ -1535,8 +1537,6 @@ dns.tipsy.coffee CNAME .
 *.dns.tipsy.coffee CNAME .
 dns-tls.bitwiseshift.net CNAME .
 *.dns-tls.bitwiseshift.net CNAME .
-dns-tls.bitwiseshift.net12vpx.com CNAME .
-*.dns-tls.bitwiseshift.net12vpx.com CNAME .
 dns.tls-data.de CNAME .
 *.dns.tls-data.de CNAME .
 dnstls.mobik.com CNAME .
@@ -1619,8 +1619,6 @@ dns.yuu-g.net CNAME .
 *.dns.yuu-g.net CNAME .
 dns.zemows.industries CNAME .
 *.dns.zemows.industries CNAME .
-dns.zfsystem.tech CNAME .
-*.dns.zfsystem.tech CNAME .
 dns.zzuhacker.cn CNAME .
 *.dns.zzuhacker.cn CNAME .
 do-39574-tr.xyz CNAME .
@@ -1901,8 +1899,6 @@ doh.sz-dns.com CNAME .
 *.doh.sz-dns.com CNAME .
 doh.technochat.in CNAME .
 *.doh.technochat.in CNAME .
-doh.thio.me CNAME .
-*.doh.thio.me CNAME .
 doh.this.web.id CNAME .
 *.doh.this.web.id CNAME .
 doh.tiarap.org CNAME .
@@ -2723,8 +2719,6 @@ ninjaweb.xyz CNAME .
 *.ninjaweb.xyz CNAME .
 nl-ams.doh.sb CNAME .
 *.nl-ams.doh.sb CNAME .
-nl.dns.privex.io CNAME .
-*.nl.dns.privex.io CNAME .
 nl-dro-w-f-1.nashkan.net CNAME .
 *.nl-dro-w-f-1.nashkan.net CNAME .
 nl-dro-w-p-1.nashkan.net CNAME .
@@ -3801,8 +3795,8 @@ webunblocker.xyz CNAME .
 *.webunblocker.xyz CNAME .
 whoer.net CNAME .
 *.whoer.net CNAME .
-whoisping.comdarknet.to CNAME .
-*.whoisping.comdarknet.to CNAME .
+whoisping.com CNAME .
+*.whoisping.com CNAME .
 whonix.org CNAME .
 *.whonix.org CNAME .
 wikimedia-dns.org CNAME .

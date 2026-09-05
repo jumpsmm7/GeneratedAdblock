@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2609040516 ; Serial Number
+ 2609041714 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -29,6 +29,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -1069,6 +1073,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -1357,10 +1365,6 @@ dns.aa.net.uk A 0.0.0.0
 *.dns.aa.net.uk A 0.0.0.0
 dns.aa.net.uk AAAA ::
 *.dns.aa.net.uk AAAA ::
-dns.aaytorr.com A 0.0.0.0
-*.dns.aaytorr.com A 0.0.0.0
-dns.aaytorr.com AAAA ::
-*.dns.aaytorr.com AAAA ::
 dns.abdullahabas.de A 0.0.0.0
 *.dns.abdullahabas.de A 0.0.0.0
 dns.abdullahabas.de AAAA ::
@@ -3061,10 +3065,6 @@ dns-tls.bitwiseshift.net A 0.0.0.0
 *.dns-tls.bitwiseshift.net A 0.0.0.0
 dns-tls.bitwiseshift.net AAAA ::
 *.dns-tls.bitwiseshift.net AAAA ::
-dns-tls.bitwiseshift.net12vpx.com A 0.0.0.0
-*.dns-tls.bitwiseshift.net12vpx.com A 0.0.0.0
-dns-tls.bitwiseshift.net12vpx.com AAAA ::
-*.dns-tls.bitwiseshift.net12vpx.com AAAA ::
 dns.tls-data.de A 0.0.0.0
 *.dns.tls-data.de A 0.0.0.0
 dns.tls-data.de AAAA ::
@@ -3229,10 +3229,6 @@ dns.zemows.industries A 0.0.0.0
 *.dns.zemows.industries A 0.0.0.0
 dns.zemows.industries AAAA ::
 *.dns.zemows.industries AAAA ::
-dns.zfsystem.tech A 0.0.0.0
-*.dns.zfsystem.tech A 0.0.0.0
-dns.zfsystem.tech AAAA ::
-*.dns.zfsystem.tech AAAA ::
 dns.zzuhacker.cn A 0.0.0.0
 *.dns.zzuhacker.cn A 0.0.0.0
 dns.zzuhacker.cn AAAA ::
@@ -3793,10 +3789,6 @@ doh.technochat.in A 0.0.0.0
 *.doh.technochat.in A 0.0.0.0
 doh.technochat.in AAAA ::
 *.doh.technochat.in AAAA ::
-doh.thio.me A 0.0.0.0
-*.doh.thio.me A 0.0.0.0
-doh.thio.me AAAA ::
-*.doh.thio.me AAAA ::
 doh.this.web.id A 0.0.0.0
 *.doh.this.web.id A 0.0.0.0
 doh.this.web.id AAAA ::
@@ -5437,10 +5429,6 @@ nl-ams.doh.sb A 0.0.0.0
 *.nl-ams.doh.sb A 0.0.0.0
 nl-ams.doh.sb AAAA ::
 *.nl-ams.doh.sb AAAA ::
-nl.dns.privex.io A 0.0.0.0
-*.nl.dns.privex.io A 0.0.0.0
-nl.dns.privex.io AAAA ::
-*.nl.dns.privex.io AAAA ::
 nl-dro-w-f-1.nashkan.net A 0.0.0.0
 *.nl-dro-w-f-1.nashkan.net A 0.0.0.0
 nl-dro-w-f-1.nashkan.net AAAA ::
@@ -7593,10 +7581,10 @@ whoer.net A 0.0.0.0
 *.whoer.net A 0.0.0.0
 whoer.net AAAA ::
 *.whoer.net AAAA ::
-whoisping.comdarknet.to A 0.0.0.0
-*.whoisping.comdarknet.to A 0.0.0.0
-whoisping.comdarknet.to AAAA ::
-*.whoisping.comdarknet.to AAAA ::
+whoisping.com A 0.0.0.0
+*.whoisping.com A 0.0.0.0
+whoisping.com AAAA ::
+*.whoisping.com AAAA ::
 whonix.org A 0.0.0.0
 *.whonix.org A 0.0.0.0
 whonix.org AAAA ::
