@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2609070450 ; Serial Number
+ 2609071416 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -11,6 +11,8 @@ $ORIGIN nobypass.rpz.
 
 003153.xyz CNAME .
 *.003153.xyz CNAME .
+012proxy.ga CNAME .
+*.012proxy.ga CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
@@ -1173,6 +1175,8 @@ dns.keviland.com CNAME .
 *.dns.keviland.com CNAME .
 dns.keweon.center CNAME .
 *.dns.keweon.center CNAME .
+dns.koala.us.to CNAME .
+*.dns.koala.us.to CNAME .
 dns.korzhyk.pp.ua CNAME .
 *.dns.korzhyk.pp.ua CNAME .
 dns.kosan.moe CNAME .
@@ -1469,6 +1473,8 @@ dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
+dns.simplylinux.ch CNAME .
+*.dns.simplylinux.ch CNAME .
 dns.sindominio.net CNAME .
 *.dns.sindominio.net CNAME .
 dns.skrep.eu CNAME .
@@ -1535,8 +1541,6 @@ dns.tipsy.coffee CNAME .
 *.dns.tipsy.coffee CNAME .
 dns-tls.bitwiseshift.net CNAME .
 *.dns-tls.bitwiseshift.net CNAME .
-dns-tls.bitwiseshift.net012proxy.ga CNAME .
-*.dns-tls.bitwiseshift.net012proxy.ga CNAME .
 dns.tls-data.de CNAME .
 *.dns.tls-data.de CNAME .
 dnstls.mobik.com CNAME .
