@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2609060531 ; Serial Number
+ 2609070450 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -11,8 +11,6 @@ $ORIGIN nobypass.rpz.
 
 003153.xyz CNAME .
 *.003153.xyz CNAME .
-012proxy.ga CNAME .
-*.012proxy.ga CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
@@ -1175,8 +1173,6 @@ dns.keviland.com CNAME .
 *.dns.keviland.com CNAME .
 dns.keweon.center CNAME .
 *.dns.keweon.center CNAME .
-dns.koala.us.to CNAME .
-*.dns.koala.us.to CNAME .
 dns.korzhyk.pp.ua CNAME .
 *.dns.korzhyk.pp.ua CNAME .
 dns.kosan.moe CNAME .
@@ -1539,6 +1535,8 @@ dns.tipsy.coffee CNAME .
 *.dns.tipsy.coffee CNAME .
 dns-tls.bitwiseshift.net CNAME .
 *.dns-tls.bitwiseshift.net CNAME .
+dns-tls.bitwiseshift.net012proxy.ga CNAME .
+*.dns-tls.bitwiseshift.net012proxy.ga CNAME .
 dns.tls-data.de CNAME .
 *.dns.tls-data.de CNAME .
 dnstls.mobik.com CNAME .
@@ -1695,6 +1693,8 @@ doh.blahdns.com CNAME .
 *.doh.blahdns.com CNAME .
 doh.blockerdns.com CNAME .
 *.doh.blockerdns.com CNAME .
+doh.boje8.me CNAME .
+*.doh.boje8.me CNAME .
 doh.bortzmeyer.fr CNAME .
 *.doh.bortzmeyer.fr CNAME .
 doh.bt.com CNAME .

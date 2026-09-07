@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2609060531 ; Serial Number
+ 2609070450 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,10 +13,6 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -2341,10 +2337,6 @@ dns.keweon.center A 0.0.0.0
 *.dns.keweon.center A 0.0.0.0
 dns.keweon.center AAAA ::
 *.dns.keweon.center AAAA ::
-dns.koala.us.to A 0.0.0.0
-*.dns.koala.us.to A 0.0.0.0
-dns.koala.us.to AAAA ::
-*.dns.koala.us.to AAAA ::
 dns.korzhyk.pp.ua A 0.0.0.0
 *.dns.korzhyk.pp.ua A 0.0.0.0
 dns.korzhyk.pp.ua AAAA ::
@@ -3069,6 +3061,10 @@ dns-tls.bitwiseshift.net A 0.0.0.0
 *.dns-tls.bitwiseshift.net A 0.0.0.0
 dns-tls.bitwiseshift.net AAAA ::
 *.dns-tls.bitwiseshift.net AAAA ::
+dns-tls.bitwiseshift.net012proxy.ga A 0.0.0.0
+*.dns-tls.bitwiseshift.net012proxy.ga A 0.0.0.0
+dns-tls.bitwiseshift.net012proxy.ga AAAA ::
+*.dns-tls.bitwiseshift.net012proxy.ga AAAA ::
 dns.tls-data.de A 0.0.0.0
 *.dns.tls-data.de A 0.0.0.0
 dns.tls-data.de AAAA ::
@@ -3381,6 +3377,10 @@ doh.blockerdns.com A 0.0.0.0
 *.doh.blockerdns.com A 0.0.0.0
 doh.blockerdns.com AAAA ::
 *.doh.blockerdns.com AAAA ::
+doh.boje8.me A 0.0.0.0
+*.doh.boje8.me A 0.0.0.0
+doh.boje8.me AAAA ::
+*.doh.boje8.me AAAA ::
 doh.bortzmeyer.fr A 0.0.0.0
 *.doh.bortzmeyer.fr A 0.0.0.0
 doh.bortzmeyer.fr AAAA ::
