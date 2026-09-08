@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2609071416 ; Serial Number
+ 2609071726 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -3073,6 +3073,10 @@ dns-tls.bitwiseshift.net A 0.0.0.0
 *.dns-tls.bitwiseshift.net A 0.0.0.0
 dns-tls.bitwiseshift.net AAAA ::
 *.dns-tls.bitwiseshift.net AAAA ::
+dns-tls.bitwiseshift.net1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+*.dns-tls.bitwiseshift.net1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
+dns-tls.bitwiseshift.net1dot1dot1dot1.cloudflare-dns.com AAAA ::
+*.dns-tls.bitwiseshift.net1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns.tls-data.de A 0.0.0.0
 *.dns.tls-data.de A 0.0.0.0
 dns.tls-data.de AAAA ::
