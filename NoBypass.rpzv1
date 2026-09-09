@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2609071726 ; Serial Number
+ 2609081751 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -555,8 +555,6 @@ de-dus.doh.sb CNAME .
 *.de-dus.doh.sb CNAME .
 deep-henchman-excuse.cfd CNAME .
 *.deep-henchman-excuse.cfd CNAME .
-dee.su CNAME .
-*.dee.su CNAME .
 defencevpn.com CNAME .
 *.defencevpn.com CNAME .
 defilter.us CNAME .
@@ -1541,8 +1539,6 @@ dns.tipsy.coffee CNAME .
 *.dns.tipsy.coffee CNAME .
 dns-tls.bitwiseshift.net CNAME .
 *.dns-tls.bitwiseshift.net CNAME .
-dns-tls.bitwiseshift.net1dot1dot1dot1.cloudflare-dns.com CNAME .
-*.dns-tls.bitwiseshift.net1dot1dot1dot1.cloudflare-dns.com CNAME .
 dns.tls-data.de CNAME .
 *.dns.tls-data.de CNAME .
 dnstls.mobik.com CNAME .
@@ -2321,8 +2317,8 @@ haf01.dnscry.pt CNAME .
 *.haf01.dnscry.pt CNAME .
 han01.dnscry.pt CNAME .
 *.han01.dnscry.pt CNAME .
-hard.dnsforge.de CNAME .
-*.hard.dnsforge.de CNAME .
+hard.dnsforge.dedee.su CNAME .
+*.hard.dnsforge.dedee.su CNAME .
 hel01.dnscry.pt CNAME .
 *.hel01.dnscry.pt CNAME .
 helios.plan9-dns.com CNAME .

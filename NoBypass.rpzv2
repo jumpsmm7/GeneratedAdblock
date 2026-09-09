@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2609071726 ; Serial Number
+ 2609081751 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -1101,10 +1101,6 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
-dee.su A 0.0.0.0
-*.dee.su A 0.0.0.0
-dee.su AAAA ::
-*.dee.su AAAA ::
 defencevpn.com A 0.0.0.0
 *.defencevpn.com A 0.0.0.0
 defencevpn.com AAAA ::
@@ -3073,10 +3069,6 @@ dns-tls.bitwiseshift.net A 0.0.0.0
 *.dns-tls.bitwiseshift.net A 0.0.0.0
 dns-tls.bitwiseshift.net AAAA ::
 *.dns-tls.bitwiseshift.net AAAA ::
-dns-tls.bitwiseshift.net1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-*.dns-tls.bitwiseshift.net1dot1dot1dot1.cloudflare-dns.com A 0.0.0.0
-dns-tls.bitwiseshift.net1dot1dot1dot1.cloudflare-dns.com AAAA ::
-*.dns-tls.bitwiseshift.net1dot1dot1dot1.cloudflare-dns.com AAAA ::
 dns.tls-data.de A 0.0.0.0
 *.dns.tls-data.de A 0.0.0.0
 dns.tls-data.de AAAA ::
@@ -4633,10 +4625,10 @@ han01.dnscry.pt A 0.0.0.0
 *.han01.dnscry.pt A 0.0.0.0
 han01.dnscry.pt AAAA ::
 *.han01.dnscry.pt AAAA ::
-hard.dnsforge.de A 0.0.0.0
-*.hard.dnsforge.de A 0.0.0.0
-hard.dnsforge.de AAAA ::
-*.hard.dnsforge.de AAAA ::
+hard.dnsforge.dedee.su A 0.0.0.0
+*.hard.dnsforge.dedee.su A 0.0.0.0
+hard.dnsforge.dedee.su AAAA ::
+*.hard.dnsforge.dedee.su AAAA ::
 hel01.dnscry.pt A 0.0.0.0
 *.hel01.dnscry.pt A 0.0.0.0
 hel01.dnscry.pt AAAA ::
