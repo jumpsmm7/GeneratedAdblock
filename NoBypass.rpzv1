@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2609081751 ; Serial Number
+ 2609091802 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -19,8 +19,6 @@ $ORIGIN nobypass.rpz.
 *.123000123.xyz CNAME .
 123-24.eport.gr CNAME .
 *.123-24.eport.gr CNAME .
-12vpx.com CNAME .
-*.12vpx.com CNAME .
 1a.ns.ozer.im CNAME .
 *.1a.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
@@ -167,6 +165,8 @@ adguard.marto.si CNAME .
 *.adguard.marto.si CNAME .
 adguard.meddy94.de CNAME .
 *.adguard.meddy94.de CNAME .
+adguard.oms-ctr.ru CNAME .
+*.adguard.oms-ctr.ru CNAME .
 adguard.onlyfriends.info CNAME .
 *.adguard.onlyfriends.info CNAME .
 adguard.pangerl.it CNAME .
@@ -541,8 +541,6 @@ d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 darkness.is.my.waifu.cz CNAME .
 *.darkness.is.my.waifu.cz CNAME .
-darknet.to CNAME .
-*.darknet.to CNAME .
 dart.kpsn.org CNAME .
 *.dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
@@ -1191,10 +1189,10 @@ dns.kxy.ink CNAME .
 *.dns.kxy.ink CNAME .
 dns.l337.site CNAME .
 *.dns.l337.site CNAME .
+dns.lars-12vpx.com CNAME .
+*.dns.lars-12vpx.com CNAME .
 dns.larsdebruin.net CNAME .
 *.dns.larsdebruin.net CNAME .
-dns.lars-lehmann.net CNAME .
-*.dns.lars-lehmann.net CNAME .
 dns.lepilleur.com CNAME .
 *.dns.lepilleur.com CNAME .
 dns.lermer.nl CNAME .
@@ -1471,8 +1469,6 @@ dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
-dns.simplylinux.ch CNAME .
-*.dns.simplylinux.ch CNAME .
 dns.sindominio.net CNAME .
 *.dns.sindominio.net CNAME .
 dns.skrep.eu CNAME .
@@ -1523,6 +1519,8 @@ dns.szpadel.ovh CNAME .
 *.dns.szpadel.ovh CNAME .
 dns.t53.de CNAME .
 *.dns.t53.de CNAME .
+dns-tdee.su CNAME .
+*.dns-tdee.su CNAME .
 dns.technologycage.com CNAME .
 *.dns.technologycage.com CNAME .
 dns.technostriker.com CNAME .
@@ -1587,6 +1585,8 @@ dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
+dnswarden.com CNAME .
+*.dnswarden.com CNAME .
 dns.wargan.io CNAME .
 *.dns.wargan.io CNAME .
 dns.warma.me CNAME .
@@ -2059,8 +2059,8 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.dnswarden.com CNAME .
-*.ecs-doh.dnswarden.com CNAME .
+ecs-doh.darknet.to CNAME .
+*.ecs-doh.darknet.to CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2317,8 +2317,8 @@ haf01.dnscry.pt CNAME .
 *.haf01.dnscry.pt CNAME .
 han01.dnscry.pt CNAME .
 *.han01.dnscry.pt CNAME .
-hard.dnsforge.dedee.su CNAME .
-*.hard.dnsforge.dedee.su CNAME .
+hard.dnsforge.defirefox.dns.nextdns.io CNAME .
+*.hard.dnsforge.defirefox.dns.nextdns.io CNAME .
 hel01.dnscry.pt CNAME .
 *.hel01.dnscry.pt CNAME .
 helios.plan9-dns.com CNAME .
@@ -2569,6 +2569,8 @@ lax01.dnscry.pt CNAME .
 *.lax01.dnscry.pt CNAME .
 lax02.dnscry.pt CNAME .
 *.lax02.dnscry.pt CNAME .
+lehmann.net CNAME .
+*.lehmann.net CNAME .
 lelux.fi CNAME .
 *.lelux.fi CNAME .
 leo.paulmihaipavel.com CNAME .
@@ -2603,6 +2605,8 @@ lookingglass.site CNAME .
 *.lookingglass.site CNAME .
 lopana.com CNAME .
 *.lopana.com CNAME .
+ls.bitwiseshift.net CNAME .
+*.ls.bitwiseshift.net CNAME .
 lukscasino-479-tr.xyz CNAME .
 *.lukscasino-479-tr.xyz CNAME .
 lukscasino-542-tr.xyz CNAME .
