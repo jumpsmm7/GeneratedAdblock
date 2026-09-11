@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2609091802 ; Serial Number
+ 2609102036 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -29,6 +29,10 @@ $ORIGIN nobypass.rpz.
 *.123-24.eport.gr A 0.0.0.0
 123-24.eport.gr AAAA ::
 *.123-24.eport.gr AAAA ::
+12vpx.com A 0.0.0.0
+*.12vpx.com A 0.0.0.0
+12vpx.com AAAA ::
+*.12vpx.com AAAA ::
 1a.ns.ozer.im A 0.0.0.0
 *.1a.ns.ozer.im A 0.0.0.0
 1a.ns.ozer.im AAAA ::
@@ -321,10 +325,6 @@ adguard.meddy94.de A 0.0.0.0
 *.adguard.meddy94.de A 0.0.0.0
 adguard.meddy94.de AAAA ::
 *.adguard.meddy94.de AAAA ::
-adguard.oms-ctr.ru A 0.0.0.0
-*.adguard.oms-ctr.ru A 0.0.0.0
-adguard.oms-ctr.ru AAAA ::
-*.adguard.oms-ctr.ru AAAA ::
 adguard.onlyfriends.info A 0.0.0.0
 *.adguard.onlyfriends.info A 0.0.0.0
 adguard.onlyfriends.info AAAA ::
@@ -1073,6 +1073,10 @@ darkness.is.my.waifu.cz A 0.0.0.0
 *.darkness.is.my.waifu.cz A 0.0.0.0
 darkness.is.my.waifu.cz AAAA ::
 *.darkness.is.my.waifu.cz AAAA ::
+darknet.to A 0.0.0.0
+*.darknet.to A 0.0.0.0
+darknet.to AAAA ::
+*.darknet.to AAAA ::
 dart.kpsn.org A 0.0.0.0
 *.dart.kpsn.org A 0.0.0.0
 dart.kpsn.org AAAA ::
@@ -2225,10 +2229,6 @@ dns.imchristian.de A 0.0.0.0
 *.dns.imchristian.de A 0.0.0.0
 dns.imchristian.de AAAA ::
 *.dns.imchristian.de AAAA ::
-dns.immanuelschaffer.de A 0.0.0.0
-*.dns.immanuelschaffer.de A 0.0.0.0
-dns.immanuelschaffer.de AAAA ::
-*.dns.immanuelschaffer.de AAAA ::
 dns.inforlogia.com A 0.0.0.0
 *.dns.inforlogia.com A 0.0.0.0
 dns.inforlogia.com AAAA ::
@@ -2369,14 +2369,14 @@ dns.l337.site A 0.0.0.0
 *.dns.l337.site A 0.0.0.0
 dns.l337.site AAAA ::
 *.dns.l337.site AAAA ::
-dns.lars-12vpx.com A 0.0.0.0
-*.dns.lars-12vpx.com A 0.0.0.0
-dns.lars-12vpx.com AAAA ::
-*.dns.lars-12vpx.com AAAA ::
 dns.larsdebruin.net A 0.0.0.0
 *.dns.larsdebruin.net A 0.0.0.0
 dns.larsdebruin.net AAAA ::
 *.dns.larsdebruin.net AAAA ::
+dns.lars-lehmann.net A 0.0.0.0
+*.dns.lars-lehmann.net A 0.0.0.0
+dns.lars-lehmann.net AAAA ::
+*.dns.lars-lehmann.net AAAA ::
 dns.lepilleur.com A 0.0.0.0
 *.dns.lepilleur.com A 0.0.0.0
 dns.lepilleur.com AAAA ::
@@ -2929,6 +2929,10 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
+dns.simplylinux.ch A 0.0.0.0
+*.dns.simplylinux.ch A 0.0.0.0
+dns.simplylinux.ch AAAA ::
+*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -3029,10 +3033,6 @@ dns.t53.de A 0.0.0.0
 *.dns.t53.de A 0.0.0.0
 dns.t53.de AAAA ::
 *.dns.t53.de AAAA ::
-dns-tdee.su A 0.0.0.0
-*.dns-tdee.su A 0.0.0.0
-dns-tdee.su AAAA ::
-*.dns-tdee.su AAAA ::
 dns.technologycage.com A 0.0.0.0
 *.dns.technologycage.com A 0.0.0.0
 dns.technologycage.com AAAA ::
@@ -3065,6 +3065,10 @@ dns-tls.bitwiseshift.net A 0.0.0.0
 *.dns-tls.bitwiseshift.net A 0.0.0.0
 dns-tls.bitwiseshift.net AAAA ::
 *.dns-tls.bitwiseshift.net AAAA ::
+dns-tls.bitwiseshift.netmask.icloud.com A 0.0.0.0
+*.dns-tls.bitwiseshift.netmask.icloud.com A 0.0.0.0
+dns-tls.bitwiseshift.netmask.icloud.com AAAA ::
+*.dns-tls.bitwiseshift.netmask.icloud.com AAAA ::
 dns.tls-data.de A 0.0.0.0
 *.dns.tls-data.de A 0.0.0.0
 dns.tls-data.de AAAA ::
@@ -4109,10 +4113,10 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.darknet.to A 0.0.0.0
-*.ecs-doh.darknet.to A 0.0.0.0
-ecs-doh.darknet.to AAAA ::
-*.ecs-doh.darknet.to AAAA ::
+ecs-doh.dee.su A 0.0.0.0
+*.ecs-doh.dee.su A 0.0.0.0
+ecs-doh.dee.su AAAA ::
+*.ecs-doh.dee.su AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4605,10 +4609,6 @@ guardster.com A 0.0.0.0
 *.guardster.com A 0.0.0.0
 guardster.com AAAA ::
 *.guardster.com AAAA ::
-gustamadh.dynv6.net A 0.0.0.0
-*.gustamadh.dynv6.net A 0.0.0.0
-gustamadh.dynv6.net AAAA ::
-*.gustamadh.dynv6.net AAAA ::
 gva01.dnscry.pt A 0.0.0.0
 *.gva01.dnscry.pt A 0.0.0.0
 gva01.dnscry.pt AAAA ::
@@ -4625,10 +4625,10 @@ han01.dnscry.pt A 0.0.0.0
 *.han01.dnscry.pt A 0.0.0.0
 han01.dnscry.pt AAAA ::
 *.han01.dnscry.pt AAAA ::
-hard.dnsforge.defirefox.dns.nextdns.io A 0.0.0.0
-*.hard.dnsforge.defirefox.dns.nextdns.io A 0.0.0.0
-hard.dnsforge.defirefox.dns.nextdns.io AAAA ::
-*.hard.dnsforge.defirefox.dns.nextdns.io AAAA ::
+hard.dnsforge.de A 0.0.0.0
+*.hard.dnsforge.de A 0.0.0.0
+hard.dnsforge.de AAAA ::
+*.hard.dnsforge.de AAAA ::
 hel01.dnscry.pt A 0.0.0.0
 *.hel01.dnscry.pt A 0.0.0.0
 hel01.dnscry.pt AAAA ::
@@ -5129,10 +5129,6 @@ lax02.dnscry.pt A 0.0.0.0
 *.lax02.dnscry.pt A 0.0.0.0
 lax02.dnscry.pt AAAA ::
 *.lax02.dnscry.pt AAAA ::
-lehmann.net A 0.0.0.0
-*.lehmann.net A 0.0.0.0
-lehmann.net AAAA ::
-*.lehmann.net AAAA ::
 lelux.fi A 0.0.0.0
 *.lelux.fi A 0.0.0.0
 lelux.fi AAAA ::
@@ -5201,10 +5197,6 @@ lopana.com A 0.0.0.0
 *.lopana.com A 0.0.0.0
 lopana.com AAAA ::
 *.lopana.com AAAA ::
-ls.bitwiseshift.net A 0.0.0.0
-*.ls.bitwiseshift.net A 0.0.0.0
-ls.bitwiseshift.net AAAA ::
-*.ls.bitwiseshift.net AAAA ::
 lukscasino-479-tr.xyz A 0.0.0.0
 *.lukscasino-479-tr.xyz A 0.0.0.0
 lukscasino-479-tr.xyz AAAA ::
@@ -7769,10 +7761,6 @@ yunyun.is.my.waifu.cz A 0.0.0.0
 *.yunyun.is.my.waifu.cz A 0.0.0.0
 yunyun.is.my.waifu.cz AAAA ::
 *.yunyun.is.my.waifu.cz AAAA ::
-yuvelirtut.website A 0.0.0.0
-*.yuvelirtut.website A 0.0.0.0
-yuvelirtut.website AAAA ::
-*.yuvelirtut.website AAAA ::
 yvr01.dnscry.pt A 0.0.0.0
 *.yvr01.dnscry.pt A 0.0.0.0
 yvr01.dnscry.pt AAAA ::
