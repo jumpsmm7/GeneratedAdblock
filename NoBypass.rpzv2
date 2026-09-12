@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2609102036 ; Serial Number
+ 2609121348 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -13,10 +13,6 @@ $ORIGIN nobypass.rpz.
 *.003153.xyz A 0.0.0.0
 003153.xyz AAAA ::
 *.003153.xyz AAAA ::
-012proxy.ga A 0.0.0.0
-*.012proxy.ga A 0.0.0.0
-012proxy.ga AAAA ::
-*.012proxy.ga AAAA ::
 0ms.dev A 0.0.0.0
 *.0ms.dev A 0.0.0.0
 0ms.dev AAAA ::
@@ -1101,6 +1097,10 @@ deep-henchman-excuse.cfd A 0.0.0.0
 *.deep-henchman-excuse.cfd A 0.0.0.0
 deep-henchman-excuse.cfd AAAA ::
 *.deep-henchman-excuse.cfd AAAA ::
+dee.su A 0.0.0.0
+*.dee.su A 0.0.0.0
+dee.su AAAA ::
+*.dee.su AAAA ::
 defencevpn.com A 0.0.0.0
 *.defencevpn.com A 0.0.0.0
 defencevpn.com AAAA ::
@@ -1697,10 +1697,6 @@ dns.colorfreedom.org A 0.0.0.0
 *.dns.colorfreedom.org A 0.0.0.0
 dns.colorfreedom.org AAAA ::
 *.dns.colorfreedom.org AAAA ::
-dns.comeonjames.club A 0.0.0.0
-*.dns.comeonjames.club A 0.0.0.0
-dns.comeonjames.club AAAA ::
-*.dns.comeonjames.club AAAA ::
 dns.comff.net A 0.0.0.0
 *.dns.comff.net A 0.0.0.0
 dns.comff.net AAAA ::
@@ -2229,6 +2225,10 @@ dns.imchristian.de A 0.0.0.0
 *.dns.imchristian.de A 0.0.0.0
 dns.imchristian.de AAAA ::
 *.dns.imchristian.de AAAA ::
+dns.immanuelschaffer.de A 0.0.0.0
+*.dns.immanuelschaffer.de A 0.0.0.0
+dns.immanuelschaffer.de AAAA ::
+*.dns.immanuelschaffer.de AAAA ::
 dns.inforlogia.com A 0.0.0.0
 *.dns.inforlogia.com A 0.0.0.0
 dns.inforlogia.com AAAA ::
@@ -3065,10 +3065,6 @@ dns-tls.bitwiseshift.net A 0.0.0.0
 *.dns-tls.bitwiseshift.net A 0.0.0.0
 dns-tls.bitwiseshift.net AAAA ::
 *.dns-tls.bitwiseshift.net AAAA ::
-dns-tls.bitwiseshift.netmask.icloud.com A 0.0.0.0
-*.dns-tls.bitwiseshift.netmask.icloud.com A 0.0.0.0
-dns-tls.bitwiseshift.netmask.icloud.com AAAA ::
-*.dns-tls.bitwiseshift.netmask.icloud.com AAAA ::
 dns.tls-data.de A 0.0.0.0
 *.dns.tls-data.de A 0.0.0.0
 dns.tls-data.de AAAA ::
@@ -3165,10 +3161,6 @@ dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
 *.dns.wang.art AAAA ::
-dnswarden.com A 0.0.0.0
-*.dnswarden.com A 0.0.0.0
-dnswarden.com AAAA ::
-*.dnswarden.com AAAA ::
 dns.wargan.io A 0.0.0.0
 *.dns.wargan.io A 0.0.0.0
 dns.wargan.io AAAA ::
@@ -4105,18 +4097,14 @@ earthvpn.com A 0.0.0.0
 *.earthvpn.com A 0.0.0.0
 earthvpn.com AAAA ::
 *.earthvpn.com AAAA ::
-easyhandshake.com A 0.0.0.0
-*.easyhandshake.com A 0.0.0.0
-easyhandshake.com AAAA ::
-*.easyhandshake.com AAAA ::
 echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-ecs-doh.dee.su A 0.0.0.0
-*.ecs-doh.dee.su A 0.0.0.0
-ecs-doh.dee.su AAAA ::
-*.ecs-doh.dee.su AAAA ::
+ecs-doh.dnswarden.com A 0.0.0.0
+*.ecs-doh.dnswarden.com A 0.0.0.0
+ecs-doh.dnswarden.com AAAA ::
+*.ecs-doh.dnswarden.com AAAA ::
 ecxs.asia A 0.0.0.0
 *.ecxs.asia A 0.0.0.0
 ecxs.asia AAAA ::
@@ -4289,6 +4277,10 @@ fezgate.ovh A 0.0.0.0
 *.fezgate.ovh A 0.0.0.0
 fezgate.ovh AAAA ::
 *.fezgate.ovh AAAA ::
+fgx.shop A 0.0.0.0
+*.fgx.shop A 0.0.0.0
+fgx.shop AAAA ::
+*.fgx.shop AAAA ::
 fiberprox.me A 0.0.0.0
 *.fiberprox.me A 0.0.0.0
 fiberprox.me AAAA ::
@@ -4609,6 +4601,10 @@ guardster.com A 0.0.0.0
 *.guardster.com A 0.0.0.0
 guardster.com AAAA ::
 *.guardster.com AAAA ::
+gustamadh.dynv6.net A 0.0.0.0
+*.gustamadh.dynv6.net A 0.0.0.0
+gustamadh.dynv6.net AAAA ::
+*.gustamadh.dynv6.net AAAA ::
 gva01.dnscry.pt A 0.0.0.0
 *.gva01.dnscry.pt A 0.0.0.0
 gva01.dnscry.pt AAAA ::
@@ -4617,6 +4613,10 @@ gztech.me A 0.0.0.0
 *.gztech.me A 0.0.0.0
 gztech.me AAAA ::
 *.gztech.me AAAA ::
+h012proxy.ga A 0.0.0.0
+*.h012proxy.ga A 0.0.0.0
+h012proxy.ga AAAA ::
+*.h012proxy.ga AAAA ::
 haf01.dnscry.pt A 0.0.0.0
 *.haf01.dnscry.pt A 0.0.0.0
 haf01.dnscry.pt AAAA ::
@@ -4641,10 +4641,6 @@ helloworld.cx A 0.0.0.0
 *.helloworld.cx A 0.0.0.0
 helloworld.cx AAAA ::
 *.helloworld.cx AAAA ::
-hfgx.shop A 0.0.0.0
-*.hfgx.shop A 0.0.0.0
-hfgx.shop AAAA ::
-*.hfgx.shop AAAA ::
 h.gjrick.tw A 0.0.0.0
 *.h.gjrick.tw A 0.0.0.0
 h.gjrick.tw AAAA ::

@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2609102036 ; Serial Number
+ 2609121348 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -11,8 +11,6 @@ $ORIGIN nobypass.rpz.
 
 003153.xyz CNAME .
 *.003153.xyz CNAME .
-012proxy.ga CNAME .
-*.012proxy.ga CNAME .
 0ms.dev CNAME .
 *.0ms.dev CNAME .
 123000123.xyz CNAME .
@@ -555,6 +553,8 @@ de-dus.doh.sb CNAME .
 *.de-dus.doh.sb CNAME .
 deep-henchman-excuse.cfd CNAME .
 *.deep-henchman-excuse.cfd CNAME .
+dee.su CNAME .
+*.dee.su CNAME .
 defencevpn.com CNAME .
 *.defencevpn.com CNAME .
 defilter.us CNAME .
@@ -853,8 +853,6 @@ dns.coderoria.com CNAME .
 *.dns.coderoria.com CNAME .
 dns.colorfreedom.org CNAME .
 *.dns.colorfreedom.org CNAME .
-dns.comeonjames.club CNAME .
-*.dns.comeonjames.club CNAME .
 dns.comff.net CNAME .
 *.dns.comff.net CNAME .
 dns.comss.one CNAME .
@@ -1119,6 +1117,8 @@ dns.imaicool.com CNAME .
 *.dns.imaicool.com CNAME .
 dns.imchristian.de CNAME .
 *.dns.imchristian.de CNAME .
+dns.immanuelschaffer.de CNAME .
+*.dns.immanuelschaffer.de CNAME .
 dns.inforlogia.com CNAME .
 *.dns.inforlogia.com CNAME .
 dns.infosec.xyz CNAME .
@@ -1537,8 +1537,6 @@ dns.tipsy.coffee CNAME .
 *.dns.tipsy.coffee CNAME .
 dns-tls.bitwiseshift.net CNAME .
 *.dns-tls.bitwiseshift.net CNAME .
-dns-tls.bitwiseshift.netmask.icloud.com CNAME .
-*.dns-tls.bitwiseshift.netmask.icloud.com CNAME .
 dns.tls-data.de CNAME .
 *.dns.tls-data.de CNAME .
 dnstls.mobik.com CNAME .
@@ -1587,8 +1585,6 @@ dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
-dnswarden.com CNAME .
-*.dnswarden.com CNAME .
 dns.wargan.io CNAME .
 *.dns.wargan.io CNAME .
 dns.warma.me CNAME .
@@ -2057,12 +2053,10 @@ ea-dns.rubyfish.cn CNAME .
 *.ea-dns.rubyfish.cn CNAME .
 earthvpn.com CNAME .
 *.earthvpn.com CNAME .
-easyhandshake.com CNAME .
-*.easyhandshake.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-ecs-doh.dee.su CNAME .
-*.ecs-doh.dee.su CNAME .
+ecs-doh.dnswarden.com CNAME .
+*.ecs-doh.dnswarden.com CNAME .
 ecxs.asia CNAME .
 *.ecxs.asia CNAME .
 edgy-dns.com CNAME .
@@ -2149,6 +2143,8 @@ fdns2.dismail.de CNAME .
 *.fdns2.dismail.de CNAME .
 fezgate.ovh CNAME .
 *.fezgate.ovh CNAME .
+fgx.shop CNAME .
+*.fgx.shop CNAME .
 fiberprox.me CNAME .
 *.fiberprox.me CNAME .
 fiberproxy.fr CNAME .
@@ -2309,10 +2305,14 @@ guardianvpn.net CNAME .
 *.guardianvpn.net CNAME .
 guardster.com CNAME .
 *.guardster.com CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 gva01.dnscry.pt CNAME .
 *.gva01.dnscry.pt CNAME .
 gztech.me CNAME .
 *.gztech.me CNAME .
+h012proxy.ga CNAME .
+*.h012proxy.ga CNAME .
 haf01.dnscry.pt CNAME .
 *.haf01.dnscry.pt CNAME .
 han01.dnscry.pt CNAME .
@@ -2325,8 +2325,6 @@ helios.plan9-dns.com CNAME .
 *.helios.plan9-dns.com CNAME .
 helloworld.cx CNAME .
 *.helloworld.cx CNAME .
-hfgx.shop CNAME .
-*.hfgx.shop CNAME .
 h.gjrick.tw CNAME .
 *.h.gjrick.tw CNAME .
 hiddendigital.info CNAME .
