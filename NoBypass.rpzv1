@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2609171309 ; Serial Number
+ 2609180720 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -779,14 +779,14 @@ dns.dotnet.win CNAME .
 *.dns.dotnet.win CNAME .
 dns.dremaxx.de CNAME .
 *.dns.dremaxx.de CNAME .
-dns.dyn1.de CNAME .
-*.dns.dyn1.de CNAME .
 dns.dynx.pro CNAME .
 *.dns.dynx.pro CNAME .
 dns.east.comss.one CNAME .
 *.dns.east.comss.one CNAME .
 dns.eddi.net CNAME .
 *.dns.eddi.net CNAME .
+dns.edgeburnmedia.com CNAME .
+*.dns.edgeburnmedia.com CNAME .
 dns.edgy.network CNAME .
 *.dns.edgy.network CNAME .
 dns.edison42.dev CNAME .
@@ -1287,8 +1287,6 @@ dns.silen.org CNAME .
 *.dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
-dns.simplylinux.ch CNAME .
-*.dns.simplylinux.ch CNAME .
 dns.sindominio.net CNAME .
 *.dns.sindominio.net CNAME .
 dns.skrep.eu CNAME .
@@ -1355,6 +1353,8 @@ dns.tipsy.coffee CNAME .
 *.dns.tipsy.coffee CNAME .
 dns-tls.bitwiseshift.net CNAME .
 *.dns-tls.bitwiseshift.net CNAME .
+dns-tls.bitwiseshift.netfirefox.dns.nextdns.io CNAME .
+*.dns-tls.bitwiseshift.netfirefox.dns.nextdns.io CNAME .
 dns.tls-data.de CNAME .
 *.dns.tls-data.de CNAME .
 dnstls.mobik.com CNAME .
@@ -2011,8 +2011,6 @@ httpdns-push.heytapmobile.com CNAME .
 *.httpdns-push.heytapmobile.com CNAME .
 httpdns-sc.aliyuncs.com CNAME .
 *.httpdns-sc.aliyuncs.com CNAME .
-hydra.plan9-ns1.com CNAME .
-*.hydra.plan9-ns1.com CNAME .
 i.233py.com CNAME .
 *.i.233py.com CNAME .
 i.233py.com.a.bdydns.com CNAME .
@@ -2703,8 +2701,6 @@ tributh.net CNAME .
 *.tributh.net CNAME .
 tri-dns.net CNAME .
 *.tri-dns.net CNAME .
-truta.org CNAME .
-*.truta.org CNAME .
 tsm01.dnscry.pt CNAME .
 *.tsm01.dnscry.pt CNAME .
 ttag.dns.nomu.pw CNAME .
@@ -2851,6 +2847,8 @@ xn--durhre-yxa.de CNAME .
 *.xn--durhre-yxa.de CNAME .
 ychen.cf CNAME .
 *.ychen.cf CNAME .
+ychen.gq CNAME .
+*.ychen.gq CNAME .
 yhz01.dnscry.pt CNAME .
 *.yhz01.dnscry.pt CNAME .
 your-dns.run CNAME .
