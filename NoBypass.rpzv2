@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2609180720 ; Serial Number
+ 2609191823 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -1549,6 +1549,10 @@ dns.dremaxx.de A 0.0.0.0
 *.dns.dremaxx.de A 0.0.0.0
 dns.dremaxx.de AAAA ::
 *.dns.dremaxx.de AAAA ::
+dns.dyn1.de A 0.0.0.0
+*.dns.dyn1.de A 0.0.0.0
+dns.dyn1.de AAAA ::
+*.dns.dyn1.de AAAA ::
 dns.dynx.pro A 0.0.0.0
 *.dns.dynx.pro A 0.0.0.0
 dns.dynx.pro AAAA ::
@@ -1781,6 +1785,10 @@ dns.guard.io A 0.0.0.0
 *.dns.guard.io A 0.0.0.0
 dns.guard.io AAAA ::
 *.dns.guard.io AAAA ::
+dns.guardmydns.com A 0.0.0.0
+*.dns.guardmydns.com A 0.0.0.0
+dns.guardmydns.com AAAA ::
+*.dns.guardmydns.com AAAA ::
 dnsguard.pub A 0.0.0.0
 *.dnsguard.pub A 0.0.0.0
 dnsguard.pub AAAA ::
@@ -2565,6 +2573,10 @@ dns.silentlybren.com A 0.0.0.0
 *.dns.silentlybren.com A 0.0.0.0
 dns.silentlybren.com AAAA ::
 *.dns.silentlybren.com AAAA ::
+dns.simplylinux.ch A 0.0.0.0
+*.dns.simplylinux.ch A 0.0.0.0
+dns.simplylinux.ch AAAA ::
+*.dns.simplylinux.ch AAAA ::
 dns.sindominio.net A 0.0.0.0
 *.dns.sindominio.net A 0.0.0.0
 dns.sindominio.net AAAA ::
@@ -2697,10 +2709,6 @@ dns-tls.bitwiseshift.net A 0.0.0.0
 *.dns-tls.bitwiseshift.net A 0.0.0.0
 dns-tls.bitwiseshift.net AAAA ::
 *.dns-tls.bitwiseshift.net AAAA ::
-dns-tls.bitwiseshift.netfirefox.dns.nextdns.io A 0.0.0.0
-*.dns-tls.bitwiseshift.netfirefox.dns.nextdns.io A 0.0.0.0
-dns-tls.bitwiseshift.netfirefox.dns.nextdns.io AAAA ::
-*.dns-tls.bitwiseshift.netfirefox.dns.nextdns.io AAAA ::
 dns.tls-data.de A 0.0.0.0
 *.dns.tls-data.de A 0.0.0.0
 dns.tls-data.de AAAA ::
@@ -4013,6 +4021,10 @@ httpdns-sc.aliyuncs.com A 0.0.0.0
 *.httpdns-sc.aliyuncs.com A 0.0.0.0
 httpdns-sc.aliyuncs.com AAAA ::
 *.httpdns-sc.aliyuncs.com AAAA ::
+hydra.plan9-ns1.com A 0.0.0.0
+*.hydra.plan9-ns1.com A 0.0.0.0
+hydra.plan9-ns1.com AAAA ::
+*.hydra.plan9-ns1.com AAAA ::
 i.233py.com A 0.0.0.0
 *.i.233py.com A 0.0.0.0
 i.233py.com AAAA ::
@@ -5121,6 +5133,10 @@ sbdns.co.in A 0.0.0.0
 *.sbdns.co.in A 0.0.0.0
 sbdns.co.in AAAA ::
 *.sbdns.co.in AAAA ::
+sdns22.gkonuralp.com A 0.0.0.0
+*.sdns22.gkonuralp.com A 0.0.0.0
+sdns22.gkonuralp.com AAAA ::
+*.sdns22.gkonuralp.com AAAA ::
 sdns.233py.com A 0.0.0.0
 *.sdns.233py.com A 0.0.0.0
 sdns.233py.com AAAA ::
@@ -5365,6 +5381,10 @@ tls-dns-u.odvr.dns-oarc.net A 0.0.0.0
 *.tls-dns-u.odvr.dns-oarc.net A 0.0.0.0
 tls-dns-u.odvr.dns-oarc.net AAAA ::
 *.tls-dns-u.odvr.dns-oarc.net AAAA ::
+tlz.asia A 0.0.0.0
+*.tlz.asia A 0.0.0.0
+tlz.asia AAAA ::
+*.tlz.asia AAAA ::
 tor.cloudflare-dns.com A 0.0.0.0
 *.tor.cloudflare-dns.com A 0.0.0.0
 tor.cloudflare-dns.com AAAA ::
@@ -5393,6 +5413,10 @@ tri-dns.net A 0.0.0.0
 *.tri-dns.net A 0.0.0.0
 tri-dns.net AAAA ::
 *.tri-dns.net AAAA ::
+truta.org A 0.0.0.0
+*.truta.org A 0.0.0.0
+truta.org AAAA ::
+*.truta.org AAAA ::
 tsm01.dnscry.pt A 0.0.0.0
 *.tsm01.dnscry.pt A 0.0.0.0
 tsm01.dnscry.pt AAAA ::
@@ -5629,6 +5653,10 @@ www.chungocoai.name.vn A 0.0.0.0
 *.www.chungocoai.name.vn A 0.0.0.0
 www.chungocoai.name.vn AAAA ::
 *.www.chungocoai.name.vn AAAA ::
+www.dltuykfgp.top A 0.0.0.0
+*.www.dltuykfgp.top A 0.0.0.0
+www.dltuykfgp.top AAAA ::
+*.www.dltuykfgp.top AAAA ::
 www.inpssh.online A 0.0.0.0
 *.www.inpssh.online A 0.0.0.0
 www.inpssh.online AAAA ::
