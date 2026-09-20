@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2609200603 ; Serial Number
+ 2609202109 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -401,6 +401,8 @@ darya.persiannit.net CNAME .
 *.darya.persiannit.net CNAME .
 de01.dns4me.net CNAME .
 *.de01.dns4me.net CNAME .
+de.dns.privex.io CNAME .
+*.de.dns.privex.io CNAME .
 de-dus.doh.sb CNAME .
 *.de-dus.doh.sb CNAME .
 deep-henchman-excuse.cfd CNAME .
@@ -785,8 +787,6 @@ dns.east.comss.one CNAME .
 *.dns.east.comss.one CNAME .
 dns.eddi.net CNAME .
 *.dns.eddi.net CNAME .
-dns.edgeburnmedia.com CNAME .
-*.dns.edgeburnmedia.com CNAME .
 dns.edgy.network CNAME .
 *.dns.edgy.network CNAME .
 dns.edison42.dev CNAME .
@@ -1963,6 +1963,8 @@ goose.buckyfan.net CNAME .
 *.goose.buckyfan.net CNAME .
 greatideasforlife.lol CNAME .
 *.greatideasforlife.lol CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 gva01.dnscry.pt CNAME .
 *.gva01.dnscry.pt CNAME .
 gztech.me CNAME .
@@ -2245,6 +2247,8 @@ nicsezcheckfbi.gov CNAME .
 *.nicsezcheckfbi.gov CNAME .
 nl-ams.doh.sb CNAME .
 *.nl-ams.doh.sb CNAME .
+nl.dns.privex.io CNAME .
+*.nl.dns.privex.io CNAME .
 nl-dro-w-f-1.nashkan.net CNAME .
 *.nl-dro-w-f-1.nashkan.net CNAME .
 nl-dro-w-p-1.nashkan.net CNAME .
@@ -2689,8 +2693,6 @@ tll01.dnscry.pt CNAME .
 *.tll01.dnscry.pt CNAME .
 tls-dns-u.odvr.dns-oarc.net CNAME .
 *.tls-dns-u.odvr.dns-oarc.net CNAME .
-tlz.asia CNAME .
-*.tlz.asia CNAME .
 tor.cloudflare-dns.com CNAME .
 *.tor.cloudflare-dns.com CNAME .
 tor.vasi.li CNAME .

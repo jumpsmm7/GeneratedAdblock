@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2609200603 ; Serial Number
+ 2609202110 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -793,6 +793,10 @@ de01.dns4me.net A 0.0.0.0
 *.de01.dns4me.net A 0.0.0.0
 de01.dns4me.net AAAA ::
 *.de01.dns4me.net AAAA ::
+de.dns.privex.io A 0.0.0.0
+*.de.dns.privex.io A 0.0.0.0
+de.dns.privex.io AAAA ::
+*.de.dns.privex.io AAAA ::
 de-dus.doh.sb A 0.0.0.0
 *.de-dus.doh.sb A 0.0.0.0
 de-dus.doh.sb AAAA ::
@@ -1561,10 +1565,6 @@ dns.eddi.net A 0.0.0.0
 *.dns.eddi.net A 0.0.0.0
 dns.eddi.net AAAA ::
 *.dns.eddi.net AAAA ::
-dns.edgeburnmedia.com A 0.0.0.0
-*.dns.edgeburnmedia.com A 0.0.0.0
-dns.edgeburnmedia.com AAAA ::
-*.dns.edgeburnmedia.com AAAA ::
 dns.edgy.network A 0.0.0.0
 *.dns.edgy.network A 0.0.0.0
 dns.edgy.network AAAA ::
@@ -3917,6 +3917,10 @@ greatideasforlife.lol A 0.0.0.0
 *.greatideasforlife.lol A 0.0.0.0
 greatideasforlife.lol AAAA ::
 *.greatideasforlife.lol AAAA ::
+gustamadh.dynv6.net A 0.0.0.0
+*.gustamadh.dynv6.net A 0.0.0.0
+gustamadh.dynv6.net AAAA ::
+*.gustamadh.dynv6.net AAAA ::
 gva01.dnscry.pt A 0.0.0.0
 *.gva01.dnscry.pt A 0.0.0.0
 gva01.dnscry.pt AAAA ::
@@ -4481,6 +4485,10 @@ nl-ams.doh.sb A 0.0.0.0
 *.nl-ams.doh.sb A 0.0.0.0
 nl-ams.doh.sb AAAA ::
 *.nl-ams.doh.sb AAAA ::
+nl.dns.privex.io A 0.0.0.0
+*.nl.dns.privex.io A 0.0.0.0
+nl.dns.privex.io AAAA ::
+*.nl.dns.privex.io AAAA ::
 nl-dro-w-f-1.nashkan.net A 0.0.0.0
 *.nl-dro-w-f-1.nashkan.net A 0.0.0.0
 nl-dro-w-f-1.nashkan.net AAAA ::
@@ -5369,10 +5377,6 @@ tls-dns-u.odvr.dns-oarc.net A 0.0.0.0
 *.tls-dns-u.odvr.dns-oarc.net A 0.0.0.0
 tls-dns-u.odvr.dns-oarc.net AAAA ::
 *.tls-dns-u.odvr.dns-oarc.net AAAA ::
-tlz.asia A 0.0.0.0
-*.tlz.asia A 0.0.0.0
-tlz.asia AAAA ::
-*.tlz.asia AAAA ::
 tor.cloudflare-dns.com A 0.0.0.0
 *.tor.cloudflare-dns.com A 0.0.0.0
 tor.cloudflare-dns.com AAAA ::
