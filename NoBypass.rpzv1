@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2609211221 ; Serial Number
+ 2609221952 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -787,6 +787,8 @@ dns.east.comss.one CNAME .
 *.dns.east.comss.one CNAME .
 dns.eddi.net CNAME .
 *.dns.eddi.net CNAME .
+dns.edgeburnmedia.com CNAME .
+*.dns.edgeburnmedia.com CNAME .
 dns.edgy.network CNAME .
 *.dns.edgy.network CNAME .
 dns.edison42.dev CNAME .
@@ -895,8 +897,6 @@ dns.grqu.de CNAME .
 *.dns.grqu.de CNAME .
 dns.guard.io CNAME .
 *.dns.guard.io CNAME .
-dns.guardmydns.com CNAME .
-*.dns.guardmydns.com CNAME .
 dnsguard.pub CNAME .
 *.dnsguard.pub CNAME .
 dns.gutwe.in CNAME .
@@ -1357,6 +1357,8 @@ dns.tipsy.coffee CNAME .
 *.dns.tipsy.coffee CNAME .
 dns-tls.bitwiseshift.net CNAME .
 *.dns-tls.bitwiseshift.net CNAME .
+dns-tls.bitwiseshift.netfirefox.dns.nextdns.io CNAME .
+*.dns-tls.bitwiseshift.netfirefox.dns.nextdns.io CNAME .
 dns.tls-data.de CNAME .
 *.dns.tls-data.de CNAME .
 dnstls.mobik.com CNAME .
@@ -1963,6 +1965,8 @@ goose.buckyfan.net CNAME .
 *.goose.buckyfan.net CNAME .
 greatideasforlife.lol CNAME .
 *.greatideasforlife.lol CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 gva01.dnscry.pt CNAME .
 *.gva01.dnscry.pt CNAME .
 gztech.me CNAME .
@@ -2691,6 +2695,8 @@ tll01.dnscry.pt CNAME .
 *.tll01.dnscry.pt CNAME .
 tls-dns-u.odvr.dns-oarc.net CNAME .
 *.tls-dns-u.odvr.dns-oarc.net CNAME .
+tlz.asia CNAME .
+*.tlz.asia CNAME .
 tor.cloudflare-dns.com CNAME .
 *.tor.cloudflare-dns.com CNAME .
 tor.vasi.li CNAME .
@@ -2841,8 +2847,6 @@ www.muxyuji.ru CNAME .
 *.www.muxyuji.ru CNAME .
 www.unasw.eu CNAME .
 *.www.unasw.eu CNAME .
-www.zburger.top CNAME .
-*.www.zburger.top CNAME .
 wyx.cloud CNAME .
 *.wyx.cloud CNAME .
 xbcpb668.com CNAME .
