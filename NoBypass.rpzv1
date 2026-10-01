@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2610010500 ; Serial Number
+ 2610011714 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -929,6 +929,8 @@ dns.hostux.net CNAME .
 *.dns.hostux.net CNAME .
 dns.hotta.page CNAME .
 *.dns.hotta.page CNAME .
+dns.hshoe.cn CNAME .
+*.dns.hshoe.cn CNAME .
 dns.hujiayucc.cn CNAME .
 *.dns.hujiayucc.cn CNAME .
 dns.iamanuragh.in CNAME .
@@ -1961,8 +1963,6 @@ getdnsapi.net CNAME .
 *.getdnsapi.net CNAME .
 gibblets.top CNAME .
 *.gibblets.top CNAME .
-glacius.top CNAME .
-*.glacius.top CNAME .
 google-public-dns-a.google.com CNAME .
 *.google-public-dns-a.google.com CNAME .
 google-public-dns-b.google.com CNAME .
@@ -1991,10 +1991,10 @@ hfgx.shop CNAME .
 *.hfgx.shop CNAME .
 h.gjrick.tw CNAME .
 *.h.gjrick.tw CNAME .
+hifirefox.dns.nextdns.io CNAME .
+*.hifirefox.dns.nextdns.io CNAME .
 himedns.com CNAME .
 *.himedns.com CNAME .
-hitian.me CNAME .
-*.hitian.me CNAME .
 hk2.ooroot.com CNAME .
 *.hk2.ooroot.com CNAME .
 hkg01.dnscry.pt CNAME .
@@ -2039,8 +2039,6 @@ iij.jp CNAME .
 *.iij.jp CNAME .
 ikarosalpha.xyz CNAME .
 *.ikarosalpha.xyz CNAME .
-imperio.top CNAME .
-*.imperio.top CNAME .
 in-blr.doh.sb CNAME .
 *.in-blr.doh.sb CNAME .
 ines.zfn.uni-bremen.de CNAME .
@@ -2383,6 +2381,8 @@ paranoia.mydns.network CNAME .
 *.paranoia.mydns.network CNAME .
 pashagame456.com CNAME .
 *.pashagame456.com CNAME .
+pates.services.sfr.fr.casepp.sfr.fr CNAME .
+*.pates.services.sfr.fr.casepp.sfr.fr CNAME .
 paulo.nom.za CNAME .
 *.paulo.nom.za CNAME .
 pdns.faelix.net CNAME .
@@ -2683,6 +2683,8 @@ testaghome.meshkov.info CNAME .
 *.testaghome.meshkov.info CNAME .
 testguard.meexx.de CNAME .
 *.testguard.meexx.de CNAME .
+tian.me CNAME .
+*.tian.me CNAME .
 tienpham.id.vn CNAME .
 *.tienpham.id.vn CNAME .
 tiger.dns.qwer.pw CNAME .
