@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2609301700 ; Serial Number
+ 2610010500 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -793,6 +793,8 @@ dns.east.comss.one CNAME .
 *.dns.east.comss.one CNAME .
 dns.eddi.net CNAME .
 *.dns.eddi.net CNAME .
+dns.edgeburnmedia.com CNAME .
+*.dns.edgeburnmedia.com CNAME .
 dns.edgy.network CNAME .
 *.dns.edgy.network CNAME .
 dns.edison42.dev CNAME .
@@ -1025,8 +1027,8 @@ dns.lermer.nl CNAME .
 *.dns.lermer.nl CNAME .
 dns.levonet.sk CNAME .
 *.dns.levonet.sk CNAME .
-dns.lgprk.comfirefox.dns.nextdns.io CNAME .
-*.dns.lgprk.comfirefox.dns.nextdns.io CNAME .
+dns.lgprk.com CNAME .
+*.dns.lgprk.com CNAME .
 dns.liberador.net CNAME .
 *.dns.liberador.net CNAME .
 dns.lihj.me CNAME .
@@ -1957,6 +1959,8 @@ geshido.vpn.geshido.ru CNAME .
 *.geshido.vpn.geshido.ru CNAME .
 getdnsapi.net CNAME .
 *.getdnsapi.net CNAME .
+gibblets.top CNAME .
+*.gibblets.top CNAME .
 glacius.top CNAME .
 *.glacius.top CNAME .
 google-public-dns-a.google.com CNAME .
@@ -2697,6 +2701,8 @@ tll01.dnscry.pt CNAME .
 *.tll01.dnscry.pt CNAME .
 tls-dns-u.odvr.dns-oarc.net CNAME .
 *.tls-dns-u.odvr.dns-oarc.net CNAME .
+tlz.asia CNAME .
+*.tlz.asia CNAME .
 tor.cloudflare-dns.com CNAME .
 *.tor.cloudflare-dns.com CNAME .
 tor.vasi.li CNAME .
