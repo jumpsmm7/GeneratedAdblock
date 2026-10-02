@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2610011714 ; Serial Number
+ 2610020512 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -3049,6 +3049,10 @@ doh.chi.ahadns.net A 0.0.0.0
 *.doh.chi.ahadns.net A 0.0.0.0
 doh.chi.ahadns.net AAAA ::
 *.doh.chi.ahadns.net AAAA ::
+doh.cippapp.com A 0.0.0.0
+*.doh.cippapp.com A 0.0.0.0
+doh.cippapp.com AAAA ::
+*.doh.cippapp.com AAAA ::
 doh.cleanbrowsing.org A 0.0.0.0
 *.doh.cleanbrowsing.org A 0.0.0.0
 doh.cleanbrowsing.org AAAA ::
@@ -3917,6 +3921,10 @@ gibblets.top A 0.0.0.0
 *.gibblets.top A 0.0.0.0
 gibblets.top AAAA ::
 *.gibblets.top AAAA ::
+glacius.top A 0.0.0.0
+*.glacius.top A 0.0.0.0
+glacius.top AAAA ::
+*.glacius.top AAAA ::
 google-public-dns-a.google.com A 0.0.0.0
 *.google-public-dns-a.google.com A 0.0.0.0
 google-public-dns-a.google.com AAAA ::
@@ -3933,10 +3941,6 @@ greatideasforlife.lol A 0.0.0.0
 *.greatideasforlife.lol A 0.0.0.0
 greatideasforlife.lol AAAA ::
 *.greatideasforlife.lol AAAA ::
-gustamadh.dynv6.net A 0.0.0.0
-*.gustamadh.dynv6.net A 0.0.0.0
-gustamadh.dynv6.net AAAA ::
-*.gustamadh.dynv6.net AAAA ::
 gva01.dnscry.pt A 0.0.0.0
 *.gva01.dnscry.pt A 0.0.0.0
 gva01.dnscry.pt AAAA ::
@@ -3973,14 +3977,14 @@ h.gjrick.tw A 0.0.0.0
 *.h.gjrick.tw A 0.0.0.0
 h.gjrick.tw AAAA ::
 *.h.gjrick.tw AAAA ::
-hifirefox.dns.nextdns.io A 0.0.0.0
-*.hifirefox.dns.nextdns.io A 0.0.0.0
-hifirefox.dns.nextdns.io AAAA ::
-*.hifirefox.dns.nextdns.io AAAA ::
-himedns.com A 0.0.0.0
-*.himedns.com A 0.0.0.0
-himedns.com AAAA ::
-*.himedns.com AAAA ::
+himednfirefox.dns.nextdns.io A 0.0.0.0
+*.himednfirefox.dns.nextdns.io A 0.0.0.0
+himednfirefox.dns.nextdns.io AAAA ::
+*.himednfirefox.dns.nextdns.io AAAA ::
+hitian.me A 0.0.0.0
+*.hitian.me A 0.0.0.0
+hitian.me AAAA ::
+*.hitian.me AAAA ::
 hk2.ooroot.com A 0.0.0.0
 *.hk2.ooroot.com A 0.0.0.0
 hk2.ooroot.com AAAA ::
@@ -4069,6 +4073,10 @@ ikarosalpha.xyz A 0.0.0.0
 *.ikarosalpha.xyz A 0.0.0.0
 ikarosalpha.xyz AAAA ::
 *.ikarosalpha.xyz AAAA ::
+imperio.top A 0.0.0.0
+*.imperio.top A 0.0.0.0
+imperio.top AAAA ::
+*.imperio.top AAAA ::
 in-blr.doh.sb A 0.0.0.0
 *.in-blr.doh.sb A 0.0.0.0
 in-blr.doh.sb AAAA ::
@@ -5145,6 +5153,10 @@ sbdns.co.in A 0.0.0.0
 *.sbdns.co.in A 0.0.0.0
 sbdns.co.in AAAA ::
 *.sbdns.co.in AAAA ::
+s.com A 0.0.0.0
+*.s.com A 0.0.0.0
+s.com AAAA ::
+*.s.com AAAA ::
 sdns22.gkonuralp.com A 0.0.0.0
 *.sdns22.gkonuralp.com A 0.0.0.0
 sdns22.gkonuralp.com AAAA ::
@@ -5357,10 +5369,6 @@ testguard.meexx.de A 0.0.0.0
 *.testguard.meexx.de A 0.0.0.0
 testguard.meexx.de AAAA ::
 *.testguard.meexx.de AAAA ::
-tian.me A 0.0.0.0
-*.tian.me A 0.0.0.0
-tian.me AAAA ::
-*.tian.me AAAA ::
 tienpham.id.vn A 0.0.0.0
 *.tienpham.id.vn A 0.0.0.0
 tienpham.id.vn AAAA ::
