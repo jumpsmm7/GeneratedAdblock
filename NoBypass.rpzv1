@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2610020512 ; Serial Number
+ 2610021712 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -793,8 +793,6 @@ dns.east.comss.one CNAME .
 *.dns.east.comss.one CNAME .
 dns.eddi.net CNAME .
 *.dns.eddi.net CNAME .
-dns.edgeburnmedia.com CNAME .
-*.dns.edgeburnmedia.com CNAME .
 dns.edgy.network CNAME .
 *.dns.edgy.network CNAME .
 dns.edison42.dev CNAME .
@@ -1975,6 +1973,8 @@ goose.buckyfan.net CNAME .
 *.goose.buckyfan.net CNAME .
 greatideasforlife.lol CNAME .
 *.greatideasforlife.lol CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 gva01.dnscry.pt CNAME .
 *.gva01.dnscry.pt CNAME .
 gztech.me CNAME .
@@ -1993,8 +1993,8 @@ hfgx.shop CNAME .
 *.hfgx.shop CNAME .
 h.gjrick.tw CNAME .
 *.h.gjrick.tw CNAME .
-himednfirefox.dns.nextdns.io CNAME .
-*.himednfirefox.dns.nextdns.io CNAME .
+himedns.com CNAME .
+*.himedns.com CNAME .
 hitian.me CNAME .
 *.hitian.me CNAME .
 hk2.ooroot.com CNAME .
@@ -2581,8 +2581,6 @@ sandbox.opendns.com CNAME .
 *.sandbox.opendns.com CNAME .
 sbdns.co.in CNAME .
 *.sbdns.co.in CNAME .
-s.com CNAME .
-*.s.com CNAME .
 sdns22.gkonuralp.com CNAME .
 *.sdns22.gkonuralp.com CNAME .
 sdns.233py.com CNAME .
