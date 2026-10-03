@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2610021712 ; Serial Number
+ 2610030529 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -791,8 +791,12 @@ dns.dynx.pro CNAME .
 *.dns.dynx.pro CNAME .
 dns.east.comss.one CNAME .
 *.dns.east.comss.one CNAME .
+dns.easyhns.com CNAME .
+*.dns.easyhns.com CNAME .
 dns.eddi.net CNAME .
 *.dns.eddi.net CNAME .
+dns.edgeburnmedia.com CNAME .
+*.dns.edgeburnmedia.com CNAME .
 dns.edgy.network CNAME .
 *.dns.edgy.network CNAME .
 dns.edison42.dev CNAME .
@@ -1161,6 +1165,8 @@ dns.ofdoom.net CNAME .
 *.dns.ofdoom.net CNAME .
 dns.oliviertv.co.za CNAME .
 *.dns.oliviertv.co.za CNAME .
+dns.omada.cafe CNAME .
+*.dns.omada.cafe CNAME .
 dns.opendns.com CNAME .
 *.dns.opendns.com CNAME .
 dns.oszx.co CNAME .
@@ -1279,8 +1285,8 @@ dnsse.alekberg.net CNAME .
 *.dnsse.alekberg.net CNAME .
 dns.sec511.com CNAME .
 *.dns.sec511.com CNAME .
-dns-secondary.cloudnx.cloud CNAME .
-*.dns-secondary.cloudnx.cloud CNAME .
+dns-secondary.cfirefox.dns.nextdns.io CNAME .
+*.dns-secondary.cfirefox.dns.nextdns.io CNAME .
 dns.sellan.fr CNAME .
 *.dns.sellan.fr CNAME .
 dns.sev.monster CNAME .
@@ -1439,6 +1445,8 @@ dns.yandex.ru CNAME .
 *.dns.yandex.ru CNAME .
 dns.yatima.tv CNAME .
 *.dns.yatima.tv CNAME .
+dns.yunzheng.space CNAME .
+*.dns.yunzheng.space CNAME .
 dns.yuu-g.net CNAME .
 *.dns.yuu-g.net CNAME .
 dns.zemows.industries CNAME .
@@ -1877,6 +1885,8 @@ family.cloudflare-dns.com CNAME .
 *.family.cloudflare-dns.com CNAME .
 family.dns.doubleangels.com CNAME .
 *.family.dns.doubleangels.com CNAME .
+family.dns.dremaxx.com CNAME .
+*.family.dns.dremaxx.com CNAME .
 family.dns.mullvad.net CNAME .
 *.family.dns.mullvad.net CNAME .
 family.dns.ningkelle.id CNAME .
@@ -1909,10 +1919,10 @@ fi.dot.dns.snopyta.org CNAME .
 *.fi.dot.dns.snopyta.org CNAME .
 fi-hel-w-f-2.nashkan.net CNAME .
 *.fi-hel-w-f-2.nashkan.net CNAME .
+filter.dns.yunzheng.space CNAME .
+*.filter.dns.yunzheng.space CNAME .
 firefox.dns.nextdns.io CNAME .
 *.firefox.dns.nextdns.io CNAME .
-fly.io CNAME .
-*.fly.io CNAME .
 fnt01.dnscry.pt CNAME .
 *.fnt01.dnscry.pt CNAME .
 fr1.dnswarden.com CNAME .
@@ -2007,6 +2017,8 @@ hk-hkg.doh.sb CNAME .
 *.hk-hkg.doh.sb CNAME .
 hkname.freecdn.one CNAME .
 *.hkname.freecdn.one CNAME .
+hnsdoh.com CNAME .
+*.hnsdoh.com CNAME .
 hole.elbschloss.xyz CNAME .
 *.hole.elbschloss.xyz CNAME .
 home27.duckdns.org CNAME .
@@ -2173,6 +2185,8 @@ loadlow.me CNAME .
 *.loadlow.me CNAME .
 lon01.dnscry.pt CNAME .
 *.lon01.dnscry.pt CNAME .
+loudnx.cloud CNAME .
+*.loudnx.cloud CNAME .
 lukscasino-479-tr.xyz CNAME .
 *.lukscasino-479-tr.xyz CNAME .
 lukscasino-542-tr.xyz CNAME .
@@ -2349,6 +2363,8 @@ one.one.one.one CNAME .
 *.one.one.one.one CNAME .
 opencdn.jomodns.com CNAME .
 *.opencdn.jomodns.com CNAME .
+open.dns.dremaxx.com CNAME .
+*.open.dns.dremaxx.com CNAME .
 opennic1.eth-services.de CNAME .
 *.opennic1.eth-services.de CNAME .
 opennic2.i2pd.xyz CNAME .
@@ -2705,8 +2721,6 @@ tll01.dnscry.pt CNAME .
 *.tll01.dnscry.pt CNAME .
 tls-dns-u.odvr.dns-oarc.net CNAME .
 *.tls-dns-u.odvr.dns-oarc.net CNAME .
-tlz.asia CNAME .
-*.tlz.asia CNAME .
 tor.cloudflare-dns.com CNAME .
 *.tor.cloudflare-dns.com CNAME .
 tor.vasi.li CNAME .

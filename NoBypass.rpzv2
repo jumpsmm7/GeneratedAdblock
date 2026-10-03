@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2610021712 ; Serial Number
+ 2610030529 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -1573,10 +1573,18 @@ dns.east.comss.one A 0.0.0.0
 *.dns.east.comss.one A 0.0.0.0
 dns.east.comss.one AAAA ::
 *.dns.east.comss.one AAAA ::
+dns.easyhns.com A 0.0.0.0
+*.dns.easyhns.com A 0.0.0.0
+dns.easyhns.com AAAA ::
+*.dns.easyhns.com AAAA ::
 dns.eddi.net A 0.0.0.0
 *.dns.eddi.net A 0.0.0.0
 dns.eddi.net AAAA ::
 *.dns.eddi.net AAAA ::
+dns.edgeburnmedia.com A 0.0.0.0
+*.dns.edgeburnmedia.com A 0.0.0.0
+dns.edgeburnmedia.com AAAA ::
+*.dns.edgeburnmedia.com AAAA ::
 dns.edgy.network A 0.0.0.0
 *.dns.edgy.network A 0.0.0.0
 dns.edgy.network AAAA ::
@@ -2313,6 +2321,10 @@ dns.oliviertv.co.za A 0.0.0.0
 *.dns.oliviertv.co.za A 0.0.0.0
 dns.oliviertv.co.za AAAA ::
 *.dns.oliviertv.co.za AAAA ::
+dns.omada.cafe A 0.0.0.0
+*.dns.omada.cafe A 0.0.0.0
+dns.omada.cafe AAAA ::
+*.dns.omada.cafe AAAA ::
 dns.opendns.com A 0.0.0.0
 *.dns.opendns.com A 0.0.0.0
 dns.opendns.com AAAA ::
@@ -2549,10 +2561,10 @@ dns.sec511.com A 0.0.0.0
 *.dns.sec511.com A 0.0.0.0
 dns.sec511.com AAAA ::
 *.dns.sec511.com AAAA ::
-dns-secondary.cloudnx.cloud A 0.0.0.0
-*.dns-secondary.cloudnx.cloud A 0.0.0.0
-dns-secondary.cloudnx.cloud AAAA ::
-*.dns-secondary.cloudnx.cloud AAAA ::
+dns-secondary.cfirefox.dns.nextdns.io A 0.0.0.0
+*.dns-secondary.cfirefox.dns.nextdns.io A 0.0.0.0
+dns-secondary.cfirefox.dns.nextdns.io AAAA ::
+*.dns-secondary.cfirefox.dns.nextdns.io AAAA ::
 dns.sellan.fr A 0.0.0.0
 *.dns.sellan.fr A 0.0.0.0
 dns.sellan.fr AAAA ::
@@ -2869,6 +2881,10 @@ dns.yatima.tv A 0.0.0.0
 *.dns.yatima.tv A 0.0.0.0
 dns.yatima.tv AAAA ::
 *.dns.yatima.tv AAAA ::
+dns.yunzheng.space A 0.0.0.0
+*.dns.yunzheng.space A 0.0.0.0
+dns.yunzheng.space AAAA ::
+*.dns.yunzheng.space AAAA ::
 dns.yuu-g.net A 0.0.0.0
 *.dns.yuu-g.net A 0.0.0.0
 dns.yuu-g.net AAAA ::
@@ -3745,6 +3761,10 @@ family.dns.doubleangels.com A 0.0.0.0
 *.family.dns.doubleangels.com A 0.0.0.0
 family.dns.doubleangels.com AAAA ::
 *.family.dns.doubleangels.com AAAA ::
+family.dns.dremaxx.com A 0.0.0.0
+*.family.dns.dremaxx.com A 0.0.0.0
+family.dns.dremaxx.com AAAA ::
+*.family.dns.dremaxx.com AAAA ::
 family.dns.mullvad.net A 0.0.0.0
 *.family.dns.mullvad.net A 0.0.0.0
 family.dns.mullvad.net AAAA ::
@@ -3809,14 +3829,14 @@ fi-hel-w-f-2.nashkan.net A 0.0.0.0
 *.fi-hel-w-f-2.nashkan.net A 0.0.0.0
 fi-hel-w-f-2.nashkan.net AAAA ::
 *.fi-hel-w-f-2.nashkan.net AAAA ::
+filter.dns.yunzheng.space A 0.0.0.0
+*.filter.dns.yunzheng.space A 0.0.0.0
+filter.dns.yunzheng.space AAAA ::
+*.filter.dns.yunzheng.space AAAA ::
 firefox.dns.nextdns.io A 0.0.0.0
 *.firefox.dns.nextdns.io A 0.0.0.0
 firefox.dns.nextdns.io AAAA ::
 *.firefox.dns.nextdns.io AAAA ::
-fly.io A 0.0.0.0
-*.fly.io A 0.0.0.0
-fly.io AAAA ::
-*.fly.io AAAA ::
 fnt01.dnscry.pt A 0.0.0.0
 *.fnt01.dnscry.pt A 0.0.0.0
 fnt01.dnscry.pt AAAA ::
@@ -4005,6 +4025,10 @@ hkname.freecdn.one A 0.0.0.0
 *.hkname.freecdn.one A 0.0.0.0
 hkname.freecdn.one AAAA ::
 *.hkname.freecdn.one AAAA ::
+hnsdoh.com A 0.0.0.0
+*.hnsdoh.com A 0.0.0.0
+hnsdoh.com AAAA ::
+*.hnsdoh.com AAAA ::
 hole.elbschloss.xyz A 0.0.0.0
 *.hole.elbschloss.xyz A 0.0.0.0
 hole.elbschloss.xyz AAAA ::
@@ -4337,6 +4361,10 @@ lon01.dnscry.pt A 0.0.0.0
 *.lon01.dnscry.pt A 0.0.0.0
 lon01.dnscry.pt AAAA ::
 *.lon01.dnscry.pt AAAA ::
+loudnx.cloud A 0.0.0.0
+*.loudnx.cloud A 0.0.0.0
+loudnx.cloud AAAA ::
+*.loudnx.cloud AAAA ::
 lukscasino-479-tr.xyz A 0.0.0.0
 *.lukscasino-479-tr.xyz A 0.0.0.0
 lukscasino-479-tr.xyz AAAA ::
@@ -4689,6 +4717,10 @@ opencdn.jomodns.com A 0.0.0.0
 *.opencdn.jomodns.com A 0.0.0.0
 opencdn.jomodns.com AAAA ::
 *.opencdn.jomodns.com AAAA ::
+open.dns.dremaxx.com A 0.0.0.0
+*.open.dns.dremaxx.com A 0.0.0.0
+open.dns.dremaxx.com AAAA ::
+*.open.dns.dremaxx.com AAAA ::
 opennic1.eth-services.de A 0.0.0.0
 *.opennic1.eth-services.de A 0.0.0.0
 opennic1.eth-services.de AAAA ::
@@ -5401,10 +5433,6 @@ tls-dns-u.odvr.dns-oarc.net A 0.0.0.0
 *.tls-dns-u.odvr.dns-oarc.net A 0.0.0.0
 tls-dns-u.odvr.dns-oarc.net AAAA ::
 *.tls-dns-u.odvr.dns-oarc.net AAAA ::
-tlz.asia A 0.0.0.0
-*.tlz.asia A 0.0.0.0
-tlz.asia AAAA ::
-*.tlz.asia AAAA ::
 tor.cloudflare-dns.com A 0.0.0.0
 *.tor.cloudflare-dns.com A 0.0.0.0
 tor.cloudflare-dns.com AAAA ::
