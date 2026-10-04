@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2610030529 ; Serial Number
+ 2610031742 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -795,8 +795,6 @@ dns.easyhns.com CNAME .
 *.dns.easyhns.com CNAME .
 dns.eddi.net CNAME .
 *.dns.eddi.net CNAME .
-dns.edgeburnmedia.com CNAME .
-*.dns.edgeburnmedia.com CNAME .
 dns.edgy.network CNAME .
 *.dns.edgy.network CNAME .
 dns.edison42.dev CNAME .
@@ -1285,8 +1283,8 @@ dnsse.alekberg.net CNAME .
 *.dnsse.alekberg.net CNAME .
 dns.sec511.com CNAME .
 *.dns.sec511.com CNAME .
-dns-secondary.cfirefox.dns.nextdns.io CNAME .
-*.dns-secondary.cfirefox.dns.nextdns.io CNAME .
+dns-secondary.cloudnx.cloud CNAME .
+*.dns-secondary.cloudnx.cloud CNAME .
 dns.sellan.fr CNAME .
 *.dns.sellan.fr CNAME .
 dns.sev.monster CNAME .
@@ -2007,8 +2005,6 @@ himedns.com CNAME .
 *.himedns.com CNAME .
 hitian.me CNAME .
 *.hitian.me CNAME .
-hk2.ooroot.com CNAME .
-*.hk2.ooroot.com CNAME .
 hkg01.dnscry.pt CNAME .
 *.hkg01.dnscry.pt CNAME .
 hkg02.dnscry.pt CNAME .
@@ -2185,8 +2181,6 @@ loadlow.me CNAME .
 *.loadlow.me CNAME .
 lon01.dnscry.pt CNAME .
 *.lon01.dnscry.pt CNAME .
-loudnx.cloud CNAME .
-*.loudnx.cloud CNAME .
 lukscasino-479-tr.xyz CNAME .
 *.lukscasino-479-tr.xyz CNAME .
 lukscasino-542-tr.xyz CNAME .
@@ -2721,6 +2715,8 @@ tll01.dnscry.pt CNAME .
 *.tll01.dnscry.pt CNAME .
 tls-dns-u.odvr.dns-oarc.net CNAME .
 *.tls-dns-u.odvr.dns-oarc.net CNAME .
+tlz.asia CNAME .
+*.tlz.asia CNAME .
 tor.cloudflare-dns.com CNAME .
 *.tor.cloudflare-dns.com CNAME .
 tor.vasi.li CNAME .

@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2610030529 ; Serial Number
+ 2610031742 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -1581,10 +1581,6 @@ dns.eddi.net A 0.0.0.0
 *.dns.eddi.net A 0.0.0.0
 dns.eddi.net AAAA ::
 *.dns.eddi.net AAAA ::
-dns.edgeburnmedia.com A 0.0.0.0
-*.dns.edgeburnmedia.com A 0.0.0.0
-dns.edgeburnmedia.com AAAA ::
-*.dns.edgeburnmedia.com AAAA ::
 dns.edgy.network A 0.0.0.0
 *.dns.edgy.network A 0.0.0.0
 dns.edgy.network AAAA ::
@@ -2561,10 +2557,10 @@ dns.sec511.com A 0.0.0.0
 *.dns.sec511.com A 0.0.0.0
 dns.sec511.com AAAA ::
 *.dns.sec511.com AAAA ::
-dns-secondary.cfirefox.dns.nextdns.io A 0.0.0.0
-*.dns-secondary.cfirefox.dns.nextdns.io A 0.0.0.0
-dns-secondary.cfirefox.dns.nextdns.io AAAA ::
-*.dns-secondary.cfirefox.dns.nextdns.io AAAA ::
+dns-secondary.cloudnx.cloud A 0.0.0.0
+*.dns-secondary.cloudnx.cloud A 0.0.0.0
+dns-secondary.cloudnx.cloud AAAA ::
+*.dns-secondary.cloudnx.cloud AAAA ::
 dns.sellan.fr A 0.0.0.0
 *.dns.sellan.fr A 0.0.0.0
 dns.sellan.fr AAAA ::
@@ -4005,10 +4001,6 @@ hitian.me A 0.0.0.0
 *.hitian.me A 0.0.0.0
 hitian.me AAAA ::
 *.hitian.me AAAA ::
-hk2.ooroot.com A 0.0.0.0
-*.hk2.ooroot.com A 0.0.0.0
-hk2.ooroot.com AAAA ::
-*.hk2.ooroot.com AAAA ::
 hkg01.dnscry.pt A 0.0.0.0
 *.hkg01.dnscry.pt A 0.0.0.0
 hkg01.dnscry.pt AAAA ::
@@ -4361,10 +4353,6 @@ lon01.dnscry.pt A 0.0.0.0
 *.lon01.dnscry.pt A 0.0.0.0
 lon01.dnscry.pt AAAA ::
 *.lon01.dnscry.pt AAAA ::
-loudnx.cloud A 0.0.0.0
-*.loudnx.cloud A 0.0.0.0
-loudnx.cloud AAAA ::
-*.loudnx.cloud AAAA ::
 lukscasino-479-tr.xyz A 0.0.0.0
 *.lukscasino-479-tr.xyz A 0.0.0.0
 lukscasino-479-tr.xyz AAAA ::
@@ -5433,6 +5421,10 @@ tls-dns-u.odvr.dns-oarc.net A 0.0.0.0
 *.tls-dns-u.odvr.dns-oarc.net A 0.0.0.0
 tls-dns-u.odvr.dns-oarc.net AAAA ::
 *.tls-dns-u.odvr.dns-oarc.net AAAA ::
+tlz.asia A 0.0.0.0
+*.tlz.asia A 0.0.0.0
+tlz.asia AAAA ::
+*.tlz.asia AAAA ::
 tor.cloudflare-dns.com A 0.0.0.0
 *.tor.cloudflare-dns.com A 0.0.0.0
 tor.cloudflare-dns.com AAAA ::
