@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2610031742 ; Serial Number
+ 2610041743 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -795,6 +795,8 @@ dns.easyhns.com CNAME .
 *.dns.easyhns.com CNAME .
 dns.eddi.net CNAME .
 *.dns.eddi.net CNAME .
+dns.edgeburnmedia.com CNAME .
+*.dns.edgeburnmedia.com CNAME .
 dns.edgy.network CNAME .
 *.dns.edgy.network CNAME .
 dns.edison42.dev CNAME .
@@ -1023,8 +1025,8 @@ dns.labnekotest.site CNAME .
 *.dns.labnekotest.site CNAME .
 dns.lars-lehmann.net CNAME .
 *.dns.lars-lehmann.net CNAME .
-dns.lepilleur.com CNAME .
-*.dns.lepilleur.com CNAME .
+dns.lepilfirefox.dns.nextdns.io CNAME .
+*.dns.lepilfirefox.dns.nextdns.io CNAME .
 dns.lermer.nl CNAME .
 *.dns.lermer.nl CNAME .
 dns.levonet.sk CNAME .
@@ -1981,8 +1983,6 @@ goose.buckyfan.net CNAME .
 *.goose.buckyfan.net CNAME .
 greatideasforlife.lol CNAME .
 *.greatideasforlife.lol CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 gva01.dnscry.pt CNAME .
 *.gva01.dnscry.pt CNAME .
 gztech.me CNAME .
@@ -2129,8 +2129,6 @@ kiri.nonexiste.net CNAME .
 *.kiri.nonexiste.net CNAME .
 kiv01.dnscry.pt CNAME .
 *.kiv01.dnscry.pt CNAME .
-ko-18948-tr.xyz CNAME .
-*.ko-18948-tr.xyz CNAME .
 kr1.ooroot.com CNAME .
 *.kr1.ooroot.com CNAME .
 kr2.ooroot.com CNAME .
@@ -2163,6 +2161,8 @@ lelux.fi CNAME .
 *.lelux.fi CNAME .
 lesuo.top CNAME .
 *.lesuo.top CNAME .
+leur.com CNAME .
+*.leur.com CNAME .
 lewsha.lol CNAME .
 *.lewsha.lol CNAME .
 lifeisa.live CNAME .
