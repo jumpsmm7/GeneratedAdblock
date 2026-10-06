@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2610051733 ; Serial Number
+ 2610060547 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -1517,6 +1517,10 @@ dns.dns-53.us A 0.0.0.0
 *.dns.dns-53.us A 0.0.0.0
 dns.dns-53.us AAAA ::
 *.dns.dns-53.us AAAA ::
+dnsdns.dk A 0.0.0.0
+*.dnsdns.dk A 0.0.0.0
+dnsdns.dk AAAA ::
+*.dnsdns.dk AAAA ::
 dns.dnsguard.pub A 0.0.0.0
 *.dns.dnsguard.pub A 0.0.0.0
 dns.dnsguard.pub AAAA ::
@@ -1561,10 +1565,6 @@ dns.dremaxx.de A 0.0.0.0
 *.dns.dremaxx.de A 0.0.0.0
 dns.dremaxx.de AAAA ::
 *.dns.dremaxx.de AAAA ::
-dns.dyn1.de A 0.0.0.0
-*.dns.dyn1.de A 0.0.0.0
-dns.dyn1.de AAAA ::
-*.dns.dyn1.de AAAA ::
 dns.dynx.pro A 0.0.0.0
 *.dns.dynx.pro A 0.0.0.0
 dns.dynx.pro AAAA ::
@@ -1581,6 +1581,10 @@ dns.eddi.net A 0.0.0.0
 *.dns.eddi.net A 0.0.0.0
 dns.eddi.net AAAA ::
 *.dns.eddi.net AAAA ::
+dns.edgeburnmedia.com A 0.0.0.0
+*.dns.edgeburnmedia.com A 0.0.0.0
+dns.edgeburnmedia.com AAAA ::
+*.dns.edgeburnmedia.com AAAA ::
 dns.edgy.network A 0.0.0.0
 *.dns.edgy.network A 0.0.0.0
 dns.edgy.network AAAA ::
@@ -2041,10 +2045,6 @@ dns.lepilleur.com A 0.0.0.0
 *.dns.lepilleur.com A 0.0.0.0
 dns.lepilleur.com AAAA ::
 *.dns.lepilleur.com AAAA ::
-dns.lermer.nl A 0.0.0.0
-*.dns.lermer.nl A 0.0.0.0
-dns.lermer.nl AAAA ::
-*.dns.lermer.nl AAAA ::
 dns.levonet.sk A 0.0.0.0
 *.dns.levonet.sk A 0.0.0.0
 dns.levonet.sk AAAA ::
@@ -2557,10 +2557,10 @@ dns.sec511.com A 0.0.0.0
 *.dns.sec511.com A 0.0.0.0
 dns.sec511.com AAAA ::
 *.dns.sec511.com AAAA ::
-dns-secondary.cloudnx.cloud A 0.0.0.0
-*.dns-secondary.cloudnx.cloud A 0.0.0.0
-dns-secondary.cloudnx.cloud AAAA ::
-*.dns-secondary.cloudnx.cloud AAAA ::
+dns-secondary.cfirefox.dns.nextdns.io A 0.0.0.0
+*.dns-secondary.cfirefox.dns.nextdns.io A 0.0.0.0
+dns-secondary.cfirefox.dns.nextdns.io AAAA ::
+*.dns-secondary.cfirefox.dns.nextdns.io AAAA ::
 dns.sellan.fr A 0.0.0.0
 *.dns.sellan.fr A 0.0.0.0
 dns.sellan.fr AAAA ::
@@ -3097,10 +3097,10 @@ doh.denypradana.com A 0.0.0.0
 *.doh.denypradana.com A 0.0.0.0
 doh.denypradana.com AAAA ::
 *.doh.denypradana.com AAAA ::
-doh-dilution-to-upstreamsfirefox.dns.nextdns.io A 0.0.0.0
-*.doh-dilution-to-upstreamsfirefox.dns.nextdns.io A 0.0.0.0
-doh-dilution-to-upstreamsfirefox.dns.nextdns.io AAAA ::
-*.doh-dilution-to-upstreamsfirefox.dns.nextdns.io AAAA ::
+doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr A 0.0.0.0
+*.doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr A 0.0.0.0
+doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr AAAA ::
+*.doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr AAAA ::
 doh.disconnect.app A 0.0.0.0
 *.doh.disconnect.app A 0.0.0.0
 doh.disconnect.app AAAA ::
@@ -5413,10 +5413,6 @@ tls-dns-u.odvr.dns-oarc.net A 0.0.0.0
 *.tls-dns-u.odvr.dns-oarc.net A 0.0.0.0
 tls-dns-u.odvr.dns-oarc.net AAAA ::
 *.tls-dns-u.odvr.dns-oarc.net AAAA ::
-tlz.asia A 0.0.0.0
-*.tlz.asia A 0.0.0.0
-tlz.asia AAAA ::
-*.tlz.asia AAAA ::
 tor.cloudflare-dns.com A 0.0.0.0
 *.tor.cloudflare-dns.com A 0.0.0.0
 tor.cloudflare-dns.com AAAA ::
@@ -5513,6 +5509,10 @@ unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
 *.unicast.censurfridns.dk AAAA ::
+unicast.censurfriloudnx.cloud A 0.0.0.0
+*.unicast.censurfriloudnx.cloud A 0.0.0.0
+unicast.censurfriloudnx.cloud AAAA ::
+*.unicast.censurfriloudnx.cloud AAAA ::
 unicast.uncensoreddns.org A 0.0.0.0
 *.unicast.uncensoreddns.org A 0.0.0.0
 unicast.uncensoreddns.org AAAA ::

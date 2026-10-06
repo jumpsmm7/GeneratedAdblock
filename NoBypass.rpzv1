@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2610051733 ; Serial Number
+ 2610060547 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -763,6 +763,8 @@ dns.dns-53.uk CNAME .
 *.dns.dns-53.uk CNAME .
 dns.dns-53.us CNAME .
 *.dns.dns-53.us CNAME .
+dnsdns.dk CNAME .
+*.dnsdns.dk CNAME .
 dns.dnsguard.pub CNAME .
 *.dns.dnsguard.pub CNAME .
 dns.dnshome.de CNAME .
@@ -785,8 +787,6 @@ dns.dotnet.win CNAME .
 *.dns.dotnet.win CNAME .
 dns.dremaxx.de CNAME .
 *.dns.dremaxx.de CNAME .
-dns.dyn1.de CNAME .
-*.dns.dyn1.de CNAME .
 dns.dynx.pro CNAME .
 *.dns.dynx.pro CNAME .
 dns.east.comss.one CNAME .
@@ -795,6 +795,8 @@ dns.easyhns.com CNAME .
 *.dns.easyhns.com CNAME .
 dns.eddi.net CNAME .
 *.dns.eddi.net CNAME .
+dns.edgeburnmedia.com CNAME .
+*.dns.edgeburnmedia.com CNAME .
 dns.edgy.network CNAME .
 *.dns.edgy.network CNAME .
 dns.edison42.dev CNAME .
@@ -1025,8 +1027,6 @@ dns.lars-lehmann.net CNAME .
 *.dns.lars-lehmann.net CNAME .
 dns.lepilleur.com CNAME .
 *.dns.lepilleur.com CNAME .
-dns.lermer.nl CNAME .
-*.dns.lermer.nl CNAME .
 dns.levonet.sk CNAME .
 *.dns.levonet.sk CNAME .
 dns.lgprk.com CNAME .
@@ -1283,8 +1283,8 @@ dnsse.alekberg.net CNAME .
 *.dnsse.alekberg.net CNAME .
 dns.sec511.com CNAME .
 *.dns.sec511.com CNAME .
-dns-secondary.cloudnx.cloud CNAME .
-*.dns-secondary.cloudnx.cloud CNAME .
+dns-secondary.cfirefox.dns.nextdns.io CNAME .
+*.dns-secondary.cfirefox.dns.nextdns.io CNAME .
 dns.sellan.fr CNAME .
 *.dns.sellan.fr CNAME .
 dns.sev.monster CNAME .
@@ -1553,8 +1553,8 @@ doh.defaultroutes.de CNAME .
 *.doh.defaultroutes.de CNAME .
 doh.denypradana.com CNAME .
 *.doh.denypradana.com CNAME .
-doh-dilution-to-upstreamsfirefox.dns.nextdns.io CNAME .
-*.doh-dilution-to-upstreamsfirefox.dns.nextdns.io CNAME .
+doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr CNAME .
+*.doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr CNAME .
 doh.disconnect.app CNAME .
 *.doh.disconnect.app CNAME .
 doh.dns4all.eu CNAME .
@@ -2711,8 +2711,6 @@ tll01.dnscry.pt CNAME .
 *.tll01.dnscry.pt CNAME .
 tls-dns-u.odvr.dns-oarc.net CNAME .
 *.tls-dns-u.odvr.dns-oarc.net CNAME .
-tlz.asia CNAME .
-*.tlz.asia CNAME .
 tor.cloudflare-dns.com CNAME .
 *.tor.cloudflare-dns.com CNAME .
 tor.vasi.li CNAME .
@@ -2761,6 +2759,8 @@ unfiltered.joindns4.eu CNAME .
 *.unfiltered.joindns4.eu CNAME .
 unicast.censurfridns.dk CNAME .
 *.unicast.censurfridns.dk CNAME .
+unicast.censurfriloudnx.cloud CNAME .
+*.unicast.censurfriloudnx.cloud CNAME .
 unicast.uncensoreddns.org CNAME .
 *.unicast.uncensoreddns.org CNAME .
 united-arab-emirates.privacy-dns.pw CNAME .
