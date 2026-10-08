@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2610070535 ; Serial Number
+ 2610081026 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -23,8 +23,6 @@ $ORIGIN nobypass.rpz.
 *.1dot1dot1dot1.cloudflare-dns.com CNAME .
 2.dns.noridev.moe CNAME .
 *.2.dns.noridev.moe CNAME .
-3dcosas.xyz CNAME .
-*.3dcosas.xyz CNAME .
 3dns.eu CNAME .
 *.3dns.eu CNAME .
 3jjxxl.tech CNAME .
@@ -121,8 +119,6 @@ adguard.ihatemy.live CNAME .
 *.adguard.ihatemy.live CNAME .
 adguard.jfchenier.ca CNAME .
 *.adguard.jfchenier.ca CNAME .
-adguard.johanliebert.top CNAME .
-*.adguard.johanliebert.top CNAME .
 adguard.kantinyoyok.xyz CNAME .
 *.adguard.kantinyoyok.xyz CNAME .
 adguard-kartoffel.zernico.de CNAME .
@@ -913,6 +909,8 @@ dns.haka.se CNAME .
 *.dns.haka.se CNAME .
 dns.hakim.one CNAME .
 *.dns.hakim.one CNAME .
+dns.hakutakucn.com CNAME .
+*.dns.hakutakucn.com CNAME .
 dns.hanahira.dev CNAME .
 *.dns.hanahira.dev CNAME .
 dns.hanmey.de CNAME .
@@ -1367,6 +1365,8 @@ dns.tipsy.coffee CNAME .
 *.dns.tipsy.coffee CNAME .
 dns-tls.bitwiseshift.net CNAME .
 *.dns-tls.bitwiseshift.net CNAME .
+dns-tls.bitwiseshift.netfirefox.dns.nextdns.io CNAME .
+*.dns-tls.bitwiseshift.netfirefox.dns.nextdns.io CNAME .
 dns.tls-data.de CNAME .
 *.dns.tls-data.de CNAME .
 dnstls.mobik.com CNAME .
@@ -1413,6 +1413,8 @@ dnsvps.familiamv.net CNAME .
 *.dnsvps.familiamv.net CNAME .
 dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
+dns.wahr.top CNAME .
+*.dns.wahr.top CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
 dns.wargan.io CNAME .
@@ -1555,8 +1557,8 @@ doh.defaultroutes.de CNAME .
 *.doh.defaultroutes.de CNAME .
 doh.denypradana.com CNAME .
 *.doh.denypradana.com CNAME .
-doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr CNAME .
-*.doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr CNAME .
+doh-diludns.dk CNAME .
+*.doh-diludns.dk CNAME .
 doh.disconnect.app CNAME .
 *.doh.disconnect.app CNAME .
 doh.dns4all.eu CNAME .
@@ -1983,6 +1985,8 @@ goose.buckyfan.net CNAME .
 *.goose.buckyfan.net CNAME .
 greatideasforlife.lol CNAME .
 *.greatideasforlife.lol CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 gva01.dnscry.pt CNAME .
 *.gva01.dnscry.pt CNAME .
 gztech.me CNAME .
@@ -2689,8 +2693,6 @@ takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
 tbs01.dnscry.pt CNAME .
 *.tbs01.dnscry.pt CNAME .
-tecdrive.site CNAME .
-*.tecdrive.site CNAME .
 testaghome.meshkov.info CNAME .
 *.testaghome.meshkov.info CNAME .
 testguard.meexx.de CNAME .
@@ -2703,6 +2705,8 @@ timedns.net CNAME .
 *.timedns.net CNAME .
 timmes.nl CNAME .
 *.timmes.nl CNAME .
+tion-to-upstreams-adguardhome.nicolas-dorriere.fr CNAME .
+*.tion-to-upstreams-adguardhome.nicolas-dorriere.fr CNAME .
 tj.jamesxue.xyz CNAME .
 *.tj.jamesxue.xyz CNAME .
 tk31z.com CNAME .
@@ -2759,6 +2763,8 @@ unfiltered.adguard-dns.com CNAME .
 *.unfiltered.adguard-dns.com CNAME .
 unfiltered.joindns4.eu CNAME .
 *.unfiltered.joindns4.eu CNAME .
+unicast.censurfri CNAME .
+*.unicast.censurfri CNAME .
 unicast.censurfridns.dk CNAME .
 *.unicast.censurfridns.dk CNAME .
 unicast.uncensoreddns.org CNAME .

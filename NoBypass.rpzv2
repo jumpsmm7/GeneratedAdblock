@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2610070535 ; Serial Number
+ 2610081026 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -37,10 +37,6 @@ $ORIGIN nobypass.rpz.
 *.2.dns.noridev.moe A 0.0.0.0
 2.dns.noridev.moe AAAA ::
 *.2.dns.noridev.moe AAAA ::
-3dcosas.xyz A 0.0.0.0
-*.3dcosas.xyz A 0.0.0.0
-3dcosas.xyz AAAA ::
-*.3dcosas.xyz AAAA ::
 3dns.eu A 0.0.0.0
 *.3dns.eu A 0.0.0.0
 3dns.eu AAAA ::
@@ -233,10 +229,6 @@ adguard.jfchenier.ca A 0.0.0.0
 *.adguard.jfchenier.ca A 0.0.0.0
 adguard.jfchenier.ca AAAA ::
 *.adguard.jfchenier.ca AAAA ::
-adguard.johanliebert.top A 0.0.0.0
-*.adguard.johanliebert.top A 0.0.0.0
-adguard.johanliebert.top AAAA ::
-*.adguard.johanliebert.top AAAA ::
 adguard.kantinyoyok.xyz A 0.0.0.0
 *.adguard.kantinyoyok.xyz A 0.0.0.0
 adguard.kantinyoyok.xyz AAAA ::
@@ -1817,6 +1809,10 @@ dns.hakim.one A 0.0.0.0
 *.dns.hakim.one A 0.0.0.0
 dns.hakim.one AAAA ::
 *.dns.hakim.one AAAA ::
+dns.hakutakucn.com A 0.0.0.0
+*.dns.hakutakucn.com A 0.0.0.0
+dns.hakutakucn.com AAAA ::
+*.dns.hakutakucn.com AAAA ::
 dns.hanahira.dev A 0.0.0.0
 *.dns.hanahira.dev A 0.0.0.0
 dns.hanahira.dev AAAA ::
@@ -2725,6 +2721,10 @@ dns-tls.bitwiseshift.net A 0.0.0.0
 *.dns-tls.bitwiseshift.net A 0.0.0.0
 dns-tls.bitwiseshift.net AAAA ::
 *.dns-tls.bitwiseshift.net AAAA ::
+dns-tls.bitwiseshift.netfirefox.dns.nextdns.io A 0.0.0.0
+*.dns-tls.bitwiseshift.netfirefox.dns.nextdns.io A 0.0.0.0
+dns-tls.bitwiseshift.netfirefox.dns.nextdns.io AAAA ::
+*.dns-tls.bitwiseshift.netfirefox.dns.nextdns.io AAAA ::
 dns.tls-data.de A 0.0.0.0
 *.dns.tls-data.de A 0.0.0.0
 dns.tls-data.de AAAA ::
@@ -2817,6 +2817,10 @@ dns.w3ctag.org A 0.0.0.0
 *.dns.w3ctag.org A 0.0.0.0
 dns.w3ctag.org AAAA ::
 *.dns.w3ctag.org AAAA ::
+dns.wahr.top A 0.0.0.0
+*.dns.wahr.top A 0.0.0.0
+dns.wahr.top AAAA ::
+*.dns.wahr.top AAAA ::
 dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
@@ -3101,10 +3105,10 @@ doh.denypradana.com A 0.0.0.0
 *.doh.denypradana.com A 0.0.0.0
 doh.denypradana.com AAAA ::
 *.doh.denypradana.com AAAA ::
-doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr A 0.0.0.0
-*.doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr A 0.0.0.0
-doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr AAAA ::
-*.doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr AAAA ::
+doh-diludns.dk A 0.0.0.0
+*.doh-diludns.dk A 0.0.0.0
+doh-diludns.dk AAAA ::
+*.doh-diludns.dk AAAA ::
 doh.disconnect.app A 0.0.0.0
 *.doh.disconnect.app A 0.0.0.0
 doh.disconnect.app AAAA ::
@@ -3957,6 +3961,10 @@ greatideasforlife.lol A 0.0.0.0
 *.greatideasforlife.lol A 0.0.0.0
 greatideasforlife.lol AAAA ::
 *.greatideasforlife.lol AAAA ::
+gustamadh.dynv6.net A 0.0.0.0
+*.gustamadh.dynv6.net A 0.0.0.0
+gustamadh.dynv6.net AAAA ::
+*.gustamadh.dynv6.net AAAA ::
 gva01.dnscry.pt A 0.0.0.0
 *.gva01.dnscry.pt A 0.0.0.0
 gva01.dnscry.pt AAAA ::
@@ -5369,10 +5377,6 @@ tbs01.dnscry.pt A 0.0.0.0
 *.tbs01.dnscry.pt A 0.0.0.0
 tbs01.dnscry.pt AAAA ::
 *.tbs01.dnscry.pt AAAA ::
-tecdrive.site A 0.0.0.0
-*.tecdrive.site A 0.0.0.0
-tecdrive.site AAAA ::
-*.tecdrive.site AAAA ::
 testaghome.meshkov.info A 0.0.0.0
 *.testaghome.meshkov.info A 0.0.0.0
 testaghome.meshkov.info AAAA ::
@@ -5397,6 +5401,10 @@ timmes.nl A 0.0.0.0
 *.timmes.nl A 0.0.0.0
 timmes.nl AAAA ::
 *.timmes.nl AAAA ::
+tion-to-upstreams-adguardhome.nicolas-dorriere.fr A 0.0.0.0
+*.tion-to-upstreams-adguardhome.nicolas-dorriere.fr A 0.0.0.0
+tion-to-upstreams-adguardhome.nicolas-dorriere.fr AAAA ::
+*.tion-to-upstreams-adguardhome.nicolas-dorriere.fr AAAA ::
 tj.jamesxue.xyz A 0.0.0.0
 *.tj.jamesxue.xyz A 0.0.0.0
 tj.jamesxue.xyz AAAA ::
@@ -5509,6 +5517,10 @@ unfiltered.joindns4.eu A 0.0.0.0
 *.unfiltered.joindns4.eu A 0.0.0.0
 unfiltered.joindns4.eu AAAA ::
 *.unfiltered.joindns4.eu AAAA ::
+unicast.censurfri A 0.0.0.0
+*.unicast.censurfri A 0.0.0.0
+unicast.censurfri AAAA ::
+*.unicast.censurfri AAAA ::
 unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
