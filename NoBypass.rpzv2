@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2610081026 ; Serial Number
+ 2610090523 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -229,6 +229,10 @@ adguard.jfchenier.ca A 0.0.0.0
 *.adguard.jfchenier.ca A 0.0.0.0
 adguard.jfchenier.ca AAAA ::
 *.adguard.jfchenier.ca AAAA ::
+adguard.johanliebert.top A 0.0.0.0
+*.adguard.johanliebert.top A 0.0.0.0
+adguard.johanliebert.top AAAA ::
+*.adguard.johanliebert.top AAAA ::
 adguard.kantinyoyok.xyz A 0.0.0.0
 *.adguard.kantinyoyok.xyz A 0.0.0.0
 adguard.kantinyoyok.xyz AAAA ::
@@ -553,10 +557,6 @@ bazooki-infra.dev A 0.0.0.0
 *.bazooki-infra.dev A 0.0.0.0
 bazooki-infra.dev AAAA ::
 *.bazooki-infra.dev AAAA ::
-bestwon203.com A 0.0.0.0
-*.bestwon203.com A 0.0.0.0
-bestwon203.com AAAA ::
-*.bestwon203.com AAAA ::
 b.family.ns.dnslify.com A 0.0.0.0
 *.b.family.ns.dnslify.com A 0.0.0.0
 b.family.ns.dnslify.com AAAA ::
@@ -853,10 +853,6 @@ dns01.flm9.net A 0.0.0.0
 *.dns01.flm9.net A 0.0.0.0
 dns01.flm9.net AAAA ::
 *.dns01.flm9.net AAAA ::
-dns0.eu A 0.0.0.0
-*.dns0.eu A 0.0.0.0
-dns0.eu AAAA ::
-*.dns0.eu AAAA ::
 dns.0ooo.icu A 0.0.0.0
 *.dns.0ooo.icu A 0.0.0.0
 dns.0ooo.icu AAAA ::
@@ -2721,10 +2717,6 @@ dns-tls.bitwiseshift.net A 0.0.0.0
 *.dns-tls.bitwiseshift.net A 0.0.0.0
 dns-tls.bitwiseshift.net AAAA ::
 *.dns-tls.bitwiseshift.net AAAA ::
-dns-tls.bitwiseshift.netfirefox.dns.nextdns.io A 0.0.0.0
-*.dns-tls.bitwiseshift.netfirefox.dns.nextdns.io A 0.0.0.0
-dns-tls.bitwiseshift.netfirefox.dns.nextdns.io AAAA ::
-*.dns-tls.bitwiseshift.netfirefox.dns.nextdns.io AAAA ::
 dns.tls-data.de A 0.0.0.0
 *.dns.tls-data.de A 0.0.0.0
 dns.tls-data.de AAAA ::
@@ -3105,10 +3097,10 @@ doh.denypradana.com A 0.0.0.0
 *.doh.denypradana.com A 0.0.0.0
 doh.denypradana.com AAAA ::
 *.doh.denypradana.com AAAA ::
-doh-diludns.dk A 0.0.0.0
-*.doh-diludns.dk A 0.0.0.0
-doh-diludns.dk AAAA ::
-*.doh-diludns.dk AAAA ::
+doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr A 0.0.0.0
+*.doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr A 0.0.0.0
+doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr AAAA ::
+*.doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr AAAA ::
 doh.disconnect.app A 0.0.0.0
 *.doh.disconnect.app A 0.0.0.0
 doh.disconnect.app AAAA ::
@@ -5401,10 +5393,6 @@ timmes.nl A 0.0.0.0
 *.timmes.nl A 0.0.0.0
 timmes.nl AAAA ::
 *.timmes.nl AAAA ::
-tion-to-upstreams-adguardhome.nicolas-dorriere.fr A 0.0.0.0
-*.tion-to-upstreams-adguardhome.nicolas-dorriere.fr A 0.0.0.0
-tion-to-upstreams-adguardhome.nicolas-dorriere.fr AAAA ::
-*.tion-to-upstreams-adguardhome.nicolas-dorriere.fr AAAA ::
 tj.jamesxue.xyz A 0.0.0.0
 *.tj.jamesxue.xyz A 0.0.0.0
 tj.jamesxue.xyz AAAA ::
@@ -5517,10 +5505,6 @@ unfiltered.joindns4.eu A 0.0.0.0
 *.unfiltered.joindns4.eu A 0.0.0.0
 unfiltered.joindns4.eu AAAA ::
 *.unfiltered.joindns4.eu AAAA ::
-unicast.censurfri A 0.0.0.0
-*.unicast.censurfri A 0.0.0.0
-unicast.censurfri AAAA ::
-*.unicast.censurfri AAAA ::
 unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::

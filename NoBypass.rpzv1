@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2610081026 ; Serial Number
+ 2610090523 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -119,6 +119,8 @@ adguard.ihatemy.live CNAME .
 *.adguard.ihatemy.live CNAME .
 adguard.jfchenier.ca CNAME .
 *.adguard.jfchenier.ca CNAME .
+adguard.johanliebert.top CNAME .
+*.adguard.johanliebert.top CNAME .
 adguard.kantinyoyok.xyz CNAME .
 *.adguard.kantinyoyok.xyz CNAME .
 adguard-kartoffel.zernico.de CNAME .
@@ -281,8 +283,6 @@ basic.rethinkdns.com CNAME .
 *.basic.rethinkdns.com CNAME .
 bazooki-infra.dev CNAME .
 *.bazooki-infra.dev CNAME .
-bestwon203.com CNAME .
-*.bestwon203.com CNAME .
 b.family.ns.dnslify.com CNAME .
 *.b.family.ns.dnslify.com CNAME .
 b-ii.com CNAME .
@@ -431,8 +431,6 @@ dfw02.dnscry.pt CNAME .
 *.dfw02.dnscry.pt CNAME .
 dns01.flm9.net CNAME .
 *.dns01.flm9.net CNAME .
-dns0.eu CNAME .
-*.dns0.eu CNAME .
 dns.0ooo.icu CNAME .
 *.dns.0ooo.icu CNAME .
 dns10.quad9.net CNAME .
@@ -1365,8 +1363,6 @@ dns.tipsy.coffee CNAME .
 *.dns.tipsy.coffee CNAME .
 dns-tls.bitwiseshift.net CNAME .
 *.dns-tls.bitwiseshift.net CNAME .
-dns-tls.bitwiseshift.netfirefox.dns.nextdns.io CNAME .
-*.dns-tls.bitwiseshift.netfirefox.dns.nextdns.io CNAME .
 dns.tls-data.de CNAME .
 *.dns.tls-data.de CNAME .
 dnstls.mobik.com CNAME .
@@ -1557,8 +1553,8 @@ doh.defaultroutes.de CNAME .
 *.doh.defaultroutes.de CNAME .
 doh.denypradana.com CNAME .
 *.doh.denypradana.com CNAME .
-doh-diludns.dk CNAME .
-*.doh-diludns.dk CNAME .
+doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr CNAME .
+*.doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr CNAME .
 doh.disconnect.app CNAME .
 *.doh.disconnect.app CNAME .
 doh.dns4all.eu CNAME .
@@ -2705,8 +2701,6 @@ timedns.net CNAME .
 *.timedns.net CNAME .
 timmes.nl CNAME .
 *.timmes.nl CNAME .
-tion-to-upstreams-adguardhome.nicolas-dorriere.fr CNAME .
-*.tion-to-upstreams-adguardhome.nicolas-dorriere.fr CNAME .
 tj.jamesxue.xyz CNAME .
 *.tj.jamesxue.xyz CNAME .
 tk31z.com CNAME .
@@ -2763,8 +2757,6 @@ unfiltered.adguard-dns.com CNAME .
 *.unfiltered.adguard-dns.com CNAME .
 unfiltered.joindns4.eu CNAME .
 *.unfiltered.joindns4.eu CNAME .
-unicast.censurfri CNAME .
-*.unicast.censurfri CNAME .
 unicast.censurfridns.dk CNAME .
 *.unicast.censurfridns.dk CNAME .
 unicast.uncensoreddns.org CNAME .
