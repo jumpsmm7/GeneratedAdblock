@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2610090523 ; Serial Number
+ 2610092351 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -23,6 +23,8 @@ $ORIGIN nobypass.rpz.
 *.1dot1dot1dot1.cloudflare-dns.com CNAME .
 2.dns.noridev.moe CNAME .
 *.2.dns.noridev.moe CNAME .
+3dcosas.xyz CNAME .
+*.3dcosas.xyz CNAME .
 3dns.eu CNAME .
 *.3dns.eu CNAME .
 3jjxxl.tech CNAME .
@@ -779,8 +781,6 @@ dns.dotnet.win CNAME .
 *.dns.dotnet.win CNAME .
 dns.dremaxx.de CNAME .
 *.dns.dremaxx.de CNAME .
-dns.dyn1.de CNAME .
-*.dns.dyn1.de CNAME .
 dns.dynx.pro CNAME .
 *.dns.dynx.pro CNAME .
 dns.east.comss.one CNAME .
@@ -1981,8 +1981,6 @@ goose.buckyfan.net CNAME .
 *.goose.buckyfan.net CNAME .
 greatideasforlife.lol CNAME .
 *.greatideasforlife.lol CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 gva01.dnscry.pt CNAME .
 *.gva01.dnscry.pt CNAME .
 gztech.me CNAME .
@@ -2711,6 +2709,8 @@ tll01.dnscry.pt CNAME .
 *.tll01.dnscry.pt CNAME .
 tls-dns-u.odvr.dns-oarc.net CNAME .
 *.tls-dns-u.odvr.dns-oarc.net CNAME .
+tlz.asia CNAME .
+*.tlz.asia CNAME .
 tor.cloudflare-dns.com CNAME .
 *.tor.cloudflare-dns.com CNAME .
 tor.vasi.li CNAME .

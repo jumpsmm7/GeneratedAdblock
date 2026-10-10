@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2610090523 ; Serial Number
+ 2610092351 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -37,6 +37,10 @@ $ORIGIN nobypass.rpz.
 *.2.dns.noridev.moe A 0.0.0.0
 2.dns.noridev.moe AAAA ::
 *.2.dns.noridev.moe AAAA ::
+3dcosas.xyz A 0.0.0.0
+*.3dcosas.xyz A 0.0.0.0
+3dcosas.xyz AAAA ::
+*.3dcosas.xyz AAAA ::
 3dns.eu A 0.0.0.0
 *.3dns.eu A 0.0.0.0
 3dns.eu AAAA ::
@@ -1549,10 +1553,6 @@ dns.dremaxx.de A 0.0.0.0
 *.dns.dremaxx.de A 0.0.0.0
 dns.dremaxx.de AAAA ::
 *.dns.dremaxx.de AAAA ::
-dns.dyn1.de A 0.0.0.0
-*.dns.dyn1.de A 0.0.0.0
-dns.dyn1.de AAAA ::
-*.dns.dyn1.de AAAA ::
 dns.dynx.pro A 0.0.0.0
 *.dns.dynx.pro A 0.0.0.0
 dns.dynx.pro AAAA ::
@@ -3953,10 +3953,6 @@ greatideasforlife.lol A 0.0.0.0
 *.greatideasforlife.lol A 0.0.0.0
 greatideasforlife.lol AAAA ::
 *.greatideasforlife.lol AAAA ::
-gustamadh.dynv6.net A 0.0.0.0
-*.gustamadh.dynv6.net A 0.0.0.0
-gustamadh.dynv6.net AAAA ::
-*.gustamadh.dynv6.net AAAA ::
 gva01.dnscry.pt A 0.0.0.0
 *.gva01.dnscry.pt A 0.0.0.0
 gva01.dnscry.pt AAAA ::
@@ -5413,6 +5409,10 @@ tls-dns-u.odvr.dns-oarc.net A 0.0.0.0
 *.tls-dns-u.odvr.dns-oarc.net A 0.0.0.0
 tls-dns-u.odvr.dns-oarc.net AAAA ::
 *.tls-dns-u.odvr.dns-oarc.net AAAA ::
+tlz.asia A 0.0.0.0
+*.tlz.asia A 0.0.0.0
+tlz.asia AAAA ::
+*.tlz.asia AAAA ::
 tor.cloudflare-dns.com A 0.0.0.0
 *.tor.cloudflare-dns.com A 0.0.0.0
 tor.cloudflare-dns.com AAAA ::
