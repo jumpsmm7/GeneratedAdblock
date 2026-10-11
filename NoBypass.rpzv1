@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2610092351 ; Serial Number
+ 2610102350 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -23,8 +23,6 @@ $ORIGIN nobypass.rpz.
 *.1dot1dot1dot1.cloudflare-dns.com CNAME .
 2.dns.noridev.moe CNAME .
 *.2.dns.noridev.moe CNAME .
-3dcosas.xyz CNAME .
-*.3dcosas.xyz CNAME .
 3dns.eu CNAME .
 *.3dns.eu CNAME .
 3jjxxl.tech CNAME .
@@ -121,8 +119,6 @@ adguard.ihatemy.live CNAME .
 *.adguard.ihatemy.live CNAME .
 adguard.jfchenier.ca CNAME .
 *.adguard.jfchenier.ca CNAME .
-adguard.johanliebert.top CNAME .
-*.adguard.johanliebert.top CNAME .
 adguard.kantinyoyok.xyz CNAME .
 *.adguard.kantinyoyok.xyz CNAME .
 adguard-kartoffel.zernico.de CNAME .
@@ -285,6 +281,8 @@ basic.rethinkdns.com CNAME .
 *.basic.rethinkdns.com CNAME .
 bazooki-infra.dev CNAME .
 *.bazooki-infra.dev CNAME .
+bestwon203.com CNAME .
+*.bestwon203.com CNAME .
 b.family.ns.dnslify.com CNAME .
 *.b.family.ns.dnslify.com CNAME .
 b-ii.com CNAME .
@@ -329,8 +327,6 @@ ca-yyc.doh.sb CNAME .
 *.ca-yyc.doh.sb CNAME .
 c.cicitt.ch CNAME .
 *.c.cicitt.ch CNAME .
-cdn.0ms.dev CNAME .
-*.cdn.0ms.dev CNAME .
 cfdjb.org CNAME .
 *.cfdjb.org CNAME .
 chaos-system.de CNAME .
@@ -781,6 +777,8 @@ dns.dotnet.win CNAME .
 *.dns.dotnet.win CNAME .
 dns.dremaxx.de CNAME .
 *.dns.dremaxx.de CNAME .
+dns.dyn1.de CNAME .
+*.dns.dyn1.de CNAME .
 dns.dynx.pro CNAME .
 *.dns.dynx.pro CNAME .
 dns.east.comss.one CNAME .
@@ -1161,6 +1159,8 @@ dns.ofdoom.net CNAME .
 *.dns.ofdoom.net CNAME .
 dns.oliviertv.co.za CNAME .
 *.dns.oliviertv.co.za CNAME .
+dns.olpploiopkuyhiopsfrt.info CNAME .
+*.dns.olpploiopkuyhiopsfrt.info CNAME .
 dns.omada.cafe CNAME .
 *.dns.omada.cafe CNAME .
 dns.opendns.com CNAME .
@@ -1409,8 +1409,6 @@ dnsvps.familiamv.net CNAME .
 *.dnsvps.familiamv.net CNAME .
 dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
-dns.wahr.top CNAME .
-*.dns.wahr.top CNAME .
 dns.wang.art CNAME .
 *.dns.wang.art CNAME .
 dns.wargan.io CNAME .
@@ -1847,8 +1845,6 @@ ea-dns.rubyfish.cn CNAME .
 *.ea-dns.rubyfish.cn CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-edgy-dns.com CNAME .
-*.edgy-dns.com CNAME .
 edns.233py.com CNAME .
 *.edns.233py.com CNAME .
 ee-tll.doh.sb CNAME .
@@ -2709,8 +2705,6 @@ tll01.dnscry.pt CNAME .
 *.tll01.dnscry.pt CNAME .
 tls-dns-u.odvr.dns-oarc.net CNAME .
 *.tls-dns-u.odvr.dns-oarc.net CNAME .
-tlz.asia CNAME .
-*.tlz.asia CNAME .
 tor.cloudflare-dns.com CNAME .
 *.tor.cloudflare-dns.com CNAME .
 tor.vasi.li CNAME .
@@ -2737,8 +2731,6 @@ tujenasnaszato.xyz CNAME .
 *.tujenasnaszato.xyz CNAME .
 tungdnsne.duckdns.org CNAME .
 *.tungdnsne.duckdns.org CNAME .
-tuskythehusky.tech CNAME .
-*.tuskythehusky.tech CNAME .
 tyo01.dnscry.pt CNAME .
 *.tyo01.dnscry.pt CNAME .
 tyo02.dnscry.pt CNAME .

@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2610092351 ; Serial Number
+ 2610102351 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -37,10 +37,6 @@ $ORIGIN nobypass.rpz.
 *.2.dns.noridev.moe A 0.0.0.0
 2.dns.noridev.moe AAAA ::
 *.2.dns.noridev.moe AAAA ::
-3dcosas.xyz A 0.0.0.0
-*.3dcosas.xyz A 0.0.0.0
-3dcosas.xyz AAAA ::
-*.3dcosas.xyz AAAA ::
 3dns.eu A 0.0.0.0
 *.3dns.eu A 0.0.0.0
 3dns.eu AAAA ::
@@ -233,10 +229,6 @@ adguard.jfchenier.ca A 0.0.0.0
 *.adguard.jfchenier.ca A 0.0.0.0
 adguard.jfchenier.ca AAAA ::
 *.adguard.jfchenier.ca AAAA ::
-adguard.johanliebert.top A 0.0.0.0
-*.adguard.johanliebert.top A 0.0.0.0
-adguard.johanliebert.top AAAA ::
-*.adguard.johanliebert.top AAAA ::
 adguard.kantinyoyok.xyz A 0.0.0.0
 *.adguard.kantinyoyok.xyz A 0.0.0.0
 adguard.kantinyoyok.xyz AAAA ::
@@ -561,6 +553,10 @@ bazooki-infra.dev A 0.0.0.0
 *.bazooki-infra.dev A 0.0.0.0
 bazooki-infra.dev AAAA ::
 *.bazooki-infra.dev AAAA ::
+bestwon203.com A 0.0.0.0
+*.bestwon203.com A 0.0.0.0
+bestwon203.com AAAA ::
+*.bestwon203.com AAAA ::
 b.family.ns.dnslify.com A 0.0.0.0
 *.b.family.ns.dnslify.com A 0.0.0.0
 b.family.ns.dnslify.com AAAA ::
@@ -649,10 +645,6 @@ c.cicitt.ch A 0.0.0.0
 *.c.cicitt.ch A 0.0.0.0
 c.cicitt.ch AAAA ::
 *.c.cicitt.ch AAAA ::
-cdn.0ms.dev A 0.0.0.0
-*.cdn.0ms.dev A 0.0.0.0
-cdn.0ms.dev AAAA ::
-*.cdn.0ms.dev AAAA ::
 cfdjb.org A 0.0.0.0
 *.cfdjb.org A 0.0.0.0
 cfdjb.org AAAA ::
@@ -1553,6 +1545,10 @@ dns.dremaxx.de A 0.0.0.0
 *.dns.dremaxx.de A 0.0.0.0
 dns.dremaxx.de AAAA ::
 *.dns.dremaxx.de AAAA ::
+dns.dyn1.de A 0.0.0.0
+*.dns.dyn1.de A 0.0.0.0
+dns.dyn1.de AAAA ::
+*.dns.dyn1.de AAAA ::
 dns.dynx.pro A 0.0.0.0
 *.dns.dynx.pro A 0.0.0.0
 dns.dynx.pro AAAA ::
@@ -2313,6 +2309,10 @@ dns.oliviertv.co.za A 0.0.0.0
 *.dns.oliviertv.co.za A 0.0.0.0
 dns.oliviertv.co.za AAAA ::
 *.dns.oliviertv.co.za AAAA ::
+dns.olpploiopkuyhiopsfrt.info A 0.0.0.0
+*.dns.olpploiopkuyhiopsfrt.info A 0.0.0.0
+dns.olpploiopkuyhiopsfrt.info AAAA ::
+*.dns.olpploiopkuyhiopsfrt.info AAAA ::
 dns.omada.cafe A 0.0.0.0
 *.dns.omada.cafe A 0.0.0.0
 dns.omada.cafe AAAA ::
@@ -2809,10 +2809,6 @@ dns.w3ctag.org A 0.0.0.0
 *.dns.w3ctag.org A 0.0.0.0
 dns.w3ctag.org AAAA ::
 *.dns.w3ctag.org AAAA ::
-dns.wahr.top A 0.0.0.0
-*.dns.wahr.top A 0.0.0.0
-dns.wahr.top AAAA ::
-*.dns.wahr.top AAAA ::
 dns.wang.art A 0.0.0.0
 *.dns.wang.art A 0.0.0.0
 dns.wang.art AAAA ::
@@ -3685,10 +3681,6 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-edgy-dns.com A 0.0.0.0
-*.edgy-dns.com A 0.0.0.0
-edgy-dns.com AAAA ::
-*.edgy-dns.com AAAA ::
 edns.233py.com A 0.0.0.0
 *.edns.233py.com A 0.0.0.0
 edns.233py.com AAAA ::
@@ -5409,10 +5401,6 @@ tls-dns-u.odvr.dns-oarc.net A 0.0.0.0
 *.tls-dns-u.odvr.dns-oarc.net A 0.0.0.0
 tls-dns-u.odvr.dns-oarc.net AAAA ::
 *.tls-dns-u.odvr.dns-oarc.net AAAA ::
-tlz.asia A 0.0.0.0
-*.tlz.asia A 0.0.0.0
-tlz.asia AAAA ::
-*.tlz.asia AAAA ::
 tor.cloudflare-dns.com A 0.0.0.0
 *.tor.cloudflare-dns.com A 0.0.0.0
 tor.cloudflare-dns.com AAAA ::
@@ -5465,10 +5453,6 @@ tungdnsne.duckdns.org A 0.0.0.0
 *.tungdnsne.duckdns.org A 0.0.0.0
 tungdnsne.duckdns.org AAAA ::
 *.tungdnsne.duckdns.org AAAA ::
-tuskythehusky.tech A 0.0.0.0
-*.tuskythehusky.tech A 0.0.0.0
-tuskythehusky.tech AAAA ::
-*.tuskythehusky.tech AAAA ::
 tyo01.dnscry.pt A 0.0.0.0
 *.tyo01.dnscry.pt A 0.0.0.0
 tyo01.dnscry.pt AAAA ::
