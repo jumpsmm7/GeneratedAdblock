@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2610102350 ; Serial Number
+ 2610112024 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -119,6 +119,8 @@ adguard.ihatemy.live CNAME .
 *.adguard.ihatemy.live CNAME .
 adguard.jfchenier.ca CNAME .
 *.adguard.jfchenier.ca CNAME .
+adguard.johanliebert.top CNAME .
+*.adguard.johanliebert.top CNAME .
 adguard.kantinyoyok.xyz CNAME .
 *.adguard.kantinyoyok.xyz CNAME .
 adguard-kartoffel.zernico.de CNAME .
@@ -137,6 +139,8 @@ adguard.marto.si CNAME .
 *.adguard.marto.si CNAME .
 adguard.meddy94.de CNAME .
 *.adguard.meddy94.de CNAME .
+adguard.neon0404.space CNAME .
+*.adguard.neon0404.space CNAME .
 adguard.onlyfriends.info CNAME .
 *.adguard.onlyfriends.info CNAME .
 adguard.pangerl.it CNAME .
@@ -881,6 +885,8 @@ dns.girino.org CNAME .
 *.dns.girino.org CNAME .
 dns.glf.wtf CNAME .
 *.dns.glf.wtf CNAME .
+dns.glorydns.com CNAME .
+*.dns.glorydns.com CNAME .
 dns.gnb09.id CNAME .
 *.dns.gnb09.id CNAME .
 dns.goldplate.org CNAME .
@@ -1015,8 +1021,8 @@ dns.kxy.ink CNAME .
 *.dns.kxy.ink CNAME .
 dns.l337.site CNAME .
 *.dns.l337.site CNAME .
-dns.labnekotest.site CNAME .
-*.dns.labnekotest.site CNAME .
+dns.labnekotest.dns.dk CNAME .
+*.dns.labnekotest.dns.dk CNAME .
 dns.lars-lehmann.net CNAME .
 *.dns.lars-lehmann.net CNAME .
 dns.lepilleur.com CNAME .
@@ -1281,8 +1287,8 @@ dnsse.alekberg.net CNAME .
 *.dnsse.alekberg.net CNAME .
 dns.sec511.com CNAME .
 *.dns.sec511.com CNAME .
-dns-secondary.cloudnx.cloud CNAME .
-*.dns-secondary.cloudnx.cloud CNAME .
+dns-secondary.clfirefox.dns.nextdns.io CNAME .
+*.dns-secondary.clfirefox.dns.nextdns.io CNAME .
 dns.sellan.fr CNAME .
 *.dns.sellan.fr CNAME .
 dns.sev.monster CNAME .
@@ -1845,6 +1851,8 @@ ea-dns.rubyfish.cn CNAME .
 *.ea-dns.rubyfish.cn CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
+edgy-dns.com CNAME .
+*.edgy-dns.com CNAME .
 edns.233py.com CNAME .
 *.edns.233py.com CNAME .
 ee-tll.doh.sb CNAME .
@@ -2683,6 +2691,8 @@ takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
 tbs01.dnscry.pt CNAME .
 *.tbs01.dnscry.pt CNAME .
+tecdrive.site CNAME .
+*.tecdrive.site CNAME .
 testaghome.meshkov.info CNAME .
 *.testaghome.meshkov.info CNAME .
 testguard.meexx.de CNAME .
@@ -2731,6 +2741,8 @@ tujenasnaszato.xyz CNAME .
 *.tujenasnaszato.xyz CNAME .
 tungdnsne.duckdns.org CNAME .
 *.tungdnsne.duckdns.org CNAME .
+tuskythehusky.tech CNAME .
+*.tuskythehusky.tech CNAME .
 tyo01.dnscry.pt CNAME .
 *.tyo01.dnscry.pt CNAME .
 tyo02.dnscry.pt CNAME .
@@ -2751,6 +2763,8 @@ unfiltered.joindns4.eu CNAME .
 *.unfiltered.joindns4.eu CNAME .
 unicast.censurfridns.dk CNAME .
 *.unicast.censurfridns.dk CNAME .
+unicast.censurfrioudnx.cloud CNAME .
+*.unicast.censurfrioudnx.cloud CNAME .
 unicast.uncensoreddns.org CNAME .
 *.unicast.uncensoreddns.org CNAME .
 united-arab-emirates.privacy-dns.pw CNAME .
