@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2610112024 ; Serial Number
+ 2610121751 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -107,8 +107,6 @@ adguard.ef67daisuki.club CNAME .
 *.adguard.ef67daisuki.club CNAME .
 adguard.gambini.org CNAME .
 *.adguard.gambini.org CNAME .
-adguard.gbrossi.com.br CNAME .
-*.adguard.gbrossi.com.br CNAME .
 adguard.haneulo.com CNAME .
 *.adguard.haneulo.com CNAME .
 adguard.hartley.cloud CNAME .
@@ -119,8 +117,6 @@ adguard.ihatemy.live CNAME .
 *.adguard.ihatemy.live CNAME .
 adguard.jfchenier.ca CNAME .
 *.adguard.jfchenier.ca CNAME .
-adguard.johanliebert.top CNAME .
-*.adguard.johanliebert.top CNAME .
 adguard.kantinyoyok.xyz CNAME .
 *.adguard.kantinyoyok.xyz CNAME .
 adguard-kartoffel.zernico.de CNAME .
@@ -329,6 +325,8 @@ catdns.org CNAME .
 *.catdns.org CNAME .
 ca-yyc.doh.sb CNAME .
 *.ca-yyc.doh.sb CNAME .
+ca-yyz.doh.sb CNAME .
+*.ca-yyz.doh.sb CNAME .
 c.cicitt.ch CNAME .
 *.c.cicitt.ch CNAME .
 cfdjb.org CNAME .
@@ -407,6 +405,8 @@ darya.persiannit.net CNAME .
 *.darya.persiannit.net CNAME .
 de01.dns4me.net CNAME .
 *.de01.dns4me.net CNAME .
+de-ber.doh.sb CNAME .
+*.de-ber.doh.sb CNAME .
 de.dns.privex.io CNAME .
 *.de.dns.privex.io CNAME .
 de-dus.doh.sb CNAME .
@@ -1021,8 +1021,8 @@ dns.kxy.ink CNAME .
 *.dns.kxy.ink CNAME .
 dns.l337.site CNAME .
 *.dns.l337.site CNAME .
-dns.labnekotest.dns.dk CNAME .
-*.dns.labnekotest.dns.dk CNAME .
+dns.labnekotest.site CNAME .
+*.dns.labnekotest.site CNAME .
 dns.lars-lehmann.net CNAME .
 *.dns.lars-lehmann.net CNAME .
 dns.lepilleur.com CNAME .
@@ -1035,8 +1035,6 @@ dns.lgprk.com CNAME .
 *.dns.lgprk.com CNAME .
 dns.liberador.net CNAME .
 *.dns.liberador.net CNAME .
-dns.lihj.me CNAME .
-*.dns.lihj.me CNAME .
 dns.lista.my.id CNAME .
 *.dns.lista.my.id CNAME .
 dns.listo.click CNAME .
@@ -1287,8 +1285,8 @@ dnsse.alekberg.net CNAME .
 *.dnsse.alekberg.net CNAME .
 dns.sec511.com CNAME .
 *.dns.sec511.com CNAME .
-dns-secondary.clfirefox.dns.nextdns.io CNAME .
-*.dns-secondary.clfirefox.dns.nextdns.io CNAME .
+dns-secondary.cloudnx.cloud CNAME .
+*.dns-secondary.cloudnx.cloud CNAME .
 dns.sellan.fr CNAME .
 *.dns.sellan.fr CNAME .
 dns.sev.monster CNAME .
@@ -1851,8 +1849,6 @@ ea-dns.rubyfish.cn CNAME .
 *.ea-dns.rubyfish.cn CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
 *.echoe1yidzu4ioo5.myfritz.net CNAME .
-edgy-dns.com CNAME .
-*.edgy-dns.com CNAME .
 edns.233py.com CNAME .
 *.edns.233py.com CNAME .
 ee-tll.doh.sb CNAME .
@@ -2691,8 +2687,6 @@ takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
 tbs01.dnscry.pt CNAME .
 *.tbs01.dnscry.pt CNAME .
-tecdrive.site CNAME .
-*.tecdrive.site CNAME .
 testaghome.meshkov.info CNAME .
 *.testaghome.meshkov.info CNAME .
 testguard.meexx.de CNAME .
@@ -2741,8 +2735,6 @@ tujenasnaszato.xyz CNAME .
 *.tujenasnaszato.xyz CNAME .
 tungdnsne.duckdns.org CNAME .
 *.tungdnsne.duckdns.org CNAME .
-tuskythehusky.tech CNAME .
-*.tuskythehusky.tech CNAME .
 tyo01.dnscry.pt CNAME .
 *.tyo01.dnscry.pt CNAME .
 tyo02.dnscry.pt CNAME .
@@ -2763,8 +2755,6 @@ unfiltered.joindns4.eu CNAME .
 *.unfiltered.joindns4.eu CNAME .
 unicast.censurfridns.dk CNAME .
 *.unicast.censurfridns.dk CNAME .
-unicast.censurfrioudnx.cloud CNAME .
-*.unicast.censurfrioudnx.cloud CNAME .
 unicast.uncensoreddns.org CNAME .
 *.unicast.uncensoreddns.org CNAME .
 united-arab-emirates.privacy-dns.pw CNAME .
@@ -2779,6 +2769,8 @@ us1.blissdns.net CNAME .
 *.us1.blissdns.net CNAME .
 us1.dns.lavate.ch CNAME .
 *.us1.dns.lavate.ch CNAME .
+us-chi.doh.sb CNAME .
+*.us-chi.doh.sb CNAME .
 us-chi-w-f-1.nashkan.net CNAME .
 *.us-chi-w-f-1.nashkan.net CNAME .
 us-chi-w-p-1.nashkan.net CNAME .
@@ -2799,6 +2791,8 @@ us-kan-w-f-1.nashkan.net CNAME .
 *.us-kan-w-f-1.nashkan.net CNAME .
 us-kan-w-p-1.nashkan.net CNAME .
 *.us-kan-w-p-1.nashkan.net CNAME .
+us-nyc.doh.sb CNAME .
+*.us-nyc.doh.sb CNAME .
 us-nyc-w-f-1.nashkan.net CNAME .
 *.us-nyc-w-f-1.nashkan.net CNAME .
 us-nyc-w-p-1.nashkan.net CNAME .
@@ -2807,6 +2801,8 @@ us-saj-w-f-1.nashkan.net CNAME .
 *.us-saj-w-f-1.nashkan.net CNAME .
 us-saj-w-p-1.nashkan.net CNAME .
 *.us-saj-w-p-1.nashkan.net CNAME .
+us-sjc.doh.sb CNAME .
+*.us-sjc.doh.sb CNAME .
 us-sj.foxyfy.net CNAME .
 *.us-sj.foxyfy.net CNAME .
 uw-dns.rubyfish.cn CNAME .

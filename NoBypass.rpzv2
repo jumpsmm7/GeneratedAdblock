@@ -1,7 +1,7 @@
 $TTL 30
 $ORIGIN nobypass.rpz.
 @ IN SOA localhost hostmaster.nobypass.rpz. (
- 2610112024 ; Serial Number
+ 2610121751 ; Serial Number
  300 ; Refresh Period
  1800 ; Retry Period
  604800 ; Expire Time
@@ -205,10 +205,6 @@ adguard.gambini.org A 0.0.0.0
 *.adguard.gambini.org A 0.0.0.0
 adguard.gambini.org AAAA ::
 *.adguard.gambini.org AAAA ::
-adguard.gbrossi.com.br A 0.0.0.0
-*.adguard.gbrossi.com.br A 0.0.0.0
-adguard.gbrossi.com.br AAAA ::
-*.adguard.gbrossi.com.br AAAA ::
 adguard.haneulo.com A 0.0.0.0
 *.adguard.haneulo.com A 0.0.0.0
 adguard.haneulo.com AAAA ::
@@ -229,10 +225,6 @@ adguard.jfchenier.ca A 0.0.0.0
 *.adguard.jfchenier.ca A 0.0.0.0
 adguard.jfchenier.ca AAAA ::
 *.adguard.jfchenier.ca AAAA ::
-adguard.johanliebert.top A 0.0.0.0
-*.adguard.johanliebert.top A 0.0.0.0
-adguard.johanliebert.top AAAA ::
-*.adguard.johanliebert.top AAAA ::
 adguard.kantinyoyok.xyz A 0.0.0.0
 *.adguard.kantinyoyok.xyz A 0.0.0.0
 adguard.kantinyoyok.xyz AAAA ::
@@ -649,6 +641,10 @@ ca-yyc.doh.sb A 0.0.0.0
 *.ca-yyc.doh.sb A 0.0.0.0
 ca-yyc.doh.sb AAAA ::
 *.ca-yyc.doh.sb AAAA ::
+ca-yyz.doh.sb A 0.0.0.0
+*.ca-yyz.doh.sb A 0.0.0.0
+ca-yyz.doh.sb AAAA ::
+*.ca-yyz.doh.sb AAAA ::
 c.cicitt.ch A 0.0.0.0
 *.c.cicitt.ch A 0.0.0.0
 c.cicitt.ch AAAA ::
@@ -805,6 +801,10 @@ de01.dns4me.net A 0.0.0.0
 *.de01.dns4me.net A 0.0.0.0
 de01.dns4me.net AAAA ::
 *.de01.dns4me.net AAAA ::
+de-ber.doh.sb A 0.0.0.0
+*.de-ber.doh.sb A 0.0.0.0
+de-ber.doh.sb AAAA ::
+*.de-ber.doh.sb AAAA ::
 de.dns.privex.io A 0.0.0.0
 *.de.dns.privex.io A 0.0.0.0
 de.dns.privex.io AAAA ::
@@ -2033,10 +2033,10 @@ dns.l337.site A 0.0.0.0
 *.dns.l337.site A 0.0.0.0
 dns.l337.site AAAA ::
 *.dns.l337.site AAAA ::
-dns.labnekotest.dns.dk A 0.0.0.0
-*.dns.labnekotest.dns.dk A 0.0.0.0
-dns.labnekotest.dns.dk AAAA ::
-*.dns.labnekotest.dns.dk AAAA ::
+dns.labnekotest.site A 0.0.0.0
+*.dns.labnekotest.site A 0.0.0.0
+dns.labnekotest.site AAAA ::
+*.dns.labnekotest.site AAAA ::
 dns.lars-lehmann.net A 0.0.0.0
 *.dns.lars-lehmann.net A 0.0.0.0
 dns.lars-lehmann.net AAAA ::
@@ -2061,10 +2061,6 @@ dns.liberador.net A 0.0.0.0
 *.dns.liberador.net A 0.0.0.0
 dns.liberador.net AAAA ::
 *.dns.liberador.net AAAA ::
-dns.lihj.me A 0.0.0.0
-*.dns.lihj.me A 0.0.0.0
-dns.lihj.me AAAA ::
-*.dns.lihj.me AAAA ::
 dns.lista.my.id A 0.0.0.0
 *.dns.lista.my.id A 0.0.0.0
 dns.lista.my.id AAAA ::
@@ -2565,10 +2561,10 @@ dns.sec511.com A 0.0.0.0
 *.dns.sec511.com A 0.0.0.0
 dns.sec511.com AAAA ::
 *.dns.sec511.com AAAA ::
-dns-secondary.clfirefox.dns.nextdns.io A 0.0.0.0
-*.dns-secondary.clfirefox.dns.nextdns.io A 0.0.0.0
-dns-secondary.clfirefox.dns.nextdns.io AAAA ::
-*.dns-secondary.clfirefox.dns.nextdns.io AAAA ::
+dns-secondary.cloudnx.cloud A 0.0.0.0
+*.dns-secondary.cloudnx.cloud A 0.0.0.0
+dns-secondary.cloudnx.cloud AAAA ::
+*.dns-secondary.cloudnx.cloud AAAA ::
 dns.sellan.fr A 0.0.0.0
 *.dns.sellan.fr A 0.0.0.0
 dns.sellan.fr AAAA ::
@@ -3693,10 +3689,6 @@ echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 *.echoe1yidzu4ioo5.myfritz.net A 0.0.0.0
 echoe1yidzu4ioo5.myfritz.net AAAA ::
 *.echoe1yidzu4ioo5.myfritz.net AAAA ::
-edgy-dns.com A 0.0.0.0
-*.edgy-dns.com A 0.0.0.0
-edgy-dns.com AAAA ::
-*.edgy-dns.com AAAA ::
 edns.233py.com A 0.0.0.0
 *.edns.233py.com A 0.0.0.0
 edns.233py.com AAAA ::
@@ -5373,10 +5365,6 @@ tbs01.dnscry.pt A 0.0.0.0
 *.tbs01.dnscry.pt A 0.0.0.0
 tbs01.dnscry.pt AAAA ::
 *.tbs01.dnscry.pt AAAA ::
-tecdrive.site A 0.0.0.0
-*.tecdrive.site A 0.0.0.0
-tecdrive.site AAAA ::
-*.tecdrive.site AAAA ::
 testaghome.meshkov.info A 0.0.0.0
 *.testaghome.meshkov.info A 0.0.0.0
 testaghome.meshkov.info AAAA ::
@@ -5473,10 +5461,6 @@ tungdnsne.duckdns.org A 0.0.0.0
 *.tungdnsne.duckdns.org A 0.0.0.0
 tungdnsne.duckdns.org AAAA ::
 *.tungdnsne.duckdns.org AAAA ::
-tuskythehusky.tech A 0.0.0.0
-*.tuskythehusky.tech A 0.0.0.0
-tuskythehusky.tech AAAA ::
-*.tuskythehusky.tech AAAA ::
 tyo01.dnscry.pt A 0.0.0.0
 *.tyo01.dnscry.pt A 0.0.0.0
 tyo01.dnscry.pt AAAA ::
@@ -5517,10 +5501,6 @@ unicast.censurfridns.dk A 0.0.0.0
 *.unicast.censurfridns.dk A 0.0.0.0
 unicast.censurfridns.dk AAAA ::
 *.unicast.censurfridns.dk AAAA ::
-unicast.censurfrioudnx.cloud A 0.0.0.0
-*.unicast.censurfrioudnx.cloud A 0.0.0.0
-unicast.censurfrioudnx.cloud AAAA ::
-*.unicast.censurfrioudnx.cloud AAAA ::
 unicast.uncensoreddns.org A 0.0.0.0
 *.unicast.uncensoreddns.org A 0.0.0.0
 unicast.uncensoreddns.org AAAA ::
@@ -5549,6 +5529,10 @@ us1.dns.lavate.ch A 0.0.0.0
 *.us1.dns.lavate.ch A 0.0.0.0
 us1.dns.lavate.ch AAAA ::
 *.us1.dns.lavate.ch AAAA ::
+us-chi.doh.sb A 0.0.0.0
+*.us-chi.doh.sb A 0.0.0.0
+us-chi.doh.sb AAAA ::
+*.us-chi.doh.sb AAAA ::
 us-chi-w-f-1.nashkan.net A 0.0.0.0
 *.us-chi-w-f-1.nashkan.net A 0.0.0.0
 us-chi-w-f-1.nashkan.net AAAA ::
@@ -5589,6 +5573,10 @@ us-kan-w-p-1.nashkan.net A 0.0.0.0
 *.us-kan-w-p-1.nashkan.net A 0.0.0.0
 us-kan-w-p-1.nashkan.net AAAA ::
 *.us-kan-w-p-1.nashkan.net AAAA ::
+us-nyc.doh.sb A 0.0.0.0
+*.us-nyc.doh.sb A 0.0.0.0
+us-nyc.doh.sb AAAA ::
+*.us-nyc.doh.sb AAAA ::
 us-nyc-w-f-1.nashkan.net A 0.0.0.0
 *.us-nyc-w-f-1.nashkan.net A 0.0.0.0
 us-nyc-w-f-1.nashkan.net AAAA ::
@@ -5605,6 +5593,10 @@ us-saj-w-p-1.nashkan.net A 0.0.0.0
 *.us-saj-w-p-1.nashkan.net A 0.0.0.0
 us-saj-w-p-1.nashkan.net AAAA ::
 *.us-saj-w-p-1.nashkan.net AAAA ::
+us-sjc.doh.sb A 0.0.0.0
+*.us-sjc.doh.sb A 0.0.0.0
+us-sjc.doh.sb AAAA ::
+*.us-sjc.doh.sb AAAA ::
 us-sj.foxyfy.net A 0.0.0.0
 *.us-sj.foxyfy.net A 0.0.0.0
 us-sj.foxyfy.net AAAA ::

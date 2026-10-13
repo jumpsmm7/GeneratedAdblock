@@ -48,13 +48,11 @@ local-zone: "adguard-dns.com" always_null
 local-zone: "adguard.easez.net" always_null
 local-zone: "adguard.ef67daisuki.club" always_null
 local-zone: "adguard.gambini.org" always_null
-local-zone: "adguard.gbrossi.com.br" always_null
 local-zone: "adguard.haneulo.com" always_null
 local-zone: "adguard.hartley.cloud" always_null
 local-zone: "adguardhome.atakorah.com" always_null
 local-zone: "adguard.ihatemy.live" always_null
 local-zone: "adguard.jfchenier.ca" always_null
-local-zone: "adguard.johanliebert.top" always_null
 local-zone: "adguard.kantinyoyok.xyz" always_null
 local-zone: "adguard-kartoffel.zernico.de" always_null
 local-zone: "adguard.kasbot.net" always_null
@@ -159,6 +157,7 @@ local-zone: "canadianshield.cira.ca" always_null
 local-zone: "catchen121299.top" always_null
 local-zone: "catdns.org" always_null
 local-zone: "ca-yyc.doh.sb" always_null
+local-zone: "ca-yyz.doh.sb" always_null
 local-zone: "c.cicitt.ch" always_null
 local-zone: "cfdjb.org" always_null
 local-zone: "chaos-system.de" always_null
@@ -198,6 +197,7 @@ local-zone: "darkness.is.my.waifu.cz" always_null
 local-zone: "dart.kpsn.org" always_null
 local-zone: "darya.persiannit.net" always_null
 local-zone: "de01.dns4me.net" always_null
+local-zone: "de-ber.doh.sb" always_null
 local-zone: "de.dns.privex.io" always_null
 local-zone: "de-dus.doh.sb" always_null
 local-zone: "deep-henchman-excuse.cfd" always_null
@@ -505,14 +505,13 @@ local-zone: "dns.kusoneko.moe" always_null
 local-zone: "dns.kuuhaku.moe" always_null
 local-zone: "dns.kxy.ink" always_null
 local-zone: "dns.l337.site" always_null
-local-zone: "dns.labnekotest.dns.dk" always_null
+local-zone: "dns.labnekotest.site" always_null
 local-zone: "dns.lars-lehmann.net" always_null
 local-zone: "dns.lepilleur.com" always_null
 local-zone: "dns.lermer.nl" always_null
 local-zone: "dns.levonet.sk" always_null
 local-zone: "dns.lgprk.com" always_null
 local-zone: "dns.liberador.net" always_null
-local-zone: "dns.lihj.me" always_null
 local-zone: "dns.lista.my.id" always_null
 local-zone: "dns.listo.click" always_null
 local-zone: "dns.lobbygod.com" always_null
@@ -638,7 +637,7 @@ local-zone: "dns.scott-smith.us" always_null
 local-zone: "dns.scuola.org" always_null
 local-zone: "dnsse.alekberg.net" always_null
 local-zone: "dns.sec511.com" always_null
-local-zone: "dns-secondary.clfirefox.dns.nextdns.io" always_null
+local-zone: "dns-secondary.cloudnx.cloud" always_null
 local-zone: "dns.sellan.fr" always_null
 local-zone: "dns.sev.monster" always_null
 local-zone: "dns.shareworx.net" always_null
@@ -920,7 +919,6 @@ local-zone: "dukun.de" always_null
 local-zone: "dus01.dnscry.pt" always_null
 local-zone: "ea-dns.rubyfish.cn" always_null
 local-zone: "echoe1yidzu4ioo5.myfritz.net" always_null
-local-zone: "edgy-dns.com" always_null
 local-zone: "edns.233py.com" always_null
 local-zone: "ee-tll.doh.sb" always_null
 local-zone: "eliatofani.ovh" always_null
@@ -1340,7 +1338,6 @@ local-zone: "syd02.dnscry.pt" always_null
 local-zone: "syd.adfilter.net" always_null
 local-zone: "takhtakh.domyah.net" always_null
 local-zone: "tbs01.dnscry.pt" always_null
-local-zone: "tecdrive.site" always_null
 local-zone: "testaghome.meshkov.info" always_null
 local-zone: "testguard.meexx.de" always_null
 local-zone: "tienpham.id.vn" always_null
@@ -1365,7 +1362,6 @@ local-zone: "ttag.dns.nomu.pw" always_null
 local-zone: "tuandns.duckdns.org" always_null
 local-zone: "tujenasnaszato.xyz" always_null
 local-zone: "tungdnsne.duckdns.org" always_null
-local-zone: "tuskythehusky.tech" always_null
 local-zone: "tyo01.dnscry.pt" always_null
 local-zone: "tyo02.dnscry.pt" always_null
 local-zone: "typaza.com" always_null
@@ -1376,7 +1372,6 @@ local-zone: "uncensored.freedns.controld.com" always_null
 local-zone: "unfiltered.adguard-dns.com" always_null
 local-zone: "unfiltered.joindns4.eu" always_null
 local-zone: "unicast.censurfridns.dk" always_null
-local-zone: "unicast.censurfrioudnx.cloud" always_null
 local-zone: "unicast.uncensoreddns.org" always_null
 local-zone: "united-arab-emirates.privacy-dns.pw" always_null
 local-zone: "urology.wiki" always_null
@@ -1384,6 +1379,7 @@ local-zone: "us01.dns4me.net" always_null
 local-zone: "us02.dns4me.net" always_null
 local-zone: "us1.blissdns.net" always_null
 local-zone: "us1.dns.lavate.ch" always_null
+local-zone: "us-chi.doh.sb" always_null
 local-zone: "us-chi-w-f-1.nashkan.net" always_null
 local-zone: "us-chi-w-p-1.nashkan.net" always_null
 local-zone: "us.doh.cloudveil.org" always_null
@@ -1394,10 +1390,12 @@ local-zone: "us-jac-w-f-1.nashkan.net" always_null
 local-zone: "us-jac-w-p-1.nashkan.net" always_null
 local-zone: "us-kan-w-f-1.nashkan.net" always_null
 local-zone: "us-kan-w-p-1.nashkan.net" always_null
+local-zone: "us-nyc.doh.sb" always_null
 local-zone: "us-nyc-w-f-1.nashkan.net" always_null
 local-zone: "us-nyc-w-p-1.nashkan.net" always_null
 local-zone: "us-saj-w-f-1.nashkan.net" always_null
 local-zone: "us-saj-w-p-1.nashkan.net" always_null
+local-zone: "us-sjc.doh.sb" always_null
 local-zone: "us-sj.foxyfy.net" always_null
 local-zone: "uw-dns.rubyfish.cn" always_null
 local-zone: "v0dka.ru" always_null
